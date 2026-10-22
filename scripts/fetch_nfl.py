@@ -14,7 +14,7 @@ import pandas as pd
 import requests
 
 sys.path.insert(0, str(Path(__file__).parent))
-from schema import NFL_COLS, PLAYER_COLS  # noqa: E402
+from schema import NFL_COLS, NFL_PARTS, PLAYER_COLS, write_parts  # noqa: E402
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 STATS_URL = ("https://github.com/nflverse/nflverse-data/releases/download/"
@@ -118,7 +118,7 @@ def main():
     games = get_csv(GAMES_URL)
     log = build([cur - 1, cur], games)
     DATA.mkdir(exist_ok=True)
-    log.to_csv(DATA / "nfl_gamelog.csv", index=False)
+    write_parts(log, DATA, "nfl_gamelog", NFL_PARTS)
 
     latest = (log.sort_values(["player", "date"])
                  .groupby("player").tail(1)[["player", "team", "pos"]]

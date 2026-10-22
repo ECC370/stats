@@ -22,7 +22,7 @@ import pandas as pd
 import requests
 
 sys.path.insert(0, str(Path(__file__).parent))
-from schema import NBA_COLS, PLAYER_COLS  # noqa: E402
+from schema import NBA_COLS, NBA_PARTS, PLAYER_COLS, write_parts  # noqa: E402
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 RAW = DATA / "nba_raw.csv"
@@ -240,7 +240,7 @@ def main():
         raise SystemExit("no NBA data found; ESPN may have blocked the request")
     raw.to_csv(RAW, index=False)
     log = build_log(raw)
-    log.to_csv(DATA / "nba_gamelog.csv", index=False)
+    write_parts(log, DATA, "nba_gamelog", NBA_PARTS)
     latest = (log.sort_values(["player", "date"]).groupby("player").tail(1))
     pos = raw.dropna(subset=["pos"]).drop_duplicates("player")[["player", "pos"]]
     players = latest[["player", "team"]].merge(pos, on="player", how="left")

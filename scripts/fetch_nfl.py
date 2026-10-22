@@ -196,6 +196,16 @@ def nfl_extras(log, games, cur, today):
     # coming games
     wkgames = up[up.week == up.week.min()] if len(up) else up
     gdict, glist, rest = {}, [], {}
+    # sort the injury list by kickoff, then team, then how serious the status is
+    order = {}
+    for i, g in enumerate(wkgames.sort_values(["gameday", "gametime"]).itertuples()):
+        order[g.home_team] = order[g.away_team] = i
+    sev = {"Out": 0, "Doubtful": 1, "Questionable": 2, "DNP": 3, "Limited": 4}
+    if len(inj):
+        inj = inj.assign(_k=inj.team.map(order).fillna(99), _s=inj.status.map(sev).fillna(9))
+        inj = inj.sort_values(["_k", "team", "_s", "pos", "player"]).drop(columns=["_k", "_s"])
+        inj.rename(columns=dict(team="Team", pos="Pos", player="Player", status="Status", injury="Injury",
+                                practice="Practice")).to_csv(DATA / "nfl_injuries.csv", index=False)
     for r in wkgames.itertuples():
         sp = spread_text(r)
         tot = "" if pd.isna(r.total_line) else r.total_line

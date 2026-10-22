@@ -7,7 +7,7 @@ import pandas as pd
 
 import re
 
-from schema import (MAX_CUSHION, MAXH, SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SAFE_SHOW, SAFE_THRESH,  # noqa: E402
+from schema import (SAFE_RISK, MAX_CUSHION, MAXH, SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SAFE_SHOW, SAFE_THRESH,  # noqa: E402
                     SLATE_CAP, SLATE_COLS, SLATE_WINDOWS, STAT_LABELS, THRESH)
 
 LIMIT = 900_000
@@ -40,7 +40,7 @@ def eligible(g, sport, today):
 
 
 def defense_table(log, sport):
-    """{(team, group, stat): (rank, avg allowed per game)}. Rank 1 = allows the most.
+    """{(team, group, stat): (rank, avg allowed per game)}. Rank 1 = best defense (allows the fewest).
     Looks at each defending team's most recent games and adds up what players of
     that position group produced against them."""
     stats = list(THRESH[sport])
@@ -53,7 +53,7 @@ def defense_table(log, sport):
         sums = d[d.group == grp].groupby(["opp", "game_id"])[stats].sum().reset_index()
         m = games.merge(sums, on=["opp", "game_id"], how="left").fillna(0)
         avg = m.groupby("opp")[stats].mean()
-        ranks = avg.rank(ascending=False, method="min")
+        ranks = avg.rank(ascending=True, method="min")
         for team in avg.index:
             for st in stats:
                 out[(team, grp, st)] = (int(ranks.loc[team, st]), round(float(avg.loc[team, st]), 1))
@@ -205,13 +205,19 @@ def games_table(glist, tg, results, ranks, inj):
     return pd.DataFrame(rows, columns=cols)
 
 
+def ordinal(n):
+    n = int(n)
+    return f"{n}{'th' if 10 <= n % 100 <= 20 else {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th')}"
+
+
 def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.15):
-    """For each player on the slate and each stat, the HIGHEST line that cleared in
-    nearly every recent game and almost as often over the longer window.
-    Grade A = near perfect hit rates and no red flags; B = at most one flag; C = the rest.
-    Players listed Out or Doubtful are left out."""
+    """For each player on the slate, each stat and each risk level (Safest, Balanced, Reach): the
+    HIGHEST line that cleared often enough in the recent and the longer window.
+    Grade A = near perfect hit rates and no red flags. B = very high long rate with at most one flag.
+    C = long rate of 75%+. D = the rest (a reach). Players listed Out or Doubtful are left out."""
     status, rest, defense, team_info = status or {}, rest or {}, defense or {}, team_info or {}
     rules, thr = SAFE_RULES[sport], SAFE_THRESH[sport]
+    nt = len({k[0] for k in defense}) or 30      # teams ranked: rank 1 = best defense, nt = worst
     rows = []
     for player, g in log.groupby("player"):
         g = g.sort_values("rk")
@@ -235,59 +241,64 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
         for stat, ts in thr.items():
             if r[stat].mean() < 0.25 * ts[0]:
                 continue
-            for t in sorted(ts, reverse=True):
-                hr, hl = float((r[stat] >= t).mean()), float((lg[stat] >= t).mean())
-                if hr < rules["hit_recent"] or hl < rules["hit_long"]:
-                    continue
-                avg = float(lg[stat].mean())
-                cushion = (avg - t) / avg if avg else 0
-                if cushion > MAX_CUSHION:
+            for risk, (min_r, min_l) in SAFE_RISK[sport].items():
+                for t in sorted(ts, reverse=True):
+                    hr, hl = float((r[stat] >= t).mean()), float((lg[stat] >= t).mean())
+                    if hr < min_r or hl < min_l:
+                        continue
+                    avg = float(lg[stat].mean())
+                    cushion = (avg - t) / avg if avg else 0
+                    if cushion > MAX_CUSHION:
+                        break
+                    dr, da = defense.get((info["opp"], grp, stat), ("", ""))
+                    tag = "" if dr == "" else ("Soft" if dr >= nt - 7 else ("Tough" if dr <= nt - 22 else "Mid"))
+                    flags, issues = [], 0
+                    if tag == "Tough":
+                        issues += 1; flags.append("tough matchup")
+                    if "B2B" in rt or "3in4" in rt or "short" in rt:
+                        issues += 1; flags.append(rt)
+                    if st == "Questionable":
+                        issues += 1; flags.append("questionable")
+                    elif st == "DNP":
+                        issues += 1; flags.append("missed practice")
+                    if st == "Check roster":
+                        issues += 1; flags.append("last season stats, check roster")
+                    if spread >= 10:
+                        issues += 1; flags.append("big spread, game script risk")
+                    if hr >= 1 and hl >= 0.95 and issues == 0:
+                        grade = "A"
+                    elif issues <= 1 and hl >= 0.9:
+                        grade = "B"
+                    elif hl >= 0.75:
+                        grade = "C"
+                    else:
+                        grade = "D"
+                    score = (hr + hl) / 2 + (0.05 if tag == "Soft" else 0) - 0.04 * issues
+                    p = min(((hr + hl) / 2) * (1 - haircut), 0.82)   # backtest: "safe" lines really hit about 77 to 82%
+                    rows.append([None, grade, who, game, (STAT_LABELS[stat].capitalize() if stat in ("DBL_DBL", "TRP_DBL") else f"Over {t - 0.5:g} {STAT_LABELS[stat]}"), stat, round(avg, 1),
+                                 f"{int(round(hr * len(r)))} of {len(r)}", f"{int(round(hl * len(lg)))} of {len(lg)}",
+                                 "" if not tag else f"{tag} ({ordinal(dr)})", round(1 / p, 2), "; ".join(flags),
+                                 team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t, risk, slot])
                     break
-                dr, da = defense.get((info["opp"], grp, stat), ("", ""))
-                tag = "" if dr == "" else ("Soft" if dr <= 8 else ("Tough" if dr >= 23 else "Mid"))
-                flags, issues = [], 0
-                if tag == "Tough":
-                    issues += 1; flags.append("tough matchup")
-                if "B2B" in rt or "3in4" in rt or "short" in rt:
-                    issues += 1; flags.append(rt)
-                if st == "Questionable":
-                    issues += 1; flags.append("questionable")
-                elif st == "DNP":
-                    issues += 1; flags.append("missed practice")
-                if st == "Check roster":
-                    issues += 1; flags.append("last season stats, check roster")
-                if spread >= 10:
-                    issues += 1; flags.append("big spread, game script risk")
-                if hr >= 1 and hl >= 0.95 and issues == 0:
-                    grade = "A"
-                elif issues <= 1 and hl >= 0.9:
-                    grade = "B"
-                else:
-                    grade = "C"
-                score = (hr + hl) / 2 + (0.05 if tag == "Soft" else 0) - 0.04 * issues
-                p = min(((hr + hl) / 2) * (1 - haircut), 0.82)   # backtest: "safe" lines really hit about 77 to 82%
-                rows.append([None, grade, who, game, (STAT_LABELS[stat].capitalize() if stat in ("DBL_DBL", "TRP_DBL") else f"Over {t - 0.5:g} {STAT_LABELS[stat]}"), stat, round(avg, 1),
-                             f"{int(round(hr * len(r)))} of {len(r)}", f"{int(round(hl * len(lg)))} of {len(lg)}",
-                             "" if not tag else f"{tag} ({dr})", round(1 / p, 2), "; ".join(flags),
-                             team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t, slot])
-                break
     df = pd.DataFrame(rows, columns=SAFE_COLS + ["slot"])
     if not len(df):
         return df[SAFE_COLS]
-    order = {"A": 0, "B": 1, "C": 2}
+    order = {"A": 0, "B": 1, "C": 2, "D": 3}
     df["_g"] = df.grade.map(order)
     df = df.sort_values(["_g", "score", "cushion"], ascending=[True, False, True])
-    allowed = {"A only": {"A"}, "A and B": {"A", "B"}, "All": {"A", "B", "C"}}
+    allowed = {"A only": {"A"}, "A and B": {"A", "B"}, "A to C": {"A", "B", "C"}, "All": {"A", "B", "C", "D"}}
     parts = []
     for sl in ["ALL"] + sorted(s for s in df.slot.unique() if s):
         ds = df if sl == "ALL" else df[df.slot == sl]
-        for show in SAFE_SHOW:
-            d = ds[ds.grade.isin(allowed[show])]
-            best = d.drop_duplicates("player").head(SAFE_CAP_ALL).copy()      # one best play per player
-            best["key"] = [f"{sl}|ALL|{show}|{i}" for i in range(1, len(best) + 1)]
-            parts.append(best)
-            for stat, x in d.groupby("stat"):
-                x = x.head(SAFE_CAP_STAT).copy()
-                x["key"] = [f"{sl}|{stat}|{show}|{i}" for i in range(1, len(x) + 1)]
-                parts.append(x)
+        for risk in SAFE_RISK[sport]:
+            dr_ = ds[ds.risk == risk]
+            for show in SAFE_SHOW:
+                d = dr_[dr_.grade.isin(allowed[show])]
+                best = d.drop_duplicates("player").head(SAFE_CAP_ALL).copy()      # one best play per player
+                best["key"] = [f"{sl}|ALL|{risk}|{show}|{i}" for i in range(1, len(best) + 1)]
+                parts.append(best)
+                for stat, x in d.groupby("stat"):
+                    x = x.head(SAFE_CAP_STAT).copy()
+                    x["key"] = [f"{sl}|{stat}|{risk}|{show}|{i}" for i in range(1, len(x) + 1)]
+                    parts.append(x)
     return pd.concat(parts)[SAFE_COLS]

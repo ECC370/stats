@@ -26,9 +26,10 @@ NFL_STATS = ["PASS_YDS", "PASS_TD", "INT", "COMP", "ATT",
 PLAYER_COLS = ["player", "team", "pos"]
 
 
+DROP_COLS = ["STL+BLK", "game_id"]   # kept in memory, not written (saves file size)
 MAX_PART_BYTES = 900_000   # Google Sheets IMPORTDATA refuses big files
-NBA_PARTS = 6
-NFL_PARTS = 3
+NBA_PARTS = 4
+NFL_PARTS = 2
 
 
 def write_parts(df, outdir, base, nparts, max_bytes=MAX_PART_BYTES):
@@ -36,6 +37,14 @@ def write_parts(df, outdir, base, nparts, max_bytes=MAX_PART_BYTES):
     one player across two files. Unused files hold only the header row.
     Also removes the old single file so it does not go stale."""
     import os
+    df = df.drop(columns=[c for c in DROP_COLS if c in df.columns]).copy()
+    for c in df.columns:
+        if str(df[c].dtype).startswith("float"):
+            r = df[c].round(2)
+            if (r.dropna() % 1 == 0).all():
+                df[c] = r.astype("Int64")
+            else:
+                df[c] = r
     header = ",".join(df.columns) + "\n"
     lines = df.to_csv(index=False, header=False, lineterminator="\n").split("\n")[:-1]
     players = df["player"].tolist()
@@ -105,7 +114,7 @@ STAT_LABELS = {
     "TGT": "targets", "RR_YDS": "rush+rec yards", "TDS": "rush+rec TDs",
 }
 SAFE_COLS = ["key", "grade", "who", "game", "pick", "stat", "avg", "recent", "long", "matchup", "fair",
-             "flags", "team_def", "score", "cushion", "player", "line"]
+             "flags", "team_def", "score", "cushion", "player", "line", "risk"]
 SAFE_RULES = {   # recent window games, long window games, min games, min recent hit, min long hit
     "NBA": dict(recent=10, long=20, min_recent=8, min_long=12, hit_recent=0.9, hit_long=0.85),
     "NFL": dict(recent=8, long=16, min_recent=6, min_long=8, hit_recent=0.85, hit_long=0.8),
@@ -113,7 +122,12 @@ SAFE_RULES = {   # recent window games, long window games, min games, min recent
 # Safe plays only use lines the book offers. Safe shows one line per player, so NBA points can step by 1
 # (the book's alt points ladder) without cluttering the tab. The Slate grid stays coarse so it stays readable.
 SAFE_THRESH = {"NBA": {**NBA_THRESH, "PTS": list(range(2, 51))}, "NFL": NFL_THRESH}
-SAFE_SHOW = ["A only", "A and B", "All"]
+SAFE_SHOW = ["A only", "A and B", "A to C", "All"]
+SAFE_RISK = {   # how aggressive the line is: the minimum recent and long hit rate the line must have cleared
+    "NBA": {"Safest": (0.90, 0.85), "Balanced": (0.80, 0.75), "Reach": (0.65, 0.60)},
+    "NFL": {"Safest": (0.85, 0.80), "Balanced": (0.70, 0.65), "Reach": (0.55, 0.50)},
+}
+SAFE_RISK_NAMES = ["Safest", "Balanced", "Reach"]
 SAFE_CAP_ALL = 120
 SAFE_CAP_STAT = 40
-MAX_CUSHION = 0.55      # ignore lines far below the average (nobody posts them)
+MAX_CUSHION = 0.40      # ignore lines far below the average (nobody posts them)

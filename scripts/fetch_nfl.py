@@ -231,7 +231,7 @@ def nfl_extras(log, games, cur, today):
     slate = extras.make_slate(log, gdict, today, "NFL", status, rest, defense)
     cap = extras.save_slate(slate, DATA / "nfl_slate.csv", "NFL")
     extras.streaks(log, gdict, today, "NFL", status).to_csv(DATA / "nfl_streaks.csv", index=False)
-    team_info = {t: f"Run {int(ex.loc[t, 'Rush allowed rank'])} / Pass {int(ex.loc[t, 'Pass allowed rank'])}" for t in ex.index}
+    team_info = {t: f"Run D {int(disp.loc[t, 'Rush D rank'])} / Pass D {int(disp.loc[t, 'Pass D rank'])}" for t in disp.index}
     safe = extras.safe_plays(log, gdict, today, "NFL", status, rest, defense, team_info)
     safe.to_csv(DATA / "nfl_safe.csv", index=False)
     print(f"safe plays: {len(safe)} rows")

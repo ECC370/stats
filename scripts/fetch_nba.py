@@ -325,6 +325,12 @@ def nba_extras(raw, log, today):
     log["pos"] = log.player.map(pos).fillna("")
     log["group"] = log.pos.map(grp)
     games, glist = todays_games(today)
+    # the same total on every game looks like a placeholder from the feed, so leave it blank rather than show bad data
+    if len(glist) >= 2 and len({str(g["total"]) for g in glist}) == 1:
+        for g in glist:
+            g["total"] = ""
+        for t in games:
+            games[t]["total"] = ""
     inj = espn_injuries()
     inj.rename(columns=dict(team="Team", player="Player", status="Status", detail="Detail")).sort_values(
         ["Team", "Status"]).to_csv(DATA / "nba_injuries.csv", index=False)
@@ -356,8 +362,8 @@ def nba_extras(raw, log, today):
     slate = extras.make_slate(log, games, today, "NBA", status, rest, defense)
     cap = extras.save_slate(slate, DATA / "nba_slate.csv", "NBA")
     extras.streaks(log, games, today, "NBA", status).to_csv(DATA / "nba_streaks.csv", index=False)
-    pa = tt.set_index("Team")[f"L{n}_pa"].rank(ascending=False, method="min")
-    team_info = {t: f"Pts allowed rk {int(v)}" for t, v in pa.items()}
+    pa = tt.set_index("Team")[f"L{n}_pa"].rank(ascending=True, method="min")   # 1 = fewest points allowed
+    team_info = {t: f"Defense {int(v)} of {len(pa)}" for t, v in pa.items()}
     safe = extras.safe_plays(log, games, today, "NBA", status, rest, defense, team_info)
     safe.to_csv(DATA / "nba_safe.csv", index=False)
     print(f"NBA extras: {len(games) // 2} games today, slate {len(slate)} rows (cap {cap}), injuries {len(inj)}")

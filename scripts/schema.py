@@ -99,7 +99,7 @@ THRESH = {"NBA": NBA_THRESH, "NFL": NFL_THRESH}
 SLATE_WINDOWS = {"NBA": ["L5", "L10", "L20", "SEASON", "LAST SEASON"],
                  "NFL": ["L3", "L5", "L8", "SEASON", "LAST SEASON"]}
 MAXH = 16   # most lines shown in the Slate grid
-SLATE_COLS = (["key", "player", "pos", "team", "opp", "home", "fav", "total", "status", "rest",
+SLATE_COLS = (["key", "gkey", "player", "pos", "team", "opp", "home", "fav", "total", "status", "rest",
                "stat", "window", "rank", "gp", "avg", "usage", "def_rk", "def_avg"]
               + [f"h{i}" for i in range(1, MAXH + 1)])
 SLATE_CAP = {"NBA": 70, "NFL": 90}
@@ -114,7 +114,7 @@ STAT_LABELS = {
     "TGT": "targets", "RR_YDS": "rush+rec yards", "TDS": "rush+rec TDs",
 }
 SAFE_COLS = ["key", "grade", "who", "game", "pick", "stat", "avg", "recent", "long", "matchup", "fair",
-             "flags", "team_def", "score", "cushion", "player", "line", "risk"]
+             "flags", "team_def", "score", "cushion", "player", "line", "risk", "gkey"]
 SAFE_RULES = {   # recent window games, long window games, min games, min recent hit, min long hit
     "NBA": dict(recent=10, long=20, min_recent=8, min_long=12, hit_recent=0.9, hit_long=0.85),
     "NFL": dict(recent=8, long=16, min_recent=6, min_long=8, hit_recent=0.85, hit_long=0.8),
@@ -130,4 +130,6 @@ SAFE_RISK = {   # how aggressive the line is: the minimum recent and long hit ra
 SAFE_RISK_NAMES = ["Safest", "Balanced", "Reach"]
 SAFE_CAP_ALL = 120
 SAFE_CAP_STAT = 40
+SAFE_GAME_CAP = 12        # best plays kept per game (game picker)
+SAFE_GAME_CAP_STAT = 6
 MAX_CUSHION = 0.40      # ignore lines far below the average (nobody posts them)

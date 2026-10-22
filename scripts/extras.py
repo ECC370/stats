@@ -8,7 +8,7 @@ import pandas as pd
 import re
 
 from schema import (SAFE_RISK, MAX_CUSHION, MAXH, SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SAFE_SHOW, SAFE_THRESH,  # noqa: E402
-                    SLATE_CAP, SLATE_COLS, SLATE_WINDOWS, STAT_LABELS, THRESH)
+                    SAFE_GAME_CAP, SAFE_GAME_CAP_STAT, SLATE_CAP, SLATE_COLS, SLATE_WINDOWS, STAT_LABELS, THRESH)
 
 LIMIT = 900_000
 WINDOW_SPEC = {
@@ -85,33 +85,50 @@ def make_slate(log, games, today, sport, status=None, rest=None, defense=None):
                     continue
                 hits = [round(float((v >= t).mean()), 2) for t in ts]
                 dr, da = defense.get((info["opp"], grp, stat), ("", ""))
-                rows.append([None, player, last.get("pos", ""), last.team, info["opp"],
+                rows.append([None, None, player, last.get("pos", ""), last.team, info["opp"],
                              "H" if info["home"] else "A", info.get("fav", ""), info.get("total", ""),
                              status.get(player, ""), rest.get(last.team, ""), stat, w, 0, len(x),
                              round(float(v.mean()), 1), round(float(x[cfg["usage"]].mean()), 1), dr, da]
-                            + hits + [""] * (MAXH - len(hits)) + [info.get("slot", "")])
-    df = pd.DataFrame(rows, columns=SLATE_COLS + ["slot"])
+                            + hits + [""] * (MAXH - len(hits)) + [game_label(last.team, info)])
+    df = pd.DataFrame(rows, columns=SLATE_COLS + ["game"])
     if not len(df):
-        return df[SLATE_COLS]
-    df = df.sort_values(["stat", "window", "avg"], ascending=[True, True, False])
-    parts = []
-    for sl in ["ALL"] + sorted(s for s in df.slot.unique() if s):   # ALL plus one list per primetime slot
-        d = (df if sl == "ALL" else df[df.slot == sl]).copy()
-        d["rank"] = d.groupby(["stat", "window"]).cumcount() + 1
-        d = d[d["rank"] <= SLATE_CAP[sport]].copy()
-        d["key"] = sl + "|" + d.stat + "|" + d.window + "|" + d["rank"].astype(str)
-        parts.append(d)
-    return pd.concat(parts)[SLATE_COLS]
+        return df.assign(grank=0)
+    df = df.sort_values(["stat", "window", "avg"], ascending=[True, True, False]).copy()
+    df["rank"] = df.groupby(["stat", "window"]).cumcount() + 1
+    df["grank"] = df.groupby(["game", "stat", "window"]).cumcount() + 1
+    return df
+
+
+def game_label(team, info):
+    """Away at Home, the same text the Games tab builds, so the Slate and Safe game pickers match."""
+    return f"{info['opp']} at {team}" if info["home"] else f"{team} at {info['opp']}"
+
+
+GAME_CAP = {"NFL": 8, "NBA": 10}    # players kept per game, per stat and window, for the game picker
+
+
+def with_keys(df, cap, gcap):
+    """Rows needed for the ALL list (rank <= cap) or for a single game list (grank <= gcap).
+    One row can serve both lists, so the game picker costs one extra column, not a second copy."""
+    d = df[(df["rank"] <= cap) | (df["grank"] <= gcap)].copy()
+    d["key"] = ""
+    ok = d["rank"] <= cap
+    d.loc[ok, "key"] = "ALL|" + d.stat[ok] + "|" + d.window[ok] + "|" + d["rank"][ok].astype(str)
+    d["gkey"] = ""
+    gk = d["grank"] <= gcap
+    d.loc[gk, "gkey"] = d.game[gk] + "|" + d.stat[gk] + "|" + d.window[gk] + "|" + d["grank"][gk].astype(str)
+    return d[SLATE_COLS]
 
 
 def save_slate(df, path, sport):
     """Write the slate, trimming ranks until it fits Google's import limit."""
-    cap = SLATE_CAP[sport]
+    cap, gcap = SLATE_CAP[sport], GAME_CAP[sport]
     while True:
-        text = df[df["rank"] <= cap].to_csv(index=False)
+        text = with_keys(df, cap, gcap).to_csv(index=False) if len(df) else ",".join(SLATE_COLS) + "\n"
         if len(text.encode()) <= LIMIT or cap <= 20:
             break
         cap -= 5
+        gcap = max(8, min(gcap, cap // 5))
     with open(path, "w", newline="") as f:
         f.write(text)
     return cap
@@ -237,7 +254,7 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
         rt = rest.get(last.team, "")
         who = player + (f" ({last.get('pos')})" if sport == "NFL" and last.get("pos") else "")
         game = f"{last.team} {'vs' if info['home'] else 'at'} {info['opp']}"
-        slot = info.get("slot", "")
+        slot = game_label(last.team, info)
         for stat, ts in thr.items():
             if r[stat].mean() < 0.25 * ts[0]:
                 continue
@@ -278,7 +295,7 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
                     rows.append([None, grade, who, game, (STAT_LABELS[stat].capitalize() if stat in ("DBL_DBL", "TRP_DBL") else f"Over {t - 0.5:g} {STAT_LABELS[stat]}"), stat, round(avg, 1),
                                  f"{int(round(hr * len(r)))} of {len(r)}", f"{int(round(hl * len(lg)))} of {len(lg)}",
                                  "" if not tag else f"{tag} ({ordinal(dr)})", round(1 / p, 2), "; ".join(flags),
-                                 team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t, risk, slot])
+                                 team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t, risk, None, slot])
                     break
     df = pd.DataFrame(rows, columns=SAFE_COLS + ["slot"])
     if not len(df):
@@ -288,17 +305,24 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
     df = df.sort_values(["_g", "score", "cushion"], ascending=[True, False, True])
     allowed = {"A only": {"A"}, "A and B": {"A", "B"}, "A to C": {"A", "B", "C"}, "All": {"A", "B", "C", "D"}}
     parts = []
-    for sl in ["ALL"] + sorted(s for s in df.slot.unique() if s):
-        ds = df if sl == "ALL" else df[df.slot == sl]
-        for risk in SAFE_RISK[sport]:
-            dr_ = ds[ds.risk == risk]
-            for show in SAFE_SHOW:
-                d = dr_[dr_.grade.isin(allowed[show])]
-                best = d.drop_duplicates("player").head(SAFE_CAP_ALL).copy()      # one best play per player
-                best["key"] = [f"{sl}|ALL|{risk}|{show}|{i}" for i in range(1, len(best) + 1)]
-                parts.append(best)
-                for stat, x in d.groupby("stat"):
-                    x = x.head(SAFE_CAP_STAT).copy()
-                    x["key"] = [f"{sl}|{stat}|{risk}|{show}|{i}" for i in range(1, len(x) + 1)]
-                    parts.append(x)
+    for risk in SAFE_RISK[sport]:
+        dr_ = df[df.risk == risk]
+        for show in SAFE_SHOW:
+            d = dr_[dr_.grade.isin(allowed[show])]
+            best = d.drop_duplicates("player").copy()          # one best play per player
+            lists = [("ALL", best)] + [(stat, x) for stat, x in d.groupby("stat")]
+            for stat, x in lists:
+                x = x.copy()
+                x["i"] = range(1, len(x) + 1)
+                x["gi"] = x.groupby("slot").cumcount() + 1
+                capn = SAFE_CAP_ALL if stat == "ALL" else SAFE_CAP_STAT
+                gcap = SAFE_GAME_CAP if stat == "ALL" else SAFE_GAME_CAP_STAT
+                x = x[(x.i <= capn) | (x.gi <= gcap)].copy()
+                x["key"] = ""
+                ok = x.i <= capn
+                x.loc[ok, "key"] = [f"ALL|{stat}|{risk}|{show}|{i}" for i in x.i[ok]]
+                x["gkey"] = ""
+                gk = x.gi <= gcap
+                x.loc[gk, "gkey"] = [f"{g}|{stat}|{risk}|{show}|{i}" for g, i in zip(x.slot[gk], x.gi[gk])]
+                parts.append(x)
     return pd.concat(parts)[SAFE_COLS]

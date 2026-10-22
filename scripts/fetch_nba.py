@@ -339,6 +339,10 @@ def nba_extras(raw, log, today):
     slate = extras.make_slate(log, games, today, "NBA", status, rest, defense)
     cap = extras.save_slate(slate, DATA / "nba_slate.csv", "NBA")
     extras.streaks(log, games, today, "NBA", status).to_csv(DATA / "nba_streaks.csv", index=False)
+    pa = tt.set_index("Team")[f"L{n}_pa"].rank(ascending=False, method="min")
+    team_info = {t: f"Pts allowed rk {int(v)}" for t, v in pa.items()}
+    safe = extras.safe_plays(log, games, today, "NBA", status, rest, defense, team_info)
+    safe.to_csv(DATA / "nba_safe.csv", index=False)
     print(f"NBA extras: {len(games) // 2} games today, slate {len(slate)} rows (cap {cap}), injuries {len(inj)}")
 
 

@@ -90,3 +90,14 @@ SLATE_COLS = (["key", "player", "pos", "team", "opp", "home", "fav", "total", "s
                "stat", "window", "rank", "gp", "avg", "usage", "def_rk", "def_avg"]
               + [f"h{i}" for i in range(1, 9)])
 SLATE_CAP = {"NBA": 70, "NFL": 90}
+
+
+# ---- safe plays ----
+SAFE_COLS = ["key", "player", "pos", "team", "opp", "home", "fav", "status", "rest", "stat", "line",
+             "recent", "long", "avg", "cushion", "opp_rk", "opp_avg", "matchup", "opp_team", "fair", "score", "note"]
+SAFE_RULES = {   # recent window games, long window games, min games, min recent hit, min long hit
+    "NBA": dict(recent=10, long=20, min_recent=8, min_long=12, hit_recent=0.9, hit_long=0.85),
+    "NFL": dict(recent=8, long=16, min_recent=6, min_long=8, hit_recent=0.85, hit_long=0.8),
+}
+SAFE_CAP_ALL = 120
+SAFE_CAP_STAT = 40

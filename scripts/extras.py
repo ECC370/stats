@@ -5,7 +5,10 @@ scripts supply the sport specific inputs (todays games, injuries)."""
 import numpy as np
 import pandas as pd
 
-from schema import SLATE_CAP, SLATE_COLS, SLATE_WINDOWS, THRESH
+import re
+
+from schema import (SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SLATE_CAP, SLATE_COLS,  # noqa: E402
+                    SLATE_WINDOWS, THRESH)
 
 LIMIT = 900_000
 WINDOW_SPEC = {
@@ -191,3 +194,66 @@ def games_table(glist, tg, results, ranks, inj):
             "Away out", "Away questionable", "Home out", "Home questionable", "Away form", "Home form",
             "Away off rank", "Away def rank", "Home off rank", "Home def rank", "Last meetings"]
     return pd.DataFrame(rows, columns=cols)
+
+
+def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.10):
+    """For each player on the slate and each stat, the HIGHEST line that cleared in
+    nearly every recent game and almost as often over the longer window. Ranked by a
+    simple score: average of the two hit rates, nudged by matchup, rest, injury and
+    blowout risk. Players listed Out or Doubtful are left out."""
+    status, rest, defense, team_info = status or {}, rest or {}, defense or {}, team_info or {}
+    rules, thr = SAFE_RULES[sport], THRESH[sport]
+    rows = []
+    for player, g in log.groupby("player"):
+        g = g.sort_values("rk")
+        last = g.iloc[0]
+        if last.team not in games or not eligible(g, sport, today):
+            continue
+        st = status.get(player, "")
+        if st in ("Out", "Doubtful"):
+            continue
+        info = games[last.team]
+        grp = last.group
+        r, lg = g.head(rules["recent"]), g.head(rules["long"])
+        if len(r) < rules["min_recent"] or len(lg) < rules["min_long"]:
+            continue
+        m = re.search(r"(\d+(?:\.\d+)?)", str(info.get("fav", "")))
+        spread = float(m.group(1)) if m else 0.0
+        rt = rest.get(last.team, "")
+        for stat, ts in thr.items():
+            if r[stat].mean() < 0.25 * ts[0]:
+                continue
+            for t in sorted(ts, reverse=True):
+                hr, hl = float((r[stat] >= t).mean()), float((lg[stat] >= t).mean())
+                if hr >= rules["hit_recent"] and hl >= rules["hit_long"]:
+                    avg = float(lg[stat].mean())
+                    dr, da = defense.get((info["opp"], grp, stat), ("", ""))
+                    tag = "" if dr == "" else ("Soft" if dr <= 8 else ("Tough" if dr >= 23 else "Mid"))
+                    score = (hr + hl) / 2 + (0.05 if tag == "Soft" else -0.05 if tag == "Tough" else 0)
+                    notes = []
+                    if "B2B" in rt or "3in4" in rt or "short" in rt:
+                        score -= 0.03; notes.append(rt)
+                    if st == "Questionable":
+                        score -= 0.05; notes.append("questionable")
+                    if spread >= 10:
+                        score -= 0.03; notes.append("big spread, game script risk")
+                    p = ((hr + hl) / 2) * (1 - haircut)
+                    rows.append([None, player, last.get("pos", ""), last.team, info["opp"], "H" if info["home"] else "A",
+                                 info.get("fav", ""), st, rt, stat, f"o{t - 0.5:g}",
+                                 f"{int(round(hr * len(r)))}/{len(r)}", f"{int(round(hl * len(lg)))}/{len(lg)}",
+                                 round(avg, 1), round((avg - t) / avg, 2) if avg else 0, dr, da, tag,
+                                 team_info.get(info["opp"], ""), round(1 / p, 2), round(score, 3), "; ".join(notes)])
+                    break
+    df = pd.DataFrame(rows, columns=SAFE_COLS)
+    if not len(df):
+        return df
+    df["_c"] = df.cushion
+    parts = []
+    allx = df.sort_values(["score", "_c"], ascending=False).head(SAFE_CAP_ALL).copy()
+    allx["key"] = ["ALL|" + str(i) for i in range(1, len(allx) + 1)]
+    parts.append(allx)
+    for stat, x in df.groupby("stat"):
+        x = x.sort_values(["score", "_c"], ascending=False).head(SAFE_CAP_STAT).copy()
+        x["key"] = [f"{stat}|{i}" for i in range(1, len(x) + 1)]
+        parts.append(x)
+    return pd.concat(parts)[SAFE_COLS]

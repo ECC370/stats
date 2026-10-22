@@ -1,357 +1,601 @@
-key,player,pos,team,opp,home,fav,status,rest,stat,line,recent,long,avg,cushion,opp_rk,opp_avg,matchup,opp_team,fair,score,note
-ALL|1,Breece Hall,RB,NYJ,MIA,H,NYJ -4.5,,7d,RUSH_YDS,o19.5,8/8,16/16,66.9,0.7,8,104.8,Soft,Run 13 / Pass 8,1.11,1.05,
-ALL|2,Breece Hall,RB,NYJ,MIA,H,NYJ -4.5,,7d,RR_YDS,o29.5,8/8,16/16,90.3,0.67,5,138.8,Soft,Run 13 / Pass 8,1.11,1.05,
-ALL|3,Bucky Irving,RB,TB,CAR,A,CAR -3,,7d,RR_YDS,o29.5,8/8,16/16,86.9,0.65,3,141.4,Soft,Run 4 / Pass 19,1.11,1.05,
-ALL|4,J.K. Dobbins,RB,DEN,ARI,A,DEN -4.5,,10d,RR_YDS,o29.5,8/8,16/16,69.1,0.57,4,139.5,Soft,Run 9 / Pass 6,1.11,1.05,
-ALL|5,J.K. Dobbins,RB,DEN,ARI,A,DEN -4.5,,10d,RUSH_YDS,o29.5,8/8,16/16,65.1,0.54,3,109.6,Soft,Run 9 / Pass 6,1.11,1.05,
-ALL|6,Bucky Irving,RB,TB,CAR,A,CAR -3,,7d,RUSH_ATT,o7.5,8/8,16/16,16.8,0.52,6,24.4,Soft,Run 4 / Pass 19,1.11,1.05,
-ALL|7,Tucker Kraft,TE,GB,DET,A,DET -3,,7d,REC,o1.5,8/8,14/14,4.1,0.51,1,9.0,Soft,Run 9 / Pass 4,1.11,1.05,
-ALL|8,Mark Andrews,TE,BAL,CIN,H,CIN -1.5,,7d,TGT,o2.5,8/8,16/16,4.6,0.34,4,9.0,Soft,Run 18 / Pass 21,1.11,1.05,
-ALL|9,Kyren Williams,RB,LA,LV,A,LA -3.5,,7d,RR_YDS,o49.5,8/8,15/16,91.5,0.45,2,143.0,Soft,Run 5 / Pass 15,1.15,1.019,
-ALL|10,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,REC,o2.5,8/8,15/16,5.0,0.4,6,5.0,Soft,Run 29 / Pass 3,1.15,1.019,
-ALL|11,Jared Goff,QB,DET,GB,H,DET -3,,14d bye,COMP,o17.5,8/8,15/16,24.3,0.26,7,22.6,Soft,Run 17 / Pass 18,1.15,1.019,
-ALL|12,Pat Freiermuth,TE,PIT,NO,A,PIT -3.5,,7d,TGT,o2.5,8/8,15/16,4.1,0.26,3,9.5,Soft,Run 12 / Pass 9,1.15,1.019,
-ALL|13,Jared Goff,QB,DET,GB,H,DET -3,,14d bye,ATT,o27.5,8/8,15/16,37.2,0.25,5,36.2,Soft,Run 17 / Pass 18,1.15,1.019,
-ALL|14,Jaylen Warren,RB,PIT,NO,A,PIT -3.5,,7d,RUSH_ATT,o9.5,8/8,15/16,13.0,0.23,7,24.0,Soft,Run 12 / Pass 9,1.15,1.019,
-ALL|15,Tucker Kraft,TE,GB,DET,A,DET -3,,7d,TGT,o2.5,8/8,13/14,5.8,0.48,1,11.6,Soft,Run 9 / Pass 4,1.15,1.014,
-ALL|16,Chris Olave,WR,NO,PIT,H,PIT -3.5,,7d,RR_YDS,o29.5,8/8,16/16,87.4,0.66,12,158.4,Mid,Run 15 / Pass 20,1.11,1.0,
-ALL|17,George Pickens,WR,DAL,PHI,A,DAL -4.5,,8d,TGT,o2.5,8/8,16/16,8.4,0.64,10,19.4,Mid,Run 14 / Pass 11,1.11,1.0,
-ALL|18,Travis Etienne,RB,NO,PIT,H,PIT -3.5,,7d,RR_YDS,o29.5,8/8,16/16,75.6,0.6,14,127.9,Mid,Run 15 / Pass 20,1.11,1.0,
-ALL|19,Justin Jefferson,WR,MIN,IND,H,MIN -6.5,,14d bye,REC,o1.5,8/8,16/16,4.6,0.57,17,11.2,Mid,Run 11 / Pass 14,1.11,1.0,
-ALL|20,Javonte Williams,RB,DAL,PHI,A,DAL -4.5,,8d,RUSH_YDS,o29.5,8/8,16/16,65.1,0.54,14,95.8,Mid,Run 14 / Pass 11,1.11,1.0,
-ALL|21,Travis Etienne,RB,NO,PIT,H,PIT -3.5,,7d,RUSH_ATT,o7.5,8/8,16/16,13.9,0.43,14,22.9,Mid,Run 15 / Pass 20,1.11,1.0,
-ALL|22,Sam LaPorta,TE,DET,GB,H,DET -3,,14d bye,REC,o2.5,8/8,14/14,4.8,0.37,18,4.9,Mid,Run 17 / Pass 18,1.11,1.0,
-ALL|23,Kyren Williams,RB,LA,LV,A,LA -3.5,,7d,RUSH_ATT,o9.5,8/8,16/16,14.1,0.29,17,22.4,Mid,Run 5 / Pass 15,1.11,1.0,
-ALL|24,Aaron Jones,RB,MIN,IND,H,MIN -6.5,,14d bye,RR_YDS,o29.5,8/8,14/16,72.6,0.59,7,135.6,Soft,Run 11 / Pass 14,1.19,0.988,
-ALL|25,Jahmyr Gibbs,RB,DET,GB,H,DET -3,,14d bye,REC_YDS,o19.5,8/8,14/16,46.7,0.57,8,35.4,Soft,Run 17 / Pass 18,1.19,0.988,
-ALL|26,Jameson Williams,WR,DET,GB,H,DET -3,,14d bye,REC,o1.5,8/8,14/16,4.1,0.52,4,13.5,Soft,Run 17 / Pass 18,1.19,0.988,
-ALL|27,Amon-Ra St. Brown,WR,DET,GB,H,DET -3,,14d bye,REC,o3.5,8/8,14/16,6.9,0.42,4,13.5,Soft,Run 17 / Pass 18,1.19,0.988,
-ALL|28,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,RUSH_ATT,o9.5,8/8,14/16,15.8,0.37,4,24.9,Soft,Run 8 / Pass 27,1.19,0.988,
-ALL|29,Mack Hollins,WR,NE,CHI,A,CHI -3,,4d short,REC,o1.5,8/8,16/16,3.8,0.47,18,11.1,Mid,Run 28 / Pass 10,1.11,0.97,4d short
-ALL|30,Luther Burden III,WR,CHI,NE,H,CHI -3,,4d short,REC,o2.5,8/8,16/16,4.4,0.32,12,11.6,Mid,Run 26 / Pass 26,1.11,0.97,4d short
-ALL|31,Davante Adams,WR,LA,LV,A,LA -3.5,,7d,REC_YDS,o19.5,8/8,15/16,63.9,0.69,12,152.9,Mid,Run 5 / Pass 15,1.15,0.969,
-ALL|32,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,RUSH_YDS,o19.5,8/8,15/16,52.7,0.62,19,92.0,Mid,Run 8 / Pass 27,1.15,0.969,
-ALL|33,Jahmyr Gibbs,RB,DET,GB,H,DET -3,,14d bye,RR_YDS,o49.5,8/8,15/16,130.2,0.62,13,129.4,Mid,Run 17 / Pass 18,1.15,0.969,
-ALL|34,Quinshon Judkins,RB,CLE,TEN,A,CLE -1.5,,7d,RUSH_YDS,o19.5,8/8,15/16,50.7,0.61,17,93.1,Mid,Run 19 / Pass 7,1.15,0.969,
-ALL|35,Trey McBride,TE,ARI,DEN,H,DEN -4.5,,7d,RR_YDS,o29.5,8/8,15/16,73.7,0.59,13,57.0,Mid,Run 2 / Pass 24,1.15,0.969,
-ALL|36,Chris Olave,WR,NO,PIT,H,PIT -3.5,,7d,REC_YDS,o39.5,8/8,15/16,87.6,0.54,11,157.6,Mid,Run 15 / Pass 20,1.15,0.969,
-ALL|37,Breece Hall,RB,NYJ,MIA,H,NYJ -4.5,,7d,RUSH_ATT,o11.5,8/8,15/16,16.0,0.25,10,23.2,Mid,Run 13 / Pass 8,1.15,0.969,
-ALL|38,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,REC_YDS,o29.5,8/8,13/14,56.3,0.47,9,166.1,Mid,Run 29 / Pass 3,1.15,0.964,
-ALL|39,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,RR_YDS,o29.5,8/8,13/14,56.3,0.47,9,167.1,Mid,Run 29 / Pass 3,1.15,0.964,
-ALL|40,Greg Dulcich,TE,MIA,NYJ,A,NYJ -4.5,,14d bye,REC,o1.5,8/8,12/13,3.0,0.33,14,5.2,Mid,Run 3 / Pass 23,1.16,0.962,
-ALL|41,A.J. Brown,WR,NE,CHI,A,CHI -3,,4d short,REC_YDS,o19.5,8/8,14/16,65.4,0.69,5,171.5,Soft,Run 28 / Pass 10,1.19,0.958,4d short
-ALL|42,Ja'Marr Chase,WR,CIN,BAL,A,CIN -1.5,,14d bye,REC_YDS,o19.5,7/8,15/16,82.9,0.76,3,183.0,Soft,Run 24 / Pass 12,1.23,0.956,
-ALL|43,George Pickens,WR,DAL,PHI,A,DAL -4.5,,8d,REC_YDS,o19.5,7/8,15/16,78.1,0.74,8,166.5,Soft,Run 14 / Pass 11,1.23,0.956,
-ALL|44,Ja'Marr Chase,WR,CIN,BAL,A,CIN -1.5,,14d bye,TGT,o3.5,7/8,15/16,11.1,0.64,7,20.2,Soft,Run 24 / Pass 12,1.23,0.956,
-ALL|45,Bijan Robinson,RB,ATL,SF,H,SF -2.5,,7d,RR_YDS,o49.5,7/8,15/16,132.6,0.62,8,134.4,Soft,Run 21 / Pass 27,1.23,0.956,
-ALL|46,George Kittle,TE,SF,ATL,A,SF -2.5,,6d,REC,o1.5,7/8,15/16,5.0,0.6,7,6.5,Soft,Run 29 / Pass 3,1.23,0.956,
-ALL|47,Ja'Marr Chase,WR,CIN,BAL,A,CIN -1.5,,14d bye,REC,o2.5,7/8,15/16,7.5,0.6,4,13.5,Soft,Run 24 / Pass 12,1.23,0.956,
-ALL|48,Bijan Robinson,RB,ATL,SF,H,SF -2.5,,7d,REC,o1.5,7/8,15/16,4.1,0.52,1,6.2,Soft,Run 21 / Pass 27,1.23,0.956,
-ALL|49,Chase Brown,RB,CIN,BAL,A,CIN -1.5,,14d bye,TGT,o2.5,7/8,15/16,5.8,0.48,5,6.5,Soft,Run 24 / Pass 12,1.23,0.956,
-ALL|50,Deebo Samuel Sr.,WR,SF,ATL,A,SF -2.5,,6d,REC,o1.5,7/8,15/16,3.6,0.45,2,14.0,Soft,Run 29 / Pass 3,1.23,0.956,
-ALL|51,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,RR_YDS,o49.5,8/8,13/16,84.6,0.41,6,136.1,Soft,Run 8 / Pass 27,1.23,0.956,
-ALL|52,Deebo Samuel Sr.,WR,SF,ATL,A,SF -2.5,,6d,TGT,o2.5,7/8,15/16,5.1,0.41,1,22.2,Soft,Run 29 / Pass 3,1.23,0.956,
-ALL|53,Kyren Williams,RB,LA,LV,A,LA -3.5,,7d,RUSH_YDS,o39.5,7/8,15/16,67.4,0.41,4,108.6,Soft,Run 5 / Pass 15,1.23,0.956,
-ALL|54,Jaylen Warren,RB,PIT,NO,A,PIT -3.5,,7d,RUSH_YDS,o39.5,8/8,13/16,66.1,0.39,6,105.1,Soft,Run 12 / Pass 9,1.23,0.956,
-ALL|55,George Kittle,TE,SF,ATL,A,SF -2.5,,6d,TGT,o3.5,7/8,15/16,6.3,0.37,5,8.6,Soft,Run 29 / Pass 3,1.23,0.956,
-ALL|56,Javonte Williams,RB,DAL,PHI,A,DAL -4.5,,8d,RUSH_ATT,o9.5,7/8,15/16,15.3,0.35,3,25.1,Soft,Run 14 / Pass 11,1.23,0.956,
-ALL|57,J.K. Dobbins,RB,DEN,ARI,A,DEN -4.5,,10d,RUSH_ATT,o9.5,7/8,15/16,14.6,0.32,2,25.5,Soft,Run 9 / Pass 6,1.23,0.956,
-ALL|58,Brock Purdy,QB,SF,ATL,A,SF -2.5,,6d,ATT,o24.5,7/8,15/16,29.9,0.16,1,39.8,Soft,Run 29 / Pass 3,1.23,0.956,
-ALL|59,Chris Godwin Jr.,WR,TB,CAR,A,CAR -3,,7d,TGT,o2.5,7/8,14/15,5.3,0.44,8,20.0,Soft,Run 4 / Pass 19,1.23,0.954,
-ALL|60,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,TGT,o2.5,7/8,13/14,7.2,0.58,1,22.2,Soft,Run 29 / Pass 3,1.23,0.952,
-ALL|61,Jared Goff,QB,DET,GB,H,DET -3,,14d bye,PASS_TD,o0.5,8/8,16/16,2.0,0.5,24,1.1,Tough,Run 17 / Pass 18,1.11,0.95,
-ALL|62,Puka Nacua,WR,LA,LV,A,LA -3.5,,7d,REC,o4.5,8/8,16/16,8.1,0.38,27,10.0,Tough,Run 5 / Pass 15,1.11,0.95,
-ALL|63,Zay Flowers,WR,BAL,CIN,H,CIN -1.5,,7d,TGT,o4.5,8/8,16/16,7.1,0.3,29,16.1,Tough,Run 18 / Pass 21,1.11,0.95,
-ALL|64,Dalton Schultz,TE,HOU,NYG,H,HOU -10.5,,7d,REC,o1.5,8/8,15/16,4.4,0.54,9,6.0,Mid,Run 6 / Pass 31,1.15,0.939,"big spread, game script risk"
-ALL|65,D'Andre Swift,RB,CHI,NE,H,CHI -3,,4d short,RUSH_YDS,o39.5,8/8,15/16,66.9,0.4,21,85.8,Mid,Run 26 / Pass 26,1.15,0.939,4d short
-ALL|66,Rome Odunze,WR,CHI,NE,H,CHI -3,,4d short,REC,o1.5,8/8,15/16,3.0,0.33,12,11.6,Mid,Run 26 / Pass 26,1.15,0.939,4d short
-ALL|67,Jameson Williams,WR,DET,GB,H,DET -3,,14d bye,REC_YDS,o29.5,8/8,14/16,69.0,0.57,18,144.9,Mid,Run 17 / Pass 18,1.19,0.938,
-ALL|68,Jameson Williams,WR,DET,GB,H,DET -3,,14d bye,RR_YDS,o29.5,8/8,14/16,69.7,0.57,18,148.5,Mid,Run 17 / Pass 18,1.19,0.938,
-ALL|69,Christian Watson,WR,GB,DET,A,DET -3,,7d,RR_YDS,o29.5,8/8,14/16,68.9,0.56,11,160.9,Mid,Run 9 / Pass 4,1.19,0.938,
-ALL|70,Jalen Coker,WR,CAR,TB,H,CAR -3,,7d,REC,o1.5,8/8,14/16,4.1,0.52,11,11.8,Mid,Run 31 / Pass 16,1.19,0.938,
-ALL|71,Deebo Samuel Sr.,WR,SF,ATL,A,SF -2.5,,6d,REC_YDS,o19.5,8/8,14/16,39.6,0.49,9,166.1,Mid,Run 29 / Pass 3,1.19,0.938,
-ALL|72,Matthew Golden,WR,GB,DET,A,DET -3,,7d,TGT,o2.5,8/8,14/16,5.4,0.45,17,18.2,Mid,Run 9 / Pass 4,1.19,0.938,
-ALL|73,Chris Olave,WR,NO,PIT,H,PIT -3.5,,7d,REC,o3.5,8/8,14/16,6.5,0.38,14,11.5,Mid,Run 15 / Pass 20,1.19,0.938,
-ALL|74,Michael Wilson,WR,ARI,DEN,H,DEN -4.5,,7d,TGT,o6.5,8/8,14/16,9.8,0.29,13,19.1,Mid,Run 2 / Pass 24,1.19,0.938,
-ALL|75,De'Von Achane,RB,MIA,NYJ,A,NYJ -4.5,,14d bye,RUSH_YDS,o29.5,7/8,14/16,83.1,0.64,1,121.9,Soft,Run 3 / Pass 23,1.27,0.925,
-ALL|76,Tee Higgins,WR,CIN,BAL,A,CIN -1.5,,14d bye,RR_YDS,o29.5,7/8,14/16,70.8,0.58,3,184.5,Soft,Run 24 / Pass 12,1.27,0.925,
-ALL|77,DeVonta Smith,WR,PHI,DAL,H,DAL -4.5,,8d,RR_YDS,o29.5,7/8,14/16,66.7,0.55,6,172.5,Soft,Run 1 / Pass 17,1.27,0.925,
-ALL|78,De'Von Achane,RB,MIA,NYJ,A,NYJ -4.5,,14d bye,RR_YDS,o49.5,7/8,14/16,107.9,0.54,1,155.8,Soft,Run 3 / Pass 23,1.27,0.925,
-ALL|79,Brock Purdy,QB,SF,ATL,A,SF -2.5,,6d,PASS_TD,o0.5,7/8,14/16,2.1,0.53,8,1.6,Soft,Run 29 / Pass 3,1.27,0.925,
-ALL|80,RJ Harvey,RB,DEN,ARI,A,DEN -4.5,,10d,RR_YDS,o29.5,7/8,14/16,59.4,0.49,4,139.5,Soft,Run 9 / Pass 6,1.27,0.925,
-ALL|81,Emeka Egbuka,WR,TB,CAR,A,CAR -3,,7d,TGT,o3.5,7/8,14/16,7.6,0.48,8,20.0,Soft,Run 4 / Pass 19,1.27,0.925,
-ALL|82,Tee Higgins,WR,CIN,BAL,A,CIN -1.5,,14d bye,TGT,o3.5,7/8,14/16,7.6,0.47,7,20.2,Soft,Run 24 / Pass 12,1.27,0.925,
-ALL|83,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,TGT,o2.5,7/8,14/16,5.6,0.46,8,6.1,Soft,Run 8 / Pass 27,1.27,0.925,
-ALL|84,Bucky Irving,RB,TB,CAR,A,CAR -3,,7d,RUSH_YDS,o39.5,7/8,14/16,65.0,0.38,2,110.2,Soft,Run 4 / Pass 19,1.27,0.925,
-ALL|85,Tee Higgins,WR,CIN,BAL,A,CIN -1.5,,14d bye,REC,o2.5,7/8,14/16,4.8,0.37,4,13.5,Soft,Run 24 / Pass 12,1.27,0.925,
-ALL|86,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,TGT,o3.5,7/8,14/16,6.1,0.35,3,6.8,Soft,Run 29 / Pass 3,1.27,0.925,
-ALL|87,Pat Freiermuth,TE,PIT,NO,A,PIT -3.5,,7d,REC,o1.5,7/8,14/16,2.9,0.32,4,6.6,Soft,Run 12 / Pass 9,1.27,0.925,
-ALL|88,Quinshon Judkins,RB,CLE,TEN,A,CLE -1.5,,7d,RUSH_ATT,o11.5,7/8,14/16,15.9,0.24,8,23.8,Soft,Run 19 / Pass 7,1.27,0.925,
-ALL|89,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,PASS_YDS,o174.5,8/8,11/13,243.8,0.28,11,243.0,Mid,Run 24 / Pass 12,1.2,0.923,
-ALL|90,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,COMP,o19.5,8/8,11/13,23.7,0.16,9,22.2,Mid,Run 24 / Pass 12,1.2,0.923,
-ALL|91,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,ATT,o30.5,8/8,11/13,34.5,0.1,15,33.6,Mid,Run 24 / Pass 12,1.2,0.923,
-ALL|92,Nico Collins,WR,HOU,NYG,H,HOU -10.5,,7d,REC,o2.5,8/8,16/16,4.9,0.38,25,10.4,Tough,Run 6 / Pass 31,1.11,0.92,"big spread, game script risk"
-ALL|93,Courtland Sutton,WR,DEN,ARI,A,DEN -4.5,,10d,TGT,o2.5,8/8,15/16,6.5,0.54,28,16.4,Tough,Run 9 / Pass 6,1.15,0.919,
-ALL|94,Tre Tucker,WR,LV,LA,H,LA -3.5,,7d,REC_YDS,o19.5,8/8,15/16,42.4,0.53,27,125.9,Tough,Run 8 / Pass 27,1.15,0.919,
-ALL|95,Chase Brown,RB,CIN,BAL,A,CIN -1.5,,14d bye,RR_YDS,o49.5,8/8,15/16,95.1,0.47,31,96.6,Tough,Run 24 / Pass 12,1.15,0.919,
-ALL|96,Josh Downs,WR,IND,MIN,A,MIN -6.5,,7d,REC,o1.5,8/8,15/16,3.5,0.43,31,9.0,Tough,Run 27 / Pass 32,1.15,0.919,
-ALL|97,Kenneth Walker III,RB,KC,SEA,A,SEA -3,,7d,RUSH_ATT,o9.5,8/8,15/16,17.0,0.41,24,20.5,Tough,Run 25 / Pass 30,1.15,0.919,
-ALL|98,Tre Tucker,WR,LV,LA,H,LA -3.5,,7d,REC,o1.5,8/8,15/16,3.2,0.38,28,9.8,Tough,Run 8 / Pass 27,1.15,0.919,
-ALL|99,Tyler Warren,TE,IND,MIN,A,MIN -6.5,,7d,REC,o2.5,8/8,15/16,4.8,0.38,32,2.2,Tough,Run 27 / Pass 32,1.15,0.919,
-ALL|100,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,RUSH_ATT,o9.5,8/8,15/16,15.4,0.35,27,20.2,Tough,Run 29 / Pass 3,1.15,0.919,
-ALL|101,Brock Bowers,TE,LV,LA,H,LA -3.5,,7d,REC,o3.5,8/8,15/16,5.8,0.3,26,4.2,Tough,Run 8 / Pass 27,1.15,0.919,
-ALL|102,Tyler Warren,TE,IND,MIN,A,MIN -6.5,,7d,TGT,o4.5,8/8,15/16,6.8,0.26,32,4.8,Tough,Run 27 / Pass 32,1.15,0.919,
-ALL|103,Tucker Kraft,TE,GB,DET,A,DET -3,,7d,REC_YDS,o19.5,7/8,12/14,52.7,0.62,1,89.9,Soft,Run 9 / Pass 4,1.28,0.916,
-ALL|104,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,REC,o2.5,7/8,12/14,4.1,0.26,2,14.0,Soft,Run 29 / Pass 3,1.28,0.916,
-ALL|105,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,PASS_TD,o0.5,8/8,12/13,2.2,0.54,29,0.9,Tough,Run 24 / Pass 12,1.16,0.912,
-ALL|106,Malik Nabers,WR,NYG,HOU,A,HOU -10.5,,7d,REC,o1.5,7/8,9/10,5.9,0.66,8,12.6,Soft,Run 30 / Pass 13,1.25,0.907,"big spread, game script risk"
-ALL|107,Malik Nabers,WR,NYG,HOU,A,HOU -10.5,,7d,TGT,o3.5,7/8,9/10,9.6,0.58,4,21.1,Soft,Run 30 / Pass 13,1.25,0.907,"big spread, game script risk"
-ALL|108,Luther Burden III,WR,CHI,NE,H,CHI -3,,4d short,TGT,o4.5,8/8,14/16,6.4,0.22,14,18.9,Mid,Run 26 / Pass 26,1.19,0.907,4d short
-ALL|109,D'Andre Swift,RB,CHI,NE,H,CHI -3,,4d short,RR_YDS,o69.5,8/8,14/16,83.6,0.16,18,122.4,Mid,Run 26 / Pass 26,1.19,0.907,4d short
-ALL|110,CeeDee Lamb,WR,DAL,PHI,A,DAL -4.5,,8d,REC,o1.5,7/8,15/16,6.4,0.69,12,11.6,Mid,Run 14 / Pass 11,1.23,0.906,
-ALL|111,Drake London,WR,ATL,SF,H,SF -2.5,,7d,REC,o1.5,7/8,15/16,5.5,0.64,21,10.9,Mid,Run 21 / Pass 27,1.23,0.906,
-ALL|112,George Pickens,WR,DAL,PHI,A,DAL -4.5,,8d,REC,o1.5,7/8,15/16,5.6,0.64,12,11.6,Mid,Run 14 / Pass 11,1.23,0.906,
-ALL|113,Michael Wilson,WR,ARI,DEN,H,DEN -4.5,,7d,RR_YDS,o29.5,7/8,15/16,74.4,0.6,22,135.6,Mid,Run 2 / Pass 24,1.23,0.906,
-ALL|114,Dallas Goedert,TE,PHI,DAL,H,DAL -4.5,,8d,REC,o1.5,7/8,15/16,4.1,0.52,20,4.5,Mid,Run 1 / Pass 17,1.23,0.906,
-ALL|115,Harold Fannin Jr.,TE,CLE,TEN,A,CLE -1.5,,7d,TGT,o2.5,7/8,15/16,6.2,0.52,19,6.8,Mid,Run 19 / Pass 7,1.23,0.906,
-ALL|116,Aaron Jones,RB,MIN,IND,H,MIN -6.5,,14d bye,RUSH_YDS,o29.5,8/8,13/16,58.4,0.49,12,99.0,Mid,Run 11 / Pass 14,1.23,0.906,
-ALL|117,Cade Otton,TE,TB,CAR,A,CAR -3,,7d,REC,o1.5,7/8,15/16,3.9,0.49,14,5.2,Mid,Run 4 / Pass 19,1.23,0.906,
-ALL|118,CeeDee Lamb,WR,DAL,PHI,A,DAL -4.5,,8d,TGT,o4.5,7/8,15/16,9.6,0.48,10,19.4,Mid,Run 14 / Pass 11,1.23,0.906,
-ALL|119,Wan'Dale Robinson,WR,TEN,CLE,H,CLE -1.5,,7d,REC,o2.5,7/8,15/16,5.5,0.45,19,11.0,Mid,Run 16 / Pass 22,1.23,0.906,
-ALL|120,Jacoby Brissett,QB,ARI,DEN,H,DEN -4.5,,7d,PASS_TD,o0.5,7/8,15/16,1.8,0.43,22,1.2,Mid,Run 2 / Pass 24,1.23,0.906,
-ATT|1,Jared Goff,QB,DET,GB,H,DET -3,,14d bye,ATT,o27.5,8/8,15/16,37.2,0.25,5,36.2,Soft,Run 17 / Pass 18,1.15,1.019,
-ATT|2,Brock Purdy,QB,SF,ATL,A,SF -2.5,,6d,ATT,o24.5,7/8,15/16,29.9,0.16,1,39.8,Soft,Run 29 / Pass 3,1.23,0.956,
-ATT|3,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,ATT,o30.5,8/8,11/13,34.5,0.1,15,33.6,Mid,Run 24 / Pass 12,1.2,0.923,
-ATT|4,Patrick Mahomes,QB,KC,SEA,A,SEA -3,,7d,ATT,o24.5,7/8,15/16,34.7,0.28,20,32.1,Mid,Run 25 / Pass 30,1.23,0.906,
-ATT|5,Jacoby Brissett,QB,ARI,DEN,H,DEN -4.5,,7d,ATT,o30.5,7/8,15/16,39.9,0.22,10,34.5,Mid,Run 2 / Pass 24,1.23,0.906,
-ATT|6,Aaron Rodgers,QB,PIT,NO,A,PIT -3.5,,7d,ATT,o30.5,8/8,13/16,34.8,0.11,12,34.0,Mid,Run 12 / Pass 9,1.23,0.906,
-ATT|7,Jordan Love,QB,GB,DET,A,DET -3,,7d,ATT,o24.5,7/8,13/16,33.4,0.25,3,37.8,Soft,Run 9 / Pass 4,1.32,0.894,
-ATT|8,Tyler Shough,QB,NO,PIT,H,PIT -3.5,,7d,ATT,o24.5,8/8,14/16,35.0,0.29,23,31.4,Tough,Run 15 / Pass 20,1.19,0.887,
-ATT|9,Kyler Murray,QB,MIN,IND,H,MIN -6.5,,14d bye,ATT,o24.5,7/8,8/9,29.1,0.14,19,32.2,Mid,Run 11 / Pass 14,1.26,0.882,
-ATT|10,Caleb Williams,QB,CHI,NE,H,CHI -3,,4d short,ATT,o27.5,7/8,15/16,35.2,0.21,17,32.6,Mid,Run 26 / Pass 26,1.23,0.876,4d short
-ATT|11,Matthew Stafford,QB,LA,LV,A,LA -3.5,,7d,ATT,o30.5,7/8,14/16,39.2,0.21,22,31.8,Mid,Run 5 / Pass 15,1.27,0.875,
-ATT|12,Dak Prescott,QB,DAL,PHI,A,DAL -4.5,,8d,ATT,o30.5,7/8,14/16,36.7,0.16,14,33.8,Mid,Run 14 / Pass 11,1.27,0.875,
-ATT|13,Bo Nix,QB,DEN,ARI,A,DEN -4.5,,10d,ATT,o24.5,7/8,15/16,35.1,0.29,25,31.0,Tough,Run 9 / Pass 6,1.23,0.856,
-ATT|14,Daniel Jones,QB,IND,MIN,A,MIN -6.5,,7d,ATT,o24.5,7/8,15/16,32.1,0.22,32,26.1,Tough,Run 27 / Pass 32,1.23,0.856,
-ATT|15,Jalen Hurts,QB,PHI,DAL,H,DAL -4.5,,8d,ATT,o24.5,8/8,13/16,29.4,0.15,30,29.2,Tough,Run 1 / Pass 17,1.23,0.856,
-ATT|16,C.J. Stroud,QB,HOU,NYG,H,HOU -10.5,,7d,ATT,o27.5,7/8,13/16,33.0,0.15,28,30.6,Tough,Run 6 / Pass 31,1.32,0.764,"big spread, game script risk"
-COMP|1,Jared Goff,QB,DET,GB,H,DET -3,,14d bye,COMP,o17.5,8/8,15/16,24.3,0.26,7,22.6,Soft,Run 17 / Pass 18,1.15,1.019,
-COMP|2,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,COMP,o19.5,8/8,11/13,23.7,0.16,9,22.2,Mid,Run 24 / Pass 12,1.2,0.923,
-COMP|3,Dak Prescott,QB,DAL,PHI,A,DAL -4.5,,8d,COMP,o17.5,7/8,15/16,23.9,0.25,18,20.4,Mid,Run 14 / Pass 11,1.23,0.906,
-COMP|4,Matthew Stafford,QB,LA,LV,A,LA -3.5,,7d,COMP,o19.5,7/8,14/16,24.7,0.19,18,20.4,Mid,Run 5 / Pass 15,1.27,0.875,
-COMP|5,Jacoby Brissett,QB,ARI,DEN,H,DEN -4.5,,7d,COMP,o19.5,7/8,14/16,26.2,0.24,24,19.6,Tough,Run 2 / Pass 24,1.27,0.825,
-PASS_TD|1,Jared Goff,QB,DET,GB,H,DET -3,,14d bye,PASS_TD,o0.5,8/8,16/16,2.0,0.5,24,1.1,Tough,Run 17 / Pass 18,1.11,0.95,
-PASS_TD|2,Brock Purdy,QB,SF,ATL,A,SF -2.5,,6d,PASS_TD,o0.5,7/8,14/16,2.1,0.53,8,1.6,Soft,Run 29 / Pass 3,1.27,0.925,
-PASS_TD|3,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,PASS_TD,o0.5,8/8,12/13,2.2,0.54,29,0.9,Tough,Run 24 / Pass 12,1.16,0.912,
-PASS_TD|4,Jacoby Brissett,QB,ARI,DEN,H,DEN -4.5,,7d,PASS_TD,o0.5,7/8,15/16,1.8,0.43,22,1.2,Mid,Run 2 / Pass 24,1.23,0.906,
-PASS_TD|5,Jalen Hurts,QB,PHI,DAL,H,DAL -4.5,,8d,PASS_TD,o0.5,7/8,13/16,1.6,0.38,8,1.6,Soft,Run 1 / Pass 17,1.32,0.894,
-PASS_TD|6,Bryce Young,QB,CAR,TB,H,CAR -3,,7d,PASS_TD,o0.5,7/8,13/16,1.6,0.36,8,1.6,Soft,Run 31 / Pass 16,1.32,0.894,
-PASS_TD|7,Geno Smith,QB,NYJ,MIA,H,NYJ -4.5,,7d,PASS_TD,o0.5,7/8,13/16,1.2,0.2,3,2.2,Soft,Run 13 / Pass 8,1.32,0.894,
-PASS_TD|8,Baker Mayfield,QB,TB,CAR,A,CAR -3,,7d,PASS_TD,o0.5,7/8,14/16,1.2,0.2,18,1.4,Mid,Run 4 / Pass 19,1.27,0.875,
-PASS_TD|9,C.J. Stroud,QB,HOU,NYG,H,HOU -10.5,,7d,PASS_TD,o0.5,7/8,13/16,1.3,0.24,8,1.6,Soft,Run 6 / Pass 31,1.32,0.864,"big spread, game script risk"
-PASS_TD|10,Dak Prescott,QB,DAL,PHI,A,DAL -4.5,,8d,PASS_TD,o0.5,7/8,13/16,1.5,0.33,18,1.4,Mid,Run 14 / Pass 11,1.32,0.844,
-PASS_TD|11,Caleb Williams,QB,CHI,NE,H,CHI -3,,4d short,PASS_TD,o0.5,7/8,13/16,1.6,0.36,24,1.1,Tough,Run 26 / Pass 26,1.32,0.764,4d short
-PASS_YDS|1,Joe Burrow,QB,CIN,BAL,A,CIN -1.5,,14d bye,PASS_YDS,o174.5,8/8,11/13,243.8,0.28,11,243.0,Mid,Run 24 / Pass 12,1.2,0.923,
-PASS_YDS|2,Dak Prescott,QB,DAL,PHI,A,DAL -4.5,,8d,PASS_YDS,o174.5,7/8,15/16,269.4,0.35,12,239.5,Mid,Run 14 / Pass 11,1.23,0.906,
-PASS_YDS|3,Matthew Stafford,QB,LA,LV,A,LA -3.5,,7d,PASS_YDS,o199.5,7/8,15/16,305.0,0.34,15,234.2,Mid,Run 5 / Pass 15,1.23,0.906,
-PASS_YDS|4,Jared Goff,QB,DET,GB,H,DET -3,,14d bye,PASS_YDS,o199.5,7/8,15/16,291.2,0.31,18,231.9,Mid,Run 17 / Pass 18,1.23,0.906,
-PASS_YDS|5,Brock Purdy,QB,SF,ATL,A,SF -2.5,,6d,PASS_YDS,o174.5,7/8,13/16,234.5,0.25,3,267.5,Soft,Run 29 / Pass 3,1.32,0.894,
-PASS_YDS|6,Michael Penix Jr.,QB,ATL,SF,H,SF -2.5,,7d,PASS_YDS,o174.5,8/8,11/13,225.1,0.22,27,205.8,Tough,Run 21 / Pass 27,1.2,0.873,
-PASS_YDS|7,Patrick Mahomes,QB,KC,SEA,A,SEA -3,,7d,PASS_YDS,o174.5,7/8,15/16,264.2,0.34,30,201.2,Tough,Run 25 / Pass 30,1.23,0.856,
-PASS_YDS|8,Drake Maye,QB,NE,CHI,A,CHI -3,,4d short,PASS_YDS,o174.5,7/8,14/16,240.6,0.27,10,243.6,Mid,Run 28 / Pass 10,1.27,0.845,4d short
-PASS_YDS|9,Caleb Williams,QB,CHI,NE,H,CHI -3,,4d short,PASS_YDS,o174.5,7/8,14/16,245.1,0.29,26,212.5,Tough,Run 26 / Pass 26,1.27,0.795,4d short
-PASS_YDS|10,C.J. Stroud,QB,HOU,NYG,H,HOU -10.5,,7d,PASS_YDS,o174.5,7/8,13/16,244.5,0.28,31,190.9,Tough,Run 6 / Pass 31,1.32,0.764,"big spread, game script risk"
-REC|1,Tucker Kraft,TE,GB,DET,A,DET -3,,7d,REC,o1.5,8/8,14/14,4.1,0.51,1,9.0,Soft,Run 9 / Pass 4,1.11,1.05,
-REC|2,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,REC,o2.5,8/8,15/16,5.0,0.4,6,5.0,Soft,Run 29 / Pass 3,1.15,1.019,
-REC|3,Justin Jefferson,WR,MIN,IND,H,MIN -6.5,,14d bye,REC,o1.5,8/8,16/16,4.6,0.57,17,11.2,Mid,Run 11 / Pass 14,1.11,1.0,
-REC|4,Sam LaPorta,TE,DET,GB,H,DET -3,,14d bye,REC,o2.5,8/8,14/14,4.8,0.37,18,4.9,Mid,Run 17 / Pass 18,1.11,1.0,
-REC|5,Jameson Williams,WR,DET,GB,H,DET -3,,14d bye,REC,o1.5,8/8,14/16,4.1,0.52,4,13.5,Soft,Run 17 / Pass 18,1.19,0.988,
-REC|6,Amon-Ra St. Brown,WR,DET,GB,H,DET -3,,14d bye,REC,o3.5,8/8,14/16,6.9,0.42,4,13.5,Soft,Run 17 / Pass 18,1.19,0.988,
-REC|7,Mack Hollins,WR,NE,CHI,A,CHI -3,,4d short,REC,o1.5,8/8,16/16,3.8,0.47,18,11.1,Mid,Run 28 / Pass 10,1.11,0.97,4d short
-REC|8,Luther Burden III,WR,CHI,NE,H,CHI -3,,4d short,REC,o2.5,8/8,16/16,4.4,0.32,12,11.6,Mid,Run 26 / Pass 26,1.11,0.97,4d short
-REC|9,Greg Dulcich,TE,MIA,NYJ,A,NYJ -4.5,,14d bye,REC,o1.5,8/8,12/13,3.0,0.33,14,5.2,Mid,Run 3 / Pass 23,1.16,0.962,
-REC|10,George Kittle,TE,SF,ATL,A,SF -2.5,,6d,REC,o1.5,7/8,15/16,5.0,0.6,7,6.5,Soft,Run 29 / Pass 3,1.23,0.956,
-REC|11,Ja'Marr Chase,WR,CIN,BAL,A,CIN -1.5,,14d bye,REC,o2.5,7/8,15/16,7.5,0.6,4,13.5,Soft,Run 24 / Pass 12,1.23,0.956,
-REC|12,Bijan Robinson,RB,ATL,SF,H,SF -2.5,,7d,REC,o1.5,7/8,15/16,4.1,0.52,1,6.2,Soft,Run 21 / Pass 27,1.23,0.956,
-REC|13,Deebo Samuel Sr.,WR,SF,ATL,A,SF -2.5,,6d,REC,o1.5,7/8,15/16,3.6,0.45,2,14.0,Soft,Run 29 / Pass 3,1.23,0.956,
-REC|14,Puka Nacua,WR,LA,LV,A,LA -3.5,,7d,REC,o4.5,8/8,16/16,8.1,0.38,27,10.0,Tough,Run 5 / Pass 15,1.11,0.95,
-REC|15,Dalton Schultz,TE,HOU,NYG,H,HOU -10.5,,7d,REC,o1.5,8/8,15/16,4.4,0.54,9,6.0,Mid,Run 6 / Pass 31,1.15,0.939,"big spread, game script risk"
-REC|16,Rome Odunze,WR,CHI,NE,H,CHI -3,,4d short,REC,o1.5,8/8,15/16,3.0,0.33,12,11.6,Mid,Run 26 / Pass 26,1.15,0.939,4d short
-REC|17,Jalen Coker,WR,CAR,TB,H,CAR -3,,7d,REC,o1.5,8/8,14/16,4.1,0.52,11,11.8,Mid,Run 31 / Pass 16,1.19,0.938,
-REC|18,Chris Olave,WR,NO,PIT,H,PIT -3.5,,7d,REC,o3.5,8/8,14/16,6.5,0.38,14,11.5,Mid,Run 15 / Pass 20,1.19,0.938,
-REC|19,Tee Higgins,WR,CIN,BAL,A,CIN -1.5,,14d bye,REC,o2.5,7/8,14/16,4.8,0.37,4,13.5,Soft,Run 24 / Pass 12,1.27,0.925,
-REC|20,Pat Freiermuth,TE,PIT,NO,A,PIT -3.5,,7d,REC,o1.5,7/8,14/16,2.9,0.32,4,6.6,Soft,Run 12 / Pass 9,1.27,0.925,
-REC|21,Nico Collins,WR,HOU,NYG,H,HOU -10.5,,7d,REC,o2.5,8/8,16/16,4.9,0.38,25,10.4,Tough,Run 6 / Pass 31,1.11,0.92,"big spread, game script risk"
-REC|22,Josh Downs,WR,IND,MIN,A,MIN -6.5,,7d,REC,o1.5,8/8,15/16,3.5,0.43,31,9.0,Tough,Run 27 / Pass 32,1.15,0.919,
-REC|23,Tre Tucker,WR,LV,LA,H,LA -3.5,,7d,REC,o1.5,8/8,15/16,3.2,0.38,28,9.8,Tough,Run 8 / Pass 27,1.15,0.919,
-REC|24,Tyler Warren,TE,IND,MIN,A,MIN -6.5,,7d,REC,o2.5,8/8,15/16,4.8,0.38,32,2.2,Tough,Run 27 / Pass 32,1.15,0.919,
-REC|25,Brock Bowers,TE,LV,LA,H,LA -3.5,,7d,REC,o3.5,8/8,15/16,5.8,0.3,26,4.2,Tough,Run 8 / Pass 27,1.15,0.919,
-REC|26,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,REC,o2.5,7/8,12/14,4.1,0.26,2,14.0,Soft,Run 29 / Pass 3,1.28,0.916,
-REC|27,Malik Nabers,WR,NYG,HOU,A,HOU -10.5,,7d,REC,o1.5,7/8,9/10,5.9,0.66,8,12.6,Soft,Run 30 / Pass 13,1.25,0.907,"big spread, game script risk"
-REC|28,CeeDee Lamb,WR,DAL,PHI,A,DAL -4.5,,8d,REC,o1.5,7/8,15/16,6.4,0.69,12,11.6,Mid,Run 14 / Pass 11,1.23,0.906,
-REC|29,Drake London,WR,ATL,SF,H,SF -2.5,,7d,REC,o1.5,7/8,15/16,5.5,0.64,21,10.9,Mid,Run 21 / Pass 27,1.23,0.906,
-REC|30,George Pickens,WR,DAL,PHI,A,DAL -4.5,,8d,REC,o1.5,7/8,15/16,5.6,0.64,12,11.6,Mid,Run 14 / Pass 11,1.23,0.906,
-REC|31,Dallas Goedert,TE,PHI,DAL,H,DAL -4.5,,8d,REC,o1.5,7/8,15/16,4.1,0.52,20,4.5,Mid,Run 1 / Pass 17,1.23,0.906,
-REC|32,Cade Otton,TE,TB,CAR,A,CAR -3,,7d,REC,o1.5,7/8,15/16,3.9,0.49,14,5.2,Mid,Run 4 / Pass 19,1.23,0.906,
-REC|33,Wan'Dale Robinson,WR,TEN,CLE,H,CLE -1.5,,7d,REC,o2.5,7/8,15/16,5.5,0.45,19,11.0,Mid,Run 16 / Pass 22,1.23,0.906,
-REC|34,Jahmyr Gibbs,RB,DET,GB,H,DET -3,,14d bye,REC,o2.5,7/8,15/16,5.1,0.41,16,4.1,Mid,Run 17 / Pass 18,1.23,0.906,
-REC|35,Kyren Williams,RB,LA,LV,A,LA -3.5,,7d,REC,o1.5,8/8,13/16,3.2,0.37,12,4.4,Mid,Run 5 / Pass 15,1.23,0.906,
-REC|36,Christian Watson,WR,GB,DET,A,DET -3,,7d,REC,o2.5,8/8,13/16,3.9,0.24,9,12.1,Mid,Run 9 / Pass 4,1.23,0.906,
-REC|37,Trey McBride,TE,ARI,DEN,H,DEN -4.5,,7d,REC,o6.5,8/8,13/16,8.0,0.12,16,5.1,Mid,Run 2 / Pass 24,1.23,0.906,
-REC|38,Garrett Wilson,WR,NYJ,MIA,H,NYJ -4.5,,7d,REC,o2.5,7/8,12/13,5.5,0.45,14,11.5,Mid,Run 13 / Pass 8,1.24,0.899,
-REC|39,Chase Brown,RB,CIN,BAL,A,CIN -1.5,,14d bye,REC,o2.5,7/8,13/16,4.6,0.34,5,5.1,Soft,Run 24 / Pass 12,1.32,0.894,
-REC|40,Mark Andrews,TE,BAL,CIN,H,CIN -1.5,,7d,REC,o1.5,7/8,13/16,2.9,0.32,4,6.6,Soft,Run 18 / Pass 21,1.32,0.894,
-REC_YDS|1,Jahmyr Gibbs,RB,DET,GB,H,DET -3,,14d bye,REC_YDS,o19.5,8/8,14/16,46.7,0.57,8,35.4,Soft,Run 17 / Pass 18,1.19,0.988,
-REC_YDS|2,Davante Adams,WR,LA,LV,A,LA -3.5,,7d,REC_YDS,o19.5,8/8,15/16,63.9,0.69,12,152.9,Mid,Run 5 / Pass 15,1.15,0.969,
-REC_YDS|3,Chris Olave,WR,NO,PIT,H,PIT -3.5,,7d,REC_YDS,o39.5,8/8,15/16,87.6,0.54,11,157.6,Mid,Run 15 / Pass 20,1.15,0.969,
-REC_YDS|4,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,REC_YDS,o29.5,8/8,13/14,56.3,0.47,9,166.1,Mid,Run 29 / Pass 3,1.15,0.964,
-REC_YDS|5,A.J. Brown,WR,NE,CHI,A,CHI -3,,4d short,REC_YDS,o19.5,8/8,14/16,65.4,0.69,5,171.5,Soft,Run 28 / Pass 10,1.19,0.958,4d short
-REC_YDS|6,Ja'Marr Chase,WR,CIN,BAL,A,CIN -1.5,,14d bye,REC_YDS,o19.5,7/8,15/16,82.9,0.76,3,183.0,Soft,Run 24 / Pass 12,1.23,0.956,
-REC_YDS|7,George Pickens,WR,DAL,PHI,A,DAL -4.5,,8d,REC_YDS,o19.5,7/8,15/16,78.1,0.74,8,166.5,Soft,Run 14 / Pass 11,1.23,0.956,
-REC_YDS|8,Jameson Williams,WR,DET,GB,H,DET -3,,14d bye,REC_YDS,o29.5,8/8,14/16,69.0,0.57,18,144.9,Mid,Run 17 / Pass 18,1.19,0.938,
-REC_YDS|9,Deebo Samuel Sr.,WR,SF,ATL,A,SF -2.5,,6d,REC_YDS,o19.5,8/8,14/16,39.6,0.49,9,166.1,Mid,Run 29 / Pass 3,1.19,0.938,
-REC_YDS|10,Tre Tucker,WR,LV,LA,H,LA -3.5,,7d,REC_YDS,o19.5,8/8,15/16,42.4,0.53,27,125.9,Tough,Run 8 / Pass 27,1.15,0.919,
-REC_YDS|11,Tucker Kraft,TE,GB,DET,A,DET -3,,7d,REC_YDS,o19.5,7/8,12/14,52.7,0.62,1,89.9,Soft,Run 9 / Pass 4,1.28,0.916,
-REC_YDS|12,Mack Hollins,WR,NE,CHI,A,CHI -3,,4d short,REC_YDS,o19.5,7/8,14/16,52.9,0.62,5,171.5,Soft,Run 28 / Pass 10,1.27,0.895,4d short
-REC_YDS|13,Tee Higgins,WR,CIN,BAL,A,CIN -1.5,,14d bye,REC_YDS,o39.5,7/8,13/16,70.8,0.44,3,183.0,Soft,Run 24 / Pass 12,1.32,0.894,
-REC_YDS|14,DK Metcalf,WR,PIT,NO,A,PIT -3.5,,7d,REC_YDS,o19.5,7/8,14/16,50.2,0.6,15,148.0,Mid,Run 12 / Pass 9,1.27,0.875,
-REC_YDS|15,Trey McBride,TE,ARI,DEN,H,DEN -4.5,,7d,REC_YDS,o39.5,7/8,14/16,73.7,0.46,12,57.0,Mid,Run 2 / Pass 24,1.27,0.875,
-REC_YDS|16,Chris Godwin Jr.,WR,TB,CAR,A,CAR -3,,7d,REC_YDS,o19.5,7/8,13/15,38.4,0.48,21,137.0,Mid,Run 4 / Pass 19,1.28,0.871,
-REC_YDS|17,Sam LaPorta,TE,DET,GB,H,DET -3,,14d bye,REC_YDS,o29.5,7/8,12/14,57.5,0.48,16,50.9,Mid,Run 17 / Pass 18,1.28,0.866,
-REC_YDS|18,Rome Odunze,WR,CHI,NE,H,CHI -3,,4d short,REC_YDS,o29.5,8/8,14/16,47.8,0.37,23,131.9,Tough,Run 26 / Pass 26,1.19,0.857,4d short
-REC_YDS|19,Drake London,WR,ATL,SF,H,SF -2.5,,7d,REC_YDS,o19.5,7/8,15/16,85.3,0.77,26,128.2,Tough,Run 21 / Pass 27,1.23,0.856,
-REC_YDS|20,Michael Wilson,WR,ARI,DEN,H,DEN -4.5,,7d,REC_YDS,o29.5,7/8,15/16,74.4,0.6,25,129.6,Tough,Run 2 / Pass 24,1.23,0.856,
-REC_YDS|21,Brock Bowers,TE,LV,LA,H,LA -3.5,,7d,REC_YDS,o29.5,7/8,15/16,66.4,0.55,27,35.5,Tough,Run 8 / Pass 27,1.23,0.856,
-REC_YDS|22,Justin Jefferson,WR,MIN,IND,H,MIN -6.5,,14d bye,REC_YDS,o29.5,7/8,13/16,53.6,0.44,14,150.4,Mid,Run 11 / Pass 14,1.32,0.844,
-REC_YDS|23,Christian Watson,WR,GB,DET,A,DET -3,,7d,REC_YDS,o39.5,7/8,13/16,68.8,0.42,13,151.2,Mid,Run 9 / Pass 4,1.32,0.844,
-REC_YDS|24,DeVonta Smith,WR,PHI,DAL,H,DAL -4.5,,8d,REC_YDS,o39.5,7/8,13/16,66.7,0.4,10,163.1,Mid,Run 1 / Pass 17,1.32,0.844,
-REC_YDS|25,Amon-Ra St. Brown,WR,DET,GB,H,DET -3,,14d bye,REC_YDS,o49.5,7/8,13/16,82.6,0.39,18,144.9,Mid,Run 17 / Pass 18,1.32,0.844,
-REC_YDS|26,Puka Nacua,WR,LA,LV,A,LA -3.5,,7d,REC_YDS,o69.5,7/8,13/16,109.6,0.36,12,152.9,Mid,Run 5 / Pass 15,1.32,0.844,
-REC_YDS|27,Rashee Rice,WR,KC,SEA,A,SEA -3,,7d,REC_YDS,o29.5,7/8,10/11,69.2,0.57,24,130.6,Tough,Run 25 / Pass 30,1.25,0.842,
-REC_YDS|28,Zay Flowers,WR,BAL,CIN,H,CIN -1.5,,7d,REC_YDS,o49.5,7/8,14/16,78.7,0.36,30,117.4,Tough,Run 18 / Pass 21,1.27,0.825,
-REC_YDS|29,Luther Burden III,WR,CHI,NE,H,CHI -3,,4d short,REC_YDS,o29.5,7/8,14/16,56.8,0.47,23,131.9,Tough,Run 26 / Pass 26,1.27,0.795,4d short
-REC_YDS|30,Nico Collins,WR,HOU,NYG,H,HOU -10.5,,7d,REC_YDS,o49.5,7/8,14/16,75.1,0.33,28,120.6,Tough,Run 6 / Pass 31,1.27,0.795,"big spread, game script risk"
-REC_YDS|31,Tyler Warren,TE,IND,MIN,A,MIN -6.5,,7d,REC_YDS,o19.5,7/8,13/16,41.2,0.52,32,28.5,Tough,Run 27 / Pass 32,1.32,0.794,
-REC_YDS|32,Jaxon Smith-Njigba,WR,SEA,KC,H,SEA -3,,10d,REC_YDS,o69.5,7/8,13/16,97.7,0.28,32,104.1,Tough,Run 22 / Pass 29,1.32,0.794,
-RR_YDS|1,Breece Hall,RB,NYJ,MIA,H,NYJ -4.5,,7d,RR_YDS,o29.5,8/8,16/16,90.3,0.67,5,138.8,Soft,Run 13 / Pass 8,1.11,1.05,
-RR_YDS|2,Bucky Irving,RB,TB,CAR,A,CAR -3,,7d,RR_YDS,o29.5,8/8,16/16,86.9,0.65,3,141.4,Soft,Run 4 / Pass 19,1.11,1.05,
-RR_YDS|3,J.K. Dobbins,RB,DEN,ARI,A,DEN -4.5,,10d,RR_YDS,o29.5,8/8,16/16,69.1,0.57,4,139.5,Soft,Run 9 / Pass 6,1.11,1.05,
-RR_YDS|4,Kyren Williams,RB,LA,LV,A,LA -3.5,,7d,RR_YDS,o49.5,8/8,15/16,91.5,0.45,2,143.0,Soft,Run 5 / Pass 15,1.15,1.019,
-RR_YDS|5,Chris Olave,WR,NO,PIT,H,PIT -3.5,,7d,RR_YDS,o29.5,8/8,16/16,87.4,0.66,12,158.4,Mid,Run 15 / Pass 20,1.11,1.0,
-RR_YDS|6,Travis Etienne,RB,NO,PIT,H,PIT -3.5,,7d,RR_YDS,o29.5,8/8,16/16,75.6,0.6,14,127.9,Mid,Run 15 / Pass 20,1.11,1.0,
-RR_YDS|7,Aaron Jones,RB,MIN,IND,H,MIN -6.5,,14d bye,RR_YDS,o29.5,8/8,14/16,72.6,0.59,7,135.6,Soft,Run 11 / Pass 14,1.19,0.988,
-RR_YDS|8,Jahmyr Gibbs,RB,DET,GB,H,DET -3,,14d bye,RR_YDS,o49.5,8/8,15/16,130.2,0.62,13,129.4,Mid,Run 17 / Pass 18,1.15,0.969,
-RR_YDS|9,Trey McBride,TE,ARI,DEN,H,DEN -4.5,,7d,RR_YDS,o29.5,8/8,15/16,73.7,0.59,13,57.0,Mid,Run 2 / Pass 24,1.15,0.969,
-RR_YDS|10,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,RR_YDS,o29.5,8/8,13/14,56.3,0.47,9,167.1,Mid,Run 29 / Pass 3,1.15,0.964,
-RR_YDS|11,Bijan Robinson,RB,ATL,SF,H,SF -2.5,,7d,RR_YDS,o49.5,7/8,15/16,132.6,0.62,8,134.4,Soft,Run 21 / Pass 27,1.23,0.956,
-RR_YDS|12,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,RR_YDS,o49.5,8/8,13/16,84.6,0.41,6,136.1,Soft,Run 8 / Pass 27,1.23,0.956,
-RR_YDS|13,Jameson Williams,WR,DET,GB,H,DET -3,,14d bye,RR_YDS,o29.5,8/8,14/16,69.7,0.57,18,148.5,Mid,Run 17 / Pass 18,1.19,0.938,
-RR_YDS|14,Christian Watson,WR,GB,DET,A,DET -3,,7d,RR_YDS,o29.5,8/8,14/16,68.9,0.56,11,160.9,Mid,Run 9 / Pass 4,1.19,0.938,
-RR_YDS|15,Tee Higgins,WR,CIN,BAL,A,CIN -1.5,,14d bye,RR_YDS,o29.5,7/8,14/16,70.8,0.58,3,184.5,Soft,Run 24 / Pass 12,1.27,0.925,
-RR_YDS|16,DeVonta Smith,WR,PHI,DAL,H,DAL -4.5,,8d,RR_YDS,o29.5,7/8,14/16,66.7,0.55,6,172.5,Soft,Run 1 / Pass 17,1.27,0.925,
-RR_YDS|17,De'Von Achane,RB,MIA,NYJ,A,NYJ -4.5,,14d bye,RR_YDS,o49.5,7/8,14/16,107.9,0.54,1,155.8,Soft,Run 3 / Pass 23,1.27,0.925,
-RR_YDS|18,RJ Harvey,RB,DEN,ARI,A,DEN -4.5,,10d,RR_YDS,o29.5,7/8,14/16,59.4,0.49,4,139.5,Soft,Run 9 / Pass 6,1.27,0.925,
-RR_YDS|19,Chase Brown,RB,CIN,BAL,A,CIN -1.5,,14d bye,RR_YDS,o49.5,8/8,15/16,95.1,0.47,31,96.6,Tough,Run 24 / Pass 12,1.15,0.919,
-RR_YDS|20,D'Andre Swift,RB,CHI,NE,H,CHI -3,,4d short,RR_YDS,o69.5,8/8,14/16,83.6,0.16,18,122.4,Mid,Run 26 / Pass 26,1.19,0.907,4d short
-RR_YDS|21,Michael Wilson,WR,ARI,DEN,H,DEN -4.5,,7d,RR_YDS,o29.5,7/8,15/16,74.4,0.6,22,135.6,Mid,Run 2 / Pass 24,1.23,0.906,
-RR_YDS|22,Rhamondre Stevenson,RB,NE,CHI,A,CHI -3,,4d short,RR_YDS,o29.5,8/8,15/16,76.1,0.61,27,104.4,Tough,Run 28 / Pass 10,1.15,0.889,4d short
-RR_YDS|23,Quinshon Judkins,RB,CLE,TEN,A,CLE -1.5,,7d,RR_YDS,o29.5,7/8,14/16,65.0,0.54,22,117.5,Mid,Run 19 / Pass 7,1.27,0.875,
-RR_YDS|24,Javonte Williams,RB,DAL,PHI,A,DAL -4.5,,8d,RR_YDS,o49.5,7/8,14/16,74.9,0.33,17,124.4,Mid,Run 14 / Pass 11,1.27,0.875,
-RR_YDS|25,Sam LaPorta,TE,DET,GB,H,DET -3,,14d bye,RR_YDS,o29.5,7/8,12/14,57.5,0.48,16,51.0,Mid,Run 17 / Pass 18,1.28,0.866,
-RR_YDS|26,Rome Odunze,WR,CHI,NE,H,CHI -3,,4d short,RR_YDS,o29.5,8/8,14/16,47.8,0.37,25,131.9,Tough,Run 26 / Pass 26,1.19,0.857,4d short
-RR_YDS|27,Kenneth Walker III,RB,KC,SEA,A,SEA -3,,7d,RR_YDS,o69.5,8/8,13/16,116.5,0.4,25,111.8,Tough,Run 25 / Pass 30,1.23,0.856,
-RR_YDS|28,Derrick Henry,RB,BAL,CIN,H,CIN -1.5,,7d,RR_YDS,o69.5,7/8,15/16,111.8,0.37,26,109.4,Tough,Run 18 / Pass 21,1.23,0.856,
-RR_YDS|29,Jaylen Warren,RB,PIT,NO,A,PIT -3.5,,7d,RR_YDS,o49.5,7/8,13/16,91.2,0.45,12,130.8,Mid,Run 12 / Pass 9,1.32,0.844,
-RR_YDS|30,Justin Jefferson,WR,MIN,IND,H,MIN -6.5,,14d bye,RR_YDS,o29.5,7/8,13/16,53.1,0.43,14,153.1,Mid,Run 11 / Pass 14,1.32,0.844,
-RR_YDS|31,Amon-Ra St. Brown,WR,DET,GB,H,DET -3,,14d bye,RR_YDS,o49.5,7/8,13/16,82.6,0.39,18,148.5,Mid,Run 17 / Pass 18,1.32,0.844,
-RR_YDS|32,Puka Nacua,WR,LA,LV,A,LA -3.5,,7d,RR_YDS,o69.5,7/8,13/16,114.9,0.39,13,154.0,Mid,Run 5 / Pass 15,1.32,0.844,
-RR_YDS|33,Tony Pollard,RB,TEN,CLE,H,CLE -1.5,,7d,RR_YDS,o49.5,7/8,13/16,72.4,0.31,21,117.9,Mid,Run 16 / Pass 22,1.32,0.844,
-RR_YDS|34,Rashee Rice,WR,KC,SEA,A,SEA -3,,7d,RR_YDS,o29.5,7/8,10/11,71.0,0.58,26,131.1,Tough,Run 25 / Pass 30,1.25,0.842,
-RR_YDS|35,Drake London,WR,ATL,SF,H,SF -2.5,,7d,RR_YDS,o29.5,7/8,14/16,85.6,0.65,24,135.4,Tough,Run 21 / Pass 27,1.27,0.825,
-RR_YDS|36,Brock Bowers,TE,LV,LA,H,LA -3.5,,7d,RR_YDS,o29.5,7/8,14/16,66.5,0.55,29,35.5,Tough,Run 8 / Pass 27,1.27,0.825,
-RR_YDS|37,Zay Flowers,WR,BAL,CIN,H,CIN -1.5,,7d,RR_YDS,o49.5,7/8,14/16,83.9,0.4,28,129.2,Tough,Run 18 / Pass 21,1.27,0.825,
-RR_YDS|38,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,RR_YDS,o69.5,7/8,14/16,102.0,0.31,24,115.9,Tough,Run 29 / Pass 3,1.27,0.825,
-RR_YDS|39,Luther Burden III,WR,CHI,NE,H,CHI -3,,4d short,RR_YDS,o29.5,7/8,14/16,59.8,0.5,25,131.9,Tough,Run 26 / Pass 26,1.27,0.795,4d short
-RR_YDS|40,Nico Collins,WR,HOU,NYG,H,HOU -10.5,,7d,RR_YDS,o49.5,7/8,14/16,76.8,0.35,30,121.5,Tough,Run 6 / Pass 31,1.27,0.795,"big spread, game script risk"
-RUSH_ATT|1,Bucky Irving,RB,TB,CAR,A,CAR -3,,7d,RUSH_ATT,o7.5,8/8,16/16,16.8,0.52,6,24.4,Soft,Run 4 / Pass 19,1.11,1.05,
-RUSH_ATT|2,Jaylen Warren,RB,PIT,NO,A,PIT -3.5,,7d,RUSH_ATT,o9.5,8/8,15/16,13.0,0.23,7,24.0,Soft,Run 12 / Pass 9,1.15,1.019,
-RUSH_ATT|3,Travis Etienne,RB,NO,PIT,H,PIT -3.5,,7d,RUSH_ATT,o7.5,8/8,16/16,13.9,0.43,14,22.9,Mid,Run 15 / Pass 20,1.11,1.0,
-RUSH_ATT|4,Kyren Williams,RB,LA,LV,A,LA -3.5,,7d,RUSH_ATT,o9.5,8/8,16/16,14.1,0.29,17,22.4,Mid,Run 5 / Pass 15,1.11,1.0,
-RUSH_ATT|5,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,RUSH_ATT,o9.5,8/8,14/16,15.8,0.37,4,24.9,Soft,Run 8 / Pass 27,1.19,0.988,
-RUSH_ATT|6,Breece Hall,RB,NYJ,MIA,H,NYJ -4.5,,7d,RUSH_ATT,o11.5,8/8,15/16,16.0,0.25,10,23.2,Mid,Run 13 / Pass 8,1.15,0.969,
-RUSH_ATT|7,Javonte Williams,RB,DAL,PHI,A,DAL -4.5,,8d,RUSH_ATT,o9.5,7/8,15/16,15.3,0.35,3,25.1,Soft,Run 14 / Pass 11,1.23,0.956,
-RUSH_ATT|8,J.K. Dobbins,RB,DEN,ARI,A,DEN -4.5,,10d,RUSH_ATT,o9.5,7/8,15/16,14.6,0.32,2,25.5,Soft,Run 9 / Pass 6,1.23,0.956,
-RUSH_ATT|9,Quinshon Judkins,RB,CLE,TEN,A,CLE -1.5,,7d,RUSH_ATT,o11.5,7/8,14/16,15.9,0.24,8,23.8,Soft,Run 19 / Pass 7,1.27,0.925,
-RUSH_ATT|10,Kenneth Walker III,RB,KC,SEA,A,SEA -3,,7d,RUSH_ATT,o9.5,8/8,15/16,17.0,0.41,24,20.5,Tough,Run 25 / Pass 30,1.15,0.919,
-RUSH_ATT|11,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,RUSH_ATT,o9.5,8/8,15/16,15.4,0.35,27,20.2,Tough,Run 29 / Pass 3,1.15,0.919,
-RUSH_ATT|12,Aaron Jones,RB,MIN,IND,H,MIN -6.5,,14d bye,RUSH_ATT,o7.5,8/8,13/16,13.8,0.42,19,21.9,Mid,Run 11 / Pass 14,1.23,0.906,
-RUSH_ATT|13,Tony Pollard,RB,TEN,CLE,H,CLE -1.5,,7d,RUSH_ATT,o9.5,7/8,15/16,14.4,0.31,22,21.1,Mid,Run 16 / Pass 22,1.23,0.906,
-RUSH_ATT|14,Derrick Henry,RB,BAL,CIN,H,CIN -1.5,,7d,RUSH_ATT,o14.5,8/8,14/16,20.5,0.27,30,18.4,Tough,Run 18 / Pass 21,1.19,0.887,
-RUSH_ATT|15,Jahmyr Gibbs,RB,DET,GB,H,DET -3,,14d bye,RUSH_ATT,o11.5,7/8,14/16,16.3,0.26,13,23.0,Mid,Run 17 / Pass 18,1.27,0.875,
-RUSH_ATT|16,Jonathan Taylor,RB,IND,MIN,A,MIN -6.5,,7d,RUSH_ATT,o14.5,7/8,13/16,19.6,0.24,16,22.5,Mid,Run 27 / Pass 32,1.32,0.844,
-RUSH_ATT|17,Bijan Robinson,RB,ATL,SF,H,SF -2.5,,7d,RUSH_ATT,o14.5,7/8,13/16,18.2,0.18,12,23.1,Mid,Run 21 / Pass 27,1.32,0.844,
-RUSH_ATT|18,Cam Skattebo,RB,NYG,HOU,A,HOU -10.5,,7d,RUSH_ATT,o9.5,7/8,11/13,14.0,0.29,21,21.6,Mid,Run 30 / Pass 13,1.29,0.831,"big spread, game script risk"
-RUSH_ATT|19,Chase Brown,RB,CIN,BAL,A,CIN -1.5,,14d bye,RUSH_ATT,o11.5,7/8,13/16,14.3,0.16,29,18.9,Tough,Run 24 / Pass 12,1.32,0.794,
-RUSH_ATT|20,D'Andre Swift,RB,CHI,NE,H,CHI -3,,4d short,RUSH_ATT,o9.5,7/8,13/16,14.8,0.32,23,20.8,Tough,Run 26 / Pass 26,1.32,0.764,4d short
-RUSH_YDS|1,Breece Hall,RB,NYJ,MIA,H,NYJ -4.5,,7d,RUSH_YDS,o19.5,8/8,16/16,66.9,0.7,8,104.8,Soft,Run 13 / Pass 8,1.11,1.05,
-RUSH_YDS|2,J.K. Dobbins,RB,DEN,ARI,A,DEN -4.5,,10d,RUSH_YDS,o29.5,8/8,16/16,65.1,0.54,3,109.6,Soft,Run 9 / Pass 6,1.11,1.05,
-RUSH_YDS|3,Javonte Williams,RB,DAL,PHI,A,DAL -4.5,,8d,RUSH_YDS,o29.5,8/8,16/16,65.1,0.54,14,95.8,Mid,Run 14 / Pass 11,1.11,1.0,
-RUSH_YDS|4,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,RUSH_YDS,o19.5,8/8,15/16,52.7,0.62,19,92.0,Mid,Run 8 / Pass 27,1.15,0.969,
-RUSH_YDS|5,Quinshon Judkins,RB,CLE,TEN,A,CLE -1.5,,7d,RUSH_YDS,o19.5,8/8,15/16,50.7,0.61,17,93.1,Mid,Run 19 / Pass 7,1.15,0.969,
-RUSH_YDS|6,Kyren Williams,RB,LA,LV,A,LA -3.5,,7d,RUSH_YDS,o39.5,7/8,15/16,67.4,0.41,4,108.6,Soft,Run 5 / Pass 15,1.23,0.956,
-RUSH_YDS|7,Jaylen Warren,RB,PIT,NO,A,PIT -3.5,,7d,RUSH_YDS,o39.5,8/8,13/16,66.1,0.39,6,105.1,Soft,Run 12 / Pass 9,1.23,0.956,
-RUSH_YDS|8,D'Andre Swift,RB,CHI,NE,H,CHI -3,,4d short,RUSH_YDS,o39.5,8/8,15/16,66.9,0.4,21,85.8,Mid,Run 26 / Pass 26,1.15,0.939,4d short
-RUSH_YDS|9,De'Von Achane,RB,MIA,NYJ,A,NYJ -4.5,,14d bye,RUSH_YDS,o29.5,7/8,14/16,83.1,0.64,1,121.9,Soft,Run 3 / Pass 23,1.27,0.925,
-RUSH_YDS|10,Bucky Irving,RB,TB,CAR,A,CAR -3,,7d,RUSH_YDS,o39.5,7/8,14/16,65.0,0.38,2,110.2,Soft,Run 4 / Pass 19,1.27,0.925,
-RUSH_YDS|11,Aaron Jones,RB,MIN,IND,H,MIN -6.5,,14d bye,RUSH_YDS,o29.5,8/8,13/16,58.4,0.49,12,99.0,Mid,Run 11 / Pass 14,1.23,0.906,
-RUSH_YDS|12,Rhamondre Stevenson,RB,NE,CHI,A,CHI -3,,4d short,RUSH_YDS,o19.5,8/8,15/16,50.2,0.6,25,81.4,Tough,Run 28 / Pass 10,1.15,0.889,4d short
-RUSH_YDS|13,Kenneth Walker III,RB,KC,SEA,A,SEA -3,,7d,RUSH_YDS,o49.5,8/8,14/16,91.6,0.45,29,74.6,Tough,Run 25 / Pass 30,1.19,0.887,
-RUSH_YDS|14,Jahmyr Gibbs,RB,DET,GB,H,DET -3,,14d bye,RUSH_YDS,o29.5,7/8,14/16,83.6,0.64,15,94.0,Mid,Run 17 / Pass 18,1.27,0.875,
-RUSH_YDS|15,Bijan Robinson,RB,ATL,SF,H,SF -2.5,,7d,RUSH_YDS,o59.5,7/8,14/16,98.1,0.39,18,92.4,Mid,Run 21 / Pass 27,1.27,0.875,
-RUSH_YDS|16,Jonathan Taylor,RB,IND,MIN,A,MIN -6.5,,7d,RUSH_YDS,o39.5,7/8,15/16,86.2,0.54,25,81.4,Tough,Run 27 / Pass 32,1.23,0.856,
-RUSH_YDS|17,Derrick Henry,RB,BAL,CIN,H,CIN -1.5,,7d,RUSH_YDS,o59.5,7/8,15/16,101.2,0.41,27,79.2,Tough,Run 18 / Pass 21,1.23,0.856,
-RUSH_YDS|18,Travis Etienne,RB,NO,PIT,H,PIT -3.5,,7d,RUSH_YDS,o29.5,7/8,13/16,53.7,0.44,9,100.6,Mid,Run 15 / Pass 20,1.32,0.844,
-RUSH_YDS|19,Tony Pollard,RB,TEN,CLE,H,CLE -1.5,,7d,RUSH_YDS,o39.5,7/8,13/16,65.7,0.39,11,99.5,Mid,Run 16 / Pass 22,1.32,0.844,
-RUSH_YDS|20,Chase Brown,RB,CIN,BAL,A,CIN -1.5,,14d bye,RUSH_YDS,o29.5,7/8,14/16,66.4,0.55,30,71.8,Tough,Run 24 / Pass 12,1.27,0.825,
-RUSH_YDS|21,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,RUSH_YDS,o29.5,7/8,14/16,64.9,0.54,23,81.6,Tough,Run 29 / Pass 3,1.27,0.825,
-RUSH_YDS|22,Cam Skattebo,RB,NYG,HOU,A,HOU -10.5,,7d,RUSH_YDS,o29.5,7/8,11/13,54.2,0.45,28,76.6,Tough,Run 30 / Pass 13,1.29,0.781,"big spread, game script risk"
-TGT|1,Mark Andrews,TE,BAL,CIN,H,CIN -1.5,,7d,TGT,o2.5,8/8,16/16,4.6,0.34,4,9.0,Soft,Run 18 / Pass 21,1.11,1.05,
-TGT|2,Pat Freiermuth,TE,PIT,NO,A,PIT -3.5,,7d,TGT,o2.5,8/8,15/16,4.1,0.26,3,9.5,Soft,Run 12 / Pass 9,1.15,1.019,
-TGT|3,Tucker Kraft,TE,GB,DET,A,DET -3,,7d,TGT,o2.5,8/8,13/14,5.8,0.48,1,11.6,Soft,Run 9 / Pass 4,1.15,1.014,
-TGT|4,George Pickens,WR,DAL,PHI,A,DAL -4.5,,8d,TGT,o2.5,8/8,16/16,8.4,0.64,10,19.4,Mid,Run 14 / Pass 11,1.11,1.0,
-TGT|5,Ja'Marr Chase,WR,CIN,BAL,A,CIN -1.5,,14d bye,TGT,o3.5,7/8,15/16,11.1,0.64,7,20.2,Soft,Run 24 / Pass 12,1.23,0.956,
-TGT|6,Chase Brown,RB,CIN,BAL,A,CIN -1.5,,14d bye,TGT,o2.5,7/8,15/16,5.8,0.48,5,6.5,Soft,Run 24 / Pass 12,1.23,0.956,
-TGT|7,Deebo Samuel Sr.,WR,SF,ATL,A,SF -2.5,,6d,TGT,o2.5,7/8,15/16,5.1,0.41,1,22.2,Soft,Run 29 / Pass 3,1.23,0.956,
-TGT|8,George Kittle,TE,SF,ATL,A,SF -2.5,,6d,TGT,o3.5,7/8,15/16,6.3,0.37,5,8.6,Soft,Run 29 / Pass 3,1.23,0.956,
-TGT|9,Chris Godwin Jr.,WR,TB,CAR,A,CAR -3,,7d,TGT,o2.5,7/8,14/15,5.3,0.44,8,20.0,Soft,Run 4 / Pass 19,1.23,0.954,
-TGT|10,Mike Evans,WR,SF,ATL,A,SF -2.5,,6d,TGT,o2.5,7/8,13/14,7.2,0.58,1,22.2,Soft,Run 29 / Pass 3,1.23,0.952,
-TGT|11,Zay Flowers,WR,BAL,CIN,H,CIN -1.5,,7d,TGT,o4.5,8/8,16/16,7.1,0.3,29,16.1,Tough,Run 18 / Pass 21,1.11,0.95,
-TGT|12,Matthew Golden,WR,GB,DET,A,DET -3,,7d,TGT,o2.5,8/8,14/16,5.4,0.45,17,18.2,Mid,Run 9 / Pass 4,1.19,0.938,
-TGT|13,Michael Wilson,WR,ARI,DEN,H,DEN -4.5,,7d,TGT,o6.5,8/8,14/16,9.8,0.29,13,19.1,Mid,Run 2 / Pass 24,1.19,0.938,
-TGT|14,Emeka Egbuka,WR,TB,CAR,A,CAR -3,,7d,TGT,o3.5,7/8,14/16,7.6,0.48,8,20.0,Soft,Run 4 / Pass 19,1.27,0.925,
-TGT|15,Tee Higgins,WR,CIN,BAL,A,CIN -1.5,,14d bye,TGT,o3.5,7/8,14/16,7.6,0.47,7,20.2,Soft,Run 24 / Pass 12,1.27,0.925,
-TGT|16,Ashton Jeanty,RB,LV,LA,H,LA -3.5,,7d,TGT,o2.5,7/8,14/16,5.6,0.46,8,6.1,Soft,Run 8 / Pass 27,1.27,0.925,
-TGT|17,Christian McCaffrey,RB,SF,ATL,A,SF -2.5,,6d,TGT,o3.5,7/8,14/16,6.1,0.35,3,6.8,Soft,Run 29 / Pass 3,1.27,0.925,
-TGT|18,Courtland Sutton,WR,DEN,ARI,A,DEN -4.5,,10d,TGT,o2.5,8/8,15/16,6.5,0.54,28,16.4,Tough,Run 9 / Pass 6,1.15,0.919,
-TGT|19,Tyler Warren,TE,IND,MIN,A,MIN -6.5,,7d,TGT,o4.5,8/8,15/16,6.8,0.26,32,4.8,Tough,Run 27 / Pass 32,1.15,0.919,
-TGT|20,Malik Nabers,WR,NYG,HOU,A,HOU -10.5,,7d,TGT,o3.5,7/8,9/10,9.6,0.58,4,21.1,Soft,Run 30 / Pass 13,1.25,0.907,"big spread, game script risk"
-TGT|21,Luther Burden III,WR,CHI,NE,H,CHI -3,,4d short,TGT,o4.5,8/8,14/16,6.4,0.22,14,18.9,Mid,Run 26 / Pass 26,1.19,0.907,4d short
-TGT|22,Harold Fannin Jr.,TE,CLE,TEN,A,CLE -1.5,,7d,TGT,o2.5,7/8,15/16,6.2,0.52,19,6.8,Mid,Run 19 / Pass 7,1.23,0.906,
-TGT|23,CeeDee Lamb,WR,DAL,PHI,A,DAL -4.5,,8d,TGT,o4.5,7/8,15/16,9.6,0.48,10,19.4,Mid,Run 14 / Pass 11,1.23,0.906,
-TGT|24,Xavier Worthy,WR,KC,SEA,A,SEA -3,,7d,TGT,o2.5,7/8,15/16,5.2,0.43,18,18.0,Mid,Run 25 / Pass 30,1.23,0.906,
-TGT|25,Christian Watson,WR,GB,DET,A,DET -3,,7d,TGT,o3.5,7/8,15/16,6.6,0.4,17,18.2,Mid,Run 9 / Pass 4,1.23,0.906,
-TGT|26,Sam LaPorta,TE,DET,GB,H,DET -3,,14d bye,TGT,o3.5,7/8,13/14,6.1,0.35,12,8.1,Mid,Run 17 / Pass 18,1.23,0.902,
-TGT|27,Devaughn Vele,WR,NO,PIT,H,PIT -3.5,,7d,TGT,o2.5,8/8,12/15,5.5,0.45,9,19.6,Mid,Run 15 / Pass 20,1.23,0.9,
-TGT|28,Jameson Williams,WR,DET,GB,H,DET -3,,14d bye,TGT,o3.5,7/8,13/16,6.4,0.38,3,21.2,Soft,Run 17 / Pass 18,1.32,0.894,
-TGT|29,Amon-Ra St. Brown,WR,DET,GB,H,DET -3,,14d bye,TGT,o8.5,7/8,13/16,11.1,0.19,3,21.2,Soft,Run 17 / Pass 18,1.32,0.894,
-TGT|30,Rashee Rice,WR,KC,SEA,A,SEA -3,,7d,TGT,o5.5,7/8,10/11,8.6,0.31,18,18.0,Mid,Run 25 / Pass 30,1.25,0.892,
-TGT|31,Nico Collins,WR,HOU,NYG,H,HOU -10.5,,7d,TGT,o3.5,8/8,15/16,7.9,0.49,23,17.4,Tough,Run 6 / Pass 31,1.15,0.889,"big spread, game script risk"
-TGT|32,Josh Downs,WR,IND,MIN,A,MIN -6.5,,7d,TGT,o3.5,8/8,14/16,6.0,0.33,30,16.0,Tough,Run 27 / Pass 32,1.19,0.887,
-TGT|33,Wan'Dale Robinson,WR,TEN,CLE,H,CLE -1.5,,7d,TGT,o4.5,7/8,14/16,8.5,0.41,10,19.4,Mid,Run 16 / Pass 22,1.27,0.875,
-TGT|34,Brock Bowers,TE,LV,LA,H,LA -3.5,,7d,TGT,o4.5,7/8,14/16,8.1,0.38,13,7.9,Mid,Run 8 / Pass 27,1.27,0.875,
-TGT|35,DeVonta Smith,WR,PHI,DAL,H,DAL -4.5,,8d,TGT,o4.5,7/8,14/16,8.1,0.38,20,17.9,Mid,Run 1 / Pass 17,1.27,0.875,
-TGT|36,Malik Washington,WR,MIA,NYJ,A,NYJ -4.5,,14d bye,TGT,o2.5,7/8,14/16,4.8,0.37,22,17.5,Mid,Run 3 / Pass 23,1.27,0.875,
-TGT|37,Justin Jefferson,WR,MIN,IND,H,MIN -6.5,,14d bye,TGT,o4.5,7/8,14/16,7.7,0.35,16,18.5,Mid,Run 11 / Pass 14,1.27,0.875,
-TGT|38,Trey McBride,TE,ARI,DEN,H,DEN -4.5,,7d,TGT,o8.5,7/8,14/16,10.5,0.14,17,7.2,Mid,Run 2 / Pass 24,1.27,0.875,
-TGT|39,Drake London,WR,ATL,SF,H,SF -2.5,,7d,TGT,o3.5,7/8,15/16,8.7,0.54,24,17.2,Tough,Run 21 / Pass 27,1.23,0.856,
-TGT|40,Jaylen Waddle,WR,DEN,ARI,A,DEN -4.5,,10d,TGT,o2.5,7/8,15/16,6.1,0.51,28,16.4,Tough,Run 9 / Pass 6,1.23,0.856,
+key,grade,who,game,pick,stat,avg,recent,long,matchup,fair,flags,team_def,score,cushion,player,line
+ALL|A only|1,A,Brock Purdy (QB),SF at ATL,Over 14.5 completions,COMP,20.2,8 of 8,16 of 16,Soft (1),1.11,,Run 29 / Pass 3,1.05,0.26,Brock Purdy,15
+ALL|A only|2,A,Mark Andrews (TE),BAL vs CIN,Over 2.5 targets,TGT,4.6,8 of 8,16 of 16,Soft (4),1.11,,Run 18 / Pass 21,1.05,0.34,Mark Andrews,3
+ALL|A only|3,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Soft (3),1.11,,Run 9 / Pass 6,1.05,0.46,J.K. Dobbins,35
+ALL|A only|4,A,Tucker Kraft (TE),GB at DET,Over 1.5 receptions,REC,4.1,8 of 8,14 of 14,Soft (1),1.11,,Run 9 / Pass 4,1.05,0.51,Tucker Kraft,2
+ALL|A only|5,A,Kyren Williams (RB),LA at LV,Over 9.5 rush attempts,RUSH_ATT,14.1,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.29,Kyren Williams,10
+ALL|A only|6,A,Sam LaPorta (TE),DET vs GB,Over 2.5 receptions,REC,4.8,8 of 8,14 of 14,Mid (18),1.11,,Run 17 / Pass 18,1.0,0.37,Sam LaPorta,3
+ALL|A only|7,A,Blake Corum (RB),LA at LV,Over 4.5 rush attempts,RUSH_ATT,8.9,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.44,Blake Corum,5
+ALL|A only|8,A,Greg Dulcich (TE),MIA at NYJ,Over 1.5 targets,TGT,3.8,8 of 8,13 of 13,Mid (19),1.11,,Run 3 / Pass 23,1.0,0.48,Greg Dulcich,2
+ALL|A only|9,A,Javonte Williams (RB),DAL at PHI,Over 29.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Mid (14),1.11,,Run 14 / Pass 11,1.0,0.54,Javonte Williams,30
+COMP|A only|1,A,Brock Purdy (QB),SF at ATL,Over 14.5 completions,COMP,20.2,8 of 8,16 of 16,Soft (1),1.11,,Run 29 / Pass 3,1.05,0.26,Brock Purdy,15
+REC|A only|1,A,Tucker Kraft (TE),GB at DET,Over 1.5 receptions,REC,4.1,8 of 8,14 of 14,Soft (1),1.11,,Run 9 / Pass 4,1.05,0.51,Tucker Kraft,2
+REC|A only|2,A,Sam LaPorta (TE),DET vs GB,Over 2.5 receptions,REC,4.8,8 of 8,14 of 14,Mid (18),1.11,,Run 17 / Pass 18,1.0,0.37,Sam LaPorta,3
+RR_YDS|A only|1,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush+rec yards,RR_YDS,69.1,8 of 8,16 of 16,Soft (4),1.11,,Run 9 / Pass 6,1.05,0.49,J.K. Dobbins,35
+RUSH_ATT|A only|1,A,Kyren Williams (RB),LA at LV,Over 9.5 rush attempts,RUSH_ATT,14.1,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.29,Kyren Williams,10
+RUSH_ATT|A only|2,A,Blake Corum (RB),LA at LV,Over 4.5 rush attempts,RUSH_ATT,8.9,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.44,Blake Corum,5
+RUSH_YDS|A only|1,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Soft (3),1.11,,Run 9 / Pass 6,1.05,0.46,J.K. Dobbins,35
+RUSH_YDS|A only|2,A,Javonte Williams (RB),DAL at PHI,Over 29.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Mid (14),1.11,,Run 14 / Pass 11,1.0,0.54,Javonte Williams,30
+TGT|A only|1,A,Mark Andrews (TE),BAL vs CIN,Over 2.5 targets,TGT,4.6,8 of 8,16 of 16,Soft (4),1.11,,Run 18 / Pass 21,1.05,0.34,Mark Andrews,3
+TGT|A only|2,A,Greg Dulcich (TE),MIA at NYJ,Over 1.5 targets,TGT,3.8,8 of 8,13 of 13,Mid (19),1.11,,Run 3 / Pass 23,1.0,0.48,Greg Dulcich,2
+ALL|A and B|1,A,Brock Purdy (QB),SF at ATL,Over 14.5 completions,COMP,20.2,8 of 8,16 of 16,Soft (1),1.11,,Run 29 / Pass 3,1.05,0.26,Brock Purdy,15
+ALL|A and B|2,A,Mark Andrews (TE),BAL vs CIN,Over 2.5 targets,TGT,4.6,8 of 8,16 of 16,Soft (4),1.11,,Run 18 / Pass 21,1.05,0.34,Mark Andrews,3
+ALL|A and B|3,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Soft (3),1.11,,Run 9 / Pass 6,1.05,0.46,J.K. Dobbins,35
+ALL|A and B|4,A,Tucker Kraft (TE),GB at DET,Over 1.5 receptions,REC,4.1,8 of 8,14 of 14,Soft (1),1.11,,Run 9 / Pass 4,1.05,0.51,Tucker Kraft,2
+ALL|A and B|5,A,Kyren Williams (RB),LA at LV,Over 9.5 rush attempts,RUSH_ATT,14.1,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.29,Kyren Williams,10
+ALL|A and B|6,A,Sam LaPorta (TE),DET vs GB,Over 2.5 receptions,REC,4.8,8 of 8,14 of 14,Mid (18),1.11,,Run 17 / Pass 18,1.0,0.37,Sam LaPorta,3
+ALL|A and B|7,A,Blake Corum (RB),LA at LV,Over 4.5 rush attempts,RUSH_ATT,8.9,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.44,Blake Corum,5
+ALL|A and B|8,A,Greg Dulcich (TE),MIA at NYJ,Over 1.5 targets,TGT,3.8,8 of 8,13 of 13,Mid (19),1.11,,Run 3 / Pass 23,1.0,0.48,Greg Dulcich,2
+ALL|A and B|9,A,Javonte Williams (RB),DAL at PHI,Over 29.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Mid (14),1.11,,Run 14 / Pass 11,1.0,0.54,Javonte Williams,30
+ALL|A and B|10,B,Jaylen Warren (RB),PIT at NO,Over 9.5 rush attempts,RUSH_ATT,13.0,8 of 8,15 of 16,Soft (7),1.15,,Run 12 / Pass 9,1.019,0.23,Jaylen Warren,10
+ALL|A and B|11,B,Pat Freiermuth (TE),PIT at NO,Over 2.5 targets,TGT,4.1,8 of 8,15 of 16,Soft (3),1.15,,Run 12 / Pass 9,1.019,0.26,Pat Freiermuth,3
+ALL|A and B|12,B,Christian McCaffrey (RB),SF at ATL,Over 2.5 receptions,REC,5.0,8 of 8,15 of 16,Soft (6),1.15,,Run 29 / Pass 3,1.019,0.4,Christian McCaffrey,3
+ALL|A and B|13,B,Darren Waller (TE),CAR vs TB,Over 1.5 targets,TGT,3.9,8 of 8,13 of 14,Soft (7),1.15,,Run 31 / Pass 16,1.014,0.49,Darren Waller,2
+ALL|A and B|14,B,Mike Evans (WR),SF at ATL,Over 29.5 rec yards,REC_YDS,56.3,8 of 8,13 of 14,Mid (9),1.15,,Run 29 / Pass 3,0.964,0.47,Mike Evans,30
+ALL|A and B|15,B,Zay Flowers (WR),BAL vs CIN,Over 4.5 targets,TGT,7.1,8 of 8,16 of 16,Tough (29),1.11,tough matchup,Run 18 / Pass 21,0.96,0.3,Zay Flowers,5
+ALL|A and B|16,B,Luther Burden III (WR),CHI vs NE,Over 2.5 receptions,REC,4.4,8 of 8,16 of 16,Mid (12),1.11,4d short,Run 26 / Pass 26,0.96,0.32,Luther Burden III,3
+ALL|A and B|17,B,Puka Nacua (WR),LA at LV,Over 4.5 receptions,REC,8.1,8 of 8,16 of 16,Tough (27),1.11,tough matchup,Run 5 / Pass 15,0.96,0.38,Puka Nacua,5
+ALL|A and B|18,B,Mack Hollins (WR),NE at CHI,Over 1.5 receptions,REC,3.8,8 of 8,16 of 16,Mid (18),1.11,4d short,Run 28 / Pass 10,0.96,0.47,Mack Hollins,2
+ALL|A and B|19,B,Jared Goff (QB),DET vs GB,Over 0.5 pass TDs,PASS_TD,2.0,8 of 8,16 of 16,Tough (24),1.11,tough matchup,Run 17 / Pass 18,0.96,0.5,Jared Goff,1
+ALL|A and B|20,B,Cam Ward (QB),TEN vs CLE,Over 19.5 pass attempts,ATT,30.1,7 of 8,15 of 16,Soft (6),1.23,,Run 16 / Pass 22,0.956,0.33,Cam Ward,20
+ALL|A and B|21,B,George Kittle (TE),SF at ATL,Over 3.5 targets,TGT,6.3,7 of 8,15 of 16,Soft (5),1.23,,Run 29 / Pass 3,0.956,0.37,George Kittle,4
+ALL|A and B|22,B,Deebo Samuel Sr. (WR),SF at ATL,Over 2.5 targets,TGT,5.1,7 of 8,15 of 16,Soft (1),1.23,,Run 29 / Pass 3,0.956,0.41,Deebo Samuel Sr.,3
+ALL|A and B|23,B,Jalen Hurts (QB),PHI vs DAL,Over 2.5 rush attempts,RUSH_ATT,5.2,7 of 8,15 of 16,Soft (3),1.23,,Run 1 / Pass 17,0.956,0.42,Jalen Hurts,3
+ALL|A and B|24,B,Bo Nix (QB),DEN at ARI,Over 119.5 pass yards,PASS_YDS,216.0,7 of 8,15 of 16,Soft (6),1.23,,Run 9 / Pass 6,0.956,0.44,Bo Nix,120
+ALL|A and B|25,B,Bucky Irving (RB),TB at CAR,Over 8.5 rush attempts,RUSH_ATT,16.8,7 of 8,15 of 16,Soft (6),1.23,,Run 4 / Pass 19,0.956,0.46,Bucky Irving,9
+ALL|A and B|26,B,Chase Brown (RB),CIN at BAL,Over 2.5 targets,TGT,5.8,7 of 8,15 of 16,Soft (5),1.23,,Run 24 / Pass 12,0.956,0.48,Chase Brown,3
+ALL|A and B|27,B,Bijan Robinson (RB),ATL vs SF,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Soft (1),1.23,,Run 21 / Pass 27,0.956,0.52,Bijan Robinson,2
+ALL|A and B|28,B,De'Von Achane (RB),MIA at NYJ,Over 6.5 rush attempts,RUSH_ATT,15.1,7 of 8,15 of 16,Soft (1),1.23,,Run 3 / Pass 23,0.956,0.54,De'Von Achane,7
+ALL|A and B|29,B,Chris Godwin Jr. (WR),TB at CAR,Over 2.5 targets,TGT,5.3,7 of 8,14 of 15,Soft (8),1.23,,Run 4 / Pass 19,0.954,0.44,Chris Godwin Jr.,3
+ALL|A and B|30,B,Tyler Warren (TE),IND at MIN,Over 4.5 targets,TGT,6.8,8 of 8,15 of 16,Tough (32),1.15,tough matchup,Run 27 / Pass 32,0.929,0.26,Tyler Warren,5
+ALL|A and B|31,B,Brock Bowers (TE),LV vs LA,Over 3.5 receptions,REC,5.8,8 of 8,15 of 16,Tough (26),1.15,tough matchup,Run 8 / Pass 27,0.929,0.3,Brock Bowers,4
+ALL|A and B|32,B,Rome Odunze (WR),CHI vs NE,Over 1.5 receptions,REC,3.0,8 of 8,15 of 16,Mid (12),1.15,4d short,Run 26 / Pass 26,0.929,0.33,Rome Odunze,2
+ALL|A and B|33,B,Tre Tucker (WR),LV vs LA,Over 1.5 receptions,REC,3.2,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 8 / Pass 27,0.929,0.38,Tre Tucker,2
+ALL|A and B|34,B,D'Andre Swift (RB),CHI vs NE,Over 39.5 rush yards,RUSH_YDS,66.9,8 of 8,15 of 16,Mid (21),1.15,4d short,Run 26 / Pass 26,0.929,0.4,D'Andre Swift,40
+ALL|A and B|35,B,Jonathan Taylor (RB),IND at MIN,Over 1.5 targets,TGT,3.3,8 of 8,15 of 16,Tough (30),1.15,tough matchup,Run 27 / Pass 32,0.929,0.4,Jonathan Taylor,2
+ALL|A and B|36,B,Josh Downs (WR),IND at MIN,Over 1.5 receptions,REC,3.5,8 of 8,15 of 16,Tough (31),1.15,tough matchup,Run 27 / Pass 32,0.929,0.43,Josh Downs,2
+ALL|A and B|37,B,Jake Ferguson (TE),DAL at PHI,Over 1.5 targets,TGT,4.2,8 of 8,15 of 16,Tough (24),1.15,tough matchup,Run 14 / Pass 11,0.929,0.53,Jake Ferguson,2
+ALL|A and B|38,B,Courtland Sutton (WR),DEN at ARI,Over 2.5 targets,TGT,6.5,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 9 / Pass 6,0.929,0.54,Courtland Sutton,3
+ALL|A and B|39,B,Dalton Schultz (TE),HOU vs NYG,Over 1.5 receptions,REC,4.4,8 of 8,15 of 16,Mid (9),1.15,"big spread, game script risk",Run 6 / Pass 31,0.929,0.54,Dalton Schultz,2
+ALL|A and B|40,B,Michael Penix Jr. (QB),ATL vs SF,Over 169.5 pass yards,PASS_YDS,225.1,8 of 8,12 of 13,Tough (27),1.16,tough matchup,Run 21 / Pass 27,0.922,0.24,Michael Penix Jr.,170
+ALL|A and B|41,B,Joe Burrow (QB),CIN at BAL,Over 0.5 pass TDs,PASS_TD,2.2,8 of 8,12 of 13,Tough (29),1.16,tough matchup,Run 24 / Pass 12,0.922,0.54,Joe Burrow,1
+ALL|A and B|42,B,Dak Prescott (QB),DAL at PHI,Over 18.5 completions,COMP,23.9,7 of 8,15 of 16,Mid (18),1.23,,Run 14 / Pass 11,0.906,0.2,Dak Prescott,19
+ALL|A and B|43,B,Jacoby Brissett (QB),ARI vs DEN,Over 30.5 pass attempts,ATT,39.9,7 of 8,15 of 16,Mid (10),1.23,,Run 2 / Pass 24,0.906,0.22,Jacoby Brissett,31
+ALL|A and B|44,B,Patrick Mahomes (QB),KC at SEA,Over 26.5 pass attempts,ATT,34.7,7 of 8,15 of 16,Mid (20),1.23,,Run 25 / Pass 30,0.906,0.22,Patrick Mahomes,27
+ALL|A and B|45,B,Matthew Stafford (QB),LA at LV,Over 219.5 pass yards,PASS_YDS,305.0,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.28,Matthew Stafford,220
+ALL|A and B|46,B,Tony Pollard (RB),TEN vs CLE,Over 9.5 rush attempts,RUSH_ATT,14.4,7 of 8,15 of 16,Mid (22),1.23,,Run 16 / Pass 22,0.906,0.31,Tony Pollard,10
+ALL|A and B|47,B,Sam Darnold (QB),SEA vs KC,Over 11.5 completions,COMP,19.2,7 of 8,15 of 16,Mid (16),1.23,,Run 22 / Pass 29,0.906,0.37,Sam Darnold,12
+ALL|A and B|48,B,Christian Watson (WR),GB at DET,Over 3.5 targets,TGT,6.6,7 of 8,15 of 16,Mid (17),1.23,,Run 9 / Pass 4,0.906,0.4,Christian Watson,4
+ALL|A and B|49,B,Jahmyr Gibbs (RB),DET vs GB,Over 2.5 receptions,REC,5.1,7 of 8,15 of 16,Mid (16),1.23,,Run 17 / Pass 18,0.906,0.41,Jahmyr Gibbs,3
+ALL|A and B|50,B,Xavier Worthy (WR),KC at SEA,Over 2.5 targets,TGT,5.2,7 of 8,15 of 16,Mid (18),1.23,,Run 25 / Pass 30,0.906,0.43,Xavier Worthy,3
+ALL|A and B|51,B,Wan'Dale Robinson (WR),TEN vs CLE,Over 2.5 receptions,REC,5.5,7 of 8,15 of 16,Mid (19),1.23,,Run 16 / Pass 22,0.906,0.45,Wan'Dale Robinson,3
+ALL|A and B|52,B,Alvin Kamara (RB),NO vs PIT,Over 1.5 targets,TGT,3.7,7 of 8,15 of 16,Mid (22),1.23,,Run 15 / Pass 20,0.906,0.46,Alvin Kamara,2
+ALL|A and B|53,B,CeeDee Lamb (WR),DAL at PHI,Over 4.5 targets,TGT,9.6,7 of 8,15 of 16,Mid (10),1.23,,Run 14 / Pass 11,0.906,0.48,CeeDee Lamb,5
+ALL|A and B|54,B,Cade Otton (TE),TB at CAR,Over 1.5 receptions,REC,3.9,7 of 8,15 of 16,Mid (14),1.23,,Run 4 / Pass 19,0.906,0.49,Cade Otton,2
+ALL|A and B|55,B,Dallas Goedert (TE),PHI vs DAL,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dallas Goedert,2
+ALL|A and B|56,B,Dontayvion Wicks (WR),PHI vs DAL,Over 1.5 targets,TGT,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dontayvion Wicks,2
+ALL|A and B|57,B,Harold Fannin Jr. (TE),CLE at TEN,Over 2.5 targets,TGT,6.2,7 of 8,15 of 16,Mid (19),1.23,,Run 19 / Pass 7,0.906,0.52,Harold Fannin Jr.,3
+ALL|A and B|58,B,Tyler Higbee (TE),LA at LV,Over 1.5 targets,TGT,4.2,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.52,Tyler Higbee,2
+ALL|A and B|59,B,Travis Etienne (RB),NO vs PIT,Over 34.5 rush+rec yards,RR_YDS,75.6,7 of 8,15 of 16,Mid (14),1.23,,Run 15 / Pass 20,0.906,0.54,Travis Etienne,35
+ALL|A and B|60,B,Tua Tagovailoa (QB),ATL vs SF,Over 19.5 pass attempts,ATT,25.8,7 of 8,14 of 15,Mid (16),1.23,,Run 21 / Pass 27,0.904,0.22,Tua Tagovailoa,20
+ALL|A and B|61,B,Garrett Wilson (WR),NYJ vs MIA,Over 2.5 receptions,REC,5.5,7 of 8,12 of 13,Mid (14),1.24,,Run 13 / Pass 8,0.899,0.45,Garrett Wilson,3
+ALL|A and B|62,B,Kendre Miller (RB),NO vs PIT,Over 3.5 rush attempts,RUSH_ATT,8.0,7 of 8,11 of 12,Mid (14),1.24,,Run 15 / Pass 20,0.896,0.5,Kendre Miller,4
+ALL|A and B|63,B,Rashee Rice (WR),KC at SEA,Over 5.5 targets,TGT,8.6,7 of 8,10 of 11,Mid (18),1.25,,Run 25 / Pass 30,0.892,0.31,Rashee Rice,6
+ALL|A and B|64,B,Juwan Johnson (TE),NO vs PIT,Over 3.5 targets,TGT,5.8,7 of 8,15 of 16,Tough (29),1.23,tough matchup,Run 15 / Pass 20,0.866,0.3,Juwan Johnson,4
+ALL|A and B|65,B,Daniel Jones (QB),IND at MIN,Over 13.5 completions,COMP,20.5,7 of 8,15 of 16,Tough (32),1.23,tough matchup,Run 27 / Pass 32,0.866,0.32,Daniel Jones,14
+ALL|A and B|66,B,Derrick Henry (RB),BAL vs CIN,Over 74.5 rush+rec yards,RR_YDS,111.8,7 of 8,15 of 16,Tough (26),1.23,tough matchup,Run 18 / Pass 21,0.866,0.33,Derrick Henry,75
+ALL|A and B|67,B,David Montgomery (RB),HOU vs NYG,Over 4.5 rush attempts,RUSH_ATT,9.1,7 of 8,15 of 16,Mid (19),1.23,"big spread, game script risk",Run 6 / Pass 31,0.866,0.45,David Montgomery,5
+ALL|A and B|68,B,Jaylen Waddle (WR),DEN at ARI,Over 2.5 targets,TGT,6.1,7 of 8,15 of 16,Tough (28),1.23,tough matchup,Run 9 / Pass 6,0.866,0.51,Jaylen Waddle,3
+ALL|A and B|69,B,Drake London (WR),ATL vs SF,Over 3.5 targets,TGT,8.7,7 of 8,15 of 16,Tough (24),1.23,tough matchup,Run 21 / Pass 27,0.866,0.54,Drake London,4
+ATT|A and B|1,B,Cam Ward (QB),TEN vs CLE,Over 19.5 pass attempts,ATT,30.1,7 of 8,15 of 16,Soft (6),1.23,,Run 16 / Pass 22,0.956,0.33,Cam Ward,20
+ATT|A and B|2,B,Jacoby Brissett (QB),ARI vs DEN,Over 30.5 pass attempts,ATT,39.9,7 of 8,15 of 16,Mid (10),1.23,,Run 2 / Pass 24,0.906,0.22,Jacoby Brissett,31
+ATT|A and B|3,B,Patrick Mahomes (QB),KC at SEA,Over 26.5 pass attempts,ATT,34.7,7 of 8,15 of 16,Mid (20),1.23,,Run 25 / Pass 30,0.906,0.22,Patrick Mahomes,27
+ATT|A and B|4,B,Sam Darnold (QB),SEA vs KC,Over 16.5 pass attempts,ATT,30.6,7 of 8,15 of 16,Mid (10),1.23,,Run 22 / Pass 29,0.906,0.44,Sam Darnold,17
+ATT|A and B|5,B,Tua Tagovailoa (QB),ATL vs SF,Over 19.5 pass attempts,ATT,25.8,7 of 8,14 of 15,Mid (16),1.23,,Run 21 / Pass 27,0.904,0.22,Tua Tagovailoa,20
+ATT|A and B|6,B,Michael Penix Jr. (QB),ATL vs SF,Over 19.5 pass attempts,ATT,29.7,7 of 8,12 of 13,Mid (16),1.24,,Run 21 / Pass 27,0.899,0.33,Michael Penix Jr.,20
+ATT|A and B|7,B,Bo Nix (QB),DEN at ARI,Over 26.5 pass attempts,ATT,35.1,7 of 8,15 of 16,Tough (25),1.23,tough matchup,Run 9 / Pass 6,0.866,0.23,Bo Nix,27
+COMP|A and B|1,A,Brock Purdy (QB),SF at ATL,Over 14.5 completions,COMP,20.2,8 of 8,16 of 16,Soft (1),1.11,,Run 29 / Pass 3,1.05,0.26,Brock Purdy,15
+COMP|A and B|2,B,Dak Prescott (QB),DAL at PHI,Over 18.5 completions,COMP,23.9,7 of 8,15 of 16,Mid (18),1.23,,Run 14 / Pass 11,0.906,0.2,Dak Prescott,19
+COMP|A and B|3,B,Bo Nix (QB),DEN at ARI,Over 15.5 completions,COMP,21.8,7 of 8,15 of 16,Mid (17),1.23,,Run 9 / Pass 6,0.906,0.27,Bo Nix,16
+COMP|A and B|4,B,Patrick Mahomes (QB),KC at SEA,Over 14.5 completions,COMP,22.4,7 of 8,15 of 16,Mid (18),1.23,,Run 25 / Pass 30,0.906,0.33,Patrick Mahomes,15
+COMP|A and B|5,B,Sam Darnold (QB),SEA vs KC,Over 11.5 completions,COMP,19.2,7 of 8,15 of 16,Mid (16),1.23,,Run 22 / Pass 29,0.906,0.37,Sam Darnold,12
+COMP|A and B|6,B,Cam Ward (QB),TEN vs CLE,Over 10.5 completions,COMP,18.5,7 of 8,15 of 16,Mid (12),1.23,,Run 16 / Pass 22,0.906,0.41,Cam Ward,11
+COMP|A and B|7,B,Tua Tagovailoa (QB),ATL vs SF,Over 11.5 completions,COMP,17.5,7 of 8,14 of 15,Mid (12),1.23,,Run 21 / Pass 27,0.904,0.31,Tua Tagovailoa,12
+COMP|A and B|8,B,Michael Penix Jr. (QB),ATL vs SF,Over 12.5 completions,COMP,18.2,7 of 8,12 of 13,Mid (12),1.24,,Run 21 / Pass 27,0.899,0.29,Michael Penix Jr.,13
+COMP|A and B|9,B,Daniel Jones (QB),IND at MIN,Over 13.5 completions,COMP,20.5,7 of 8,15 of 16,Tough (32),1.23,tough matchup,Run 27 / Pass 32,0.866,0.32,Daniel Jones,14
+PASS_TD|A and B|1,B,Jared Goff (QB),DET vs GB,Over 0.5 pass TDs,PASS_TD,2.0,8 of 8,16 of 16,Tough (24),1.11,tough matchup,Run 17 / Pass 18,0.96,0.5,Jared Goff,1
+PASS_TD|A and B|2,B,Joe Burrow (QB),CIN at BAL,Over 0.5 pass TDs,PASS_TD,2.2,8 of 8,12 of 13,Tough (29),1.16,tough matchup,Run 24 / Pass 12,0.922,0.54,Joe Burrow,1
+PASS_TD|A and B|3,B,Jacoby Brissett (QB),ARI vs DEN,Over 0.5 pass TDs,PASS_TD,1.8,7 of 8,15 of 16,Mid (22),1.23,,Run 2 / Pass 24,0.906,0.43,Jacoby Brissett,1
+PASS_YDS|A and B|1,B,Bo Nix (QB),DEN at ARI,Over 119.5 pass yards,PASS_YDS,216.0,7 of 8,15 of 16,Soft (6),1.23,,Run 9 / Pass 6,0.956,0.44,Bo Nix,120
+PASS_YDS|A and B|2,B,Michael Penix Jr. (QB),ATL vs SF,Over 169.5 pass yards,PASS_YDS,225.1,8 of 8,12 of 13,Tough (27),1.16,tough matchup,Run 21 / Pass 27,0.922,0.24,Michael Penix Jr.,170
+PASS_YDS|A and B|3,B,Matthew Stafford (QB),LA at LV,Over 219.5 pass yards,PASS_YDS,305.0,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.28,Matthew Stafford,220
+PASS_YDS|A and B|4,B,Jared Goff (QB),DET vs GB,Over 199.5 pass yards,PASS_YDS,291.2,7 of 8,15 of 16,Mid (18),1.23,,Run 17 / Pass 18,0.906,0.31,Jared Goff,200
+PASS_YDS|A and B|5,B,Dak Prescott (QB),DAL at PHI,Over 169.5 pass yards,PASS_YDS,269.4,7 of 8,15 of 16,Mid (12),1.23,,Run 14 / Pass 11,0.906,0.37,Dak Prescott,170
+PASS_YDS|A and B|6,B,Cam Ward (QB),TEN vs CLE,Over 99.5 pass yards,PASS_YDS,175.7,7 of 8,15 of 16,Mid (22),1.23,,Run 16 / Pass 22,0.906,0.43,Cam Ward,100
+PASS_YDS|A and B|7,B,Jalen Hurts (QB),PHI vs DAL,Over 109.5 pass yards,PASS_YDS,197.1,7 of 8,15 of 16,Mid (17),1.23,,Run 1 / Pass 17,0.906,0.44,Jalen Hurts,110
+PASS_YDS|A and B|8,B,Patrick Mahomes (QB),KC at SEA,Over 179.5 pass yards,PASS_YDS,264.2,7 of 8,15 of 16,Tough (30),1.23,tough matchup,Run 25 / Pass 30,0.866,0.32,Patrick Mahomes,180
+PASS_YDS|A and B|9,B,Daniel Jones (QB),IND at MIN,Over 139.5 pass yards,PASS_YDS,223.4,7 of 8,15 of 16,Tough (32),1.23,tough matchup,Run 27 / Pass 32,0.866,0.37,Daniel Jones,140
+PASS_YDS|A and B|10,B,Jacoby Brissett (QB),ARI vs DEN,Over 159.5 pass yards,PASS_YDS,255.9,7 of 8,15 of 16,Tough (24),1.23,tough matchup,Run 2 / Pass 24,0.866,0.37,Jacoby Brissett,160
+PASS_YDS|A and B|11,B,Sam Darnold (QB),SEA vs KC,Over 119.5 pass yards,PASS_YDS,218.2,7 of 8,15 of 16,Tough (29),1.23,tough matchup,Run 22 / Pass 29,0.866,0.45,Sam Darnold,120
+REC|A and B|1,A,Tucker Kraft (TE),GB at DET,Over 1.5 receptions,REC,4.1,8 of 8,14 of 14,Soft (1),1.11,,Run 9 / Pass 4,1.05,0.51,Tucker Kraft,2
+REC|A and B|2,A,Sam LaPorta (TE),DET vs GB,Over 2.5 receptions,REC,4.8,8 of 8,14 of 14,Mid (18),1.11,,Run 17 / Pass 18,1.0,0.37,Sam LaPorta,3
+REC|A and B|3,B,Christian McCaffrey (RB),SF at ATL,Over 2.5 receptions,REC,5.0,8 of 8,15 of 16,Soft (6),1.15,,Run 29 / Pass 3,1.019,0.4,Christian McCaffrey,3
+REC|A and B|4,B,Greg Dulcich (TE),MIA at NYJ,Over 1.5 receptions,REC,3.0,8 of 8,12 of 13,Mid (14),1.16,,Run 3 / Pass 23,0.962,0.33,Greg Dulcich,2
+REC|A and B|5,B,Luther Burden III (WR),CHI vs NE,Over 2.5 receptions,REC,4.4,8 of 8,16 of 16,Mid (12),1.11,4d short,Run 26 / Pass 26,0.96,0.32,Luther Burden III,3
+REC|A and B|6,B,Puka Nacua (WR),LA at LV,Over 4.5 receptions,REC,8.1,8 of 8,16 of 16,Tough (27),1.11,tough matchup,Run 5 / Pass 15,0.96,0.38,Puka Nacua,5
+REC|A and B|7,B,Mack Hollins (WR),NE at CHI,Over 1.5 receptions,REC,3.8,8 of 8,16 of 16,Mid (18),1.11,4d short,Run 28 / Pass 10,0.96,0.47,Mack Hollins,2
+REC|A and B|8,B,Deebo Samuel Sr. (WR),SF at ATL,Over 1.5 receptions,REC,3.6,7 of 8,15 of 16,Soft (2),1.23,,Run 29 / Pass 3,0.956,0.45,Deebo Samuel Sr.,2
+REC|A and B|9,B,Bijan Robinson (RB),ATL vs SF,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Soft (1),1.23,,Run 21 / Pass 27,0.956,0.52,Bijan Robinson,2
+REC|A and B|10,B,Brock Bowers (TE),LV vs LA,Over 3.5 receptions,REC,5.8,8 of 8,15 of 16,Tough (26),1.15,tough matchup,Run 8 / Pass 27,0.929,0.3,Brock Bowers,4
+REC|A and B|11,B,Rome Odunze (WR),CHI vs NE,Over 1.5 receptions,REC,3.0,8 of 8,15 of 16,Mid (12),1.15,4d short,Run 26 / Pass 26,0.929,0.33,Rome Odunze,2
+REC|A and B|12,B,Tre Tucker (WR),LV vs LA,Over 1.5 receptions,REC,3.2,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 8 / Pass 27,0.929,0.38,Tre Tucker,2
+REC|A and B|13,B,Tyler Warren (TE),IND at MIN,Over 2.5 receptions,REC,4.8,8 of 8,15 of 16,Tough (32),1.15,tough matchup,Run 27 / Pass 32,0.929,0.38,Tyler Warren,3
+REC|A and B|14,B,Josh Downs (WR),IND at MIN,Over 1.5 receptions,REC,3.5,8 of 8,15 of 16,Tough (31),1.15,tough matchup,Run 27 / Pass 32,0.929,0.43,Josh Downs,2
+REC|A and B|15,B,Dalton Schultz (TE),HOU vs NYG,Over 1.5 receptions,REC,4.4,8 of 8,15 of 16,Mid (9),1.15,"big spread, game script risk",Run 6 / Pass 31,0.929,0.54,Dalton Schultz,2
+REC|A and B|16,B,Jahmyr Gibbs (RB),DET vs GB,Over 2.5 receptions,REC,5.1,7 of 8,15 of 16,Mid (16),1.23,,Run 17 / Pass 18,0.906,0.41,Jahmyr Gibbs,3
+REC|A and B|17,B,Wan'Dale Robinson (WR),TEN vs CLE,Over 2.5 receptions,REC,5.5,7 of 8,15 of 16,Mid (19),1.23,,Run 16 / Pass 22,0.906,0.45,Wan'Dale Robinson,3
+REC|A and B|18,B,Cade Otton (TE),TB at CAR,Over 1.5 receptions,REC,3.9,7 of 8,15 of 16,Mid (14),1.23,,Run 4 / Pass 19,0.906,0.49,Cade Otton,2
+REC|A and B|19,B,Dallas Goedert (TE),PHI vs DAL,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dallas Goedert,2
+REC|A and B|20,B,Garrett Wilson (WR),NYJ vs MIA,Over 2.5 receptions,REC,5.5,7 of 8,12 of 13,Mid (14),1.24,,Run 13 / Pass 8,0.899,0.45,Garrett Wilson,3
+REC|A and B|21,B,Juwan Johnson (TE),NO vs PIT,Over 2.5 receptions,REC,4.4,7 of 8,15 of 16,Tough (26),1.23,tough matchup,Run 15 / Pass 20,0.866,0.32,Juwan Johnson,3
+REC|A and B|22,B,Xavier Worthy (WR),KC at SEA,Over 1.5 receptions,REC,3.2,7 of 8,15 of 16,Tough (25),1.23,tough matchup,Run 25 / Pass 30,0.866,0.38,Xavier Worthy,2
+REC|A and B|23,B,Rashee Rice (WR),KC at SEA,Over 3.5 receptions,REC,6.0,7 of 8,10 of 11,Tough (25),1.25,tough matchup,Run 25 / Pass 30,0.852,0.33,Rashee Rice,4
+REC_YDS|A and B|1,B,Mike Evans (WR),SF at ATL,Over 29.5 rec yards,REC_YDS,56.3,8 of 8,13 of 14,Mid (9),1.15,,Run 29 / Pass 3,0.964,0.47,Mike Evans,30
+REC_YDS|A and B|2,B,Brock Bowers (TE),LV vs LA,Over 29.5 rec yards,REC_YDS,66.4,7 of 8,15 of 16,Tough (27),1.23,tough matchup,Run 8 / Pass 27,0.866,0.55,Brock Bowers,30
+RR_YDS|A and B|1,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush+rec yards,RR_YDS,69.1,8 of 8,16 of 16,Soft (4),1.11,,Run 9 / Pass 6,1.05,0.49,J.K. Dobbins,35
+RR_YDS|A and B|2,B,Mike Evans (WR),SF at ATL,Over 29.5 rush+rec yards,RR_YDS,56.3,8 of 8,13 of 14,Mid (9),1.15,,Run 29 / Pass 3,0.964,0.47,Mike Evans,30
+RR_YDS|A and B|3,B,Bucky Irving (RB),TB at CAR,Over 44.5 rush+rec yards,RR_YDS,86.9,7 of 8,15 of 16,Soft (3),1.23,,Run 4 / Pass 19,0.956,0.48,Bucky Irving,45
+RR_YDS|A and B|4,B,Travis Etienne (RB),NO vs PIT,Over 34.5 rush+rec yards,RR_YDS,75.6,7 of 8,15 of 16,Mid (14),1.23,,Run 15 / Pass 20,0.906,0.54,Travis Etienne,35
+RR_YDS|A and B|5,B,Derrick Henry (RB),BAL vs CIN,Over 74.5 rush+rec yards,RR_YDS,111.8,7 of 8,15 of 16,Tough (26),1.23,tough matchup,Run 18 / Pass 21,0.866,0.33,Derrick Henry,75
+RUSH_ATT|A and B|1,A,Kyren Williams (RB),LA at LV,Over 9.5 rush attempts,RUSH_ATT,14.1,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.29,Kyren Williams,10
+RUSH_ATT|A and B|2,A,Blake Corum (RB),LA at LV,Over 4.5 rush attempts,RUSH_ATT,8.9,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.44,Blake Corum,5
+RUSH_ATT|A and B|3,B,Jaylen Warren (RB),PIT at NO,Over 9.5 rush attempts,RUSH_ATT,13.0,8 of 8,15 of 16,Soft (7),1.15,,Run 12 / Pass 9,1.019,0.23,Jaylen Warren,10
+RUSH_ATT|A and B|4,B,Javonte Williams (RB),DAL at PHI,Over 10.5 rush attempts,RUSH_ATT,15.3,7 of 8,15 of 16,Soft (3),1.23,,Run 14 / Pass 11,0.956,0.28,Javonte Williams,11
+RUSH_ATT|A and B|5,B,J.K. Dobbins (RB),DEN at ARI,Over 9.5 rush attempts,RUSH_ATT,14.6,7 of 8,15 of 16,Soft (2),1.23,,Run 9 / Pass 6,0.956,0.32,J.K. Dobbins,10
+RUSH_ATT|A and B|6,B,Jalen Hurts (QB),PHI vs DAL,Over 2.5 rush attempts,RUSH_ATT,5.2,7 of 8,15 of 16,Soft (3),1.23,,Run 1 / Pass 17,0.956,0.42,Jalen Hurts,3
+RUSH_ATT|A and B|7,B,Bucky Irving (RB),TB at CAR,Over 8.5 rush attempts,RUSH_ATT,16.8,7 of 8,15 of 16,Soft (6),1.23,,Run 4 / Pass 19,0.956,0.46,Bucky Irving,9
+RUSH_ATT|A and B|8,B,De'Von Achane (RB),MIA at NYJ,Over 6.5 rush attempts,RUSH_ATT,15.1,7 of 8,15 of 16,Soft (1),1.23,,Run 3 / Pass 23,0.956,0.54,De'Von Achane,7
+RUSH_ATT|A and B|9,B,Christian McCaffrey (RB),SF at ATL,Over 9.5 rush attempts,RUSH_ATT,15.4,8 of 8,15 of 16,Tough (27),1.15,tough matchup,Run 29 / Pass 3,0.929,0.35,Christian McCaffrey,10
+RUSH_ATT|A and B|10,B,Tony Pollard (RB),TEN vs CLE,Over 9.5 rush attempts,RUSH_ATT,14.4,7 of 8,15 of 16,Mid (22),1.23,,Run 16 / Pass 22,0.906,0.31,Tony Pollard,10
+RUSH_ATT|A and B|11,B,Kendre Miller (RB),NO vs PIT,Over 3.5 rush attempts,RUSH_ATT,8.0,7 of 8,11 of 12,Mid (14),1.24,,Run 15 / Pass 20,0.896,0.5,Kendre Miller,4
+RUSH_ATT|A and B|12,B,David Montgomery (RB),HOU vs NYG,Over 4.5 rush attempts,RUSH_ATT,9.1,7 of 8,15 of 16,Mid (19),1.23,"big spread, game script risk",Run 6 / Pass 31,0.866,0.45,David Montgomery,5
+RUSH_YDS|A and B|1,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Soft (3),1.11,,Run 9 / Pass 6,1.05,0.46,J.K. Dobbins,35
+RUSH_YDS|A and B|2,A,Javonte Williams (RB),DAL at PHI,Over 29.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Mid (14),1.11,,Run 14 / Pass 11,1.0,0.54,Javonte Williams,30
+RUSH_YDS|A and B|3,B,Kyren Williams (RB),LA at LV,Over 39.5 rush yards,RUSH_YDS,67.4,7 of 8,15 of 16,Soft (4),1.23,,Run 5 / Pass 15,0.956,0.41,Kyren Williams,40
+RUSH_YDS|A and B|4,B,D'Andre Swift (RB),CHI vs NE,Over 39.5 rush yards,RUSH_YDS,66.9,8 of 8,15 of 16,Mid (21),1.15,4d short,Run 26 / Pass 26,0.929,0.4,D'Andre Swift,40
+RUSH_YDS|A and B|5,B,Jonathan Taylor (RB),IND at MIN,Over 44.5 rush yards,RUSH_YDS,86.2,7 of 8,15 of 16,Tough (25),1.23,tough matchup,Run 27 / Pass 32,0.866,0.48,Jonathan Taylor,45
+TGT|A and B|1,A,Mark Andrews (TE),BAL vs CIN,Over 2.5 targets,TGT,4.6,8 of 8,16 of 16,Soft (4),1.11,,Run 18 / Pass 21,1.05,0.34,Mark Andrews,3
+TGT|A and B|2,A,Greg Dulcich (TE),MIA at NYJ,Over 1.5 targets,TGT,3.8,8 of 8,13 of 13,Mid (19),1.11,,Run 3 / Pass 23,1.0,0.48,Greg Dulcich,2
+TGT|A and B|3,B,Pat Freiermuth (TE),PIT at NO,Over 2.5 targets,TGT,4.1,8 of 8,15 of 16,Soft (3),1.15,,Run 12 / Pass 9,1.019,0.26,Pat Freiermuth,3
+TGT|A and B|4,B,Tucker Kraft (TE),GB at DET,Over 2.5 targets,TGT,5.8,8 of 8,13 of 14,Soft (1),1.15,,Run 9 / Pass 4,1.014,0.48,Tucker Kraft,3
+TGT|A and B|5,B,Darren Waller (TE),CAR vs TB,Over 1.5 targets,TGT,3.9,8 of 8,13 of 14,Soft (7),1.15,,Run 31 / Pass 16,1.014,0.49,Darren Waller,2
+TGT|A and B|6,B,Zay Flowers (WR),BAL vs CIN,Over 4.5 targets,TGT,7.1,8 of 8,16 of 16,Tough (29),1.11,tough matchup,Run 18 / Pass 21,0.96,0.3,Zay Flowers,5
+TGT|A and B|7,B,George Kittle (TE),SF at ATL,Over 3.5 targets,TGT,6.3,7 of 8,15 of 16,Soft (5),1.23,,Run 29 / Pass 3,0.956,0.37,George Kittle,4
+TGT|A and B|8,B,Deebo Samuel Sr. (WR),SF at ATL,Over 2.5 targets,TGT,5.1,7 of 8,15 of 16,Soft (1),1.23,,Run 29 / Pass 3,0.956,0.41,Deebo Samuel Sr.,3
+TGT|A and B|9,B,Chase Brown (RB),CIN at BAL,Over 2.5 targets,TGT,5.8,7 of 8,15 of 16,Soft (5),1.23,,Run 24 / Pass 12,0.956,0.48,Chase Brown,3
+TGT|A and B|10,B,Chris Godwin Jr. (WR),TB at CAR,Over 2.5 targets,TGT,5.3,7 of 8,14 of 15,Soft (8),1.23,,Run 4 / Pass 19,0.954,0.44,Chris Godwin Jr.,3
+TGT|A and B|11,B,Tyler Warren (TE),IND at MIN,Over 4.5 targets,TGT,6.8,8 of 8,15 of 16,Tough (32),1.15,tough matchup,Run 27 / Pass 32,0.929,0.26,Tyler Warren,5
+TGT|A and B|12,B,Jonathan Taylor (RB),IND at MIN,Over 1.5 targets,TGT,3.3,8 of 8,15 of 16,Tough (30),1.15,tough matchup,Run 27 / Pass 32,0.929,0.4,Jonathan Taylor,2
+TGT|A and B|13,B,Jake Ferguson (TE),DAL at PHI,Over 1.5 targets,TGT,4.2,8 of 8,15 of 16,Tough (24),1.15,tough matchup,Run 14 / Pass 11,0.929,0.53,Jake Ferguson,2
+TGT|A and B|14,B,Courtland Sutton (WR),DEN at ARI,Over 2.5 targets,TGT,6.5,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 9 / Pass 6,0.929,0.54,Courtland Sutton,3
+TGT|A and B|15,B,Christian Watson (WR),GB at DET,Over 3.5 targets,TGT,6.6,7 of 8,15 of 16,Mid (17),1.23,,Run 9 / Pass 4,0.906,0.4,Christian Watson,4
+TGT|A and B|16,B,Xavier Worthy (WR),KC at SEA,Over 2.5 targets,TGT,5.2,7 of 8,15 of 16,Mid (18),1.23,,Run 25 / Pass 30,0.906,0.43,Xavier Worthy,3
+TGT|A and B|17,B,Alvin Kamara (RB),NO vs PIT,Over 1.5 targets,TGT,3.7,7 of 8,15 of 16,Mid (22),1.23,,Run 15 / Pass 20,0.906,0.46,Alvin Kamara,2
+TGT|A and B|18,B,CeeDee Lamb (WR),DAL at PHI,Over 4.5 targets,TGT,9.6,7 of 8,15 of 16,Mid (10),1.23,,Run 14 / Pass 11,0.906,0.48,CeeDee Lamb,5
+TGT|A and B|19,B,Dontayvion Wicks (WR),PHI vs DAL,Over 1.5 targets,TGT,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dontayvion Wicks,2
+TGT|A and B|20,B,Harold Fannin Jr. (TE),CLE at TEN,Over 2.5 targets,TGT,6.2,7 of 8,15 of 16,Mid (19),1.23,,Run 19 / Pass 7,0.906,0.52,Harold Fannin Jr.,3
+TGT|A and B|21,B,Tyler Higbee (TE),LA at LV,Over 1.5 targets,TGT,4.2,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.52,Tyler Higbee,2
+TGT|A and B|22,B,Sam LaPorta (TE),DET vs GB,Over 3.5 targets,TGT,6.1,7 of 8,13 of 14,Mid (12),1.23,,Run 17 / Pass 18,0.902,0.35,Sam LaPorta,4
+TGT|A and B|23,B,Rashee Rice (WR),KC at SEA,Over 5.5 targets,TGT,8.6,7 of 8,10 of 11,Mid (18),1.25,,Run 25 / Pass 30,0.892,0.31,Rashee Rice,6
+TGT|A and B|24,B,Juwan Johnson (TE),NO vs PIT,Over 3.5 targets,TGT,5.8,7 of 8,15 of 16,Tough (29),1.23,tough matchup,Run 15 / Pass 20,0.866,0.3,Juwan Johnson,4
+TGT|A and B|25,B,Jaylen Waddle (WR),DEN at ARI,Over 2.5 targets,TGT,6.1,7 of 8,15 of 16,Tough (28),1.23,tough matchup,Run 9 / Pass 6,0.866,0.51,Jaylen Waddle,3
+TGT|A and B|26,B,Drake London (WR),ATL vs SF,Over 3.5 targets,TGT,8.7,7 of 8,15 of 16,Tough (24),1.23,tough matchup,Run 21 / Pass 27,0.866,0.54,Drake London,4
+TGT|A and B|27,B,Garrett Wilson (WR),NYJ vs MIA,Over 3.5 targets,TGT,8.2,7 of 8,12 of 13,Tough (31),1.24,tough matchup,Run 13 / Pass 8,0.859,0.51,Garrett Wilson,4
+ALL|All|1,A,Brock Purdy (QB),SF at ATL,Over 14.5 completions,COMP,20.2,8 of 8,16 of 16,Soft (1),1.11,,Run 29 / Pass 3,1.05,0.26,Brock Purdy,15
+ALL|All|2,A,Mark Andrews (TE),BAL vs CIN,Over 2.5 targets,TGT,4.6,8 of 8,16 of 16,Soft (4),1.11,,Run 18 / Pass 21,1.05,0.34,Mark Andrews,3
+ALL|All|3,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Soft (3),1.11,,Run 9 / Pass 6,1.05,0.46,J.K. Dobbins,35
+ALL|All|4,A,Tucker Kraft (TE),GB at DET,Over 1.5 receptions,REC,4.1,8 of 8,14 of 14,Soft (1),1.11,,Run 9 / Pass 4,1.05,0.51,Tucker Kraft,2
+ALL|All|5,A,Kyren Williams (RB),LA at LV,Over 9.5 rush attempts,RUSH_ATT,14.1,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.29,Kyren Williams,10
+ALL|All|6,A,Sam LaPorta (TE),DET vs GB,Over 2.5 receptions,REC,4.8,8 of 8,14 of 14,Mid (18),1.11,,Run 17 / Pass 18,1.0,0.37,Sam LaPorta,3
+ALL|All|7,A,Blake Corum (RB),LA at LV,Over 4.5 rush attempts,RUSH_ATT,8.9,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.44,Blake Corum,5
+ALL|All|8,A,Greg Dulcich (TE),MIA at NYJ,Over 1.5 targets,TGT,3.8,8 of 8,13 of 13,Mid (19),1.11,,Run 3 / Pass 23,1.0,0.48,Greg Dulcich,2
+ALL|All|9,A,Javonte Williams (RB),DAL at PHI,Over 29.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Mid (14),1.11,,Run 14 / Pass 11,1.0,0.54,Javonte Williams,30
+ALL|All|10,B,Jaylen Warren (RB),PIT at NO,Over 9.5 rush attempts,RUSH_ATT,13.0,8 of 8,15 of 16,Soft (7),1.15,,Run 12 / Pass 9,1.019,0.23,Jaylen Warren,10
+ALL|All|11,B,Pat Freiermuth (TE),PIT at NO,Over 2.5 targets,TGT,4.1,8 of 8,15 of 16,Soft (3),1.15,,Run 12 / Pass 9,1.019,0.26,Pat Freiermuth,3
+ALL|All|12,B,Christian McCaffrey (RB),SF at ATL,Over 2.5 receptions,REC,5.0,8 of 8,15 of 16,Soft (6),1.15,,Run 29 / Pass 3,1.019,0.4,Christian McCaffrey,3
+ALL|All|13,B,Darren Waller (TE),CAR vs TB,Over 1.5 targets,TGT,3.9,8 of 8,13 of 14,Soft (7),1.15,,Run 31 / Pass 16,1.014,0.49,Darren Waller,2
+ALL|All|14,B,Mike Evans (WR),SF at ATL,Over 29.5 rec yards,REC_YDS,56.3,8 of 8,13 of 14,Mid (9),1.15,,Run 29 / Pass 3,0.964,0.47,Mike Evans,30
+ALL|All|15,B,Zay Flowers (WR),BAL vs CIN,Over 4.5 targets,TGT,7.1,8 of 8,16 of 16,Tough (29),1.11,tough matchup,Run 18 / Pass 21,0.96,0.3,Zay Flowers,5
+ALL|All|16,B,Luther Burden III (WR),CHI vs NE,Over 2.5 receptions,REC,4.4,8 of 8,16 of 16,Mid (12),1.11,4d short,Run 26 / Pass 26,0.96,0.32,Luther Burden III,3
+ALL|All|17,B,Puka Nacua (WR),LA at LV,Over 4.5 receptions,REC,8.1,8 of 8,16 of 16,Tough (27),1.11,tough matchup,Run 5 / Pass 15,0.96,0.38,Puka Nacua,5
+ALL|All|18,B,Mack Hollins (WR),NE at CHI,Over 1.5 receptions,REC,3.8,8 of 8,16 of 16,Mid (18),1.11,4d short,Run 28 / Pass 10,0.96,0.47,Mack Hollins,2
+ALL|All|19,B,Jared Goff (QB),DET vs GB,Over 0.5 pass TDs,PASS_TD,2.0,8 of 8,16 of 16,Tough (24),1.11,tough matchup,Run 17 / Pass 18,0.96,0.5,Jared Goff,1
+ALL|All|20,B,Cam Ward (QB),TEN vs CLE,Over 19.5 pass attempts,ATT,30.1,7 of 8,15 of 16,Soft (6),1.23,,Run 16 / Pass 22,0.956,0.33,Cam Ward,20
+ALL|All|21,B,George Kittle (TE),SF at ATL,Over 3.5 targets,TGT,6.3,7 of 8,15 of 16,Soft (5),1.23,,Run 29 / Pass 3,0.956,0.37,George Kittle,4
+ALL|All|22,B,Deebo Samuel Sr. (WR),SF at ATL,Over 2.5 targets,TGT,5.1,7 of 8,15 of 16,Soft (1),1.23,,Run 29 / Pass 3,0.956,0.41,Deebo Samuel Sr.,3
+ALL|All|23,B,Jalen Hurts (QB),PHI vs DAL,Over 2.5 rush attempts,RUSH_ATT,5.2,7 of 8,15 of 16,Soft (3),1.23,,Run 1 / Pass 17,0.956,0.42,Jalen Hurts,3
+ALL|All|24,B,Bo Nix (QB),DEN at ARI,Over 119.5 pass yards,PASS_YDS,216.0,7 of 8,15 of 16,Soft (6),1.23,,Run 9 / Pass 6,0.956,0.44,Bo Nix,120
+ALL|All|25,B,Bucky Irving (RB),TB at CAR,Over 8.5 rush attempts,RUSH_ATT,16.8,7 of 8,15 of 16,Soft (6),1.23,,Run 4 / Pass 19,0.956,0.46,Bucky Irving,9
+ALL|All|26,B,Chase Brown (RB),CIN at BAL,Over 2.5 targets,TGT,5.8,7 of 8,15 of 16,Soft (5),1.23,,Run 24 / Pass 12,0.956,0.48,Chase Brown,3
+ALL|All|27,B,Bijan Robinson (RB),ATL vs SF,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Soft (1),1.23,,Run 21 / Pass 27,0.956,0.52,Bijan Robinson,2
+ALL|All|28,B,De'Von Achane (RB),MIA at NYJ,Over 6.5 rush attempts,RUSH_ATT,15.1,7 of 8,15 of 16,Soft (1),1.23,,Run 3 / Pass 23,0.956,0.54,De'Von Achane,7
+ALL|All|29,B,Chris Godwin Jr. (WR),TB at CAR,Over 2.5 targets,TGT,5.3,7 of 8,14 of 15,Soft (8),1.23,,Run 4 / Pass 19,0.954,0.44,Chris Godwin Jr.,3
+ALL|All|30,B,Tyler Warren (TE),IND at MIN,Over 4.5 targets,TGT,6.8,8 of 8,15 of 16,Tough (32),1.15,tough matchup,Run 27 / Pass 32,0.929,0.26,Tyler Warren,5
+ALL|All|31,B,Brock Bowers (TE),LV vs LA,Over 3.5 receptions,REC,5.8,8 of 8,15 of 16,Tough (26),1.15,tough matchup,Run 8 / Pass 27,0.929,0.3,Brock Bowers,4
+ALL|All|32,B,Rome Odunze (WR),CHI vs NE,Over 1.5 receptions,REC,3.0,8 of 8,15 of 16,Mid (12),1.15,4d short,Run 26 / Pass 26,0.929,0.33,Rome Odunze,2
+ALL|All|33,B,Tre Tucker (WR),LV vs LA,Over 1.5 receptions,REC,3.2,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 8 / Pass 27,0.929,0.38,Tre Tucker,2
+ALL|All|34,B,D'Andre Swift (RB),CHI vs NE,Over 39.5 rush yards,RUSH_YDS,66.9,8 of 8,15 of 16,Mid (21),1.15,4d short,Run 26 / Pass 26,0.929,0.4,D'Andre Swift,40
+ALL|All|35,B,Jonathan Taylor (RB),IND at MIN,Over 1.5 targets,TGT,3.3,8 of 8,15 of 16,Tough (30),1.15,tough matchup,Run 27 / Pass 32,0.929,0.4,Jonathan Taylor,2
+ALL|All|36,B,Josh Downs (WR),IND at MIN,Over 1.5 receptions,REC,3.5,8 of 8,15 of 16,Tough (31),1.15,tough matchup,Run 27 / Pass 32,0.929,0.43,Josh Downs,2
+ALL|All|37,B,Jake Ferguson (TE),DAL at PHI,Over 1.5 targets,TGT,4.2,8 of 8,15 of 16,Tough (24),1.15,tough matchup,Run 14 / Pass 11,0.929,0.53,Jake Ferguson,2
+ALL|All|38,B,Courtland Sutton (WR),DEN at ARI,Over 2.5 targets,TGT,6.5,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 9 / Pass 6,0.929,0.54,Courtland Sutton,3
+ALL|All|39,B,Dalton Schultz (TE),HOU vs NYG,Over 1.5 receptions,REC,4.4,8 of 8,15 of 16,Mid (9),1.15,"big spread, game script risk",Run 6 / Pass 31,0.929,0.54,Dalton Schultz,2
+ALL|All|40,B,Michael Penix Jr. (QB),ATL vs SF,Over 169.5 pass yards,PASS_YDS,225.1,8 of 8,12 of 13,Tough (27),1.16,tough matchup,Run 21 / Pass 27,0.922,0.24,Michael Penix Jr.,170
+ALL|All|41,B,Joe Burrow (QB),CIN at BAL,Over 0.5 pass TDs,PASS_TD,2.2,8 of 8,12 of 13,Tough (29),1.16,tough matchup,Run 24 / Pass 12,0.922,0.54,Joe Burrow,1
+ALL|All|42,B,Dak Prescott (QB),DAL at PHI,Over 18.5 completions,COMP,23.9,7 of 8,15 of 16,Mid (18),1.23,,Run 14 / Pass 11,0.906,0.2,Dak Prescott,19
+ALL|All|43,B,Jacoby Brissett (QB),ARI vs DEN,Over 30.5 pass attempts,ATT,39.9,7 of 8,15 of 16,Mid (10),1.23,,Run 2 / Pass 24,0.906,0.22,Jacoby Brissett,31
+ALL|All|44,B,Patrick Mahomes (QB),KC at SEA,Over 26.5 pass attempts,ATT,34.7,7 of 8,15 of 16,Mid (20),1.23,,Run 25 / Pass 30,0.906,0.22,Patrick Mahomes,27
+ALL|All|45,B,Matthew Stafford (QB),LA at LV,Over 219.5 pass yards,PASS_YDS,305.0,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.28,Matthew Stafford,220
+ALL|All|46,B,Tony Pollard (RB),TEN vs CLE,Over 9.5 rush attempts,RUSH_ATT,14.4,7 of 8,15 of 16,Mid (22),1.23,,Run 16 / Pass 22,0.906,0.31,Tony Pollard,10
+ALL|All|47,B,Sam Darnold (QB),SEA vs KC,Over 11.5 completions,COMP,19.2,7 of 8,15 of 16,Mid (16),1.23,,Run 22 / Pass 29,0.906,0.37,Sam Darnold,12
+ALL|All|48,B,Christian Watson (WR),GB at DET,Over 3.5 targets,TGT,6.6,7 of 8,15 of 16,Mid (17),1.23,,Run 9 / Pass 4,0.906,0.4,Christian Watson,4
+ALL|All|49,B,Jahmyr Gibbs (RB),DET vs GB,Over 2.5 receptions,REC,5.1,7 of 8,15 of 16,Mid (16),1.23,,Run 17 / Pass 18,0.906,0.41,Jahmyr Gibbs,3
+ALL|All|50,B,Xavier Worthy (WR),KC at SEA,Over 2.5 targets,TGT,5.2,7 of 8,15 of 16,Mid (18),1.23,,Run 25 / Pass 30,0.906,0.43,Xavier Worthy,3
+ALL|All|51,B,Wan'Dale Robinson (WR),TEN vs CLE,Over 2.5 receptions,REC,5.5,7 of 8,15 of 16,Mid (19),1.23,,Run 16 / Pass 22,0.906,0.45,Wan'Dale Robinson,3
+ALL|All|52,B,Alvin Kamara (RB),NO vs PIT,Over 1.5 targets,TGT,3.7,7 of 8,15 of 16,Mid (22),1.23,,Run 15 / Pass 20,0.906,0.46,Alvin Kamara,2
+ALL|All|53,B,CeeDee Lamb (WR),DAL at PHI,Over 4.5 targets,TGT,9.6,7 of 8,15 of 16,Mid (10),1.23,,Run 14 / Pass 11,0.906,0.48,CeeDee Lamb,5
+ALL|All|54,B,Cade Otton (TE),TB at CAR,Over 1.5 receptions,REC,3.9,7 of 8,15 of 16,Mid (14),1.23,,Run 4 / Pass 19,0.906,0.49,Cade Otton,2
+ALL|All|55,B,Dallas Goedert (TE),PHI vs DAL,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dallas Goedert,2
+ALL|All|56,B,Dontayvion Wicks (WR),PHI vs DAL,Over 1.5 targets,TGT,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dontayvion Wicks,2
+ALL|All|57,B,Harold Fannin Jr. (TE),CLE at TEN,Over 2.5 targets,TGT,6.2,7 of 8,15 of 16,Mid (19),1.23,,Run 19 / Pass 7,0.906,0.52,Harold Fannin Jr.,3
+ALL|All|58,B,Tyler Higbee (TE),LA at LV,Over 1.5 targets,TGT,4.2,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.52,Tyler Higbee,2
+ALL|All|59,B,Travis Etienne (RB),NO vs PIT,Over 34.5 rush+rec yards,RR_YDS,75.6,7 of 8,15 of 16,Mid (14),1.23,,Run 15 / Pass 20,0.906,0.54,Travis Etienne,35
+ALL|All|60,B,Tua Tagovailoa (QB),ATL vs SF,Over 19.5 pass attempts,ATT,25.8,7 of 8,14 of 15,Mid (16),1.23,,Run 21 / Pass 27,0.904,0.22,Tua Tagovailoa,20
+ALL|All|61,B,Garrett Wilson (WR),NYJ vs MIA,Over 2.5 receptions,REC,5.5,7 of 8,12 of 13,Mid (14),1.24,,Run 13 / Pass 8,0.899,0.45,Garrett Wilson,3
+ALL|All|62,B,Kendre Miller (RB),NO vs PIT,Over 3.5 rush attempts,RUSH_ATT,8.0,7 of 8,11 of 12,Mid (14),1.24,,Run 15 / Pass 20,0.896,0.5,Kendre Miller,4
+ALL|All|63,B,Rashee Rice (WR),KC at SEA,Over 5.5 targets,TGT,8.6,7 of 8,10 of 11,Mid (18),1.25,,Run 25 / Pass 30,0.892,0.31,Rashee Rice,6
+ALL|All|64,B,Juwan Johnson (TE),NO vs PIT,Over 3.5 targets,TGT,5.8,7 of 8,15 of 16,Tough (29),1.23,tough matchup,Run 15 / Pass 20,0.866,0.3,Juwan Johnson,4
+ALL|All|65,B,Daniel Jones (QB),IND at MIN,Over 13.5 completions,COMP,20.5,7 of 8,15 of 16,Tough (32),1.23,tough matchup,Run 27 / Pass 32,0.866,0.32,Daniel Jones,14
+ALL|All|66,B,Derrick Henry (RB),BAL vs CIN,Over 74.5 rush+rec yards,RR_YDS,111.8,7 of 8,15 of 16,Tough (26),1.23,tough matchup,Run 18 / Pass 21,0.866,0.33,Derrick Henry,75
+ALL|All|67,B,David Montgomery (RB),HOU vs NYG,Over 4.5 rush attempts,RUSH_ATT,9.1,7 of 8,15 of 16,Mid (19),1.23,"big spread, game script risk",Run 6 / Pass 31,0.866,0.45,David Montgomery,5
+ALL|All|68,B,Jaylen Waddle (WR),DEN at ARI,Over 2.5 targets,TGT,6.1,7 of 8,15 of 16,Tough (28),1.23,tough matchup,Run 9 / Pass 6,0.866,0.51,Jaylen Waddle,3
+ALL|All|69,B,Drake London (WR),ATL vs SF,Over 3.5 targets,TGT,8.7,7 of 8,15 of 16,Tough (24),1.23,tough matchup,Run 21 / Pass 27,0.866,0.54,Drake London,4
+ALL|All|70,C,Ashton Jeanty (RB),LV vs LA,Over 9.5 rush attempts,RUSH_ATT,15.8,8 of 8,14 of 16,Soft (4),1.19,,Run 8 / Pass 27,0.988,0.37,Ashton Jeanty,10
+ALL|All|71,C,Amon-Ra St. Brown (WR),DET vs GB,Over 3.5 receptions,REC,6.9,8 of 8,14 of 16,Soft (4),1.19,,Run 17 / Pass 18,0.988,0.42,Amon-Ra St. Brown,4
+ALL|All|72,C,Chuba Hubbard (RB),CAR vs TB,Over 0.5 receptions,REC,1.8,8 of 8,14 of 16,Soft (7),1.19,,Run 31 / Pass 16,0.988,0.43,Chuba Hubbard,1
+ALL|All|73,C,Darnell Washington (TE),PIT at NO,Over 1.5 targets,TGT,3.5,8 of 8,14 of 16,Soft (3),1.19,,Run 12 / Pass 9,0.988,0.43,Darnell Washington,2
+ALL|All|74,C,Samaje Perine (RB),CIN at BAL,Over 0.5 targets,TGT,1.8,8 of 8,14 of 16,Soft (5),1.19,,Run 24 / Pass 12,0.988,0.43,Samaje Perine,1
+ALL|All|75,C,Jameson Williams (WR),DET vs GB,Over 1.5 receptions,REC,4.1,8 of 8,14 of 16,Soft (4),1.19,,Run 17 / Pass 18,0.988,0.52,Jameson Williams,2
+ALL|All|76,C,Aaron Jones (RB),MIN vs IND,Over 39.5 rush+rec yards,RR_YDS,72.6,8 of 8,13 of 16,Soft (7),1.23,,Run 11 / Pass 14,0.956,0.45,Aaron Jones,40
+ALL|All|77,C,Bryce Young (QB),CAR vs TB,Over 23.5 pass attempts,ATT,32.5,8 of 8,14 of 16,Mid (12),1.19,,Run 31 / Pass 16,0.938,0.26,Bryce Young,24
+ALL|All|78,C,Michael Wilson (WR),ARI vs DEN,Over 6.5 targets,TGT,9.8,8 of 8,14 of 16,Mid (13),1.19,,Run 2 / Pass 24,0.938,0.29,Michael Wilson,7
+ALL|All|79,C,Chris Olave (WR),NO vs PIT,Over 3.5 receptions,REC,6.5,8 of 8,14 of 16,Mid (14),1.19,,Run 15 / Pass 20,0.938,0.38,Chris Olave,4
+ALL|All|80,C,Matthew Golden (WR),GB at DET,Over 2.5 targets,TGT,5.4,8 of 8,14 of 16,Mid (17),1.19,,Run 9 / Pass 4,0.938,0.45,Matthew Golden,3
+ALL|All|81,C,Jalen Coker (WR),CAR vs TB,Over 1.5 receptions,REC,4.1,8 of 8,14 of 16,Mid (11),1.19,,Run 31 / Pass 16,0.938,0.52,Jalen Coker,2
+ALL|All|82,C,Quinshon Judkins (RB),CLE at TEN,Over 11.5 rush attempts,RUSH_ATT,15.9,7 of 8,14 of 16,Soft (8),1.27,,Run 19 / Pass 7,0.925,0.24,Quinshon Judkins,12
+ALL|All|83,C,Tee Higgins (WR),CIN at BAL,Over 2.5 receptions,REC,4.8,7 of 8,14 of 16,Soft (4),1.27,,Run 24 / Pass 12,0.925,0.37,Tee Higgins,3
+ALL|All|84,C,Jordan Love (QB),GB at DET,Over 139.5 pass yards,PASS_YDS,246.9,7 of 8,14 of 16,Soft (4),1.27,,Run 9 / Pass 4,0.925,0.43,Jordan Love,140
+ALL|All|85,C,Kenneth Walker III (RB),KC at SEA,Over 1.5 targets,TGT,3.6,7 of 8,14 of 16,Soft (6),1.27,,Run 25 / Pass 30,0.925,0.44,Kenneth Walker III,2
+ALL|All|86,C,Rico Dowdle (RB),PIT at NO,Over 6.5 rush attempts,RUSH_ATT,13.2,7 of 8,14 of 16,Soft (7),1.27,,Run 12 / Pass 9,0.925,0.47,Rico Dowdle,7
+ALL|All|87,C,AJ Barner (TE),SEA vs KC,Over 1.5 targets,TGT,3.9,7 of 8,14 of 16,Soft (2),1.27,,Run 22 / Pass 29,0.925,0.48,AJ Barner,2
+ALL|All|88,C,Emeka Egbuka (WR),TB at CAR,Over 3.5 targets,TGT,7.6,7 of 8,14 of 16,Soft (8),1.27,,Run 4 / Pass 19,0.925,0.48,Emeka Egbuka,4
+ALL|All|89,C,RJ Harvey (RB),DEN at ARI,Over 29.5 rush+rec yards,RR_YDS,59.4,7 of 8,14 of 16,Soft (4),1.27,,Run 9 / Pass 6,0.925,0.49,RJ Harvey,30
+ALL|All|90,C,Nico Collins (WR),HOU vs NYG,Over 2.5 receptions,REC,4.9,8 of 8,16 of 16,Tough (25),1.11,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.92,0.38,Nico Collins,3
+ALL|All|91,C,Woody Marks (RB),HOU vs NYG,Over 0.5 targets,TGT,2.2,8 of 8,16 of 16,Tough (31),1.11,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.92,0.54,Woody Marks,1
+ALL|All|92,C,Aaron Rodgers (QB),PIT at NO,Over 30.5 pass attempts,ATT,34.8,8 of 8,13 of 16,Mid (12),1.23,,Run 12 / Pass 9,0.906,0.11,Aaron Rodgers,31
+ALL|All|93,C,Trey McBride (TE),ARI vs DEN,Over 6.5 receptions,REC,8.0,8 of 8,13 of 16,Mid (16),1.23,,Run 2 / Pass 24,0.906,0.12,Trey McBride,7
+ALL|All|94,C,Raheim Sanders (RB),CLE at TEN,Over 0.5 receptions,REC,1.6,8 of 8,8 of 9,Tough (32),1.18,tough matchup,Run 19 / Pass 7,0.904,0.36,Raheim Sanders,1
+ALL|All|95,C,Devaughn Vele (WR),NO vs PIT,Over 2.5 targets,TGT,5.5,8 of 8,12 of 15,Mid (9),1.23,,Run 15 / Pass 20,0.9,0.45,Devaughn Vele,3
+ALL|All|96,C,Tyler Shough (QB),NO vs PIT,Over 15.5 completions,COMP,23.4,8 of 8,14 of 16,Tough (27),1.19,tough matchup,Run 15 / Pass 20,0.897,0.32,Tyler Shough,16
+ALL|All|97,C,Geno Smith (QB),NYJ vs MIA,Over 15.5 completions,COMP,19.9,7 of 8,13 of 16,Soft (4),1.32,,Run 13 / Pass 8,0.894,0.19,Geno Smith,16
+ALL|All|98,C,Baker Mayfield (QB),TB at CAR,Over 23.5 pass attempts,ATT,31.2,7 of 8,13 of 16,Soft (7),1.32,,Run 4 / Pass 19,0.894,0.23,Baker Mayfield,24
+ALL|All|99,C,DeVonta Smith (WR),PHI vs DAL,Over 39.5 rush+rec yards,RR_YDS,66.7,7 of 8,13 of 16,Soft (6),1.32,,Run 1 / Pass 17,0.894,0.4,DeVonta Smith,40
+ALL|All|100,C,Drake Maye (QB),NE at CHI,Over 3.5 rush attempts,RUSH_ATT,6.0,8 of 8,15 of 16,Tough (32),1.15,tough matchup; 4d short,Run 28 / Pass 10,0.889,0.33,Drake Maye,4
+ALL|All|101,C,Rhamondre Stevenson (RB),NE at CHI,Over 34.5 rush+rec yards,RR_YDS,76.1,8 of 8,15 of 16,Tough (27),1.15,tough matchup; 4d short,Run 28 / Pass 10,0.889,0.54,Rhamondre Stevenson,35
+ALL|All|102,C,Jameis Winston (QB),NYG at HOU,Over 21.5 pass attempts,ATT,28.0,7 of 8,7 of 8,Soft (8),1.27,"big spread, game script risk",Run 30 / Pass 13,0.885,0.21,Jameis Winston,22
+ALL|All|103,C,Kyler Murray (QB),MIN vs IND,Over 24.5 pass attempts,ATT,29.1,7 of 8,8 of 9,Mid (19),1.26,,Run 11 / Pass 14,0.882,0.14,Kyler Murray,25
+ALL|All|104,C,Breece Hall (RB),NYJ vs MIA,Over 12.5 rush attempts,RUSH_ATT,16.0,7 of 8,14 of 16,Mid (10),1.27,,Run 13 / Pass 8,0.875,0.19,Breece Hall,13
+ALL|All|105,C,Lamar Jackson (QB),BAL vs CIN,Over 149.5 pass yards,PASS_YDS,206.7,7 of 8,14 of 16,Mid (21),1.27,,Run 18 / Pass 21,0.875,0.27,Lamar Jackson,150
+ALL|All|106,C,DK Metcalf (WR),PIT at NO,Over 2.5 receptions,REC,4.3,7 of 8,14 of 16,Mid (19),1.27,,Run 12 / Pass 9,0.875,0.3,DK Metcalf,3
+ALL|All|107,C,Justin Jefferson (WR),MIN vs IND,Over 4.5 targets,TGT,7.7,7 of 8,14 of 16,Mid (16),1.27,,Run 11 / Pass 14,0.875,0.35,Justin Jefferson,5
+ALL|All|108,C,Malik Washington (WR),MIA at NYJ,Over 2.5 targets,TGT,4.8,7 of 8,14 of 16,Mid (22),1.27,,Run 3 / Pass 23,0.875,0.37,Malik Washington,3
+ALL|All|109,C,Tyler Huntley (QB),BAL vs CIN,Over 2.5 rush attempts,RUSH_ATT,4.9,7 of 8,7 of 8,Mid (22),1.27,,Run 18 / Pass 21,0.875,0.38,Tyler Huntley,3
+ALL|All|110,C,Travis Kelce (TE),KC at SEA,Over 1.5 receptions,REC,4.2,7 of 8,14 of 16,Mid (22),1.27,,Run 25 / Pass 30,0.875,0.53,Travis Kelce,2
+ALL|All|111,C,Rashid Shaheed (WR),SEA vs KC,Over 1.5 targets,TGT,3.6,8 of 8,13 of 16,Tough (24),1.23,tough matchup,Run 22 / Pass 29,0.866,0.44,Rashid Shaheed,2
+ALL|All|112,C,Isaiah Likely (TE),NYG at HOU,Over 1.5 receptions,REC,3.9,8 of 8,14 of 16,Tough (26),1.19,"tough matchup; big spread, game script risk",Run 30 / Pass 13,0.858,0.49,Isaiah Likely,2
+ALL|All|113,C,Jaylin Noel (WR),HOU vs NYG,Over 0.5 targets,TGT,2.1,8 of 8,14 of 16,Tough (23),1.19,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.858,0.53,Jaylin Noel,1
+ALL|All|114,C,C.J. Stroud (QB),HOU vs NYG,Over 0.5 pass TDs,PASS_TD,1.3,7 of 8,13 of 16,Soft (8),1.32,"big spread, game script risk",Run 6 / Pass 31,0.854,0.24,C.J. Stroud,1
+ALL|All|115,C,Kirk Cousins (QB),LV vs LA,Over 22.5 pass attempts,ATT,30.1,7 of 8,13 of 16,Mid (18),1.32,,Run 8 / Pass 27,0.844,0.24,Kirk Cousins,23
+ALL|All|116,C,Tetairoa McMillan (WR),CAR vs TB,Over 4.5 targets,TGT,7.8,7 of 8,13 of 16,Mid (21),1.32,,Run 31 / Pass 16,0.844,0.35,Tetairoa McMillan,5
+ALL|All|117,C,Shedeur Sanders (QB),CLE at TEN,Over 15.5 pass attempts,ATT,23.7,7 of 8,8 of 9,Tough (26),1.26,tough matchup,Run 19 / Pass 7,0.842,0.32,Shedeur Sanders,16
+ALL|All|118,C,Braelon Allen (RB),NYJ vs MIA,Over 0.5 targets,TGT,1.6,7 of 8,8 of 10,Mid (13),1.33,,Run 13 / Pass 8,0.838,0.38,Braelon Allen,1
+ALL|All|119,C,Caleb Williams (QB),CHI vs NE,Over 16.5 completions,COMP,20.6,7 of 8,14 of 16,Mid (18),1.27,4d short,Run 26 / Pass 26,0.835,0.18,Caleb Williams,17
+ALL|All|120,C,Davante Adams (WR),LA at LV,Over 5.5 targets,TGT,7.8,7 of 8,14 of 16,Tough (26),1.27,tough matchup,Run 5 / Pass 15,0.835,0.23,Davante Adams,6
+ATT|All|1,B,Cam Ward (QB),TEN vs CLE,Over 19.5 pass attempts,ATT,30.1,7 of 8,15 of 16,Soft (6),1.23,,Run 16 / Pass 22,0.956,0.33,Cam Ward,20
+ATT|All|2,B,Jacoby Brissett (QB),ARI vs DEN,Over 30.5 pass attempts,ATT,39.9,7 of 8,15 of 16,Mid (10),1.23,,Run 2 / Pass 24,0.906,0.22,Jacoby Brissett,31
+ATT|All|3,B,Patrick Mahomes (QB),KC at SEA,Over 26.5 pass attempts,ATT,34.7,7 of 8,15 of 16,Mid (20),1.23,,Run 25 / Pass 30,0.906,0.22,Patrick Mahomes,27
+ATT|All|4,B,Sam Darnold (QB),SEA vs KC,Over 16.5 pass attempts,ATT,30.6,7 of 8,15 of 16,Mid (10),1.23,,Run 22 / Pass 29,0.906,0.44,Sam Darnold,17
+ATT|All|5,B,Tua Tagovailoa (QB),ATL vs SF,Over 19.5 pass attempts,ATT,25.8,7 of 8,14 of 15,Mid (16),1.23,,Run 21 / Pass 27,0.904,0.22,Tua Tagovailoa,20
+ATT|All|6,B,Michael Penix Jr. (QB),ATL vs SF,Over 19.5 pass attempts,ATT,29.7,7 of 8,12 of 13,Mid (16),1.24,,Run 21 / Pass 27,0.899,0.33,Michael Penix Jr.,20
+ATT|All|7,B,Bo Nix (QB),DEN at ARI,Over 26.5 pass attempts,ATT,35.1,7 of 8,15 of 16,Tough (25),1.23,tough matchup,Run 9 / Pass 6,0.866,0.23,Bo Nix,27
+ATT|All|8,C,Bryce Young (QB),CAR vs TB,Over 23.5 pass attempts,ATT,32.5,8 of 8,14 of 16,Mid (12),1.19,,Run 31 / Pass 16,0.938,0.26,Bryce Young,24
+ATT|All|9,C,Brock Purdy (QB),SF at ATL,Over 26.5 pass attempts,ATT,29.9,7 of 8,14 of 16,Soft (1),1.27,,Run 29 / Pass 3,0.925,0.1,Brock Purdy,27
+ATT|All|10,C,Joe Burrow (QB),CIN at BAL,Over 30.5 pass attempts,ATT,34.5,8 of 8,11 of 13,Mid (15),1.2,,Run 24 / Pass 12,0.923,0.1,Joe Burrow,31
+ATT|All|11,C,Aaron Rodgers (QB),PIT at NO,Over 30.5 pass attempts,ATT,34.8,8 of 8,13 of 16,Mid (12),1.23,,Run 12 / Pass 9,0.906,0.11,Aaron Rodgers,31
+ATT|All|12,C,Jared Goff (QB),DET vs GB,Over 29.5 pass attempts,ATT,37.2,7 of 8,13 of 16,Soft (5),1.32,,Run 17 / Pass 18,0.894,0.19,Jared Goff,30
+ATT|All|13,C,Baker Mayfield (QB),TB at CAR,Over 23.5 pass attempts,ATT,31.2,7 of 8,13 of 16,Soft (7),1.32,,Run 4 / Pass 19,0.894,0.23,Baker Mayfield,24
+ATT|All|14,C,Jordan Love (QB),GB at DET,Over 24.5 pass attempts,ATT,33.4,7 of 8,13 of 16,Soft (3),1.32,,Run 9 / Pass 4,0.894,0.25,Jordan Love,25
+ATT|All|15,C,Jameis Winston (QB),NYG at HOU,Over 21.5 pass attempts,ATT,28.0,7 of 8,7 of 8,Soft (8),1.27,"big spread, game script risk",Run 30 / Pass 13,0.885,0.21,Jameis Winston,22
+ATT|All|16,C,Kyler Murray (QB),MIN vs IND,Over 24.5 pass attempts,ATT,29.1,7 of 8,8 of 9,Mid (19),1.26,,Run 11 / Pass 14,0.882,0.14,Kyler Murray,25
+ATT|All|17,C,Dak Prescott (QB),DAL at PHI,Over 30.5 pass attempts,ATT,36.7,7 of 8,14 of 16,Mid (14),1.27,,Run 14 / Pass 11,0.875,0.16,Dak Prescott,31
+ATT|All|18,C,Matthew Stafford (QB),LA at LV,Over 30.5 pass attempts,ATT,39.2,7 of 8,14 of 16,Mid (22),1.27,,Run 5 / Pass 15,0.875,0.21,Matthew Stafford,31
+ATT|All|19,C,Jalen Hurts (QB),PHI vs DAL,Over 24.5 pass attempts,ATT,29.4,8 of 8,13 of 16,Tough (30),1.23,tough matchup,Run 1 / Pass 17,0.866,0.15,Jalen Hurts,25
+ATT|All|20,C,Kirk Cousins (QB),LV vs LA,Over 22.5 pass attempts,ATT,30.1,7 of 8,13 of 16,Mid (18),1.32,,Run 8 / Pass 27,0.844,0.24,Kirk Cousins,23
+ATT|All|21,C,Shedeur Sanders (QB),CLE at TEN,Over 15.5 pass attempts,ATT,23.7,7 of 8,8 of 9,Tough (26),1.26,tough matchup,Run 19 / Pass 7,0.842,0.32,Shedeur Sanders,16
+ATT|All|22,C,Daniel Jones (QB),IND at MIN,Over 26.5 pass attempts,ATT,32.1,7 of 8,14 of 16,Tough (32),1.27,tough matchup,Run 27 / Pass 32,0.835,0.16,Daniel Jones,27
+ATT|All|23,C,Caleb Williams (QB),CHI vs NE,Over 28.5 pass attempts,ATT,35.2,7 of 8,14 of 16,Mid (17),1.27,4d short,Run 26 / Pass 26,0.835,0.18,Caleb Williams,29
+ATT|All|24,C,Geno Smith (QB),NYJ vs MIA,Over 22.5 pass attempts,ATT,28.9,7 of 8,13 of 16,Tough (29),1.32,tough matchup,Run 13 / Pass 8,0.804,0.2,Geno Smith,23
+ATT|All|25,C,Tyler Shough (QB),NO vs PIT,Over 26.5 pass attempts,ATT,35.0,7 of 8,13 of 16,Tough (23),1.32,tough matchup,Run 15 / Pass 20,0.804,0.23,Tyler Shough,27
+ATT|All|26,C,C.J. Stroud (QB),HOU vs NYG,Over 27.5 pass attempts,ATT,33.0,7 of 8,13 of 16,Tough (28),1.32,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.764,0.15,C.J. Stroud,28
+ATT|All|27,C,Drake Maye (QB),NE at CHI,Over 21.5 pass attempts,ATT,29.7,7 of 8,13 of 16,Tough (23),1.32,tough matchup; 4d short,Run 28 / Pass 10,0.764,0.26,Drake Maye,22
+COMP|All|1,A,Brock Purdy (QB),SF at ATL,Over 14.5 completions,COMP,20.2,8 of 8,16 of 16,Soft (1),1.11,,Run 29 / Pass 3,1.05,0.26,Brock Purdy,15
+COMP|All|2,B,Dak Prescott (QB),DAL at PHI,Over 18.5 completions,COMP,23.9,7 of 8,15 of 16,Mid (18),1.23,,Run 14 / Pass 11,0.906,0.2,Dak Prescott,19
+COMP|All|3,B,Bo Nix (QB),DEN at ARI,Over 15.5 completions,COMP,21.8,7 of 8,15 of 16,Mid (17),1.23,,Run 9 / Pass 6,0.906,0.27,Bo Nix,16
+COMP|All|4,B,Patrick Mahomes (QB),KC at SEA,Over 14.5 completions,COMP,22.4,7 of 8,15 of 16,Mid (18),1.23,,Run 25 / Pass 30,0.906,0.33,Patrick Mahomes,15
+COMP|All|5,B,Sam Darnold (QB),SEA vs KC,Over 11.5 completions,COMP,19.2,7 of 8,15 of 16,Mid (16),1.23,,Run 22 / Pass 29,0.906,0.37,Sam Darnold,12
+COMP|All|6,B,Cam Ward (QB),TEN vs CLE,Over 10.5 completions,COMP,18.5,7 of 8,15 of 16,Mid (12),1.23,,Run 16 / Pass 22,0.906,0.41,Cam Ward,11
+COMP|All|7,B,Tua Tagovailoa (QB),ATL vs SF,Over 11.5 completions,COMP,17.5,7 of 8,14 of 15,Mid (12),1.23,,Run 21 / Pass 27,0.904,0.31,Tua Tagovailoa,12
+COMP|All|8,B,Michael Penix Jr. (QB),ATL vs SF,Over 12.5 completions,COMP,18.2,7 of 8,12 of 13,Mid (12),1.24,,Run 21 / Pass 27,0.899,0.29,Michael Penix Jr.,13
+COMP|All|9,B,Daniel Jones (QB),IND at MIN,Over 13.5 completions,COMP,20.5,7 of 8,15 of 16,Tough (32),1.23,tough matchup,Run 27 / Pass 32,0.866,0.32,Daniel Jones,14
+COMP|All|10,C,Jared Goff (QB),DET vs GB,Over 18.5 completions,COMP,24.3,7 of 8,14 of 16,Soft (7),1.27,,Run 17 / Pass 18,0.925,0.22,Jared Goff,19
+COMP|All|11,C,Bryce Young (QB),CAR vs TB,Over 14.5 completions,COMP,20.2,7 of 8,14 of 16,Soft (7),1.27,,Run 31 / Pass 16,0.925,0.26,Bryce Young,15
+COMP|All|12,C,Joe Burrow (QB),CIN at BAL,Over 19.5 completions,COMP,23.7,8 of 8,11 of 13,Mid (9),1.2,,Run 24 / Pass 12,0.923,0.16,Joe Burrow,20
+COMP|All|13,C,Aaron Rodgers (QB),PIT at NO,Over 16.5 completions,COMP,21.6,8 of 8,13 of 16,Mid (14),1.23,,Run 12 / Pass 9,0.906,0.21,Aaron Rodgers,17
+COMP|All|14,C,Tyler Shough (QB),NO vs PIT,Over 15.5 completions,COMP,23.4,8 of 8,14 of 16,Tough (27),1.19,tough matchup,Run 15 / Pass 20,0.897,0.32,Tyler Shough,16
+COMP|All|15,C,Geno Smith (QB),NYJ vs MIA,Over 15.5 completions,COMP,19.9,7 of 8,13 of 16,Soft (4),1.32,,Run 13 / Pass 8,0.894,0.19,Geno Smith,16
+COMP|All|16,C,Jordan Love (QB),GB at DET,Over 15.5 completions,COMP,20.5,7 of 8,13 of 16,Soft (3),1.32,,Run 9 / Pass 4,0.894,0.22,Jordan Love,16
+COMP|All|17,C,Matthew Stafford (QB),LA at LV,Over 19.5 completions,COMP,24.7,7 of 8,14 of 16,Mid (18),1.27,,Run 5 / Pass 15,0.875,0.19,Matthew Stafford,20
+COMP|All|18,C,Baker Mayfield (QB),TB at CAR,Over 15.5 completions,COMP,20.1,7 of 8,13 of 16,Mid (14),1.32,,Run 4 / Pass 19,0.844,0.2,Baker Mayfield,16
+COMP|All|19,C,Kyler Murray (QB),MIN vs IND,Over 14.5 completions,COMP,19.9,7 of 8,8 of 9,Tough (27),1.26,tough matchup,Run 11 / Pass 14,0.842,0.25,Kyler Murray,15
+COMP|All|20,C,Caleb Williams (QB),CHI vs NE,Over 16.5 completions,COMP,20.6,7 of 8,14 of 16,Mid (18),1.27,4d short,Run 26 / Pass 26,0.835,0.18,Caleb Williams,17
+COMP|All|21,C,Jacoby Brissett (QB),ARI vs DEN,Over 20.5 completions,COMP,26.2,7 of 8,14 of 16,Tough (24),1.27,tough matchup,Run 2 / Pass 24,0.835,0.2,Jacoby Brissett,21
+COMP|All|22,C,Jalen Hurts (QB),PHI vs DAL,Over 12.5 completions,COMP,17.9,7 of 8,14 of 16,Tough (23),1.27,tough matchup,Run 1 / Pass 17,0.835,0.27,Jalen Hurts,13
+COMP|All|23,C,Jameis Winston (QB),NYG at HOU,Over 10.5 completions,COMP,15.9,7 of 8,7 of 8,Mid (10),1.27,"big spread, game script risk",Run 30 / Pass 13,0.835,0.31,Jameis Winston,11
+COMP|All|24,C,C.J. Stroud (QB),HOU vs NYG,Over 15.5 completions,COMP,20.8,8 of 8,13 of 16,Tough (24),1.23,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.826,0.23,C.J. Stroud,16
+COMP|All|25,C,Drake Maye (QB),NE at CHI,Over 13.5 completions,COMP,19.4,7 of 8,15 of 16,Tough (30),1.23,tough matchup; 4d short,Run 28 / Pass 10,0.826,0.28,Drake Maye,14
+COMP|All|26,C,Kirk Cousins (QB),LV vs LA,Over 14.5 completions,COMP,18.8,7 of 8,13 of 16,Tough (29),1.32,tough matchup,Run 8 / Pass 27,0.804,0.2,Kirk Cousins,15
+PASS_TD|All|1,B,Jared Goff (QB),DET vs GB,Over 0.5 pass TDs,PASS_TD,2.0,8 of 8,16 of 16,Tough (24),1.11,tough matchup,Run 17 / Pass 18,0.96,0.5,Jared Goff,1
+PASS_TD|All|2,B,Joe Burrow (QB),CIN at BAL,Over 0.5 pass TDs,PASS_TD,2.2,8 of 8,12 of 13,Tough (29),1.16,tough matchup,Run 24 / Pass 12,0.922,0.54,Joe Burrow,1
+PASS_TD|All|3,B,Jacoby Brissett (QB),ARI vs DEN,Over 0.5 pass TDs,PASS_TD,1.8,7 of 8,15 of 16,Mid (22),1.23,,Run 2 / Pass 24,0.906,0.43,Jacoby Brissett,1
+PASS_TD|All|4,C,Brock Purdy (QB),SF at ATL,Over 0.5 pass TDs,PASS_TD,2.1,7 of 8,14 of 16,Soft (8),1.27,,Run 29 / Pass 3,0.925,0.53,Brock Purdy,1
+PASS_TD|All|5,C,Geno Smith (QB),NYJ vs MIA,Over 0.5 pass TDs,PASS_TD,1.2,7 of 8,13 of 16,Soft (3),1.32,,Run 13 / Pass 8,0.894,0.2,Geno Smith,1
+PASS_TD|All|6,C,Bryce Young (QB),CAR vs TB,Over 0.5 pass TDs,PASS_TD,1.6,7 of 8,13 of 16,Soft (8),1.32,,Run 31 / Pass 16,0.894,0.36,Bryce Young,1
+PASS_TD|All|7,C,Jalen Hurts (QB),PHI vs DAL,Over 0.5 pass TDs,PASS_TD,1.6,7 of 8,13 of 16,Soft (8),1.32,,Run 1 / Pass 17,0.894,0.38,Jalen Hurts,1
+PASS_TD|All|8,C,Baker Mayfield (QB),TB at CAR,Over 0.5 pass TDs,PASS_TD,1.2,7 of 8,14 of 16,Mid (18),1.27,,Run 4 / Pass 19,0.875,0.2,Baker Mayfield,1
+PASS_TD|All|9,C,C.J. Stroud (QB),HOU vs NYG,Over 0.5 pass TDs,PASS_TD,1.3,7 of 8,13 of 16,Soft (8),1.32,"big spread, game script risk",Run 6 / Pass 31,0.854,0.24,C.J. Stroud,1
+PASS_TD|All|10,C,Dak Prescott (QB),DAL at PHI,Over 0.5 pass TDs,PASS_TD,1.5,7 of 8,13 of 16,Mid (18),1.32,,Run 14 / Pass 11,0.844,0.33,Dak Prescott,1
+PASS_TD|All|11,C,Caleb Williams (QB),CHI vs NE,Over 0.5 pass TDs,PASS_TD,1.6,7 of 8,13 of 16,Tough (24),1.32,tough matchup; 4d short,Run 26 / Pass 26,0.764,0.36,Caleb Williams,1
+PASS_YDS|All|1,B,Bo Nix (QB),DEN at ARI,Over 119.5 pass yards,PASS_YDS,216.0,7 of 8,15 of 16,Soft (6),1.23,,Run 9 / Pass 6,0.956,0.44,Bo Nix,120
+PASS_YDS|All|2,B,Michael Penix Jr. (QB),ATL vs SF,Over 169.5 pass yards,PASS_YDS,225.1,8 of 8,12 of 13,Tough (27),1.16,tough matchup,Run 21 / Pass 27,0.922,0.24,Michael Penix Jr.,170
+PASS_YDS|All|3,B,Matthew Stafford (QB),LA at LV,Over 219.5 pass yards,PASS_YDS,305.0,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.28,Matthew Stafford,220
+PASS_YDS|All|4,B,Jared Goff (QB),DET vs GB,Over 199.5 pass yards,PASS_YDS,291.2,7 of 8,15 of 16,Mid (18),1.23,,Run 17 / Pass 18,0.906,0.31,Jared Goff,200
+PASS_YDS|All|5,B,Dak Prescott (QB),DAL at PHI,Over 169.5 pass yards,PASS_YDS,269.4,7 of 8,15 of 16,Mid (12),1.23,,Run 14 / Pass 11,0.906,0.37,Dak Prescott,170
+PASS_YDS|All|6,B,Cam Ward (QB),TEN vs CLE,Over 99.5 pass yards,PASS_YDS,175.7,7 of 8,15 of 16,Mid (22),1.23,,Run 16 / Pass 22,0.906,0.43,Cam Ward,100
+PASS_YDS|All|7,B,Jalen Hurts (QB),PHI vs DAL,Over 109.5 pass yards,PASS_YDS,197.1,7 of 8,15 of 16,Mid (17),1.23,,Run 1 / Pass 17,0.906,0.44,Jalen Hurts,110
+PASS_YDS|All|8,B,Patrick Mahomes (QB),KC at SEA,Over 179.5 pass yards,PASS_YDS,264.2,7 of 8,15 of 16,Tough (30),1.23,tough matchup,Run 25 / Pass 30,0.866,0.32,Patrick Mahomes,180
+PASS_YDS|All|9,B,Daniel Jones (QB),IND at MIN,Over 139.5 pass yards,PASS_YDS,223.4,7 of 8,15 of 16,Tough (32),1.23,tough matchup,Run 27 / Pass 32,0.866,0.37,Daniel Jones,140
+PASS_YDS|All|10,B,Jacoby Brissett (QB),ARI vs DEN,Over 159.5 pass yards,PASS_YDS,255.9,7 of 8,15 of 16,Tough (24),1.23,tough matchup,Run 2 / Pass 24,0.866,0.37,Jacoby Brissett,160
+PASS_YDS|All|11,B,Sam Darnold (QB),SEA vs KC,Over 119.5 pass yards,PASS_YDS,218.2,7 of 8,15 of 16,Tough (29),1.23,tough matchup,Run 22 / Pass 29,0.866,0.45,Sam Darnold,120
+PASS_YDS|All|12,C,Jordan Love (QB),GB at DET,Over 139.5 pass yards,PASS_YDS,246.9,7 of 8,14 of 16,Soft (4),1.27,,Run 9 / Pass 4,0.925,0.43,Jordan Love,140
+PASS_YDS|All|13,C,Joe Burrow (QB),CIN at BAL,Over 189.5 pass yards,PASS_YDS,243.8,8 of 8,11 of 13,Mid (11),1.2,,Run 24 / Pass 12,0.923,0.22,Joe Burrow,190
+PASS_YDS|All|14,C,Brock Purdy (QB),SF at ATL,Over 179.5 pass yards,PASS_YDS,234.5,7 of 8,13 of 16,Soft (3),1.32,,Run 29 / Pass 3,0.894,0.23,Brock Purdy,180
+PASS_YDS|All|15,C,Geno Smith (QB),NYJ vs MIA,Over 139.5 pass yards,PASS_YDS,199.1,7 of 8,13 of 16,Soft (8),1.32,,Run 13 / Pass 8,0.894,0.3,Geno Smith,140
+PASS_YDS|All|16,C,Kyler Murray (QB),MIN vs IND,Over 149.5 pass yards,PASS_YDS,180.4,7 of 8,8 of 9,Mid (14),1.26,,Run 11 / Pass 14,0.882,0.17,Kyler Murray,150
+PASS_YDS|All|17,C,Lamar Jackson (QB),BAL vs CIN,Over 149.5 pass yards,PASS_YDS,206.7,7 of 8,14 of 16,Mid (21),1.27,,Run 18 / Pass 21,0.875,0.27,Lamar Jackson,150
+PASS_YDS|All|18,C,Baker Mayfield (QB),TB at CAR,Over 139.5 pass yards,PASS_YDS,212.8,7 of 8,14 of 16,Mid (19),1.27,,Run 4 / Pass 19,0.875,0.34,Baker Mayfield,140
+PASS_YDS|All|19,C,Tyler Shough (QB),NO vs PIT,Over 139.5 pass yards,PASS_YDS,239.2,7 of 8,14 of 16,Mid (20),1.27,,Run 15 / Pass 20,0.875,0.41,Tyler Shough,140
+PASS_YDS|All|20,C,Aaron Rodgers (QB),PIT at NO,Over 159.5 pass yards,PASS_YDS,216.6,7 of 8,13 of 16,Mid (9),1.32,,Run 12 / Pass 9,0.844,0.26,Aaron Rodgers,160
+PASS_YDS|All|21,C,Bryce Young (QB),CAR vs TB,Over 129.5 pass yards,PASS_YDS,229.6,7 of 8,13 of 16,Mid (16),1.32,,Run 31 / Pass 16,0.844,0.43,Bryce Young,130
+PASS_YDS|All|22,C,Drake Maye (QB),NE at CHI,Over 169.5 pass yards,PASS_YDS,240.6,7 of 8,14 of 16,Mid (10),1.27,4d short,Run 28 / Pass 10,0.835,0.29,Drake Maye,170
+PASS_YDS|All|23,C,Jameis Winston (QB),NYG at HOU,Over 109.5 pass yards,PASS_YDS,190.5,7 of 8,7 of 8,Mid (13),1.27,"big spread, game script risk",Run 30 / Pass 13,0.835,0.42,Jameis Winston,110
+PASS_YDS|All|24,C,Kirk Cousins (QB),LV vs LA,Over 159.5 pass yards,PASS_YDS,206.4,7 of 8,13 of 16,Tough (27),1.32,tough matchup,Run 8 / Pass 27,0.804,0.22,Kirk Cousins,160
+PASS_YDS|All|25,C,Tua Tagovailoa (QB),ATL vs SF,Over 119.5 pass yards,PASS_YDS,179.6,7 of 8,12 of 15,Tough (27),1.33,tough matchup,Run 21 / Pass 27,0.797,0.33,Tua Tagovailoa,120
+PASS_YDS|All|26,C,Caleb Williams (QB),CHI vs NE,Over 189.5 pass yards,PASS_YDS,245.1,7 of 8,13 of 16,Tough (26),1.32,tough matchup; 4d short,Run 26 / Pass 26,0.764,0.22,Caleb Williams,190
+PASS_YDS|All|27,C,C.J. Stroud (QB),HOU vs NYG,Over 179.5 pass yards,PASS_YDS,244.5,7 of 8,13 of 16,Tough (31),1.32,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.764,0.26,C.J. Stroud,180
+REC|All|1,A,Tucker Kraft (TE),GB at DET,Over 1.5 receptions,REC,4.1,8 of 8,14 of 14,Soft (1),1.11,,Run 9 / Pass 4,1.05,0.51,Tucker Kraft,2
+REC|All|2,A,Sam LaPorta (TE),DET vs GB,Over 2.5 receptions,REC,4.8,8 of 8,14 of 14,Mid (18),1.11,,Run 17 / Pass 18,1.0,0.37,Sam LaPorta,3
+REC|All|3,B,Christian McCaffrey (RB),SF at ATL,Over 2.5 receptions,REC,5.0,8 of 8,15 of 16,Soft (6),1.15,,Run 29 / Pass 3,1.019,0.4,Christian McCaffrey,3
+REC|All|4,B,Greg Dulcich (TE),MIA at NYJ,Over 1.5 receptions,REC,3.0,8 of 8,12 of 13,Mid (14),1.16,,Run 3 / Pass 23,0.962,0.33,Greg Dulcich,2
+REC|All|5,B,Luther Burden III (WR),CHI vs NE,Over 2.5 receptions,REC,4.4,8 of 8,16 of 16,Mid (12),1.11,4d short,Run 26 / Pass 26,0.96,0.32,Luther Burden III,3
+REC|All|6,B,Puka Nacua (WR),LA at LV,Over 4.5 receptions,REC,8.1,8 of 8,16 of 16,Tough (27),1.11,tough matchup,Run 5 / Pass 15,0.96,0.38,Puka Nacua,5
+REC|All|7,B,Mack Hollins (WR),NE at CHI,Over 1.5 receptions,REC,3.8,8 of 8,16 of 16,Mid (18),1.11,4d short,Run 28 / Pass 10,0.96,0.47,Mack Hollins,2
+REC|All|8,B,Deebo Samuel Sr. (WR),SF at ATL,Over 1.5 receptions,REC,3.6,7 of 8,15 of 16,Soft (2),1.23,,Run 29 / Pass 3,0.956,0.45,Deebo Samuel Sr.,2
+REC|All|9,B,Bijan Robinson (RB),ATL vs SF,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Soft (1),1.23,,Run 21 / Pass 27,0.956,0.52,Bijan Robinson,2
+REC|All|10,B,Brock Bowers (TE),LV vs LA,Over 3.5 receptions,REC,5.8,8 of 8,15 of 16,Tough (26),1.15,tough matchup,Run 8 / Pass 27,0.929,0.3,Brock Bowers,4
+REC|All|11,B,Rome Odunze (WR),CHI vs NE,Over 1.5 receptions,REC,3.0,8 of 8,15 of 16,Mid (12),1.15,4d short,Run 26 / Pass 26,0.929,0.33,Rome Odunze,2
+REC|All|12,B,Tre Tucker (WR),LV vs LA,Over 1.5 receptions,REC,3.2,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 8 / Pass 27,0.929,0.38,Tre Tucker,2
+REC|All|13,B,Tyler Warren (TE),IND at MIN,Over 2.5 receptions,REC,4.8,8 of 8,15 of 16,Tough (32),1.15,tough matchup,Run 27 / Pass 32,0.929,0.38,Tyler Warren,3
+REC|All|14,B,Josh Downs (WR),IND at MIN,Over 1.5 receptions,REC,3.5,8 of 8,15 of 16,Tough (31),1.15,tough matchup,Run 27 / Pass 32,0.929,0.43,Josh Downs,2
+REC|All|15,B,Dalton Schultz (TE),HOU vs NYG,Over 1.5 receptions,REC,4.4,8 of 8,15 of 16,Mid (9),1.15,"big spread, game script risk",Run 6 / Pass 31,0.929,0.54,Dalton Schultz,2
+REC|All|16,B,Jahmyr Gibbs (RB),DET vs GB,Over 2.5 receptions,REC,5.1,7 of 8,15 of 16,Mid (16),1.23,,Run 17 / Pass 18,0.906,0.41,Jahmyr Gibbs,3
+REC|All|17,B,Wan'Dale Robinson (WR),TEN vs CLE,Over 2.5 receptions,REC,5.5,7 of 8,15 of 16,Mid (19),1.23,,Run 16 / Pass 22,0.906,0.45,Wan'Dale Robinson,3
+REC|All|18,B,Cade Otton (TE),TB at CAR,Over 1.5 receptions,REC,3.9,7 of 8,15 of 16,Mid (14),1.23,,Run 4 / Pass 19,0.906,0.49,Cade Otton,2
+REC|All|19,B,Dallas Goedert (TE),PHI vs DAL,Over 1.5 receptions,REC,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dallas Goedert,2
+REC|All|20,B,Garrett Wilson (WR),NYJ vs MIA,Over 2.5 receptions,REC,5.5,7 of 8,12 of 13,Mid (14),1.24,,Run 13 / Pass 8,0.899,0.45,Garrett Wilson,3
+REC|All|21,B,Juwan Johnson (TE),NO vs PIT,Over 2.5 receptions,REC,4.4,7 of 8,15 of 16,Tough (26),1.23,tough matchup,Run 15 / Pass 20,0.866,0.32,Juwan Johnson,3
+REC|All|22,B,Xavier Worthy (WR),KC at SEA,Over 1.5 receptions,REC,3.2,7 of 8,15 of 16,Tough (25),1.23,tough matchup,Run 25 / Pass 30,0.866,0.38,Xavier Worthy,2
+REC|All|23,B,Rashee Rice (WR),KC at SEA,Over 3.5 receptions,REC,6.0,7 of 8,10 of 11,Tough (25),1.25,tough matchup,Run 25 / Pass 30,0.852,0.33,Rashee Rice,4
+REC|All|24,C,Amon-Ra St. Brown (WR),DET vs GB,Over 3.5 receptions,REC,6.9,8 of 8,14 of 16,Soft (4),1.19,,Run 17 / Pass 18,0.988,0.42,Amon-Ra St. Brown,4
+REC|All|25,C,Chuba Hubbard (RB),CAR vs TB,Over 0.5 receptions,REC,1.8,8 of 8,14 of 16,Soft (7),1.19,,Run 31 / Pass 16,0.988,0.43,Chuba Hubbard,1
+REC|All|26,C,Jameson Williams (WR),DET vs GB,Over 1.5 receptions,REC,4.1,8 of 8,14 of 16,Soft (4),1.19,,Run 17 / Pass 18,0.988,0.52,Jameson Williams,2
+REC|All|27,C,Chris Olave (WR),NO vs PIT,Over 3.5 receptions,REC,6.5,8 of 8,14 of 16,Mid (14),1.19,,Run 15 / Pass 20,0.938,0.38,Chris Olave,4
+REC|All|28,C,Jalen Coker (WR),CAR vs TB,Over 1.5 receptions,REC,4.1,8 of 8,14 of 16,Mid (11),1.19,,Run 31 / Pass 16,0.938,0.52,Jalen Coker,2
+REC|All|29,C,Pat Freiermuth (TE),PIT at NO,Over 1.5 receptions,REC,2.9,7 of 8,14 of 16,Soft (4),1.27,,Run 12 / Pass 9,0.925,0.32,Pat Freiermuth,2
+REC|All|30,C,Tee Higgins (WR),CIN at BAL,Over 2.5 receptions,REC,4.8,7 of 8,14 of 16,Soft (4),1.27,,Run 24 / Pass 12,0.925,0.37,Tee Higgins,3
+REC|All|31,C,Nico Collins (WR),HOU vs NYG,Over 2.5 receptions,REC,4.9,8 of 8,16 of 16,Tough (25),1.11,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.92,0.38,Nico Collins,3
+REC|All|32,C,Mike Evans (WR),SF at ATL,Over 2.5 receptions,REC,4.1,7 of 8,12 of 14,Soft (2),1.28,,Run 29 / Pass 3,0.916,0.26,Mike Evans,3
+REC|All|33,C,Trey McBride (TE),ARI vs DEN,Over 6.5 receptions,REC,8.0,8 of 8,13 of 16,Mid (16),1.23,,Run 2 / Pass 24,0.906,0.12,Trey McBride,7
+REC|All|34,C,Christian Watson (WR),GB at DET,Over 2.5 receptions,REC,3.9,8 of 8,13 of 16,Mid (9),1.23,,Run 9 / Pass 4,0.906,0.24,Christian Watson,3
+REC|All|35,C,Kyren Williams (RB),LA at LV,Over 1.5 receptions,REC,3.2,8 of 8,13 of 16,Mid (12),1.23,,Run 5 / Pass 15,0.906,0.37,Kyren Williams,2
+REC|All|36,C,Raheim Sanders (RB),CLE at TEN,Over 0.5 receptions,REC,1.6,8 of 8,8 of 9,Tough (32),1.18,tough matchup,Run 19 / Pass 7,0.904,0.36,Raheim Sanders,1
+REC|All|37,C,Darnell Washington (TE),PIT at NO,Over 1.5 receptions,REC,2.5,7 of 8,13 of 16,Soft (4),1.32,,Run 12 / Pass 9,0.894,0.2,Darnell Washington,2
+REC|All|38,C,Kenneth Walker III (RB),KC at SEA,Over 1.5 receptions,REC,2.7,7 of 8,13 of 16,Soft (2),1.32,,Run 25 / Pass 30,0.894,0.26,Kenneth Walker III,2
+REC|All|39,C,Ashton Jeanty (RB),LV vs LA,Over 2.5 receptions,REC,4.1,7 of 8,13 of 16,Soft (7),1.32,,Run 8 / Pass 27,0.894,0.27,Ashton Jeanty,3
+REC|All|40,C,Samaje Perine (RB),CIN at BAL,Over 0.5 receptions,REC,1.4,7 of 8,13 of 16,Soft (5),1.32,,Run 24 / Pass 12,0.894,0.27,Samaje Perine,1
+REC_YDS|All|1,B,Mike Evans (WR),SF at ATL,Over 29.5 rec yards,REC_YDS,56.3,8 of 8,13 of 14,Mid (9),1.15,,Run 29 / Pass 3,0.964,0.47,Mike Evans,30
+REC_YDS|All|2,B,Brock Bowers (TE),LV vs LA,Over 29.5 rec yards,REC_YDS,66.4,7 of 8,15 of 16,Tough (27),1.23,tough matchup,Run 8 / Pass 27,0.866,0.55,Brock Bowers,30
+REC_YDS|All|3,C,Deebo Samuel Sr. (WR),SF at ATL,Over 19.5 rec yards,REC_YDS,39.6,8 of 8,14 of 16,Mid (9),1.19,,Run 29 / Pass 3,0.938,0.49,Deebo Samuel Sr.,20
+REC_YDS|All|4,C,Pat Freiermuth (TE),PIT at NO,Over 14.5 rec yards,REC_YDS,30.2,7 of 8,14 of 16,Soft (4),1.27,,Run 12 / Pass 9,0.925,0.5,Pat Freiermuth,15
+REC_YDS|All|5,C,Tee Higgins (WR),CIN at BAL,Over 39.5 rec yards,REC_YDS,70.8,7 of 8,13 of 16,Soft (3),1.32,,Run 24 / Pass 12,0.894,0.44,Tee Higgins,40
+REC_YDS|All|6,C,Trey McBride (TE),ARI vs DEN,Over 39.5 rec yards,REC_YDS,73.7,7 of 8,14 of 16,Mid (12),1.27,,Run 2 / Pass 24,0.875,0.46,Trey McBride,40
+REC_YDS|All|7,C,Chris Olave (WR),NO vs PIT,Over 44.5 rec yards,REC_YDS,87.6,7 of 8,14 of 16,Mid (11),1.27,,Run 15 / Pass 20,0.875,0.49,Chris Olave,45
+REC_YDS|All|8,C,Tre Tucker (WR),LV vs LA,Over 24.5 rec yards,REC_YDS,42.4,8 of 8,13 of 16,Tough (27),1.23,tough matchup,Run 8 / Pass 27,0.866,0.41,Tre Tucker,25
+REC_YDS|All|9,C,Sam LaPorta (TE),DET vs GB,Over 29.5 rec yards,REC_YDS,57.5,7 of 8,12 of 14,Mid (16),1.28,,Run 17 / Pass 18,0.866,0.48,Sam LaPorta,30
+REC_YDS|All|10,C,Rome Odunze (WR),CHI vs NE,Over 29.5 rec yards,REC_YDS,47.8,8 of 8,14 of 16,Tough (23),1.19,tough matchup; 4d short,Run 26 / Pass 26,0.858,0.37,Rome Odunze,30
+REC_YDS|All|11,C,Mack Hollins (WR),NE at CHI,Over 24.5 rec yards,REC_YDS,52.9,7 of 8,13 of 16,Soft (5),1.32,4d short,Run 28 / Pass 10,0.854,0.53,Mack Hollins,25
+REC_YDS|All|12,C,Puka Nacua (WR),LA at LV,Over 69.5 rec yards,REC_YDS,109.6,7 of 8,13 of 16,Mid (12),1.32,,Run 5 / Pass 15,0.844,0.36,Puka Nacua,70
+REC_YDS|All|13,C,Amon-Ra St. Brown (WR),DET vs GB,Over 49.5 rec yards,REC_YDS,82.6,7 of 8,13 of 16,Mid (18),1.32,,Run 17 / Pass 18,0.844,0.39,Amon-Ra St. Brown,50
+REC_YDS|All|14,C,DeVonta Smith (WR),PHI vs DAL,Over 39.5 rec yards,REC_YDS,66.7,7 of 8,13 of 16,Mid (10),1.32,,Run 1 / Pass 17,0.844,0.4,DeVonta Smith,40
+REC_YDS|All|15,C,Christian Watson (WR),GB at DET,Over 39.5 rec yards,REC_YDS,68.8,7 of 8,13 of 16,Mid (13),1.32,,Run 9 / Pass 4,0.844,0.42,Christian Watson,40
+REC_YDS|All|16,C,Justin Jefferson (WR),MIN vs IND,Over 29.5 rec yards,REC_YDS,53.6,7 of 8,13 of 16,Mid (14),1.32,,Run 11 / Pass 14,0.844,0.44,Justin Jefferson,30
+REC_YDS|All|17,C,Jameson Williams (WR),DET vs GB,Over 34.5 rec yards,REC_YDS,69.0,7 of 8,13 of 16,Mid (18),1.32,,Run 17 / Pass 18,0.844,0.49,Jameson Williams,35
+REC_YDS|All|18,C,DK Metcalf (WR),PIT at NO,Over 24.5 rec yards,REC_YDS,50.2,7 of 8,13 of 16,Mid (15),1.32,,Run 12 / Pass 9,0.844,0.5,DK Metcalf,25
+REC_YDS|All|19,C,Chris Godwin Jr. (WR),TB at CAR,Over 24.5 rec yards,REC_YDS,38.4,7 of 8,12 of 15,Mid (21),1.33,,Run 4 / Pass 19,0.838,0.35,Chris Godwin Jr.,25
+REC_YDS|All|20,C,Zay Flowers (WR),BAL vs CIN,Over 49.5 rec yards,REC_YDS,78.7,7 of 8,14 of 16,Tough (30),1.27,tough matchup,Run 18 / Pass 21,0.835,0.36,Zay Flowers,50
+REC_YDS|All|21,C,Jaxon Smith-Njigba (WR),SEA vs KC,Over 69.5 rec yards,REC_YDS,97.7,7 of 8,13 of 16,Tough (32),1.32,tough matchup,Run 22 / Pass 29,0.804,0.28,Jaxon Smith-Njigba,70
+REC_YDS|All|22,C,Tyler Warren (TE),IND at MIN,Over 19.5 rec yards,REC_YDS,41.2,7 of 8,13 of 16,Tough (32),1.32,tough matchup,Run 27 / Pass 32,0.804,0.52,Tyler Warren,20
+REC_YDS|All|23,C,Luther Burden III (WR),CHI vs NE,Over 29.5 rec yards,REC_YDS,56.8,7 of 8,14 of 16,Tough (23),1.27,tough matchup; 4d short,Run 26 / Pass 26,0.795,0.47,Luther Burden III,30
+REC_YDS|All|24,C,Nico Collins (WR),HOU vs NYG,Over 54.5 rec yards,REC_YDS,75.1,7 of 8,13 of 16,Tough (28),1.32,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.764,0.27,Nico Collins,55
+RR_YDS|All|1,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush+rec yards,RR_YDS,69.1,8 of 8,16 of 16,Soft (4),1.11,,Run 9 / Pass 6,1.05,0.49,J.K. Dobbins,35
+RR_YDS|All|2,B,Mike Evans (WR),SF at ATL,Over 29.5 rush+rec yards,RR_YDS,56.3,8 of 8,13 of 14,Mid (9),1.15,,Run 29 / Pass 3,0.964,0.47,Mike Evans,30
+RR_YDS|All|3,B,Bucky Irving (RB),TB at CAR,Over 44.5 rush+rec yards,RR_YDS,86.9,7 of 8,15 of 16,Soft (3),1.23,,Run 4 / Pass 19,0.956,0.48,Bucky Irving,45
+RR_YDS|All|4,B,Travis Etienne (RB),NO vs PIT,Over 34.5 rush+rec yards,RR_YDS,75.6,7 of 8,15 of 16,Mid (14),1.23,,Run 15 / Pass 20,0.906,0.54,Travis Etienne,35
+RR_YDS|All|5,B,Derrick Henry (RB),BAL vs CIN,Over 74.5 rush+rec yards,RR_YDS,111.8,7 of 8,15 of 16,Tough (26),1.23,tough matchup,Run 18 / Pass 21,0.866,0.33,Derrick Henry,75
+RR_YDS|All|6,C,Ashton Jeanty (RB),LV vs LA,Over 54.5 rush+rec yards,RR_YDS,84.6,8 of 8,13 of 16,Soft (6),1.23,,Run 8 / Pass 27,0.956,0.35,Ashton Jeanty,55
+RR_YDS|All|7,C,Aaron Jones (RB),MIN vs IND,Over 39.5 rush+rec yards,RR_YDS,72.6,8 of 8,13 of 16,Soft (7),1.23,,Run 11 / Pass 14,0.956,0.45,Aaron Jones,40
+RR_YDS|All|8,C,Kyren Williams (RB),LA at LV,Over 64.5 rush+rec yards,RR_YDS,91.5,7 of 8,14 of 16,Soft (2),1.27,,Run 5 / Pass 15,0.925,0.29,Kyren Williams,65
+RR_YDS|All|9,C,De'Von Achane (RB),MIA at NYJ,Over 64.5 rush+rec yards,RR_YDS,107.9,7 of 8,14 of 16,Soft (1),1.27,,Run 3 / Pass 23,0.925,0.4,De'Von Achane,65
+RR_YDS|All|10,C,RJ Harvey (RB),DEN at ARI,Over 29.5 rush+rec yards,RR_YDS,59.4,7 of 8,14 of 16,Soft (4),1.27,,Run 9 / Pass 6,0.925,0.49,RJ Harvey,30
+RR_YDS|All|11,C,D'Andre Swift (RB),CHI vs NE,Over 69.5 rush+rec yards,RR_YDS,83.6,8 of 8,14 of 16,Mid (18),1.19,4d short,Run 26 / Pass 26,0.897,0.16,D'Andre Swift,70
+RR_YDS|All|12,C,DeVonta Smith (WR),PHI vs DAL,Over 39.5 rush+rec yards,RR_YDS,66.7,7 of 8,13 of 16,Soft (6),1.32,,Run 1 / Pass 17,0.894,0.4,DeVonta Smith,40
+RR_YDS|All|13,C,Tee Higgins (WR),CIN at BAL,Over 39.5 rush+rec yards,RR_YDS,70.8,7 of 8,13 of 16,Soft (3),1.32,,Run 24 / Pass 12,0.894,0.44,Tee Higgins,40
+RR_YDS|All|14,C,Rhamondre Stevenson (RB),NE at CHI,Over 34.5 rush+rec yards,RR_YDS,76.1,8 of 8,15 of 16,Tough (27),1.15,tough matchup; 4d short,Run 28 / Pass 10,0.889,0.54,Rhamondre Stevenson,35
+RR_YDS|All|15,C,Javonte Williams (RB),DAL at PHI,Over 49.5 rush+rec yards,RR_YDS,74.9,7 of 8,14 of 16,Mid (17),1.27,,Run 14 / Pass 11,0.875,0.33,Javonte Williams,50
+RR_YDS|All|16,C,Trey McBride (TE),ARI vs DEN,Over 39.5 rush+rec yards,RR_YDS,73.7,7 of 8,14 of 16,Mid (13),1.27,,Run 2 / Pass 24,0.875,0.46,Trey McBride,40
+RR_YDS|All|17,C,Chris Olave (WR),NO vs PIT,Over 44.5 rush+rec yards,RR_YDS,87.4,7 of 8,14 of 16,Mid (12),1.27,,Run 15 / Pass 20,0.875,0.48,Chris Olave,45
+RR_YDS|All|18,C,DK Metcalf (WR),PIT at NO,Over 24.5 rush+rec yards,RR_YDS,51.7,7 of 8,14 of 16,Mid (16),1.27,,Run 12 / Pass 9,0.875,0.52,DK Metcalf,25
+RR_YDS|All|19,C,Kenneth Walker III (RB),KC at SEA,Over 69.5 rush+rec yards,RR_YDS,116.5,8 of 8,13 of 16,Tough (25),1.23,tough matchup,Run 25 / Pass 30,0.866,0.4,Kenneth Walker III,70
+RR_YDS|All|20,C,Tre Tucker (WR),LV vs LA,Over 24.5 rush+rec yards,RR_YDS,43.4,8 of 8,13 of 16,Tough (27),1.23,tough matchup,Run 8 / Pass 27,0.866,0.42,Tre Tucker,25
+RR_YDS|All|21,C,Sam LaPorta (TE),DET vs GB,Over 29.5 rush+rec yards,RR_YDS,57.5,7 of 8,12 of 14,Mid (16),1.28,,Run 17 / Pass 18,0.866,0.48,Sam LaPorta,30
+RR_YDS|All|22,C,Rome Odunze (WR),CHI vs NE,Over 29.5 rush+rec yards,RR_YDS,47.8,8 of 8,14 of 16,Tough (25),1.19,tough matchup; 4d short,Run 26 / Pass 26,0.858,0.37,Rome Odunze,30
+RR_YDS|All|23,C,Mack Hollins (WR),NE at CHI,Over 24.5 rush+rec yards,RR_YDS,53.1,7 of 8,13 of 16,Soft (5),1.32,4d short,Run 28 / Pass 10,0.854,0.53,Mack Hollins,25
+RR_YDS|All|24,C,Quinshon Judkins (RB),CLE at TEN,Over 44.5 rush+rec yards,RR_YDS,65.0,7 of 8,13 of 16,Mid (22),1.32,,Run 19 / Pass 7,0.844,0.31,Quinshon Judkins,45
+RR_YDS|All|25,C,Tony Pollard (RB),TEN vs CLE,Over 49.5 rush+rec yards,RR_YDS,72.4,7 of 8,13 of 16,Mid (21),1.32,,Run 16 / Pass 22,0.844,0.31,Tony Pollard,50
+RR_YDS|All|26,C,Jaylen Warren (RB),PIT at NO,Over 59.5 rush+rec yards,RR_YDS,91.2,7 of 8,13 of 16,Mid (12),1.32,,Run 12 / Pass 9,0.844,0.34,Jaylen Warren,60
+RR_YDS|All|27,C,Amon-Ra St. Brown (WR),DET vs GB,Over 49.5 rush+rec yards,RR_YDS,82.6,7 of 8,13 of 16,Mid (18),1.32,,Run 17 / Pass 18,0.844,0.39,Amon-Ra St. Brown,50
+RR_YDS|All|28,C,Puka Nacua (WR),LA at LV,Over 69.5 rush+rec yards,RR_YDS,114.9,7 of 8,13 of 16,Mid (13),1.32,,Run 5 / Pass 15,0.844,0.39,Puka Nacua,70
+RR_YDS|All|29,C,Christian Watson (WR),GB at DET,Over 39.5 rush+rec yards,RR_YDS,68.9,7 of 8,13 of 16,Mid (11),1.32,,Run 9 / Pass 4,0.844,0.42,Christian Watson,40
+RR_YDS|All|30,C,Justin Jefferson (WR),MIN vs IND,Over 29.5 rush+rec yards,RR_YDS,53.1,7 of 8,13 of 16,Mid (14),1.32,,Run 11 / Pass 14,0.844,0.43,Justin Jefferson,30
+RR_YDS|All|31,C,Deebo Samuel Sr. (WR),SF at ATL,Over 24.5 rush+rec yards,RR_YDS,46.2,7 of 8,13 of 16,Mid (9),1.32,,Run 29 / Pass 3,0.844,0.46,Deebo Samuel Sr.,25
+RR_YDS|All|32,C,Jahmyr Gibbs (RB),DET vs GB,Over 64.5 rush+rec yards,RR_YDS,130.2,7 of 8,13 of 16,Mid (13),1.32,,Run 17 / Pass 18,0.844,0.5,Jahmyr Gibbs,65
+RR_YDS|All|33,C,Jameson Williams (WR),DET vs GB,Over 34.5 rush+rec yards,RR_YDS,69.7,7 of 8,13 of 16,Mid (18),1.32,,Run 17 / Pass 18,0.844,0.5,Jameson Williams,35
+RR_YDS|All|34,C,Chris Godwin Jr. (WR),TB at CAR,Over 24.5 rush+rec yards,RR_YDS,39.6,7 of 8,12 of 15,Mid (21),1.33,,Run 4 / Pass 19,0.838,0.37,Chris Godwin Jr.,25
+RR_YDS|All|35,C,Christian McCaffrey (RB),SF at ATL,Over 69.5 rush+rec yards,RR_YDS,102.0,7 of 8,14 of 16,Tough (24),1.27,tough matchup,Run 29 / Pass 3,0.835,0.31,Christian McCaffrey,70
+RR_YDS|All|36,C,Chase Brown (RB),CIN at BAL,Over 64.5 rush+rec yards,RR_YDS,95.1,7 of 8,14 of 16,Tough (31),1.27,tough matchup,Run 24 / Pass 12,0.835,0.32,Chase Brown,65
+RR_YDS|All|37,C,Brock Bowers (TE),LV vs LA,Over 29.5 rush+rec yards,RR_YDS,66.5,7 of 8,14 of 16,Tough (29),1.27,tough matchup,Run 8 / Pass 27,0.835,0.55,Brock Bowers,30
+RR_YDS|All|38,C,Zay Flowers (WR),BAL vs CIN,Over 64.5 rush+rec yards,RR_YDS,83.9,7 of 8,13 of 16,Tough (28),1.32,tough matchup,Run 18 / Pass 21,0.804,0.23,Zay Flowers,65
+RR_YDS|All|39,C,Jaxon Smith-Njigba (WR),SEA vs KC,Over 69.5 rush+rec yards,RR_YDS,98.9,7 of 8,13 of 16,Tough (32),1.32,tough matchup,Run 22 / Pass 29,0.804,0.29,Jaxon Smith-Njigba,70
+RR_YDS|All|40,C,Jonathan Taylor (RB),IND at MIN,Over 69.5 rush+rec yards,RR_YDS,108.5,7 of 8,13 of 16,Tough (29),1.32,tough matchup,Run 27 / Pass 32,0.804,0.35,Jonathan Taylor,70
+RUSH_ATT|All|1,A,Kyren Williams (RB),LA at LV,Over 9.5 rush attempts,RUSH_ATT,14.1,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.29,Kyren Williams,10
+RUSH_ATT|All|2,A,Blake Corum (RB),LA at LV,Over 4.5 rush attempts,RUSH_ATT,8.9,8 of 8,16 of 16,Mid (17),1.11,,Run 5 / Pass 15,1.0,0.44,Blake Corum,5
+RUSH_ATT|All|3,B,Jaylen Warren (RB),PIT at NO,Over 9.5 rush attempts,RUSH_ATT,13.0,8 of 8,15 of 16,Soft (7),1.15,,Run 12 / Pass 9,1.019,0.23,Jaylen Warren,10
+RUSH_ATT|All|4,B,Javonte Williams (RB),DAL at PHI,Over 10.5 rush attempts,RUSH_ATT,15.3,7 of 8,15 of 16,Soft (3),1.23,,Run 14 / Pass 11,0.956,0.28,Javonte Williams,11
+RUSH_ATT|All|5,B,J.K. Dobbins (RB),DEN at ARI,Over 9.5 rush attempts,RUSH_ATT,14.6,7 of 8,15 of 16,Soft (2),1.23,,Run 9 / Pass 6,0.956,0.32,J.K. Dobbins,10
+RUSH_ATT|All|6,B,Jalen Hurts (QB),PHI vs DAL,Over 2.5 rush attempts,RUSH_ATT,5.2,7 of 8,15 of 16,Soft (3),1.23,,Run 1 / Pass 17,0.956,0.42,Jalen Hurts,3
+RUSH_ATT|All|7,B,Bucky Irving (RB),TB at CAR,Over 8.5 rush attempts,RUSH_ATT,16.8,7 of 8,15 of 16,Soft (6),1.23,,Run 4 / Pass 19,0.956,0.46,Bucky Irving,9
+RUSH_ATT|All|8,B,De'Von Achane (RB),MIA at NYJ,Over 6.5 rush attempts,RUSH_ATT,15.1,7 of 8,15 of 16,Soft (1),1.23,,Run 3 / Pass 23,0.956,0.54,De'Von Achane,7
+RUSH_ATT|All|9,B,Christian McCaffrey (RB),SF at ATL,Over 9.5 rush attempts,RUSH_ATT,15.4,8 of 8,15 of 16,Tough (27),1.15,tough matchup,Run 29 / Pass 3,0.929,0.35,Christian McCaffrey,10
+RUSH_ATT|All|10,B,Tony Pollard (RB),TEN vs CLE,Over 9.5 rush attempts,RUSH_ATT,14.4,7 of 8,15 of 16,Mid (22),1.23,,Run 16 / Pass 22,0.906,0.31,Tony Pollard,10
+RUSH_ATT|All|11,B,Kendre Miller (RB),NO vs PIT,Over 3.5 rush attempts,RUSH_ATT,8.0,7 of 8,11 of 12,Mid (14),1.24,,Run 15 / Pass 20,0.896,0.5,Kendre Miller,4
+RUSH_ATT|All|12,B,David Montgomery (RB),HOU vs NYG,Over 4.5 rush attempts,RUSH_ATT,9.1,7 of 8,15 of 16,Mid (19),1.23,"big spread, game script risk",Run 6 / Pass 31,0.866,0.45,David Montgomery,5
+RUSH_ATT|All|13,C,Ashton Jeanty (RB),LV vs LA,Over 9.5 rush attempts,RUSH_ATT,15.8,8 of 8,14 of 16,Soft (4),1.19,,Run 8 / Pass 27,0.988,0.37,Ashton Jeanty,10
+RUSH_ATT|All|14,C,Quinshon Judkins (RB),CLE at TEN,Over 11.5 rush attempts,RUSH_ATT,15.9,7 of 8,14 of 16,Soft (8),1.27,,Run 19 / Pass 7,0.925,0.24,Quinshon Judkins,12
+RUSH_ATT|All|15,C,Rico Dowdle (RB),PIT at NO,Over 6.5 rush attempts,RUSH_ATT,13.2,7 of 8,14 of 16,Soft (7),1.27,,Run 12 / Pass 9,0.925,0.47,Rico Dowdle,7
+RUSH_ATT|All|16,C,Aaron Jones (RB),MIN vs IND,Over 8.5 rush attempts,RUSH_ATT,13.8,8 of 8,13 of 16,Mid (19),1.23,,Run 11 / Pass 14,0.906,0.35,Aaron Jones,9
+RUSH_ATT|All|17,C,Kenneth Walker III (RB),KC at SEA,Over 10.5 rush attempts,RUSH_ATT,17.0,8 of 8,14 of 16,Tough (24),1.19,tough matchup,Run 25 / Pass 30,0.897,0.35,Kenneth Walker III,11
+RUSH_ATT|All|18,C,Drake Maye (QB),NE at CHI,Over 3.5 rush attempts,RUSH_ATT,6.0,8 of 8,15 of 16,Tough (32),1.15,tough matchup; 4d short,Run 28 / Pass 10,0.889,0.33,Drake Maye,4
+RUSH_ATT|All|19,C,Breece Hall (RB),NYJ vs MIA,Over 12.5 rush attempts,RUSH_ATT,16.0,7 of 8,14 of 16,Mid (10),1.27,,Run 13 / Pass 8,0.875,0.19,Breece Hall,13
+RUSH_ATT|All|20,C,Jahmyr Gibbs (RB),DET vs GB,Over 11.5 rush attempts,RUSH_ATT,16.3,7 of 8,14 of 16,Mid (13),1.27,,Run 17 / Pass 18,0.875,0.26,Jahmyr Gibbs,12
+RUSH_ATT|All|21,C,Travis Etienne (RB),NO vs PIT,Over 8.5 rush attempts,RUSH_ATT,13.9,7 of 8,14 of 16,Mid (14),1.27,,Run 15 / Pass 20,0.875,0.35,Travis Etienne,9
+RUSH_ATT|All|22,C,Tyler Huntley (QB),BAL vs CIN,Over 2.5 rush attempts,RUSH_ATT,4.9,7 of 8,7 of 8,Mid (22),1.27,,Run 18 / Pass 21,0.875,0.38,Tyler Huntley,3
+RUSH_ATT|All|23,C,Bijan Robinson (RB),ATL vs SF,Over 14.5 rush attempts,RUSH_ATT,18.2,7 of 8,13 of 16,Mid (12),1.32,,Run 21 / Pass 27,0.844,0.18,Bijan Robinson,15
+RUSH_ATT|All|24,C,Jonathan Taylor (RB),IND at MIN,Over 14.5 rush attempts,RUSH_ATT,19.6,7 of 8,13 of 16,Mid (16),1.32,,Run 27 / Pass 32,0.844,0.24,Jonathan Taylor,15
+RUSH_ATT|All|25,C,Najee Harris (RB),NYG at HOU,Over 3.5 rush attempts,RUSH_ATT,5.8,7 of 8,7 of 8,Mid (21),1.27,"big spread, game script risk",Run 30 / Pass 13,0.835,0.3,Najee Harris,4
+RUSH_ATT|All|26,C,Bo Nix (QB),DEN at ARI,Over 2.5 rush attempts,RUSH_ATT,4.9,7 of 8,14 of 16,Tough (31),1.27,tough matchup,Run 9 / Pass 6,0.835,0.38,Bo Nix,3
+RUSH_ATT|All|27,C,Samaje Perine (RB),CIN at BAL,Over 2.5 rush attempts,RUSH_ATT,6.6,7 of 8,14 of 16,Tough (29),1.27,tough matchup,Run 24 / Pass 12,0.835,0.55,Samaje Perine,3
+RUSH_ATT|All|28,C,Caleb Williams (QB),CHI vs NE,Over 2.5 rush attempts,RUSH_ATT,4.6,7 of 8,15 of 16,Tough (26),1.23,tough matchup; 4d short,Run 26 / Pass 26,0.826,0.34,Caleb Williams,3
+RUSH_ATT|All|29,C,Cam Skattebo (RB),NYG at HOU,Over 9.5 rush attempts,RUSH_ATT,14.0,7 of 8,11 of 13,Mid (21),1.29,"big spread, game script risk",Run 30 / Pass 13,0.821,0.29,Cam Skattebo,10
+RUSH_ATT|All|30,C,Chase Brown (RB),CIN at BAL,Over 11.5 rush attempts,RUSH_ATT,14.3,7 of 8,13 of 16,Tough (29),1.32,tough matchup,Run 24 / Pass 12,0.804,0.16,Chase Brown,12
+RUSH_ATT|All|31,C,Derrick Henry (RB),BAL vs CIN,Over 16.5 rush attempts,RUSH_ATT,20.5,7 of 8,13 of 16,Tough (30),1.32,tough matchup,Run 18 / Pass 21,0.804,0.17,Derrick Henry,17
+RUSH_ATT|All|32,C,D'Andre Swift (RB),CHI vs NE,Over 9.5 rush attempts,RUSH_ATT,14.8,7 of 8,13 of 16,Tough (23),1.32,tough matchup; 4d short,Run 26 / Pass 26,0.764,0.32,D'Andre Swift,10
+RUSH_ATT|All|33,C,Rhamondre Stevenson (RB),NE at CHI,Over 6.5 rush attempts,RUSH_ATT,11.0,7 of 8,13 of 16,Tough (28),1.32,tough matchup; 4d short,Run 28 / Pass 10,0.764,0.36,Rhamondre Stevenson,7
+RUSH_YDS|All|1,A,J.K. Dobbins (RB),DEN at ARI,Over 34.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Soft (3),1.11,,Run 9 / Pass 6,1.05,0.46,J.K. Dobbins,35
+RUSH_YDS|All|2,A,Javonte Williams (RB),DAL at PHI,Over 29.5 rush yards,RUSH_YDS,65.1,8 of 8,16 of 16,Mid (14),1.11,,Run 14 / Pass 11,1.0,0.54,Javonte Williams,30
+RUSH_YDS|All|3,B,Kyren Williams (RB),LA at LV,Over 39.5 rush yards,RUSH_YDS,67.4,7 of 8,15 of 16,Soft (4),1.23,,Run 5 / Pass 15,0.956,0.41,Kyren Williams,40
+RUSH_YDS|All|4,B,D'Andre Swift (RB),CHI vs NE,Over 39.5 rush yards,RUSH_YDS,66.9,8 of 8,15 of 16,Mid (21),1.15,4d short,Run 26 / Pass 26,0.929,0.4,D'Andre Swift,40
+RUSH_YDS|All|5,B,Jonathan Taylor (RB),IND at MIN,Over 44.5 rush yards,RUSH_YDS,86.2,7 of 8,15 of 16,Tough (25),1.23,tough matchup,Run 27 / Pass 32,0.866,0.48,Jonathan Taylor,45
+RUSH_YDS|All|6,C,Jaylen Warren (RB),PIT at NO,Over 39.5 rush yards,RUSH_YDS,66.1,8 of 8,13 of 16,Soft (6),1.23,,Run 12 / Pass 9,0.956,0.39,Jaylen Warren,40
+RUSH_YDS|All|7,C,Bucky Irving (RB),TB at CAR,Over 44.5 rush yards,RUSH_YDS,65.0,7 of 8,14 of 16,Soft (2),1.27,,Run 4 / Pass 19,0.925,0.31,Bucky Irving,45
+RUSH_YDS|All|8,C,Aaron Jones (RB),MIN vs IND,Over 29.5 rush yards,RUSH_YDS,58.4,8 of 8,13 of 16,Mid (12),1.23,,Run 11 / Pass 14,0.906,0.49,Aaron Jones,30
+RUSH_YDS|All|9,C,Kyler Murray (QB),MIN vs IND,Over 14.5 rush yards,RUSH_YDS,29.6,7 of 8,8 of 9,Mid (9),1.26,,Run 11 / Pass 14,0.882,0.49,Kyler Murray,15
+RUSH_YDS|All|10,C,Bijan Robinson (RB),ATL vs SF,Over 59.5 rush yards,RUSH_YDS,98.1,7 of 8,14 of 16,Mid (18),1.27,,Run 21 / Pass 27,0.875,0.39,Bijan Robinson,60
+RUSH_YDS|All|11,C,Ashton Jeanty (RB),LV vs LA,Over 24.5 rush yards,RUSH_YDS,52.7,7 of 8,14 of 16,Mid (19),1.27,,Run 8 / Pass 27,0.875,0.53,Ashton Jeanty,25
+RUSH_YDS|All|12,C,Kenneth Walker III (RB),KC at SEA,Over 54.5 rush yards,RUSH_YDS,91.6,8 of 8,13 of 16,Tough (29),1.23,tough matchup,Run 25 / Pass 30,0.866,0.4,Kenneth Walker III,55
+RUSH_YDS|All|13,C,Drake Maye (QB),NE at CHI,Over 14.5 rush yards,RUSH_YDS,33.0,8 of 8,14 of 16,Tough (26),1.19,tough matchup; 4d short,Run 28 / Pass 10,0.858,0.55,Drake Maye,15
+RUSH_YDS|All|14,C,Tony Pollard (RB),TEN vs CLE,Over 39.5 rush yards,RUSH_YDS,65.7,7 of 8,13 of 16,Mid (11),1.32,,Run 16 / Pass 22,0.844,0.39,Tony Pollard,40
+RUSH_YDS|All|15,C,Travis Etienne (RB),NO vs PIT,Over 29.5 rush yards,RUSH_YDS,53.7,7 of 8,13 of 16,Mid (9),1.32,,Run 15 / Pass 20,0.844,0.44,Travis Etienne,30
+RUSH_YDS|All|16,C,Chase Brown (RB),CIN at BAL,Over 34.5 rush yards,RUSH_YDS,66.4,7 of 8,14 of 16,Tough (30),1.27,tough matchup,Run 24 / Pass 12,0.835,0.47,Chase Brown,35
+RUSH_YDS|All|17,C,Derrick Henry (RB),BAL vs CIN,Over 64.5 rush yards,RUSH_YDS,101.2,7 of 8,13 of 16,Tough (27),1.32,tough matchup,Run 18 / Pass 21,0.804,0.36,Derrick Henry,65
+RUSH_YDS|All|18,C,Christian McCaffrey (RB),SF at ATL,Over 34.5 rush yards,RUSH_YDS,64.9,7 of 8,13 of 16,Tough (23),1.32,tough matchup,Run 29 / Pass 3,0.804,0.46,Christian McCaffrey,35
+RUSH_YDS|All|19,C,Brock Purdy (QB),SF at ATL,Over 9.5 rush yards,RUSH_YDS,21.7,7 of 8,13 of 16,Tough (29),1.32,tough matchup,Run 29 / Pass 3,0.804,0.54,Brock Purdy,10
+RUSH_YDS|All|20,C,Cam Skattebo (RB),NYG at HOU,Over 34.5 rush yards,RUSH_YDS,54.2,7 of 8,11 of 13,Tough (28),1.29,"tough matchup; big spread, game script risk",Run 30 / Pass 13,0.781,0.35,Cam Skattebo,35
+TGT|All|1,A,Mark Andrews (TE),BAL vs CIN,Over 2.5 targets,TGT,4.6,8 of 8,16 of 16,Soft (4),1.11,,Run 18 / Pass 21,1.05,0.34,Mark Andrews,3
+TGT|All|2,A,Greg Dulcich (TE),MIA at NYJ,Over 1.5 targets,TGT,3.8,8 of 8,13 of 13,Mid (19),1.11,,Run 3 / Pass 23,1.0,0.48,Greg Dulcich,2
+TGT|All|3,B,Pat Freiermuth (TE),PIT at NO,Over 2.5 targets,TGT,4.1,8 of 8,15 of 16,Soft (3),1.15,,Run 12 / Pass 9,1.019,0.26,Pat Freiermuth,3
+TGT|All|4,B,Tucker Kraft (TE),GB at DET,Over 2.5 targets,TGT,5.8,8 of 8,13 of 14,Soft (1),1.15,,Run 9 / Pass 4,1.014,0.48,Tucker Kraft,3
+TGT|All|5,B,Darren Waller (TE),CAR vs TB,Over 1.5 targets,TGT,3.9,8 of 8,13 of 14,Soft (7),1.15,,Run 31 / Pass 16,1.014,0.49,Darren Waller,2
+TGT|All|6,B,Zay Flowers (WR),BAL vs CIN,Over 4.5 targets,TGT,7.1,8 of 8,16 of 16,Tough (29),1.11,tough matchup,Run 18 / Pass 21,0.96,0.3,Zay Flowers,5
+TGT|All|7,B,George Kittle (TE),SF at ATL,Over 3.5 targets,TGT,6.3,7 of 8,15 of 16,Soft (5),1.23,,Run 29 / Pass 3,0.956,0.37,George Kittle,4
+TGT|All|8,B,Deebo Samuel Sr. (WR),SF at ATL,Over 2.5 targets,TGT,5.1,7 of 8,15 of 16,Soft (1),1.23,,Run 29 / Pass 3,0.956,0.41,Deebo Samuel Sr.,3
+TGT|All|9,B,Chase Brown (RB),CIN at BAL,Over 2.5 targets,TGT,5.8,7 of 8,15 of 16,Soft (5),1.23,,Run 24 / Pass 12,0.956,0.48,Chase Brown,3
+TGT|All|10,B,Chris Godwin Jr. (WR),TB at CAR,Over 2.5 targets,TGT,5.3,7 of 8,14 of 15,Soft (8),1.23,,Run 4 / Pass 19,0.954,0.44,Chris Godwin Jr.,3
+TGT|All|11,B,Tyler Warren (TE),IND at MIN,Over 4.5 targets,TGT,6.8,8 of 8,15 of 16,Tough (32),1.15,tough matchup,Run 27 / Pass 32,0.929,0.26,Tyler Warren,5
+TGT|All|12,B,Jonathan Taylor (RB),IND at MIN,Over 1.5 targets,TGT,3.3,8 of 8,15 of 16,Tough (30),1.15,tough matchup,Run 27 / Pass 32,0.929,0.4,Jonathan Taylor,2
+TGT|All|13,B,Jake Ferguson (TE),DAL at PHI,Over 1.5 targets,TGT,4.2,8 of 8,15 of 16,Tough (24),1.15,tough matchup,Run 14 / Pass 11,0.929,0.53,Jake Ferguson,2
+TGT|All|14,B,Courtland Sutton (WR),DEN at ARI,Over 2.5 targets,TGT,6.5,8 of 8,15 of 16,Tough (28),1.15,tough matchup,Run 9 / Pass 6,0.929,0.54,Courtland Sutton,3
+TGT|All|15,B,Christian Watson (WR),GB at DET,Over 3.5 targets,TGT,6.6,7 of 8,15 of 16,Mid (17),1.23,,Run 9 / Pass 4,0.906,0.4,Christian Watson,4
+TGT|All|16,B,Xavier Worthy (WR),KC at SEA,Over 2.5 targets,TGT,5.2,7 of 8,15 of 16,Mid (18),1.23,,Run 25 / Pass 30,0.906,0.43,Xavier Worthy,3
+TGT|All|17,B,Alvin Kamara (RB),NO vs PIT,Over 1.5 targets,TGT,3.7,7 of 8,15 of 16,Mid (22),1.23,,Run 15 / Pass 20,0.906,0.46,Alvin Kamara,2
+TGT|All|18,B,CeeDee Lamb (WR),DAL at PHI,Over 4.5 targets,TGT,9.6,7 of 8,15 of 16,Mid (10),1.23,,Run 14 / Pass 11,0.906,0.48,CeeDee Lamb,5
+TGT|All|19,B,Dontayvion Wicks (WR),PHI vs DAL,Over 1.5 targets,TGT,4.1,7 of 8,15 of 16,Mid (20),1.23,,Run 1 / Pass 17,0.906,0.52,Dontayvion Wicks,2
+TGT|All|20,B,Harold Fannin Jr. (TE),CLE at TEN,Over 2.5 targets,TGT,6.2,7 of 8,15 of 16,Mid (19),1.23,,Run 19 / Pass 7,0.906,0.52,Harold Fannin Jr.,3
+TGT|All|21,B,Tyler Higbee (TE),LA at LV,Over 1.5 targets,TGT,4.2,7 of 8,15 of 16,Mid (15),1.23,,Run 5 / Pass 15,0.906,0.52,Tyler Higbee,2
+TGT|All|22,B,Sam LaPorta (TE),DET vs GB,Over 3.5 targets,TGT,6.1,7 of 8,13 of 14,Mid (12),1.23,,Run 17 / Pass 18,0.902,0.35,Sam LaPorta,4
+TGT|All|23,B,Rashee Rice (WR),KC at SEA,Over 5.5 targets,TGT,8.6,7 of 8,10 of 11,Mid (18),1.25,,Run 25 / Pass 30,0.892,0.31,Rashee Rice,6
+TGT|All|24,B,Juwan Johnson (TE),NO vs PIT,Over 3.5 targets,TGT,5.8,7 of 8,15 of 16,Tough (29),1.23,tough matchup,Run 15 / Pass 20,0.866,0.3,Juwan Johnson,4
+TGT|All|25,B,Jaylen Waddle (WR),DEN at ARI,Over 2.5 targets,TGT,6.1,7 of 8,15 of 16,Tough (28),1.23,tough matchup,Run 9 / Pass 6,0.866,0.51,Jaylen Waddle,3
+TGT|All|26,B,Drake London (WR),ATL vs SF,Over 3.5 targets,TGT,8.7,7 of 8,15 of 16,Tough (24),1.23,tough matchup,Run 21 / Pass 27,0.866,0.54,Drake London,4
+TGT|All|27,B,Garrett Wilson (WR),NYJ vs MIA,Over 3.5 targets,TGT,8.2,7 of 8,12 of 13,Tough (31),1.24,tough matchup,Run 13 / Pass 8,0.859,0.51,Garrett Wilson,4
+TGT|All|28,C,Darnell Washington (TE),PIT at NO,Over 1.5 targets,TGT,3.5,8 of 8,14 of 16,Soft (3),1.19,,Run 12 / Pass 9,0.988,0.43,Darnell Washington,2
+TGT|All|29,C,Samaje Perine (RB),CIN at BAL,Over 0.5 targets,TGT,1.8,8 of 8,14 of 16,Soft (5),1.19,,Run 24 / Pass 12,0.988,0.43,Samaje Perine,1
+TGT|All|30,C,Michael Wilson (WR),ARI vs DEN,Over 6.5 targets,TGT,9.8,8 of 8,14 of 16,Mid (13),1.19,,Run 2 / Pass 24,0.938,0.29,Michael Wilson,7
+TGT|All|31,C,Matthew Golden (WR),GB at DET,Over 2.5 targets,TGT,5.4,8 of 8,14 of 16,Mid (17),1.19,,Run 9 / Pass 4,0.938,0.45,Matthew Golden,3
+TGT|All|32,C,Tony Pollard (RB),TEN vs CLE,Over 0.5 targets,TGT,2.1,8 of 8,14 of 16,Mid (15),1.19,,Run 16 / Pass 22,0.938,0.53,Tony Pollard,1
+TGT|All|33,C,Christian McCaffrey (RB),SF at ATL,Over 3.5 targets,TGT,6.1,7 of 8,14 of 16,Soft (3),1.27,,Run 29 / Pass 3,0.925,0.35,Christian McCaffrey,4
+TGT|All|34,C,Kenneth Walker III (RB),KC at SEA,Over 1.5 targets,TGT,3.6,7 of 8,14 of 16,Soft (6),1.27,,Run 25 / Pass 30,0.925,0.44,Kenneth Walker III,2
+TGT|All|35,C,Ashton Jeanty (RB),LV vs LA,Over 2.5 targets,TGT,5.6,7 of 8,14 of 16,Soft (8),1.27,,Run 8 / Pass 27,0.925,0.46,Ashton Jeanty,3
+TGT|All|36,C,Tee Higgins (WR),CIN at BAL,Over 3.5 targets,TGT,7.6,7 of 8,14 of 16,Soft (7),1.27,,Run 24 / Pass 12,0.925,0.47,Tee Higgins,4
+TGT|All|37,C,AJ Barner (TE),SEA vs KC,Over 1.5 targets,TGT,3.9,7 of 8,14 of 16,Soft (2),1.27,,Run 22 / Pass 29,0.925,0.48,AJ Barner,2
+TGT|All|38,C,Emeka Egbuka (WR),TB at CAR,Over 3.5 targets,TGT,7.6,7 of 8,14 of 16,Soft (8),1.27,,Run 4 / Pass 19,0.925,0.48,Emeka Egbuka,4
+TGT|All|39,C,Woody Marks (RB),HOU vs NYG,Over 0.5 targets,TGT,2.2,8 of 8,16 of 16,Tough (31),1.11,"tough matchup; big spread, game script risk",Run 6 / Pass 31,0.92,0.54,Woody Marks,1
+TGT|All|40,C,Javonte Williams (RB),DAL at PHI,Over 1.5 targets,TGT,2.8,8 of 8,13 of 16,Mid (18),1.23,,Run 14 / Pass 11,0.906,0.29,Javonte Williams,2

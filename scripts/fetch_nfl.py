@@ -188,7 +188,12 @@ def nfl_extras(log, games, cur, today):
     ex["rush_rk"] = ex.RUSH_YDS.rank(ascending=False, method="min").astype(int)
     ex.columns = ["Pass yds allowed", "Rush yds allowed", "Pass allowed rank", "Rush allowed rank"]
     ex.index.name = "team"
-    tt = extras.team_table(tg, "NFL", ex)
+    # Teams tab: rank 1 = best defense (fewest yards allowed), same direction as the def_rk columns.
+    # Safe and Slate keep the other direction internally (1 = most allowed = softest matchup).
+    disp = ex[["Pass yds allowed", "Rush yds allowed"]].copy()
+    disp["Pass D rank"] = disp["Pass yds allowed"].rank(ascending=True, method="min").astype(int)
+    disp["Rush D rank"] = disp["Rush yds allowed"].rank(ascending=True, method="min").astype(int)
+    tt = extras.team_table(tg, "NFL", disp)
     tt.to_csv(DATA / "nfl_teams.csv", index=False)
     n = extras.CFG["NFL"]["recent_n"]
     ranks = tt.set_index("Team")[[f"L{n}_off_rk", f"L{n}_def_rk"]]

@@ -1,215 +1,239 @@
 key,grade,who,game,pick,stat,avg,recent,long,matchup,fair,flags,team_def,score,cushion,player,line
-ALL|ALL|A only|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|ALL|A only|2,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|AST|A only|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|RA|A only|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
+ALL|ALL|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
+ALL|ALL|A only|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
+ALL|ALL|A only|3,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
+ALL|ALL|A only|4,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
+ALL|ALL|A only|5,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
+ALL|ALL|A only|6,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
+ALL|AST|A only|1,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
+ALL|AST|A only|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
+ALL|PR|A only|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
+ALL|RA|A only|1,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
+ALL|RA|A only|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
+ALL|REB|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
+ALL|REB|A only|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,,Pts allowed rk 18,1.025,0.4,Donovan Mitchell,3
 ALL|THREES|A only|1,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|ALL|A and B|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|ALL|A and B|2,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|ALL|A and B|3,B,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.31,Evan Mobley,6
-ALL|ALL|A and B|4,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.37,Donovan Mitchell,20
-ALL|ALL|A and B|5,B,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.48,James Harden,5
-ALL|ALL|A and B|6,B,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,"last season stats, check roster",Pts allowed rk 19,0.96,0.4,Jamal Murray,4
-ALL|ALL|A and B|7,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|ALL|A and B|8,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|ALL|A and B|9,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|ALL|A and B|10,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,"last season stats, check roster",Pts allowed rk 19,0.96,0.55,Aaron Gordon,6
-ALL|ALL|A and B|11,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|ALL|A and B|12,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
-ALL|ALL|A and B|13,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,"last season stats, check roster",Pts allowed rk 19,0.935,0.51,Cameron Johnson,10
-ALL|ALL|A and B|14,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
-ALL|ALL|A and B|15,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|ALL|A and B|16,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|ALL|A and B|17,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|ALL|A and B|18,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,"last season stats, check roster",Pts allowed rk 19,0.885,0.43,Peyton Watson,3
-ALL|ALL|A and B|19,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|AST|A and B|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|AST|A and B|2,B,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,"last season stats, check roster",Pts allowed rk 19,0.96,0.4,Jamal Murray,4
-ALL|AST|A and B|3,B,Evan Mobley,CLE at PHI,Over 1.5 assists,AST,3.6,10 of 10,18 of 20,Soft (5),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.45,Evan Mobley,2
+ALL|ALL|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
+ALL|ALL|A and B|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
+ALL|ALL|A and B|3,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
+ALL|ALL|A and B|4,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
+ALL|ALL|A and B|5,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
+ALL|ALL|A and B|6,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
+ALL|ALL|A and B|7,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
+ALL|ALL|A and B|8,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
+ALL|ALL|A and B|9,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
+ALL|ALL|A and B|10,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
+ALL|ALL|A and B|11,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
+ALL|ALL|A and B|12,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
+ALL|ALL|A and B|13,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
+ALL|ALL|A and B|14,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
+ALL|ALL|A and B|15,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
+ALL|ALL|A and B|16,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
+ALL|ALL|A and B|17,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
+ALL|ALL|A and B|18,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
+ALL|ALL|A and B|19,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
+ALL|ALL|A and B|20,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
+ALL|ALL|A and B|21,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
+ALL|ALL|A and B|22,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
+ALL|AST|A and B|1,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
+ALL|AST|A and B|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
+ALL|AST|A and B|3,B,Evan Mobley,CLE at PHI,Over 1.5 assists,AST,3.6,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.45,Evan Mobley,2
 ALL|AST|A and B|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|AST|A and B|5,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|AST|A and B|6,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (12),1.31,"last season stats, check roster",Pts allowed rk 19,0.86,0.31,Peyton Watson,2
-ALL|PA|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Soft (8),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.33,Donovan Mitchell,20
-ALL|PA|A and B|2,B,Joel Embiid,PHI vs CLE,Over 14.5 pts+ast,PA,32.2,10 of 10,20 of 20,Tough (28),1.22,tough matchup,Pts allowed rk 20,0.96,0.53,Joel Embiid,15
-ALL|PA|A and B|3,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,20
-ALL|PA|A and B|4,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.935,0.38,Jaylen Brown,20
-ALL|PA|A and B|5,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.4,James Harden,15
-ALL|PA|A and B|6,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.33,Tyrese Maxey,20
-ALL|PA|A and B|7,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+ast,PA,18.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.46,VJ Edgecombe,10
-ALL|PR|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.37,Donovan Mitchell,20
-ALL|PR|A and B|2,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|PR|A and B|3,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|PR|A and B|4,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.37,James Harden,15
-ALL|PR|A and B|5,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.34,Shai Gilgeous-Alexander,20
-ALL|PR|A and B|6,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+reb,PR,35.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.43,Joel Embiid,20
-ALL|PR|A and B|7,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.26,Jaylen Brown,25
-ALL|PR|A and B|8,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.37,Chet Holmgren,15
-ALL|PR|A and B|9,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb,PR,18.1,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.45,Anfernee Simons,10
-ALL|PRA|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (8),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.29,Donovan Mitchell,25
-ALL|PRA|A and B|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (5),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.31,Evan Mobley,20
-ALL|PRA|A and B|3,B,Aaron Gordon,DEN at OKC,Over 9.5 pts+reb+ast,PRA,22.1,10 of 10,18 of 20,Soft (4),1.24,"last season stats, check roster",Pts allowed rk 19,0.96,0.55,Aaron Gordon,10
-ALL|PRA|A and B|4,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.32,LeBron James,25
-ALL|PRA|A and B|5,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.32,James Harden,20
-ALL|PRA|A and B|6,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,"last season stats, check roster",Pts allowed rk 19,0.935,0.51,Cameron Johnson,10
+ALL|AST|A and B|5,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (12),1.31,,Pts allowed rk 19,0.9,0.31,Peyton Watson,2
+ALL|AST|A and B|6,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
+ALL|PA|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.33,Donovan Mitchell,20
+ALL|PA|A and B|2,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.4,James Harden,15
+ALL|PA|A and B|3,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
+ALL|PA|A and B|4,B,Joel Embiid,PHI vs CLE,Over 14.5 pts+ast,PA,32.2,10 of 10,20 of 20,Tough (28),1.22,tough matchup,Pts allowed rk 20,0.96,0.53,Joel Embiid,15
+ALL|PA|A and B|5,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,20
+ALL|PA|A and B|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.935,0.38,Jaylen Brown,20
+ALL|PA|A and B|7,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.33,Tyrese Maxey,20
+ALL|PA|A and B|8,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+ast,PA,18.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.46,VJ Edgecombe,10
+ALL|PA|A and B|9,B,Peyton Watson,DEN at OKC,Over 9.5 pts+ast,PA,21.6,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.54,Peyton Watson,10
+ALL|PR|A and B|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
+ALL|PR|A and B|2,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.37,James Harden,15
+ALL|PR|A and B|3,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
+ALL|PR|A and B|4,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
+ALL|PR|A and B|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.22,Nikola Jokic,30
+ALL|PR|A and B|6,B,Jamal Murray,DEN at OKC,Over 14.5 pts+reb,PR,30.1,10 of 10,19 of 20,Tough (24),1.22,tough matchup,Pts allowed rk 19,0.935,0.5,Jamal Murray,15
+ALL|PR|A and B|7,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.34,Shai Gilgeous-Alexander,20
+ALL|PR|A and B|8,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+reb,PR,35.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.43,Joel Embiid,20
+ALL|PR|A and B|9,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.26,Jaylen Brown,25
+ALL|PR|A and B|10,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.37,Chet Holmgren,15
+ALL|PR|A and B|11,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb,PR,17.8,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.44,Christian Braun,10
+ALL|PR|A and B|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb,PR,18.1,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.45,Anfernee Simons,10
+ALL|PRA|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.29,Donovan Mitchell,25
+ALL|PRA|A and B|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.31,Evan Mobley,20
+ALL|PRA|A and B|3,B,Aaron Gordon,DEN at OKC,Over 9.5 pts+reb+ast,PRA,22.1,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,10
+ALL|PRA|A and B|4,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.32,James Harden,20
+ALL|PRA|A and B|5,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
+ALL|PRA|A and B|6,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.32,LeBron James,25
 ALL|PRA|A and B|7,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
 ALL|PRA|A and B|8,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.38,Joel Embiid,25
 ALL|PRA|A and B|9,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+reb+ast,PRA,33.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.4,Tyrese Maxey,20
-ALL|PRA|A and B|10,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,19.8,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.49,Ajay Mitchell,10
-ALL|PRA|A and B|11,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|PRA|A and B|12,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.35,Jaylen Brown,25
-ALL|PRA|A and B|13,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,25.1,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.4,Chet Holmgren,15
-ALL|PRA|A and B|14,B,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,18.6,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.46,Isaiah Hartenstein,10
-ALL|PTS|A and B|1,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,"last season stats, check roster",Pts allowed rk 19,0.96,0.55,Aaron Gordon,6
-ALL|PTS|A and B|2,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.35,LeBron James,14
-ALL|PTS|A and B|3,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.39,James Harden,12
+ALL|PRA|A and B|10,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb+ast,PRA,26.9,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.44,Peyton Watson,15
+ALL|PRA|A and B|11,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,19.8,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.49,Ajay Mitchell,10
+ALL|PRA|A and B|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
+ALL|PRA|A and B|13,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.35,Jaylen Brown,25
+ALL|PRA|A and B|14,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,25.1,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.4,Chet Holmgren,15
+ALL|PRA|A and B|15,B,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,18.6,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.46,Isaiah Hartenstein,10
+ALL|PRA|A and B|16,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.1,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.5,Christian Braun,10
+ALL|PTS|A and B|1,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
+ALL|PTS|A and B|2,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.39,James Harden,12
+ALL|PTS|A and B|3,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.35,LeBron James,14
 ALL|PTS|A and B|4,B,VJ Edgecombe,PHI vs CLE,Over 7.5 points,PTS,14.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.45,VJ Edgecombe,8
 ALL|PTS|A and B|5,B,Joel Embiid,PHI vs CLE,Over 13.5 points,PTS,27.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.49,Joel Embiid,14
 ALL|PTS|A and B|6,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 18.5 points,PTS,26.9,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 13,0.86,0.29,Shai Gilgeous-Alexander,19
 ALL|PTS|A and B|7,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.3,Tyrese Maxey,17
 ALL|PTS|A and B|8,B,Jaylen Brown,PHI vs CLE,Over 18.5 points,PTS,28.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.32,Jaylen Brown,19
-ALL|PTS|A and B|9,B,Chet Holmgren,OKC vs DEN,Over 7.5 points,PTS,15.6,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.49,Chet Holmgren,8
-ALL|PTS|A and B|10,B,Isaiah Hartenstein,OKC vs DEN,Over 3.5 points,PTS,8.4,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.52,Isaiah Hartenstein,4
-ALL|PTS|A and B|11,B,Jarrett Allen,CLE at PHI,Over 5.5 points,PTS,12.8,9 of 10,18 of 20,Mid (10),1.31,questionable,Pts allowed rk 18,0.86,0.53,Jarrett Allen,6
-ALL|PTS|A and B|12,B,Anfernee Simons,PHI vs CLE,Over 6.5 points,PTS,15.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.55,Anfernee Simons,7
-ALL|RA|A and B|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
-ALL|RA|A and B|2,B,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.48,James Harden,5
-ALL|RA|A and B|3,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,10
-ALL|RA|A and B|4,B,Donovan Mitchell,CLE at PHI,Over 4.5 reb+ast,RA,8.4,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.41,Donovan Mitchell,5
+ALL|PTS|A and B|9,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
+ALL|PTS|A and B|10,B,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 19,0.86,0.39,Nikola Jokic,15
+ALL|PTS|A and B|11,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
+ALL|PTS|A and B|12,B,Chet Holmgren,OKC vs DEN,Over 7.5 points,PTS,15.6,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.49,Chet Holmgren,8
+ALL|PTS|A and B|13,B,Isaiah Hartenstein,OKC vs DEN,Over 3.5 points,PTS,8.4,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.52,Isaiah Hartenstein,4
+ALL|PTS|A and B|14,B,Jarrett Allen,CLE at PHI,Over 5.5 points,PTS,12.8,9 of 10,18 of 20,Mid (10),1.31,questionable,Pts allowed rk 18,0.86,0.53,Jarrett Allen,6
+ALL|PTS|A and B|15,B,Anfernee Simons,PHI vs CLE,Over 6.5 points,PTS,15.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.55,Anfernee Simons,7
+ALL|RA|A and B|1,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
+ALL|RA|A and B|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
+ALL|RA|A and B|3,B,Donovan Mitchell,CLE at PHI,Over 4.5 reb+ast,RA,8.4,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.41,Donovan Mitchell,5
+ALL|RA|A and B|4,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,10
 ALL|RA|A and B|5,B,Tyrese Maxey,PHI vs CLE,Over 4.5 reb+ast,RA,9.4,10 of 10,18 of 20,Tough (28),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,5
-ALL|RA|A and B|6,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|RA|A and B|7,B,VJ Edgecombe,PHI vs CLE,Over 4.5 reb+ast,RA,10.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,VJ Edgecombe,5
-ALL|RA|A and B|8,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (17),1.31,"last season stats, check roster",Pts allowed rk 19,0.86,0.39,Peyton Watson,5
-ALL|REB|A and B|1,B,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.31,Evan Mobley,6
-ALL|REB|A and B|2,B,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.4,Donovan Mitchell,3
+ALL|RA|A and B|6,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (17),1.31,,Pts allowed rk 19,0.9,0.39,Peyton Watson,5
+ALL|RA|A and B|7,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
+ALL|RA|A and B|8,B,Nikola Jokic,DEN at OKC,Over 14.5 reb+ast,RA,25.2,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 19,0.885,0.4,Nikola Jokic,15
+ALL|RA|A and B|9,B,VJ Edgecombe,PHI vs CLE,Over 4.5 reb+ast,RA,10.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,VJ Edgecombe,5
+ALL|REB|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
+ALL|REB|A and B|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,,Pts allowed rk 18,1.025,0.4,Donovan Mitchell,3
 ALL|REB|A and B|3,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|REB|A and B|4,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|REB|A and B|5,B,Tyrese Maxey,PHI vs CLE,Over 1.5 rebounds,REB,3.8,10 of 10,18 of 20,Tough (29),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,2
-ALL|REB|A and B|6,B,Cason Wallace,OKC vs DEN,Over 1.5 rebounds,REB,3.7,9 of 10,18 of 20,Mid (22),1.31,,Pts allowed rk 13,0.9,0.46,Cason Wallace,2
-ALL|REB|A and B|7,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,"last season stats, check roster",Pts allowed rk 19,0.885,0.43,Peyton Watson,3
-ALL|REB|A and B|8,B,Jaylen Brown,PHI vs CLE,Over 2.5 rebounds,REB,6.0,9 of 10,19 of 20,Tough (29),1.27,tough matchup,Pts allowed rk 20,0.885,0.5,Jaylen Brown,3
-ALL|REB|A and B|9,B,VJ Edgecombe,PHI vs CLE,Over 2.5 rebounds,REB,6.2,9 of 10,18 of 20,Tough (29),1.31,tough matchup,Pts allowed rk 20,0.86,0.51,VJ Edgecombe,3
+ALL|REB|A and B|4,B,Nikola Jokic,DEN at OKC,Over 7.5 rebounds,REB,14.0,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.43,Nikola Jokic,8
+ALL|REB|A and B|5,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
+ALL|REB|A and B|6,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
+ALL|REB|A and B|7,B,Tyrese Maxey,PHI vs CLE,Over 1.5 rebounds,REB,3.8,10 of 10,18 of 20,Tough (29),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,2
+ALL|REB|A and B|8,B,Cason Wallace,OKC vs DEN,Over 1.5 rebounds,REB,3.7,9 of 10,18 of 20,Mid (22),1.31,,Pts allowed rk 13,0.9,0.46,Cason Wallace,2
+ALL|REB|A and B|9,B,Jaylen Brown,PHI vs CLE,Over 2.5 rebounds,REB,6.0,9 of 10,19 of 20,Tough (29),1.27,tough matchup,Pts allowed rk 20,0.885,0.5,Jaylen Brown,3
+ALL|REB|A and B|10,B,VJ Edgecombe,PHI vs CLE,Over 2.5 rebounds,REB,6.2,9 of 10,18 of 20,Tough (29),1.31,tough matchup,Pts allowed rk 20,0.86,0.51,VJ Edgecombe,3
 ALL|STL|A and B|1,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
 ALL|THREES|A and B|1,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
 ALL|THREES|A and B|2,B,Tyrese Maxey,PHI vs CLE,Over 0.5 threes,THREES,2.2,9 of 10,19 of 20,Mid (22),1.27,,Pts allowed rk 20,0.925,0.55,Tyrese Maxey,1
-ALL|ALL|All|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|ALL|All|2,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|ALL|All|3,B,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.31,Evan Mobley,6
-ALL|ALL|All|4,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.37,Donovan Mitchell,20
-ALL|ALL|All|5,B,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.48,James Harden,5
-ALL|ALL|All|6,B,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,"last season stats, check roster",Pts allowed rk 19,0.96,0.4,Jamal Murray,4
-ALL|ALL|All|7,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|ALL|All|8,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|ALL|All|9,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|ALL|All|10,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,"last season stats, check roster",Pts allowed rk 19,0.96,0.55,Aaron Gordon,6
-ALL|ALL|All|11,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|ALL|All|12,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
-ALL|ALL|All|13,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,"last season stats, check roster",Pts allowed rk 19,0.935,0.51,Cameron Johnson,10
-ALL|ALL|All|14,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
-ALL|ALL|All|15,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|ALL|All|16,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|ALL|All|17,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|ALL|All|18,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,"last season stats, check roster",Pts allowed rk 19,0.885,0.43,Peyton Watson,3
-ALL|ALL|All|19,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|ALL|All|20,C,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (31),1.22,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.92,0.44,Nikola Jokic,20
-ALL|ALL|All|21,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.34,Alex Caruso,2
-ALL|ALL|All|22,C,Jaylin Williams,OKC vs DEN,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Mid (10),1.34,,Pts allowed rk 13,0.875,0.52,Jaylin Williams,2
-ALL|ALL|All|23,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (29),1.34,tough matchup,Pts allowed rk 20,0.835,0.27,Kentavious Caldwell-Pope,2
-ALL|ALL|All|24,C,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.82,0.34,Bruce Brown,6
-ALL|ALL|All|25,C,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.82,0.4,Christian Braun,8
-ALL|AST|All|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|AST|All|2,B,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,"last season stats, check roster",Pts allowed rk 19,0.96,0.4,Jamal Murray,4
-ALL|AST|All|3,B,Evan Mobley,CLE at PHI,Over 1.5 assists,AST,3.6,10 of 10,18 of 20,Soft (5),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.45,Evan Mobley,2
+ALL|ALL|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
+ALL|ALL|All|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
+ALL|ALL|All|3,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
+ALL|ALL|All|4,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
+ALL|ALL|All|5,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
+ALL|ALL|All|6,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
+ALL|ALL|All|7,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
+ALL|ALL|All|8,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
+ALL|ALL|All|9,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
+ALL|ALL|All|10,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
+ALL|ALL|All|11,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
+ALL|ALL|All|12,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
+ALL|ALL|All|13,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
+ALL|ALL|All|14,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
+ALL|ALL|All|15,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
+ALL|ALL|All|16,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
+ALL|ALL|All|17,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
+ALL|ALL|All|18,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
+ALL|ALL|All|19,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
+ALL|ALL|All|20,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
+ALL|ALL|All|21,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
+ALL|ALL|All|22,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
+ALL|ALL|All|23,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.34,Alex Caruso,2
+ALL|ALL|All|24,C,Jaylin Williams,OKC vs DEN,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Mid (10),1.34,,Pts allowed rk 13,0.875,0.52,Jaylin Williams,2
+ALL|ALL|All|25,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (29),1.34,tough matchup,Pts allowed rk 20,0.835,0.27,Kentavious Caldwell-Pope,2
+ALL|AST|All|1,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
+ALL|AST|All|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
+ALL|AST|All|3,B,Evan Mobley,CLE at PHI,Over 1.5 assists,AST,3.6,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.45,Evan Mobley,2
 ALL|AST|All|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|AST|All|5,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|AST|All|6,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (12),1.31,"last season stats, check roster",Pts allowed rk 19,0.86,0.31,Peyton Watson,2
+ALL|AST|All|5,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (12),1.31,,Pts allowed rk 19,0.9,0.31,Peyton Watson,2
+ALL|AST|All|6,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
 ALL|AST|All|7,C,Tyrese Maxey,PHI vs CLE,Over 3.5 assists,AST,5.7,9 of 10,17 of 20,Tough (23),1.34,tough matchup,Pts allowed rk 20,0.835,0.29,Tyrese Maxey,4
-ALL|DBL_DBL|All|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (28),1.34,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.795,-0.18,Nikola Jokic,1
-ALL|PA|All|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Soft (8),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.33,Donovan Mitchell,20
-ALL|PA|All|2,B,Joel Embiid,PHI vs CLE,Over 14.5 pts+ast,PA,32.2,10 of 10,20 of 20,Tough (28),1.22,tough matchup,Pts allowed rk 20,0.96,0.53,Joel Embiid,15
-ALL|PA|All|3,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,20
-ALL|PA|All|4,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.935,0.38,Jaylen Brown,20
-ALL|PA|All|5,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.4,James Harden,15
-ALL|PA|All|6,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.33,Tyrese Maxey,20
-ALL|PA|All|7,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+ast,PA,18.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.46,VJ Edgecombe,10
-ALL|PA|All|8,C,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (31),1.22,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.92,0.44,Nikola Jokic,20
-ALL|PA|All|9,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (9),1.27,"last season stats, check roster",Pts allowed rk 18,0.885,0.25,Evan Mobley,15
-ALL|PA|All|10,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 24.5 pts+ast,PA,34.8,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.28,Shai Gilgeous-Alexander,25
-ALL|PA|All|11,C,Peyton Watson,DEN at OKC,Over 9.5 pts+ast,PA,21.6,9 of 10,19 of 20,Tough (24),1.27,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.845,0.54,Peyton Watson,10
-ALL|PA|All|12,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (24),1.34,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.795,0.22,Jamal Murray,25
-ALL|PR|All|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.37,Donovan Mitchell,20
-ALL|PR|All|2,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|PR|All|3,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|PR|All|4,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.37,James Harden,15
-ALL|PR|All|5,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.34,Shai Gilgeous-Alexander,20
-ALL|PR|All|6,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+reb,PR,35.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.43,Joel Embiid,20
-ALL|PR|All|7,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.26,Jaylen Brown,25
-ALL|PR|All|8,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.37,Chet Holmgren,15
-ALL|PR|All|9,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb,PR,18.1,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.45,Anfernee Simons,10
-ALL|PR|All|10,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (6),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.2,Evan Mobley,20
-ALL|PR|All|11,C,LeBron James,PHI vs CLE,Over 19.5 pts+reb,PR,28.6,9 of 10,17 of 20,Soft (1),1.34,,Pts allowed rk 20,0.925,0.3,LeBron James,20
-ALL|PR|All|12,C,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (30),1.22,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.895,0.22,Nikola Jokic,30
-ALL|PR|All|13,C,Jamal Murray,DEN at OKC,Over 14.5 pts+reb,PR,30.1,10 of 10,19 of 20,Tough (24),1.22,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.895,0.5,Jamal Murray,15
-ALL|PR|All|14,C,Christian Braun,DEN at OKC,Over 9.5 pts+reb,PR,17.8,9 of 10,18 of 20,Tough (24),1.31,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.82,0.44,Christian Braun,10
-ALL|PRA|All|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (8),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.29,Donovan Mitchell,25
-ALL|PRA|All|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (5),1.24,"last season stats, check roster",Pts allowed rk 18,0.96,0.31,Evan Mobley,20
-ALL|PRA|All|3,B,Aaron Gordon,DEN at OKC,Over 9.5 pts+reb+ast,PRA,22.1,10 of 10,18 of 20,Soft (4),1.24,"last season stats, check roster",Pts allowed rk 19,0.96,0.55,Aaron Gordon,10
-ALL|PRA|All|4,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.32,LeBron James,25
-ALL|PRA|All|5,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.32,James Harden,20
-ALL|PRA|All|6,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,"last season stats, check roster",Pts allowed rk 19,0.935,0.51,Cameron Johnson,10
+ALL|DBL_DBL|All|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (28),1.34,tough matchup,Pts allowed rk 19,0.835,-0.18,Nikola Jokic,1
+ALL|PA|All|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.33,Donovan Mitchell,20
+ALL|PA|All|2,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.4,James Harden,15
+ALL|PA|All|3,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
+ALL|PA|All|4,B,Joel Embiid,PHI vs CLE,Over 14.5 pts+ast,PA,32.2,10 of 10,20 of 20,Tough (28),1.22,tough matchup,Pts allowed rk 20,0.96,0.53,Joel Embiid,15
+ALL|PA|All|5,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,20
+ALL|PA|All|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.935,0.38,Jaylen Brown,20
+ALL|PA|All|7,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.33,Tyrese Maxey,20
+ALL|PA|All|8,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+ast,PA,18.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.46,VJ Edgecombe,10
+ALL|PA|All|9,B,Peyton Watson,DEN at OKC,Over 9.5 pts+ast,PA,21.6,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.54,Peyton Watson,10
+ALL|PA|All|10,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (9),1.27,,Pts allowed rk 18,0.925,0.25,Evan Mobley,15
+ALL|PA|All|11,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 24.5 pts+ast,PA,34.8,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.28,Shai Gilgeous-Alexander,25
+ALL|PA|All|12,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (24),1.34,tough matchup,Pts allowed rk 19,0.835,0.22,Jamal Murray,25
+ALL|PR|All|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
+ALL|PR|All|2,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.37,James Harden,15
+ALL|PR|All|3,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
+ALL|PR|All|4,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
+ALL|PR|All|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.22,Nikola Jokic,30
+ALL|PR|All|6,B,Jamal Murray,DEN at OKC,Over 14.5 pts+reb,PR,30.1,10 of 10,19 of 20,Tough (24),1.22,tough matchup,Pts allowed rk 19,0.935,0.5,Jamal Murray,15
+ALL|PR|All|7,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.34,Shai Gilgeous-Alexander,20
+ALL|PR|All|8,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+reb,PR,35.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.43,Joel Embiid,20
+ALL|PR|All|9,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.26,Jaylen Brown,25
+ALL|PR|All|10,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.37,Chet Holmgren,15
+ALL|PR|All|11,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb,PR,17.8,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.44,Christian Braun,10
+ALL|PR|All|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb,PR,18.1,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.45,Anfernee Simons,10
+ALL|PR|All|13,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (6),1.27,,Pts allowed rk 18,0.975,0.2,Evan Mobley,20
+ALL|PR|All|14,C,LeBron James,PHI vs CLE,Over 19.5 pts+reb,PR,28.6,9 of 10,17 of 20,Soft (1),1.34,,Pts allowed rk 20,0.925,0.3,LeBron James,20
+ALL|PRA|All|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.29,Donovan Mitchell,25
+ALL|PRA|All|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.31,Evan Mobley,20
+ALL|PRA|All|3,B,Aaron Gordon,DEN at OKC,Over 9.5 pts+reb+ast,PRA,22.1,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,10
+ALL|PRA|All|4,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.32,James Harden,20
+ALL|PRA|All|5,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
+ALL|PRA|All|6,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.32,LeBron James,25
 ALL|PRA|All|7,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
 ALL|PRA|All|8,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.38,Joel Embiid,25
 ALL|PRA|All|9,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+reb+ast,PRA,33.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.4,Tyrese Maxey,20
-ALL|PRA|All|10,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,19.8,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.49,Ajay Mitchell,10
-ALL|PRA|All|11,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|PRA|All|12,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.35,Jaylen Brown,25
-ALL|PRA|All|13,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,25.1,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.4,Chet Holmgren,15
-ALL|PRA|All|14,B,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,18.6,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.46,Isaiah Hartenstein,10
-ALL|PRA|All|15,C,Peyton Watson,DEN at OKC,Over 14.5 pts+reb+ast,PRA,26.9,9 of 10,19 of 20,Tough (24),1.27,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.845,0.44,Peyton Watson,15
-ALL|PRA|All|16,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+reb+ast,PRA,37.9,9 of 10,17 of 20,Tough (23),1.34,tough matchup,Pts allowed rk 13,0.835,0.21,Shai Gilgeous-Alexander,30
-ALL|PRA|All|17,C,Christian Braun,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.1,9 of 10,18 of 20,Tough (24),1.31,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.82,0.5,Christian Braun,10
-ALL|PRA|All|18,C,Nikola Jokic,DEN at OKC,Over 39.5 pts+reb+ast,PRA,49.9,9 of 10,17 of 20,Tough (31),1.34,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.795,0.2,Nikola Jokic,40
-ALL|PRA|All|19,C,Jamal Murray,DEN at OKC,Over 24.5 pts+reb+ast,PRA,36.8,9 of 10,17 of 20,Tough (24),1.34,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.795,0.32,Jamal Murray,25
-ALL|PTS|All|1,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,"last season stats, check roster",Pts allowed rk 19,0.96,0.55,Aaron Gordon,6
-ALL|PTS|All|2,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.35,LeBron James,14
-ALL|PTS|All|3,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.39,James Harden,12
+ALL|PRA|All|10,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb+ast,PRA,26.9,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.44,Peyton Watson,15
+ALL|PRA|All|11,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,19.8,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.49,Ajay Mitchell,10
+ALL|PRA|All|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
+ALL|PRA|All|13,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.35,Jaylen Brown,25
+ALL|PRA|All|14,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,25.1,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.4,Chet Holmgren,15
+ALL|PRA|All|15,B,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,18.6,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.46,Isaiah Hartenstein,10
+ALL|PRA|All|16,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.1,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.5,Christian Braun,10
+ALL|PRA|All|17,C,Nikola Jokic,DEN at OKC,Over 39.5 pts+reb+ast,PRA,49.9,9 of 10,17 of 20,Tough (30),1.34,tough matchup,Pts allowed rk 19,0.835,0.2,Nikola Jokic,40
+ALL|PRA|All|18,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+reb+ast,PRA,37.9,9 of 10,17 of 20,Tough (23),1.34,tough matchup,Pts allowed rk 13,0.835,0.21,Shai Gilgeous-Alexander,30
+ALL|PRA|All|19,C,Jamal Murray,DEN at OKC,Over 24.5 pts+reb+ast,PRA,36.8,9 of 10,17 of 20,Tough (24),1.34,tough matchup,Pts allowed rk 19,0.835,0.32,Jamal Murray,25
+ALL|PTS|All|1,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
+ALL|PTS|All|2,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.39,James Harden,12
+ALL|PTS|All|3,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.35,LeBron James,14
 ALL|PTS|All|4,B,VJ Edgecombe,PHI vs CLE,Over 7.5 points,PTS,14.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.45,VJ Edgecombe,8
 ALL|PTS|All|5,B,Joel Embiid,PHI vs CLE,Over 13.5 points,PTS,27.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.49,Joel Embiid,14
 ALL|PTS|All|6,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 18.5 points,PTS,26.9,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 13,0.86,0.29,Shai Gilgeous-Alexander,19
 ALL|PTS|All|7,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.3,Tyrese Maxey,17
 ALL|PTS|All|8,B,Jaylen Brown,PHI vs CLE,Over 18.5 points,PTS,28.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.32,Jaylen Brown,19
-ALL|PTS|All|9,B,Chet Holmgren,OKC vs DEN,Over 7.5 points,PTS,15.6,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.49,Chet Holmgren,8
-ALL|PTS|All|10,B,Isaiah Hartenstein,OKC vs DEN,Over 3.5 points,PTS,8.4,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.52,Isaiah Hartenstein,4
-ALL|PTS|All|11,B,Jarrett Allen,CLE at PHI,Over 5.5 points,PTS,12.8,9 of 10,18 of 20,Mid (10),1.31,questionable,Pts allowed rk 18,0.86,0.53,Jarrett Allen,6
-ALL|PTS|All|12,B,Anfernee Simons,PHI vs CLE,Over 6.5 points,PTS,15.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.55,Anfernee Simons,7
-ALL|PTS|All|13,C,Evan Mobley,CLE at PHI,Over 11.5 points,PTS,16.4,10 of 10,17 of 20,Mid (10),1.27,"last season stats, check roster",Pts allowed rk 18,0.885,0.27,Evan Mobley,12
-ALL|PTS|All|14,C,Donovan Mitchell,CLE at PHI,Over 18.5 points,PTS,26.6,9 of 10,17 of 20,Soft (8),1.34,"last season stats, check roster",Pts allowed rk 18,0.885,0.28,Donovan Mitchell,19
-ALL|PTS|All|15,C,Cason Wallace,OKC vs DEN,Over 4.5 points,PTS,8.3,9 of 10,17 of 20,Tough (24),1.34,tough matchup,Pts allowed rk 13,0.835,0.4,Cason Wallace,5
-ALL|PTS|All|16,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 3.5 points,PTS,8.8,9 of 10,17 of 20,Tough (30),1.34,tough matchup,Pts allowed rk 20,0.835,0.55,Kentavious Caldwell-Pope,4
-ALL|PTS|All|17,C,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.82,0.34,Bruce Brown,6
-ALL|PTS|All|18,C,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (31),1.31,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.82,0.39,Nikola Jokic,15
-ALL|PTS|All|19,C,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.82,0.4,Christian Braun,8
-ALL|PTS|All|20,C,Jamal Murray,DEN at OKC,Over 15.5 points,PTS,25.6,9 of 10,17 of 20,Tough (25),1.34,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.795,0.37,Jamal Murray,16
-ALL|RA|All|1,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
-ALL|RA|All|2,B,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.48,James Harden,5
-ALL|RA|All|3,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,10
-ALL|RA|All|4,B,Donovan Mitchell,CLE at PHI,Over 4.5 reb+ast,RA,8.4,9 of 10,19 of 20,Soft (8),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.41,Donovan Mitchell,5
+ALL|PTS|All|9,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
+ALL|PTS|All|10,B,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 19,0.86,0.39,Nikola Jokic,15
+ALL|PTS|All|11,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
+ALL|PTS|All|12,B,Chet Holmgren,OKC vs DEN,Over 7.5 points,PTS,15.6,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.49,Chet Holmgren,8
+ALL|PTS|All|13,B,Isaiah Hartenstein,OKC vs DEN,Over 3.5 points,PTS,8.4,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.52,Isaiah Hartenstein,4
+ALL|PTS|All|14,B,Jarrett Allen,CLE at PHI,Over 5.5 points,PTS,12.8,9 of 10,18 of 20,Mid (10),1.31,questionable,Pts allowed rk 18,0.86,0.53,Jarrett Allen,6
+ALL|PTS|All|15,B,Anfernee Simons,PHI vs CLE,Over 6.5 points,PTS,15.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.55,Anfernee Simons,7
+ALL|PTS|All|16,C,Evan Mobley,CLE at PHI,Over 11.5 points,PTS,16.4,10 of 10,17 of 20,Mid (10),1.27,,Pts allowed rk 18,0.925,0.27,Evan Mobley,12
+ALL|PTS|All|17,C,Donovan Mitchell,CLE at PHI,Over 18.5 points,PTS,26.6,9 of 10,17 of 20,Soft (8),1.34,,Pts allowed rk 18,0.925,0.28,Donovan Mitchell,19
+ALL|PTS|All|18,C,Jamal Murray,DEN at OKC,Over 15.5 points,PTS,25.6,9 of 10,17 of 20,Tough (25),1.34,tough matchup,Pts allowed rk 19,0.835,0.37,Jamal Murray,16
+ALL|PTS|All|19,C,Cason Wallace,OKC vs DEN,Over 4.5 points,PTS,8.3,9 of 10,17 of 20,Tough (24),1.34,tough matchup,Pts allowed rk 13,0.835,0.4,Cason Wallace,5
+ALL|PTS|All|20,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 3.5 points,PTS,8.8,9 of 10,17 of 20,Tough (30),1.34,tough matchup,Pts allowed rk 20,0.835,0.55,Kentavious Caldwell-Pope,4
+ALL|RA|All|1,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
+ALL|RA|All|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
+ALL|RA|All|3,B,Donovan Mitchell,CLE at PHI,Over 4.5 reb+ast,RA,8.4,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.41,Donovan Mitchell,5
+ALL|RA|All|4,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,10
 ALL|RA|All|5,B,Tyrese Maxey,PHI vs CLE,Over 4.5 reb+ast,RA,9.4,10 of 10,18 of 20,Tough (28),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,5
-ALL|RA|All|6,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|RA|All|7,B,VJ Edgecombe,PHI vs CLE,Over 4.5 reb+ast,RA,10.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,VJ Edgecombe,5
-ALL|RA|All|8,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (17),1.31,"last season stats, check roster",Pts allowed rk 19,0.86,0.39,Peyton Watson,5
-ALL|RA|All|9,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (19),1.34,,Pts allowed rk 13,0.875,0.32,Ajay Mitchell,5
-ALL|RA|All|10,C,Nikola Jokic,DEN at OKC,Over 14.5 reb+ast,RA,25.2,9 of 10,19 of 20,Tough (30),1.27,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.845,0.4,Nikola Jokic,15
-ALL|REB|All|1,B,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.31,Evan Mobley,6
-ALL|REB|All|2,B,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,"last season stats, check roster",Pts allowed rk 18,0.985,0.4,Donovan Mitchell,3
+ALL|RA|All|6,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (17),1.31,,Pts allowed rk 19,0.9,0.39,Peyton Watson,5
+ALL|RA|All|7,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
+ALL|RA|All|8,B,Nikola Jokic,DEN at OKC,Over 14.5 reb+ast,RA,25.2,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 19,0.885,0.4,Nikola Jokic,15
+ALL|RA|All|9,B,VJ Edgecombe,PHI vs CLE,Over 4.5 reb+ast,RA,10.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,VJ Edgecombe,5
+ALL|RA|All|10,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (19),1.34,,Pts allowed rk 13,0.875,0.32,Ajay Mitchell,5
+ALL|REB|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
+ALL|REB|All|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,,Pts allowed rk 18,1.025,0.4,Donovan Mitchell,3
 ALL|REB|All|3,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|REB|All|4,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|REB|All|5,B,Tyrese Maxey,PHI vs CLE,Over 1.5 rebounds,REB,3.8,10 of 10,18 of 20,Tough (29),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,2
-ALL|REB|All|6,B,Cason Wallace,OKC vs DEN,Over 1.5 rebounds,REB,3.7,9 of 10,18 of 20,Mid (22),1.31,,Pts allowed rk 13,0.9,0.46,Cason Wallace,2
-ALL|REB|All|7,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,"last season stats, check roster",Pts allowed rk 19,0.885,0.43,Peyton Watson,3
-ALL|REB|All|8,B,Jaylen Brown,PHI vs CLE,Over 2.5 rebounds,REB,6.0,9 of 10,19 of 20,Tough (29),1.27,tough matchup,Pts allowed rk 20,0.885,0.5,Jaylen Brown,3
-ALL|REB|All|9,B,VJ Edgecombe,PHI vs CLE,Over 2.5 rebounds,REB,6.2,9 of 10,18 of 20,Tough (29),1.31,tough matchup,Pts allowed rk 20,0.86,0.51,VJ Edgecombe,3
-ALL|REB|All|10,C,Nikola Jokic,DEN at OKC,Over 7.5 rebounds,REB,14.0,10 of 10,19 of 20,Tough (30),1.22,"tough matchup; last season stats, check roster",Pts allowed rk 19,0.895,0.43,Nikola Jokic,8
-ALL|REB|All|11,C,James Harden,CLE at PHI,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Soft (4),1.34,"last season stats, check roster",Pts allowed rk 18,0.885,0.52,James Harden,2
+ALL|REB|All|4,B,Nikola Jokic,DEN at OKC,Over 7.5 rebounds,REB,14.0,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.43,Nikola Jokic,8
+ALL|REB|All|5,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
+ALL|REB|All|6,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
+ALL|REB|All|7,B,Tyrese Maxey,PHI vs CLE,Over 1.5 rebounds,REB,3.8,10 of 10,18 of 20,Tough (29),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,2
+ALL|REB|All|8,B,Cason Wallace,OKC vs DEN,Over 1.5 rebounds,REB,3.7,9 of 10,18 of 20,Mid (22),1.31,,Pts allowed rk 13,0.9,0.46,Cason Wallace,2
+ALL|REB|All|9,B,Jaylen Brown,PHI vs CLE,Over 2.5 rebounds,REB,6.0,9 of 10,19 of 20,Tough (29),1.27,tough matchup,Pts allowed rk 20,0.885,0.5,Jaylen Brown,3
+ALL|REB|All|10,B,VJ Edgecombe,PHI vs CLE,Over 2.5 rebounds,REB,6.2,9 of 10,18 of 20,Tough (29),1.31,tough matchup,Pts allowed rk 20,0.86,0.51,VJ Edgecombe,3
+ALL|REB|All|11,C,James Harden,CLE at PHI,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Soft (4),1.34,,Pts allowed rk 18,0.925,0.52,James Harden,2
 ALL|REB|All|12,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.34,Alex Caruso,2
 ALL|REB|All|13,C,Ajay Mitchell,OKC vs DEN,Over 1.5 rebounds,REB,3.3,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.39,Ajay Mitchell,2
 ALL|REB|All|14,C,Jaylin Williams,OKC vs DEN,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Mid (10),1.34,,Pts allowed rk 13,0.875,0.52,Jaylin Williams,2
@@ -217,5 +241,5 @@ ALL|REB|All|15,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9
 ALL|STL|All|1,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
 ALL|THREES|All|1,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
 ALL|THREES|All|2,B,Tyrese Maxey,PHI vs CLE,Over 0.5 threes,THREES,2.2,9 of 10,19 of 20,Mid (22),1.27,,Pts allowed rk 20,0.925,0.55,Tyrese Maxey,1
-ALL|THREES|All|3,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (6),1.27,"last season stats, check roster",Pts allowed rk 18,0.935,0.27,Donovan Mitchell,2
+ALL|THREES|All|3,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (6),1.27,,Pts allowed rk 18,0.975,0.27,Donovan Mitchell,2
 ALL|THREES|All|4,C,Cason Wallace,OKC vs DEN,Over 0.5 threes,THREES,1.9,9 of 10,17 of 20,Mid (16),1.34,,Pts allowed rk 13,0.875,0.47,Cason Wallace,1

@@ -209,6 +209,7 @@ def build_log(raw):
     d = d.drop_duplicates(["player", "game_id"])
     d["rk"] = d.groupby("player").cumcount() + 1
     d["key"] = d.player + "|" + d.rk.astype(str)
+    d["THREES"] = d["3PM"]
     d["PRA"] = d.PTS + d.REB + d.AST
     d["PR"] = d.PTS + d.REB
     d["PA"] = d.PTS + d.AST

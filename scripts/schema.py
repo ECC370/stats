@@ -5,10 +5,10 @@ rebuilding the workbook."""
 NBA_COLS = [
     "key", "season", "date", "player", "team", "opp", "home", "starter",
     "abs_margin", "b2b", "rk",
-    "MIN", "PTS", "REB", "AST", "3PM", "STL", "BLK", "TOV",
+    "MIN", "PTS", "REB", "AST", "THREES", "STL", "BLK", "TOV",
     "PRA", "PR", "PA", "RA", "STL+BLK", "game_id",
 ]
-NBA_STATS = ["PTS", "REB", "AST", "3PM", "STL", "BLK", "TOV",
+NBA_STATS = ["PTS", "REB", "AST", "THREES", "STL", "BLK", "TOV",
              "PRA", "PR", "PA", "RA", "STL+BLK", "MIN"]
 
 NFL_COLS = [

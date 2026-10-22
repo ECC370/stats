@@ -1,245 +1,791 @@
-key,grade,who,game,pick,stat,avg,recent,long,matchup,fair,flags,team_def,score,cushion,player,line
-ALL|ALL|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
-ALL|ALL|A only|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
-ALL|ALL|A only|3,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
-ALL|ALL|A only|4,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
-ALL|ALL|A only|5,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|ALL|A only|6,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|AST|A only|1,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
-ALL|AST|A only|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|PR|A only|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
-ALL|RA|A only|1,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
-ALL|RA|A only|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
-ALL|REB|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
-ALL|REB|A only|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,,Pts allowed rk 18,1.025,0.4,Donovan Mitchell,3
-ALL|THREES|A only|1,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|ALL|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
-ALL|ALL|A and B|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
-ALL|ALL|A and B|3,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
-ALL|ALL|A and B|4,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
-ALL|ALL|A and B|5,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|ALL|A and B|6,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|ALL|A and B|7,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
-ALL|ALL|A and B|8,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
-ALL|ALL|A and B|9,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
-ALL|ALL|A and B|10,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|ALL|A and B|11,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|ALL|A and B|12,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|ALL|A and B|13,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|ALL|A and B|14,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
-ALL|ALL|A and B|15,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
-ALL|ALL|A and B|16,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
-ALL|ALL|A and B|17,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|ALL|A and B|18,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|ALL|A and B|19,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|ALL|A and B|20,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|ALL|A and B|21,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
-ALL|ALL|A and B|22,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
-ALL|AST|A and B|1,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
-ALL|AST|A and B|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|AST|A and B|3,B,Evan Mobley,CLE at PHI,Over 1.5 assists,AST,3.6,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.45,Evan Mobley,2
-ALL|AST|A and B|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|AST|A and B|5,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (12),1.31,,Pts allowed rk 19,0.9,0.31,Peyton Watson,2
-ALL|AST|A and B|6,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|PA|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.33,Donovan Mitchell,20
-ALL|PA|A and B|2,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.4,James Harden,15
-ALL|PA|A and B|3,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
-ALL|PA|A and B|4,B,Joel Embiid,PHI vs CLE,Over 14.5 pts+ast,PA,32.2,10 of 10,20 of 20,Tough (28),1.22,tough matchup,Pts allowed rk 20,0.96,0.53,Joel Embiid,15
-ALL|PA|A and B|5,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,20
-ALL|PA|A and B|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.935,0.38,Jaylen Brown,20
-ALL|PA|A and B|7,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.33,Tyrese Maxey,20
-ALL|PA|A and B|8,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+ast,PA,18.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.46,VJ Edgecombe,10
-ALL|PA|A and B|9,B,Peyton Watson,DEN at OKC,Over 9.5 pts+ast,PA,21.6,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.54,Peyton Watson,10
-ALL|PR|A and B|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
-ALL|PR|A and B|2,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.37,James Harden,15
-ALL|PR|A and B|3,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|PR|A and B|4,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|PR|A and B|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.22,Nikola Jokic,30
-ALL|PR|A and B|6,B,Jamal Murray,DEN at OKC,Over 14.5 pts+reb,PR,30.1,10 of 10,19 of 20,Tough (24),1.22,tough matchup,Pts allowed rk 19,0.935,0.5,Jamal Murray,15
-ALL|PR|A and B|7,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.34,Shai Gilgeous-Alexander,20
-ALL|PR|A and B|8,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+reb,PR,35.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.43,Joel Embiid,20
-ALL|PR|A and B|9,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.26,Jaylen Brown,25
-ALL|PR|A and B|10,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.37,Chet Holmgren,15
-ALL|PR|A and B|11,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb,PR,17.8,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.44,Christian Braun,10
-ALL|PR|A and B|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb,PR,18.1,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.45,Anfernee Simons,10
-ALL|PRA|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.29,Donovan Mitchell,25
-ALL|PRA|A and B|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.31,Evan Mobley,20
-ALL|PRA|A and B|3,B,Aaron Gordon,DEN at OKC,Over 9.5 pts+reb+ast,PRA,22.1,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,10
-ALL|PRA|A and B|4,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.32,James Harden,20
-ALL|PRA|A and B|5,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
-ALL|PRA|A and B|6,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.32,LeBron James,25
-ALL|PRA|A and B|7,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
-ALL|PRA|A and B|8,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.38,Joel Embiid,25
-ALL|PRA|A and B|9,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+reb+ast,PRA,33.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.4,Tyrese Maxey,20
-ALL|PRA|A and B|10,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb+ast,PRA,26.9,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.44,Peyton Watson,15
-ALL|PRA|A and B|11,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,19.8,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.49,Ajay Mitchell,10
-ALL|PRA|A and B|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|PRA|A and B|13,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.35,Jaylen Brown,25
-ALL|PRA|A and B|14,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,25.1,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.4,Chet Holmgren,15
-ALL|PRA|A and B|15,B,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,18.6,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.46,Isaiah Hartenstein,10
-ALL|PRA|A and B|16,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.1,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.5,Christian Braun,10
-ALL|PTS|A and B|1,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
-ALL|PTS|A and B|2,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.39,James Harden,12
-ALL|PTS|A and B|3,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.35,LeBron James,14
-ALL|PTS|A and B|4,B,VJ Edgecombe,PHI vs CLE,Over 7.5 points,PTS,14.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.45,VJ Edgecombe,8
-ALL|PTS|A and B|5,B,Joel Embiid,PHI vs CLE,Over 13.5 points,PTS,27.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.49,Joel Embiid,14
-ALL|PTS|A and B|6,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 18.5 points,PTS,26.9,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 13,0.86,0.29,Shai Gilgeous-Alexander,19
-ALL|PTS|A and B|7,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.3,Tyrese Maxey,17
-ALL|PTS|A and B|8,B,Jaylen Brown,PHI vs CLE,Over 18.5 points,PTS,28.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.32,Jaylen Brown,19
-ALL|PTS|A and B|9,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
-ALL|PTS|A and B|10,B,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 19,0.86,0.39,Nikola Jokic,15
-ALL|PTS|A and B|11,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
-ALL|PTS|A and B|12,B,Chet Holmgren,OKC vs DEN,Over 7.5 points,PTS,15.6,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.49,Chet Holmgren,8
-ALL|PTS|A and B|13,B,Isaiah Hartenstein,OKC vs DEN,Over 3.5 points,PTS,8.4,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.52,Isaiah Hartenstein,4
-ALL|PTS|A and B|14,B,Jarrett Allen,CLE at PHI,Over 5.5 points,PTS,12.8,9 of 10,18 of 20,Mid (10),1.31,questionable,Pts allowed rk 18,0.86,0.53,Jarrett Allen,6
-ALL|PTS|A and B|15,B,Anfernee Simons,PHI vs CLE,Over 6.5 points,PTS,15.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.55,Anfernee Simons,7
-ALL|RA|A and B|1,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
-ALL|RA|A and B|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
-ALL|RA|A and B|3,B,Donovan Mitchell,CLE at PHI,Over 4.5 reb+ast,RA,8.4,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.41,Donovan Mitchell,5
-ALL|RA|A and B|4,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,10
-ALL|RA|A and B|5,B,Tyrese Maxey,PHI vs CLE,Over 4.5 reb+ast,RA,9.4,10 of 10,18 of 20,Tough (28),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,5
-ALL|RA|A and B|6,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (17),1.31,,Pts allowed rk 19,0.9,0.39,Peyton Watson,5
-ALL|RA|A and B|7,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|RA|A and B|8,B,Nikola Jokic,DEN at OKC,Over 14.5 reb+ast,RA,25.2,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 19,0.885,0.4,Nikola Jokic,15
-ALL|RA|A and B|9,B,VJ Edgecombe,PHI vs CLE,Over 4.5 reb+ast,RA,10.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,VJ Edgecombe,5
-ALL|REB|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
-ALL|REB|A and B|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,,Pts allowed rk 18,1.025,0.4,Donovan Mitchell,3
-ALL|REB|A and B|3,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|REB|A and B|4,B,Nikola Jokic,DEN at OKC,Over 7.5 rebounds,REB,14.0,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.43,Nikola Jokic,8
-ALL|REB|A and B|5,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
-ALL|REB|A and B|6,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|REB|A and B|7,B,Tyrese Maxey,PHI vs CLE,Over 1.5 rebounds,REB,3.8,10 of 10,18 of 20,Tough (29),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,2
-ALL|REB|A and B|8,B,Cason Wallace,OKC vs DEN,Over 1.5 rebounds,REB,3.7,9 of 10,18 of 20,Mid (22),1.31,,Pts allowed rk 13,0.9,0.46,Cason Wallace,2
-ALL|REB|A and B|9,B,Jaylen Brown,PHI vs CLE,Over 2.5 rebounds,REB,6.0,9 of 10,19 of 20,Tough (29),1.27,tough matchup,Pts allowed rk 20,0.885,0.5,Jaylen Brown,3
-ALL|REB|A and B|10,B,VJ Edgecombe,PHI vs CLE,Over 2.5 rebounds,REB,6.2,9 of 10,18 of 20,Tough (29),1.31,tough matchup,Pts allowed rk 20,0.86,0.51,VJ Edgecombe,3
-ALL|STL|A and B|1,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
-ALL|THREES|A and B|1,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|THREES|A and B|2,B,Tyrese Maxey,PHI vs CLE,Over 0.5 threes,THREES,2.2,9 of 10,19 of 20,Mid (22),1.27,,Pts allowed rk 20,0.925,0.55,Tyrese Maxey,1
-ALL|ALL|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
-ALL|ALL|All|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
-ALL|ALL|All|3,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
-ALL|ALL|All|4,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
-ALL|ALL|All|5,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|ALL|All|6,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|ALL|All|7,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
-ALL|ALL|All|8,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
-ALL|ALL|All|9,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
-ALL|ALL|All|10,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|ALL|All|11,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|ALL|All|12,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|ALL|All|13,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|ALL|All|14,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
-ALL|ALL|All|15,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
-ALL|ALL|All|16,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
-ALL|ALL|All|17,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|ALL|All|18,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|ALL|All|19,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|ALL|All|20,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|ALL|All|21,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
-ALL|ALL|All|22,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
-ALL|ALL|All|23,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.34,Alex Caruso,2
-ALL|ALL|All|24,C,Jaylin Williams,OKC vs DEN,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Mid (10),1.34,,Pts allowed rk 13,0.875,0.52,Jaylin Williams,2
-ALL|ALL|All|25,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (29),1.34,tough matchup,Pts allowed rk 20,0.835,0.27,Kentavious Caldwell-Pope,2
-ALL|AST|All|1,A,Jamal Murray,DEN at OKC,Over 3.5 assists,AST,6.7,10 of 10,20 of 20,Mid (12),1.22,,Pts allowed rk 19,1.0,0.4,Jamal Murray,4
-ALL|AST|All|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 3.5 assists,AST,7.8,10 of 10,19 of 20,Mid (18),1.22,,Pts allowed rk 13,0.975,0.49,Shai Gilgeous-Alexander,4
-ALL|AST|All|3,B,Evan Mobley,CLE at PHI,Over 1.5 assists,AST,3.6,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.45,Evan Mobley,2
-ALL|AST|All|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (4),1.31,,Pts allowed rk 20,0.95,0.25,LeBron James,6
-ALL|AST|All|5,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (12),1.31,,Pts allowed rk 19,0.9,0.31,Peyton Watson,2
-ALL|AST|All|6,B,Ajay Mitchell,OKC vs DEN,Over 1.5 assists,AST,4.1,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Ajay Mitchell,2
-ALL|AST|All|7,C,Tyrese Maxey,PHI vs CLE,Over 3.5 assists,AST,5.7,9 of 10,17 of 20,Tough (23),1.34,tough matchup,Pts allowed rk 20,0.835,0.29,Tyrese Maxey,4
-ALL|DBL_DBL|All|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (28),1.34,tough matchup,Pts allowed rk 19,0.835,-0.18,Nikola Jokic,1
-ALL|PA|All|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.33,Donovan Mitchell,20
-ALL|PA|All|2,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.4,James Harden,15
-ALL|PA|All|3,B,Nikola Jokic,DEN at OKC,Over 19.5 pts+ast,PA,35.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.96,0.44,Nikola Jokic,20
-ALL|PA|All|4,B,Joel Embiid,PHI vs CLE,Over 14.5 pts+ast,PA,32.2,10 of 10,20 of 20,Tough (28),1.22,tough matchup,Pts allowed rk 20,0.96,0.53,Joel Embiid,15
-ALL|PA|All|5,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,20
-ALL|PA|All|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.935,0.38,Jaylen Brown,20
-ALL|PA|All|7,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.33,Tyrese Maxey,20
-ALL|PA|All|8,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+ast,PA,18.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.46,VJ Edgecombe,10
-ALL|PA|All|9,B,Peyton Watson,DEN at OKC,Over 9.5 pts+ast,PA,21.6,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.54,Peyton Watson,10
-ALL|PA|All|10,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (9),1.27,,Pts allowed rk 18,0.925,0.25,Evan Mobley,15
-ALL|PA|All|11,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 24.5 pts+ast,PA,34.8,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.28,Shai Gilgeous-Alexander,25
-ALL|PA|All|12,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (24),1.34,tough matchup,Pts allowed rk 19,0.835,0.22,Jamal Murray,25
-ALL|PR|All|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.37,Donovan Mitchell,20
-ALL|PR|All|2,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.37,James Harden,15
-ALL|PR|All|3,B,Tyrese Maxey,PHI vs CLE,Over 14.5 pts+reb,PR,27.9,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.46,Tyrese Maxey,15
-ALL|PR|All|4,B,VJ Edgecombe,PHI vs CLE,Over 9.5 pts+reb,PR,20.7,10 of 10,20 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 20,0.96,0.52,VJ Edgecombe,10
-ALL|PR|All|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.22,Nikola Jokic,30
-ALL|PR|All|6,B,Jamal Murray,DEN at OKC,Over 14.5 pts+reb,PR,30.1,10 of 10,19 of 20,Tough (24),1.22,tough matchup,Pts allowed rk 19,0.935,0.5,Jamal Murray,15
-ALL|PR|All|7,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.34,Shai Gilgeous-Alexander,20
-ALL|PR|All|8,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+reb,PR,35.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.43,Joel Embiid,20
-ALL|PR|All|9,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.26,Jaylen Brown,25
-ALL|PR|All|10,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.37,Chet Holmgren,15
-ALL|PR|All|11,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb,PR,17.8,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.44,Christian Braun,10
-ALL|PR|All|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb,PR,18.1,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.45,Anfernee Simons,10
-ALL|PR|All|13,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (6),1.27,,Pts allowed rk 18,0.975,0.2,Evan Mobley,20
-ALL|PR|All|14,C,LeBron James,PHI vs CLE,Over 19.5 pts+reb,PR,28.6,9 of 10,17 of 20,Soft (1),1.34,,Pts allowed rk 20,0.925,0.3,LeBron James,20
-ALL|PRA|All|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (8),1.24,,Pts allowed rk 18,1.0,0.29,Donovan Mitchell,25
-ALL|PRA|All|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (5),1.24,,Pts allowed rk 18,1.0,0.31,Evan Mobley,20
-ALL|PRA|All|3,B,Aaron Gordon,DEN at OKC,Over 9.5 pts+reb+ast,PRA,22.1,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,10
-ALL|PRA|All|4,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.32,James Harden,20
-ALL|PRA|All|5,B,Cameron Johnson,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.4,9 of 10,19 of 20,Soft (4),1.27,,Pts allowed rk 19,0.975,0.51,Cameron Johnson,10
-ALL|PRA|All|6,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.32,LeBron James,25
-ALL|PRA|All|7,B,Jarrett Allen,CLE at PHI,Over 9.5 pts+reb+ast,PRA,21.1,9 of 10,19 of 20,Soft (5),1.27,questionable,Pts allowed rk 18,0.935,0.53,Jarrett Allen,10
-ALL|PRA|All|8,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.38,Joel Embiid,25
-ALL|PRA|All|9,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+reb+ast,PRA,33.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.4,Tyrese Maxey,20
-ALL|PRA|All|10,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb+ast,PRA,26.9,9 of 10,19 of 20,Tough (24),1.27,tough matchup,Pts allowed rk 19,0.885,0.44,Peyton Watson,15
-ALL|PRA|All|11,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,19.8,9 of 10,19 of 20,Tough (23),1.27,tough matchup,Pts allowed rk 13,0.885,0.49,Ajay Mitchell,10
-ALL|PRA|All|12,B,Anfernee Simons,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,20.5,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,Anfernee Simons,10
-ALL|PRA|All|13,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.35,Jaylen Brown,25
-ALL|PRA|All|14,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,25.1,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.4,Chet Holmgren,15
-ALL|PRA|All|15,B,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,18.6,9 of 10,18 of 20,Tough (23),1.31,tough matchup,Pts allowed rk 13,0.86,0.46,Isaiah Hartenstein,10
-ALL|PRA|All|16,B,Christian Braun,DEN at OKC,Over 9.5 pts+reb+ast,PRA,20.1,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 19,0.86,0.5,Christian Braun,10
-ALL|PRA|All|17,C,Nikola Jokic,DEN at OKC,Over 39.5 pts+reb+ast,PRA,49.9,9 of 10,17 of 20,Tough (30),1.34,tough matchup,Pts allowed rk 19,0.835,0.2,Nikola Jokic,40
-ALL|PRA|All|18,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+reb+ast,PRA,37.9,9 of 10,17 of 20,Tough (23),1.34,tough matchup,Pts allowed rk 13,0.835,0.21,Shai Gilgeous-Alexander,30
-ALL|PRA|All|19,C,Jamal Murray,DEN at OKC,Over 24.5 pts+reb+ast,PRA,36.8,9 of 10,17 of 20,Tough (24),1.34,tough matchup,Pts allowed rk 19,0.835,0.32,Jamal Murray,25
-ALL|PTS|All|1,B,Aaron Gordon,DEN at OKC,Over 5.5 points,PTS,13.2,10 of 10,18 of 20,Soft (4),1.24,,Pts allowed rk 19,1.0,0.55,Aaron Gordon,6
-ALL|PTS|All|2,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.39,James Harden,12
-ALL|PTS|All|3,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.35,LeBron James,14
-ALL|PTS|All|4,B,VJ Edgecombe,PHI vs CLE,Over 7.5 points,PTS,14.6,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 20,0.885,0.45,VJ Edgecombe,8
-ALL|PTS|All|5,B,Joel Embiid,PHI vs CLE,Over 13.5 points,PTS,27.3,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.49,Joel Embiid,14
-ALL|PTS|All|6,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 18.5 points,PTS,26.9,9 of 10,18 of 20,Tough (24),1.31,tough matchup,Pts allowed rk 13,0.86,0.29,Shai Gilgeous-Alexander,19
-ALL|PTS|All|7,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.3,Tyrese Maxey,17
-ALL|PTS|All|8,B,Jaylen Brown,PHI vs CLE,Over 18.5 points,PTS,28.0,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.32,Jaylen Brown,19
-ALL|PTS|All|9,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.34,Bruce Brown,6
-ALL|PTS|All|10,B,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 19,0.86,0.39,Nikola Jokic,15
-ALL|PTS|All|11,B,Christian Braun,DEN at OKC,Over 7.5 points,PTS,13.3,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 19,0.86,0.4,Christian Braun,8
-ALL|PTS|All|12,B,Chet Holmgren,OKC vs DEN,Over 7.5 points,PTS,15.6,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.49,Chet Holmgren,8
-ALL|PTS|All|13,B,Isaiah Hartenstein,OKC vs DEN,Over 3.5 points,PTS,8.4,9 of 10,18 of 20,Tough (25),1.31,tough matchup,Pts allowed rk 13,0.86,0.52,Isaiah Hartenstein,4
-ALL|PTS|All|14,B,Jarrett Allen,CLE at PHI,Over 5.5 points,PTS,12.8,9 of 10,18 of 20,Mid (10),1.31,questionable,Pts allowed rk 18,0.86,0.53,Jarrett Allen,6
-ALL|PTS|All|15,B,Anfernee Simons,PHI vs CLE,Over 6.5 points,PTS,15.4,9 of 10,18 of 20,Tough (30),1.31,tough matchup,Pts allowed rk 20,0.86,0.55,Anfernee Simons,7
-ALL|PTS|All|16,C,Evan Mobley,CLE at PHI,Over 11.5 points,PTS,16.4,10 of 10,17 of 20,Mid (10),1.27,,Pts allowed rk 18,0.925,0.27,Evan Mobley,12
-ALL|PTS|All|17,C,Donovan Mitchell,CLE at PHI,Over 18.5 points,PTS,26.6,9 of 10,17 of 20,Soft (8),1.34,,Pts allowed rk 18,0.925,0.28,Donovan Mitchell,19
-ALL|PTS|All|18,C,Jamal Murray,DEN at OKC,Over 15.5 points,PTS,25.6,9 of 10,17 of 20,Tough (25),1.34,tough matchup,Pts allowed rk 19,0.835,0.37,Jamal Murray,16
-ALL|PTS|All|19,C,Cason Wallace,OKC vs DEN,Over 4.5 points,PTS,8.3,9 of 10,17 of 20,Tough (24),1.34,tough matchup,Pts allowed rk 13,0.835,0.4,Cason Wallace,5
-ALL|PTS|All|20,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 3.5 points,PTS,8.8,9 of 10,17 of 20,Tough (30),1.34,tough matchup,Pts allowed rk 20,0.835,0.55,Kentavious Caldwell-Pope,4
-ALL|RA|All|1,A,James Harden,CLE at PHI,Over 4.5 reb+ast,RA,9.7,10 of 10,19 of 20,Soft (8),1.22,,Pts allowed rk 18,1.025,0.48,James Harden,5
-ALL|RA|All|2,A,Shai Gilgeous-Alexander,OKC vs DEN,Over 4.5 reb+ast,RA,10.9,10 of 10,19 of 20,Mid (19),1.22,,Pts allowed rk 13,0.975,0.54,Shai Gilgeous-Alexander,5
-ALL|RA|All|3,B,Donovan Mitchell,CLE at PHI,Over 4.5 reb+ast,RA,8.4,9 of 10,19 of 20,Soft (8),1.27,,Pts allowed rk 18,0.975,0.41,Donovan Mitchell,5
-ALL|RA|All|4,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (1),1.31,,Pts allowed rk 20,0.95,0.33,LeBron James,10
-ALL|RA|All|5,B,Tyrese Maxey,PHI vs CLE,Over 4.5 reb+ast,RA,9.4,10 of 10,18 of 20,Tough (28),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,5
-ALL|RA|All|6,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (17),1.31,,Pts allowed rk 19,0.9,0.39,Peyton Watson,5
-ALL|RA|All|7,B,Isaiah Hartenstein,OKC vs DEN,Over 4.5 reb+ast,RA,10.2,9 of 10,18 of 20,Mid (18),1.31,,Pts allowed rk 13,0.9,0.51,Isaiah Hartenstein,5
-ALL|RA|All|8,B,Nikola Jokic,DEN at OKC,Over 14.5 reb+ast,RA,25.2,9 of 10,19 of 20,Tough (30),1.27,tough matchup,Pts allowed rk 19,0.885,0.4,Nikola Jokic,15
-ALL|RA|All|9,B,VJ Edgecombe,PHI vs CLE,Over 4.5 reb+ast,RA,10.2,9 of 10,19 of 20,Tough (28),1.27,tough matchup,Pts allowed rk 20,0.885,0.51,VJ Edgecombe,5
-ALL|RA|All|10,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (19),1.34,,Pts allowed rk 13,0.875,0.32,Ajay Mitchell,5
-ALL|REB|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (3),1.22,,Pts allowed rk 18,1.025,0.31,Evan Mobley,6
-ALL|REB|All|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (4),1.22,,Pts allowed rk 18,1.025,0.4,Donovan Mitchell,3
-ALL|REB|All|3,B,Joel Embiid,PHI vs CLE,Over 3.5 rebounds,REB,8.0,10 of 10,20 of 20,Tough (26),1.22,tough matchup,Pts allowed rk 20,0.96,0.5,Joel Embiid,4
-ALL|REB|All|4,B,Nikola Jokic,DEN at OKC,Over 7.5 rebounds,REB,14.0,10 of 10,19 of 20,Tough (30),1.22,tough matchup,Pts allowed rk 19,0.935,0.43,Nikola Jokic,8
-ALL|REB|All|5,B,Peyton Watson,DEN at OKC,Over 2.5 rebounds,REB,5.2,9 of 10,19 of 20,Mid (20),1.27,,Pts allowed rk 19,0.925,0.43,Peyton Watson,3
-ALL|REB|All|6,B,Chet Holmgren,OKC vs DEN,Over 3.5 rebounds,REB,8.2,9 of 10,19 of 20,Mid (17),1.27,,Pts allowed rk 13,0.925,0.52,Chet Holmgren,4
-ALL|REB|All|7,B,Tyrese Maxey,PHI vs CLE,Over 1.5 rebounds,REB,3.8,10 of 10,18 of 20,Tough (29),1.24,tough matchup,Pts allowed rk 20,0.91,0.47,Tyrese Maxey,2
-ALL|REB|All|8,B,Cason Wallace,OKC vs DEN,Over 1.5 rebounds,REB,3.7,9 of 10,18 of 20,Mid (22),1.31,,Pts allowed rk 13,0.9,0.46,Cason Wallace,2
-ALL|REB|All|9,B,Jaylen Brown,PHI vs CLE,Over 2.5 rebounds,REB,6.0,9 of 10,19 of 20,Tough (29),1.27,tough matchup,Pts allowed rk 20,0.885,0.5,Jaylen Brown,3
-ALL|REB|All|10,B,VJ Edgecombe,PHI vs CLE,Over 2.5 rebounds,REB,6.2,9 of 10,18 of 20,Tough (29),1.31,tough matchup,Pts allowed rk 20,0.86,0.51,VJ Edgecombe,3
-ALL|REB|All|11,C,James Harden,CLE at PHI,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Soft (4),1.34,,Pts allowed rk 18,0.925,0.52,James Harden,2
-ALL|REB|All|12,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.34,Alex Caruso,2
-ALL|REB|All|13,C,Ajay Mitchell,OKC vs DEN,Over 1.5 rebounds,REB,3.3,9 of 10,17 of 20,Mid (22),1.34,,Pts allowed rk 13,0.875,0.39,Ajay Mitchell,2
-ALL|REB|All|14,C,Jaylin Williams,OKC vs DEN,Over 1.5 rebounds,REB,4.2,9 of 10,17 of 20,Mid (10),1.34,,Pts allowed rk 13,0.875,0.52,Jaylin Williams,2
-ALL|REB|All|15,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (29),1.34,tough matchup,Pts allowed rk 20,0.835,0.27,Kentavious Caldwell-Pope,2
-ALL|STL|All|1,B,Cason Wallace,OKC vs DEN,Over 0.5 steals,STL,1.9,10 of 10,19 of 20,Tough (29),1.22,tough matchup,Pts allowed rk 13,0.935,0.49,Cason Wallace,1
-ALL|THREES|All|1,A,Jaylen Brown,PHI vs CLE,Over 0.5 threes,THREES,2.1,10 of 10,19 of 20,Mid (22),1.22,,Pts allowed rk 20,0.975,0.52,Jaylen Brown,1
-ALL|THREES|All|2,B,Tyrese Maxey,PHI vs CLE,Over 0.5 threes,THREES,2.2,9 of 10,19 of 20,Mid (22),1.27,,Pts allowed rk 20,0.925,0.55,Tyrese Maxey,1
-ALL|THREES|All|3,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (6),1.27,,Pts allowed rk 18,0.975,0.27,Donovan Mitchell,2
-ALL|THREES|All|4,C,Cason Wallace,OKC vs DEN,Over 0.5 threes,THREES,1.9,9 of 10,17 of 20,Mid (16),1.34,,Pts allowed rk 13,0.875,0.47,Cason Wallace,1
+key,grade,who,game,pick,stat,avg,recent,long,matchup,fair,flags,team_def,score,cushion,player,line,risk
+ALL|ALL|Safest|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|ALL|Safest|A only|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|PR|Safest|A only|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|REB|Safest|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|REB|Safest|A only|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (27th),1.22,,Defense 13 of 30,1.025,0.4,Donovan Mitchell,3,Safest
+ALL|ALL|Safest|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|ALL|Safest|A and B|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|ALL|Safest|A and B|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Safest
+ALL|ALL|Safest|A and B|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Safest
+ALL|ALL|Safest|A and B|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Safest
+ALL|ALL|Safest|A and B|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Safest
+ALL|ALL|Safest|A and B|7,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Safest
+ALL|ALL|Safest|A and B|8,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Safest
+ALL|ALL|Safest|A and B|9,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Safest
+ALL|ALL|Safest|A and B|10,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup,Defense 11 of 30,0.885,0.38,Joel Embiid,25,Safest
+ALL|ALL|Safest|A and B|11,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Safest
+ALL|ALL|Safest|A and B|12,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Safest
+ALL|AST|Safest|A and B|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Safest
+ALL|AST|Safest|A and B|2,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Safest
+ALL|PA|Safest|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Mid (22nd),1.24,,Defense 13 of 30,0.95,0.33,Donovan Mitchell,20,Safest
+ALL|PA|Safest|A and B|2,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,20,Safest
+ALL|PA|Safest|A and B|3,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Safest
+ALL|PA|Safest|A and B|4,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.4,James Harden,15,Safest
+ALL|PA|Safest|A and B|5,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Safest
+ALL|PR|Safest|A and B|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|PR|Safest|A and B|2,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.37,James Harden,15,Safest
+ALL|PR|Safest|A and B|3,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Safest
+ALL|PR|Safest|A and B|4,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Safest
+ALL|PR|Safest|A and B|5,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Safest
+ALL|PR|Safest|A and B|6,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Safest
+ALL|PRA|Safest|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Safest
+ALL|PRA|Safest|A and B|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (26th),1.24,,Defense 13 of 30,1.0,0.31,Evan Mobley,20,Safest
+ALL|PRA|Safest|A and B|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Safest
+ALL|PRA|Safest|A and B|4,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.32,LeBron James,25,Safest
+ALL|PRA|Safest|A and B|5,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup,Defense 11 of 30,0.885,0.38,Joel Embiid,25,Safest
+ALL|PRA|Safest|A and B|6,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.35,Jaylen Brown,25,Safest
+ALL|PTS|Safest|A and B|1,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.39,James Harden,12,Safest
+ALL|PTS|Safest|A and B|2,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.35,LeBron James,14,Safest
+ALL|PTS|Safest|A and B|3,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 18.5 points,PTS,26.9,9 of 10,18 of 20,Tough (7th),1.31,tough matchup,Defense 17 of 30,0.86,0.29,Shai Gilgeous-Alexander,19,Safest
+ALL|PTS|Safest|A and B|4,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.3,Tyrese Maxey,17,Safest
+ALL|PTS|Safest|A and B|5,B,Jaylen Brown,PHI vs CLE,Over 18.5 points,PTS,28.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.32,Jaylen Brown,19,Safest
+ALL|PTS|Safest|A and B|6,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Safest
+ALL|PTS|Safest|A and B|7,B,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 12 of 30,0.86,0.39,Nikola Jokic,15,Safest
+ALL|RA|Safest|A and B|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Safest
+ALL|RA|Safest|A and B|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Safest
+ALL|REB|Safest|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|REB|Safest|A and B|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (27th),1.22,,Defense 13 of 30,1.025,0.4,Donovan Mitchell,3,Safest
+ALL|ALL|Safest|A to C|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|ALL|Safest|A to C|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|ALL|Safest|A to C|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Safest
+ALL|ALL|Safest|A to C|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Safest
+ALL|ALL|Safest|A to C|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Safest
+ALL|ALL|Safest|A to C|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Safest
+ALL|ALL|Safest|A to C|7,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Safest
+ALL|ALL|Safest|A to C|8,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Safest
+ALL|ALL|Safest|A to C|9,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Safest
+ALL|ALL|Safest|A to C|10,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup,Defense 11 of 30,0.885,0.38,Joel Embiid,25,Safest
+ALL|ALL|Safest|A to C|11,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Safest
+ALL|ALL|Safest|A to C|12,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Safest
+ALL|ALL|Safest|A to C|13,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Safest
+ALL|ALL|Safest|A to C|14,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Safest
+ALL|ALL|Safest|A to C|15,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Safest
+ALL|ALL|Safest|A to C|16,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Safest
+ALL|AST|Safest|A to C|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Safest
+ALL|AST|Safest|A to C|2,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Safest
+ALL|AST|Safest|A to C|3,C,Tyrese Maxey,PHI vs CLE,Over 3.5 assists,AST,5.7,9 of 10,17 of 20,Tough (8th),1.34,tough matchup,Defense 11 of 30,0.835,0.29,Tyrese Maxey,4,Safest
+ALL|DBL_DBL|Safest|A to C|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Safest
+ALL|PA|Safest|A to C|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Mid (22nd),1.24,,Defense 13 of 30,0.95,0.33,Donovan Mitchell,20,Safest
+ALL|PA|Safest|A to C|2,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,20,Safest
+ALL|PA|Safest|A to C|3,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Safest
+ALL|PA|Safest|A to C|4,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.4,James Harden,15,Safest
+ALL|PA|Safest|A to C|5,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Safest
+ALL|PA|Safest|A to C|6,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.25,Evan Mobley,15,Safest
+ALL|PA|Safest|A to C|7,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 24.5 pts+ast,PA,34.8,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.28,Shai Gilgeous-Alexander,25,Safest
+ALL|PA|Safest|A to C|8,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Safest
+ALL|PR|Safest|A to C|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|PR|Safest|A to C|2,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.37,James Harden,15,Safest
+ALL|PR|Safest|A to C|3,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Safest
+ALL|PR|Safest|A to C|4,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Safest
+ALL|PR|Safest|A to C|5,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Safest
+ALL|PR|Safest|A to C|6,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Safest
+ALL|PR|Safest|A to C|7,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Safest
+ALL|PR|Safest|A to C|8,C,LeBron James,PHI vs CLE,Over 19.5 pts+reb,PR,28.6,9 of 10,17 of 20,Soft (30th),1.34,,Defense 11 of 30,0.925,0.3,LeBron James,20,Safest
+ALL|PRA|Safest|A to C|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Safest
+ALL|PRA|Safest|A to C|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (26th),1.24,,Defense 13 of 30,1.0,0.31,Evan Mobley,20,Safest
+ALL|PRA|Safest|A to C|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Safest
+ALL|PRA|Safest|A to C|4,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.32,LeBron James,25,Safest
+ALL|PRA|Safest|A to C|5,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup,Defense 11 of 30,0.885,0.38,Joel Embiid,25,Safest
+ALL|PRA|Safest|A to C|6,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.35,Jaylen Brown,25,Safest
+ALL|PRA|Safest|A to C|7,C,Nikola Jokic,DEN at OKC,Over 39.5 pts+reb+ast,PRA,49.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,0.2,Nikola Jokic,40,Safest
+ALL|PRA|Safest|A to C|8,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+reb+ast,PRA,37.9,9 of 10,17 of 20,Tough (8th),1.34,tough matchup,Defense 17 of 30,0.835,0.21,Shai Gilgeous-Alexander,30,Safest
+ALL|PRA|Safest|A to C|9,C,Jamal Murray,DEN at OKC,Over 24.5 pts+reb+ast,PRA,36.8,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.32,Jamal Murray,25,Safest
+ALL|PTS|Safest|A to C|1,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.39,James Harden,12,Safest
+ALL|PTS|Safest|A to C|2,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.35,LeBron James,14,Safest
+ALL|PTS|Safest|A to C|3,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 18.5 points,PTS,26.9,9 of 10,18 of 20,Tough (7th),1.31,tough matchup,Defense 17 of 30,0.86,0.29,Shai Gilgeous-Alexander,19,Safest
+ALL|PTS|Safest|A to C|4,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.3,Tyrese Maxey,17,Safest
+ALL|PTS|Safest|A to C|5,B,Jaylen Brown,PHI vs CLE,Over 18.5 points,PTS,28.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.32,Jaylen Brown,19,Safest
+ALL|PTS|Safest|A to C|6,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Safest
+ALL|PTS|Safest|A to C|7,B,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 12 of 30,0.86,0.39,Nikola Jokic,15,Safest
+ALL|PTS|Safest|A to C|8,C,Evan Mobley,CLE at PHI,Over 11.5 points,PTS,16.4,10 of 10,17 of 20,Mid (21st),1.27,,Defense 13 of 30,0.925,0.27,Evan Mobley,12,Safest
+ALL|PTS|Safest|A to C|9,C,Donovan Mitchell,CLE at PHI,Over 18.5 points,PTS,26.6,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 13 of 30,0.925,0.28,Donovan Mitchell,19,Safest
+ALL|PTS|Safest|A to C|10,C,Jamal Murray,DEN at OKC,Over 15.5 points,PTS,25.6,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 12 of 30,0.835,0.37,Jamal Murray,16,Safest
+ALL|RA|Safest|A to C|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Safest
+ALL|RA|Safest|A to C|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Safest
+ALL|RA|Safest|A to C|3,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Safest
+ALL|REB|Safest|A to C|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|REB|Safest|A to C|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (27th),1.22,,Defense 13 of 30,1.025,0.4,Donovan Mitchell,3,Safest
+ALL|REB|Safest|A to C|3,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Safest
+ALL|REB|Safest|A to C|4,C,Ajay Mitchell,OKC vs DEN,Over 1.5 rebounds,REB,3.3,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.39,Ajay Mitchell,2,Safest
+ALL|REB|Safest|A to C|5,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Safest
+ALL|THREES|Safest|A to C|1,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Safest
+ALL|ALL|Safest|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|ALL|Safest|All|2,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|ALL|Safest|All|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Safest
+ALL|ALL|Safest|All|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Safest
+ALL|ALL|Safest|All|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Safest
+ALL|ALL|Safest|All|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Safest
+ALL|ALL|Safest|All|7,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Safest
+ALL|ALL|Safest|All|8,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Safest
+ALL|ALL|Safest|All|9,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Safest
+ALL|ALL|Safest|All|10,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup,Defense 11 of 30,0.885,0.38,Joel Embiid,25,Safest
+ALL|ALL|Safest|All|11,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Safest
+ALL|ALL|Safest|All|12,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Safest
+ALL|ALL|Safest|All|13,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Safest
+ALL|ALL|Safest|All|14,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Safest
+ALL|ALL|Safest|All|15,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Safest
+ALL|ALL|Safest|All|16,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Safest
+ALL|AST|Safest|All|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Safest
+ALL|AST|Safest|All|2,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Safest
+ALL|AST|Safest|All|3,C,Tyrese Maxey,PHI vs CLE,Over 3.5 assists,AST,5.7,9 of 10,17 of 20,Tough (8th),1.34,tough matchup,Defense 11 of 30,0.835,0.29,Tyrese Maxey,4,Safest
+ALL|DBL_DBL|Safest|All|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Safest
+ALL|PA|Safest|All|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Mid (22nd),1.24,,Defense 13 of 30,0.95,0.33,Donovan Mitchell,20,Safest
+ALL|PA|Safest|All|2,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,20,Safest
+ALL|PA|Safest|All|3,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Safest
+ALL|PA|Safest|All|4,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.4,James Harden,15,Safest
+ALL|PA|Safest|All|5,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Safest
+ALL|PA|Safest|All|6,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.25,Evan Mobley,15,Safest
+ALL|PA|Safest|All|7,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 24.5 pts+ast,PA,34.8,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.28,Shai Gilgeous-Alexander,25,Safest
+ALL|PA|Safest|All|8,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Safest
+ALL|PR|Safest|All|1,A,Donovan Mitchell,CLE at PHI,Over 19.5 pts+reb,PR,31.6,10 of 10,19 of 20,Soft (23rd),1.22,,Defense 13 of 30,1.025,0.37,Donovan Mitchell,20,Safest
+ALL|PR|Safest|All|2,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.37,James Harden,15,Safest
+ALL|PR|Safest|All|3,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Safest
+ALL|PR|Safest|All|4,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Safest
+ALL|PR|Safest|All|5,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Safest
+ALL|PR|Safest|All|6,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Safest
+ALL|PR|Safest|All|7,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Safest
+ALL|PR|Safest|All|8,C,LeBron James,PHI vs CLE,Over 19.5 pts+reb,PR,28.6,9 of 10,17 of 20,Soft (30th),1.34,,Defense 11 of 30,0.925,0.3,LeBron James,20,Safest
+ALL|PRA|Safest|All|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Safest
+ALL|PRA|Safest|All|2,B,Evan Mobley,CLE at PHI,Over 19.5 pts+reb+ast,PRA,28.8,10 of 10,18 of 20,Soft (26th),1.24,,Defense 13 of 30,1.0,0.31,Evan Mobley,20,Safest
+ALL|PRA|Safest|All|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Safest
+ALL|PRA|Safest|All|4,B,LeBron James,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,36.6,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.32,LeBron James,25,Safest
+ALL|PRA|Safest|All|5,B,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,40.2,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup,Defense 11 of 30,0.885,0.38,Joel Embiid,25,Safest
+ALL|PRA|Safest|All|6,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.35,Jaylen Brown,25,Safest
+ALL|PRA|Safest|All|7,C,Nikola Jokic,DEN at OKC,Over 39.5 pts+reb+ast,PRA,49.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,0.2,Nikola Jokic,40,Safest
+ALL|PRA|Safest|All|8,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+reb+ast,PRA,37.9,9 of 10,17 of 20,Tough (8th),1.34,tough matchup,Defense 17 of 30,0.835,0.21,Shai Gilgeous-Alexander,30,Safest
+ALL|PRA|Safest|All|9,C,Jamal Murray,DEN at OKC,Over 24.5 pts+reb+ast,PRA,36.8,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.32,Jamal Murray,25,Safest
+ALL|PTS|Safest|All|1,B,James Harden,CLE at PHI,Over 11.5 points,PTS,19.6,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.39,James Harden,12,Safest
+ALL|PTS|Safest|All|2,B,LeBron James,PHI vs CLE,Over 13.5 points,PTS,21.6,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.35,LeBron James,14,Safest
+ALL|PTS|Safest|All|3,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 18.5 points,PTS,26.9,9 of 10,18 of 20,Tough (7th),1.31,tough matchup,Defense 17 of 30,0.86,0.29,Shai Gilgeous-Alexander,19,Safest
+ALL|PTS|Safest|All|4,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.3,Tyrese Maxey,17,Safest
+ALL|PTS|Safest|All|5,B,Jaylen Brown,PHI vs CLE,Over 18.5 points,PTS,28.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.32,Jaylen Brown,19,Safest
+ALL|PTS|Safest|All|6,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Safest
+ALL|PTS|Safest|All|7,B,Nikola Jokic,DEN at OKC,Over 14.5 points,PTS,24.7,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 12 of 30,0.86,0.39,Nikola Jokic,15,Safest
+ALL|PTS|Safest|All|8,C,Evan Mobley,CLE at PHI,Over 11.5 points,PTS,16.4,10 of 10,17 of 20,Mid (21st),1.27,,Defense 13 of 30,0.925,0.27,Evan Mobley,12,Safest
+ALL|PTS|Safest|All|9,C,Donovan Mitchell,CLE at PHI,Over 18.5 points,PTS,26.6,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 13 of 30,0.925,0.28,Donovan Mitchell,19,Safest
+ALL|PTS|Safest|All|10,C,Jamal Murray,DEN at OKC,Over 15.5 points,PTS,25.6,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 12 of 30,0.835,0.37,Jamal Murray,16,Safest
+ALL|RA|Safest|All|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Safest
+ALL|RA|Safest|All|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Safest
+ALL|RA|Safest|All|3,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Safest
+ALL|REB|Safest|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Safest
+ALL|REB|Safest|All|2,A,Donovan Mitchell,CLE at PHI,Over 2.5 rebounds,REB,5.0,10 of 10,19 of 20,Soft (27th),1.22,,Defense 13 of 30,1.025,0.4,Donovan Mitchell,3,Safest
+ALL|REB|Safest|All|3,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Safest
+ALL|REB|Safest|All|4,C,Ajay Mitchell,OKC vs DEN,Over 1.5 rebounds,REB,3.3,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.39,Ajay Mitchell,2,Safest
+ALL|REB|Safest|All|5,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Safest
+ALL|THREES|Safest|All|1,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Safest
+ALL|ALL|Balanced|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|REB|Balanced|A only|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|ALL|Balanced|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|ALL|Balanced|A and B|2,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Balanced
+ALL|ALL|Balanced|A and B|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Balanced
+ALL|ALL|Balanced|A and B|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Balanced
+ALL|ALL|Balanced|A and B|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Balanced
+ALL|ALL|Balanced|A and B|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Balanced
+ALL|ALL|Balanced|A and B|7,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Balanced
+ALL|ALL|Balanced|A and B|8,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Balanced
+ALL|ALL|Balanced|A and B|9,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Balanced
+ALL|ALL|Balanced|A and B|10,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Balanced
+ALL|ALL|Balanced|A and B|11,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Balanced
+ALL|ALL|Balanced|A and B|12,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Balanced
+ALL|ALL|Balanced|A and B|13,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Balanced
+ALL|AST|Balanced|A and B|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Balanced
+ALL|AST|Balanced|A and B|2,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Balanced
+ALL|AST|Balanced|A and B|3,B,Nikola Jokic,DEN at OKC,Over 7.5 assists,AST,11.2,8 of 10,18 of 20,Tough (1st),1.38,tough matchup,Defense 12 of 30,0.81,0.29,Nikola Jokic,8,Balanced
+ALL|PA|Balanced|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Mid (22nd),1.24,,Defense 13 of 30,0.95,0.33,Donovan Mitchell,20,Balanced
+ALL|PA|Balanced|A and B|2,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,20,Balanced
+ALL|PA|Balanced|A and B|3,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Balanced
+ALL|PA|Balanced|A and B|4,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.4,James Harden,15,Balanced
+ALL|PA|Balanced|A and B|5,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Balanced
+ALL|PA|Balanced|A and B|6,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Balanced
+ALL|PA|Balanced|A and B|7,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+ast,PA,32.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.38,Joel Embiid,20,Balanced
+ALL|PR|Balanced|A and B|1,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.37,James Harden,15,Balanced
+ALL|PR|Balanced|A and B|2,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Balanced
+ALL|PR|Balanced|A and B|3,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Balanced
+ALL|PR|Balanced|A and B|4,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Balanced
+ALL|PR|Balanced|A and B|5,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Balanced
+ALL|PR|Balanced|A and B|6,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb,PR,24.0,8 of 10,18 of 20,Tough (7th),1.38,tough matchup,Defense 12 of 30,0.81,0.38,Peyton Watson,15,Balanced
+ALL|PRA|Balanced|A and B|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Balanced
+ALL|PRA|Balanced|A and B|2,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Balanced
+ALL|PRA|Balanced|A and B|3,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.35,Jaylen Brown,25,Balanced
+ALL|PRA|Balanced|A and B|4,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Balanced
+ALL|PTS|Balanced|A and B|1,B,James Harden,CLE at PHI,Over 14.5 points,PTS,19.6,8 of 10,18 of 20,Soft (23rd),1.38,,Defense 13 of 30,0.9,0.23,James Harden,15,Balanced
+ALL|PTS|Balanced|A and B|2,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.3,Tyrese Maxey,17,Balanced
+ALL|PTS|Balanced|A and B|3,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Balanced
+ALL|PTS|Balanced|A and B|4,B,Joel Embiid,PHI vs CLE,Over 17.5 points,PTS,27.3,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.34,Joel Embiid,18,Balanced
+ALL|RA|Balanced|A and B|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Balanced
+ALL|RA|Balanced|A and B|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Balanced
+ALL|REB|Balanced|A and B|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|REB|Balanced|A and B|2,B,Joel Embiid,PHI vs CLE,Over 4.5 rebounds,REB,8.0,8 of 10,18 of 20,Tough (5th),1.38,tough matchup,Defense 11 of 30,0.81,0.38,Joel Embiid,5,Balanced
+ALL|ALL|Balanced|A to C|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|ALL|Balanced|A to C|2,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Balanced
+ALL|ALL|Balanced|A to C|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Balanced
+ALL|ALL|Balanced|A to C|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Balanced
+ALL|ALL|Balanced|A to C|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Balanced
+ALL|ALL|Balanced|A to C|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Balanced
+ALL|ALL|Balanced|A to C|7,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Balanced
+ALL|ALL|Balanced|A to C|8,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Balanced
+ALL|ALL|Balanced|A to C|9,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Balanced
+ALL|ALL|Balanced|A to C|10,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Balanced
+ALL|ALL|Balanced|A to C|11,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Balanced
+ALL|ALL|Balanced|A to C|12,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Balanced
+ALL|ALL|Balanced|A to C|13,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Balanced
+ALL|ALL|Balanced|A to C|14,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Balanced
+ALL|ALL|Balanced|A to C|15,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Balanced
+ALL|ALL|Balanced|A to C|16,C,Cameron Johnson,DEN at OKC,Over 8.5 points,PTS,14.3,8 of 10,17 of 20,Soft (27th),1.43,,Defense 12 of 30,0.875,0.37,Cameron Johnson,9,Balanced
+ALL|ALL|Balanced|A to C|17,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Balanced
+ALL|ALL|Balanced|A to C|18,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Balanced
+ALL|ALL|Balanced|A to C|19,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Balanced
+ALL|ALL|Balanced|A to C|20,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Balanced
+ALL|ALL|Balanced|A to C|21,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Balanced
+ALL|ALL|Balanced|A to C|22,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Balanced
+ALL|ALL|Balanced|A to C|23,C,VJ Edgecombe,PHI vs CLE,Over 3.5 rebounds,REB,6.2,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 11 of 30,0.81,0.35,VJ Edgecombe,4,Balanced
+ALL|ALL|Balanced|A to C|24,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Balanced
+ALL|ALL|Balanced|A to C|25,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Balanced
+ALL|AST|Balanced|A to C|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Balanced
+ALL|AST|Balanced|A to C|2,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Balanced
+ALL|AST|Balanced|A to C|3,B,Nikola Jokic,DEN at OKC,Over 7.5 assists,AST,11.2,8 of 10,18 of 20,Tough (1st),1.38,tough matchup,Defense 12 of 30,0.81,0.29,Nikola Jokic,8,Balanced
+ALL|AST|Balanced|A to C|4,C,Evan Mobley,CLE at PHI,Over 2.5 assists,AST,3.6,9 of 10,16 of 20,Soft (26th),1.38,,Defense 13 of 30,0.9,0.18,Evan Mobley,3,Balanced
+ALL|AST|Balanced|A to C|5,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Balanced
+ALL|AST|Balanced|A to C|6,C,Isaiah Hartenstein,OKC vs DEN,Over 1.5 assists,AST,2.5,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.2,Isaiah Hartenstein,2,Balanced
+ALL|AST|Balanced|A to C|7,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 6.5 assists,AST,7.8,8 of 10,16 of 20,Mid (13th),1.47,,Defense 17 of 30,0.8,0.1,Shai Gilgeous-Alexander,7,Balanced
+ALL|AST|Balanced|A to C|8,C,Joel Embiid,PHI vs CLE,Over 2.5 assists,AST,4.9,8 of 10,17 of 20,Tough (5th),1.43,tough matchup,Defense 11 of 30,0.785,0.39,Joel Embiid,3,Balanced
+ALL|AST|Balanced|A to C|9,C,Tyrese Maxey,PHI vs CLE,Over 4.5 assists,AST,5.7,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 11 of 30,0.76,0.12,Tyrese Maxey,5,Balanced
+ALL|BLK|Balanced|A to C|1,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Balanced
+ALL|DBL_DBL|Balanced|A to C|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Balanced
+ALL|PA|Balanced|A to C|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Mid (22nd),1.24,,Defense 13 of 30,0.95,0.33,Donovan Mitchell,20,Balanced
+ALL|PA|Balanced|A to C|2,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,20,Balanced
+ALL|PA|Balanced|A to C|3,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Balanced
+ALL|PA|Balanced|A to C|4,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.4,James Harden,15,Balanced
+ALL|PA|Balanced|A to C|5,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Balanced
+ALL|PA|Balanced|A to C|6,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Balanced
+ALL|PA|Balanced|A to C|7,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+ast,PA,32.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.38,Joel Embiid,20,Balanced
+ALL|PA|Balanced|A to C|8,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.25,Evan Mobley,15,Balanced
+ALL|PA|Balanced|A to C|9,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Balanced
+ALL|PA|Balanced|A to C|10,C,Jarrett Allen,CLE at PHI,Over 9.5 pts+ast,PA,13.7,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 13 of 30,0.825,0.27,Jarrett Allen,10,Balanced
+ALL|PA|Balanced|A to C|11,C,Nikola Jokic,DEN at OKC,Over 24.5 pts+ast,PA,35.9,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 12 of 30,0.785,0.3,Nikola Jokic,25,Balanced
+ALL|PA|Balanced|A to C|12,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+ast,PA,34.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.14,Shai Gilgeous-Alexander,30,Balanced
+ALL|PR|Balanced|A to C|1,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.37,James Harden,15,Balanced
+ALL|PR|Balanced|A to C|2,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Balanced
+ALL|PR|Balanced|A to C|3,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Balanced
+ALL|PR|Balanced|A to C|4,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Balanced
+ALL|PR|Balanced|A to C|5,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Balanced
+ALL|PR|Balanced|A to C|6,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb,PR,24.0,8 of 10,18 of 20,Tough (7th),1.38,tough matchup,Defense 12 of 30,0.81,0.38,Peyton Watson,15,Balanced
+ALL|PR|Balanced|A to C|7,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Balanced
+ALL|PR|Balanced|A to C|8,C,LeBron James,PHI vs CLE,Over 19.5 pts+reb,PR,28.6,9 of 10,17 of 20,Soft (30th),1.34,,Defense 11 of 30,0.925,0.3,LeBron James,20,Balanced
+ALL|PR|Balanced|A to C|9,C,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb,PR,31.6,9 of 10,16 of 20,Soft (23rd),1.38,,Defense 13 of 30,0.9,0.21,Donovan Mitchell,25,Balanced
+ALL|PR|Balanced|A to C|10,C,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb,PR,16.1,8 of 10,17 of 20,Tough (8th),1.43,tough matchup,Defense 17 of 30,0.785,0.38,Isaiah Hartenstein,10,Balanced
+ALL|PR|Balanced|A to C|11,C,Jamal Murray,DEN at OKC,Over 19.5 pts+reb,PR,30.1,8 of 10,16 of 20,Tough (7th),1.47,tough matchup,Defense 12 of 30,0.76,0.34,Jamal Murray,20,Balanced
+ALL|PR|Balanced|A to C|12,C,Jalen Williams,OKC vs DEN,Over 14.5 pts+reb,PR,19.9,8 of 10,15 of 20,Tough (8th),1.52,tough matchup,Defense 17 of 30,0.735,0.25,Jalen Williams,15,Balanced
+ALL|PRA|Balanced|A to C|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Balanced
+ALL|PRA|Balanced|A to C|2,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Balanced
+ALL|PRA|Balanced|A to C|3,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.35,Jaylen Brown,25,Balanced
+ALL|PRA|Balanced|A to C|4,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Balanced
+ALL|PRA|Balanced|A to C|5,C,LeBron James,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,36.6,9 of 10,15 of 20,Soft (30th),1.43,,Defense 11 of 30,0.875,0.18,LeBron James,30,Balanced
+ALL|PRA|Balanced|A to C|6,C,Jarrett Allen,CLE at PHI,Over 14.5 pts+reb+ast,PRA,21.1,8 of 10,16 of 20,Soft (26th),1.47,,Defense 13 of 30,0.85,0.29,Jarrett Allen,15,Balanced
+ALL|PRA|Balanced|A to C|7,C,Nikola Jokic,DEN at OKC,Over 39.5 pts+reb+ast,PRA,49.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,0.2,Nikola Jokic,40,Balanced
+ALL|PRA|Balanced|A to C|8,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+reb+ast,PRA,37.9,9 of 10,17 of 20,Tough (8th),1.34,tough matchup,Defense 17 of 30,0.835,0.21,Shai Gilgeous-Alexander,30,Balanced
+ALL|PRA|Balanced|A to C|9,C,Jamal Murray,DEN at OKC,Over 24.5 pts+reb+ast,PRA,36.8,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.32,Jamal Murray,25,Balanced
+ALL|PRA|Balanced|A to C|10,C,Evan Mobley,CLE at PHI,Over 24.5 pts+reb+ast,PRA,28.8,8 of 10,15 of 20,Soft (26th),1.52,,Defense 13 of 30,0.825,0.13,Evan Mobley,25,Balanced
+ALL|PRA|Balanced|A to C|11,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Balanced
+ALL|PRA|Balanced|A to C|12,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,13.4,9 of 10,15 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Kentavious Caldwell-Pope,10,Balanced
+ALL|PRA|Balanced|A to C|13,C,Tyrese Maxey,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,33.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.26,Tyrese Maxey,25,Balanced
+ALL|PRA|Balanced|A to C|14,C,VJ Edgecombe,PHI vs CLE,Over 14.5 pts+reb+ast,PRA,24.7,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.39,VJ Edgecombe,15,Balanced
+ALL|PRA|Balanced|A to C|15,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Balanced
+ALL|PTS|Balanced|A to C|1,B,James Harden,CLE at PHI,Over 14.5 points,PTS,19.6,8 of 10,18 of 20,Soft (23rd),1.38,,Defense 13 of 30,0.9,0.23,James Harden,15,Balanced
+ALL|PTS|Balanced|A to C|2,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.3,Tyrese Maxey,17,Balanced
+ALL|PTS|Balanced|A to C|3,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Balanced
+ALL|PTS|Balanced|A to C|4,B,Joel Embiid,PHI vs CLE,Over 17.5 points,PTS,27.3,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.34,Joel Embiid,18,Balanced
+ALL|PTS|Balanced|A to C|5,C,Evan Mobley,CLE at PHI,Over 12.5 points,PTS,16.4,10 of 10,16 of 20,Mid (21st),1.31,,Defense 13 of 30,0.9,0.21,Evan Mobley,13,Balanced
+ALL|PTS|Balanced|A to C|6,C,Donovan Mitchell,CLE at PHI,Over 21.5 points,PTS,26.6,9 of 10,15 of 20,Soft (23rd),1.43,,Defense 13 of 30,0.875,0.17,Donovan Mitchell,22,Balanced
+ALL|PTS|Balanced|A to C|7,C,Cameron Johnson,DEN at OKC,Over 8.5 points,PTS,14.3,8 of 10,17 of 20,Soft (27th),1.43,,Defense 12 of 30,0.875,0.37,Cameron Johnson,9,Balanced
+ALL|PTS|Balanced|A to C|8,C,Jaylin Williams,OKC vs DEN,Over 2.5 points,PTS,4.8,8 of 10,16 of 20,Soft (28th),1.47,,Defense 17 of 30,0.85,0.38,Jaylin Williams,3,Balanced
+ALL|PTS|Balanced|A to C|9,C,Aaron Gordon,DEN at OKC,Over 7.5 points,PTS,13.2,8 of 10,16 of 20,Soft (27th),1.47,,Defense 12 of 30,0.85,0.4,Aaron Gordon,8,Balanced
+ALL|PTS|Balanced|A to C|10,C,LeBron James,PHI vs CLE,Over 17.5 points,PTS,21.6,8 of 10,15 of 20,Soft (30th),1.52,,Defense 11 of 30,0.825,0.17,LeBron James,18,Balanced
+ALL|PTS|Balanced|A to C|11,C,Jarrett Allen,CLE at PHI,Over 8.5 points,PTS,12.8,8 of 10,17 of 20,Mid (21st),1.43,,Defense 13 of 30,0.825,0.29,Jarrett Allen,9,Balanced
+ALL|PTS|Balanced|A to C|12,C,Jaylen Brown,PHI vs CLE,Over 19.5 points,PTS,28.0,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.29,Jaylen Brown,20,Balanced
+ALL|PTS|Balanced|A to C|13,C,Chet Holmgren,OKC vs DEN,Over 9.5 points,PTS,15.6,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 17 of 30,0.785,0.36,Chet Holmgren,10,Balanced
+ALL|PTS|Balanced|A to C|14,C,VJ Edgecombe,PHI vs CLE,Over 8.5 points,PTS,14.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.38,VJ Edgecombe,9,Balanced
+ALL|PTS|Balanced|A to C|15,C,Nikola Jokic,DEN at OKC,Over 22.5 points,PTS,24.7,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 12 of 30,0.735,0.07,Nikola Jokic,23,Balanced
+ALL|PTS|Balanced|A to C|16,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 21.5 points,PTS,26.9,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 17 of 30,0.735,0.18,Shai Gilgeous-Alexander,22,Balanced
+ALL|PTS|Balanced|A to C|17,C,Jamal Murray,DEN at OKC,Over 19.5 points,PTS,25.6,8 of 10,15 of 20,Tough (6th),1.52,tough matchup,Defense 12 of 30,0.735,0.22,Jamal Murray,20,Balanced
+ALL|PTS|Balanced|A to C|18,C,Anfernee Simons,PHI vs CLE,Over 9.5 points,PTS,15.4,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 11 of 30,0.735,0.35,Anfernee Simons,10,Balanced
+ALL|PTS|Balanced|A to C|19,C,Jalen Williams,OKC vs DEN,Over 9.5 points,PTS,16.1,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 17 of 30,0.735,0.38,Jalen Williams,10,Balanced
+ALL|RA|Balanced|A to C|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Balanced
+ALL|RA|Balanced|A to C|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Balanced
+ALL|RA|Balanced|A to C|3,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Balanced
+ALL|RA|Balanced|A to C|4,C,Evan Mobley,CLE at PHI,Over 9.5 reb+ast,RA,12.4,8 of 10,16 of 20,Soft (28th),1.47,,Defense 13 of 30,0.85,0.19,Evan Mobley,10,Balanced
+ALL|RA|Balanced|A to C|5,C,Nikola Jokic,DEN at OKC,Over 19.5 reb+ast,RA,25.2,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 12 of 30,0.785,0.21,Nikola Jokic,20,Balanced
+ALL|RA|Balanced|A to C|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 9.5 reb+ast,RA,10.9,8 of 10,15 of 20,Mid (12th),1.52,,Defense 17 of 30,0.775,0.09,Shai Gilgeous-Alexander,10,Balanced
+ALL|RA|Balanced|A to C|7,C,Joel Embiid,PHI vs CLE,Over 9.5 reb+ast,RA,12.9,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 11 of 30,0.76,0.22,Joel Embiid,10,Balanced
+ALL|REB|Balanced|A to C|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|REB|Balanced|A to C|2,B,Joel Embiid,PHI vs CLE,Over 4.5 rebounds,REB,8.0,8 of 10,18 of 20,Tough (5th),1.38,tough matchup,Defense 11 of 30,0.81,0.38,Joel Embiid,5,Balanced
+ALL|REB|Balanced|A to C|3,C,Donovan Mitchell,CLE at PHI,Over 3.5 rebounds,REB,5.0,9 of 10,16 of 20,Soft (27th),1.38,,Defense 13 of 30,0.9,0.2,Donovan Mitchell,4,Balanced
+ALL|REB|Balanced|A to C|4,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Balanced
+ALL|REB|Balanced|A to C|5,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Balanced
+ALL|REB|Balanced|A to C|6,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Balanced
+ALL|REB|Balanced|A to C|7,C,Jamal Murray,DEN at OKC,Over 2.5 rebounds,REB,4.5,9 of 10,15 of 20,Mid (11th),1.43,,Defense 12 of 30,0.825,0.34,Jamal Murray,3,Balanced
+ALL|REB|Balanced|A to C|8,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Balanced
+ALL|REB|Balanced|A to C|9,C,VJ Edgecombe,PHI vs CLE,Over 3.5 rebounds,REB,6.2,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 11 of 30,0.81,0.35,VJ Edgecombe,4,Balanced
+ALL|REB|Balanced|A to C|10,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 1.5 rebounds,REB,3.1,8 of 10,16 of 20,Mid (9th),1.47,,Defense 17 of 30,0.8,0.37,Shai Gilgeous-Alexander,2,Balanced
+ALL|REB|Balanced|A to C|11,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Balanced
+ALL|REB|Balanced|A to C|12,C,Ajay Mitchell,OKC vs DEN,Over 2.5 rebounds,REB,3.3,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.09,Ajay Mitchell,3,Balanced
+ALL|REB|Balanced|A to C|13,C,Nikola Jokic,DEN at OKC,Over 11.5 rebounds,REB,14.0,8 of 10,16 of 20,Tough (1st),1.47,tough matchup,Defense 12 of 30,0.76,0.14,Nikola Jokic,12,Balanced
+ALL|REB|Balanced|A to C|14,C,Jaylen Brown,PHI vs CLE,Over 3.5 rebounds,REB,6.0,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 11 of 30,0.76,0.33,Jaylen Brown,4,Balanced
+ALL|STL|Balanced|A to C|1,C,Cameron Johnson,DEN at OKC,Over 0.5 steals,STL,1.1,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 12 of 30,0.825,0.09,Cameron Johnson,1,Balanced
+ALL|STL|Balanced|A to C|2,C,James Harden,CLE at PHI,Over 0.5 steals,STL,1.6,9 of 10,15 of 20,Mid (16th),1.43,,Defense 13 of 30,0.825,0.39,James Harden,1,Balanced
+ALL|STL|Balanced|A to C|3,C,Jaylen Brown,PHI vs CLE,Over 0.5 steals,STL,1.0,8 of 10,15 of 20,Mid (13th),1.52,,Defense 11 of 30,0.775,0.0,Jaylen Brown,1,Balanced
+ALL|STL|Balanced|A to C|4,C,Jarrett Allen,CLE at PHI,Over 0.5 steals,STL,1.1,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 13 of 30,0.76,0.05,Jarrett Allen,1,Balanced
+ALL|STL|Balanced|A to C|5,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 0.5 steals,STL,1.3,8 of 10,15 of 20,Tough (2nd),1.52,tough matchup,Defense 17 of 30,0.735,0.23,Shai Gilgeous-Alexander,1,Balanced
+ALL|THREES|Balanced|A to C|1,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Balanced
+ALL|THREES|Balanced|A to C|2,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Balanced
+ALL|THREES|Balanced|A to C|3,C,Jamal Murray,DEN at OKC,Over 1.5 threes,THREES,3.3,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 12 of 30,0.76,0.39,Jamal Murray,2,Balanced
+ALL|ALL|Balanced|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|ALL|Balanced|All|2,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Balanced
+ALL|ALL|Balanced|All|3,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Balanced
+ALL|ALL|Balanced|All|4,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Balanced
+ALL|ALL|Balanced|All|5,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Balanced
+ALL|ALL|Balanced|All|6,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Balanced
+ALL|ALL|Balanced|All|7,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Balanced
+ALL|ALL|Balanced|All|8,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Balanced
+ALL|ALL|Balanced|All|9,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Balanced
+ALL|ALL|Balanced|All|10,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Balanced
+ALL|ALL|Balanced|All|11,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Balanced
+ALL|ALL|Balanced|All|12,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Balanced
+ALL|ALL|Balanced|All|13,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Balanced
+ALL|ALL|Balanced|All|14,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Balanced
+ALL|ALL|Balanced|All|15,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Balanced
+ALL|ALL|Balanced|All|16,C,Cameron Johnson,DEN at OKC,Over 8.5 points,PTS,14.3,8 of 10,17 of 20,Soft (27th),1.43,,Defense 12 of 30,0.875,0.37,Cameron Johnson,9,Balanced
+ALL|ALL|Balanced|All|17,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Balanced
+ALL|ALL|Balanced|All|18,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Balanced
+ALL|ALL|Balanced|All|19,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Balanced
+ALL|ALL|Balanced|All|20,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Balanced
+ALL|ALL|Balanced|All|21,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Balanced
+ALL|ALL|Balanced|All|22,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Balanced
+ALL|ALL|Balanced|All|23,C,VJ Edgecombe,PHI vs CLE,Over 3.5 rebounds,REB,6.2,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 11 of 30,0.81,0.35,VJ Edgecombe,4,Balanced
+ALL|ALL|Balanced|All|24,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Balanced
+ALL|ALL|Balanced|All|25,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Balanced
+ALL|AST|Balanced|All|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Balanced
+ALL|AST|Balanced|All|2,B,Peyton Watson,DEN at OKC,Over 1.5 assists,AST,2.9,9 of 10,18 of 20,Mid (19th),1.31,,Defense 12 of 30,0.9,0.31,Peyton Watson,2,Balanced
+ALL|AST|Balanced|All|3,B,Nikola Jokic,DEN at OKC,Over 7.5 assists,AST,11.2,8 of 10,18 of 20,Tough (1st),1.38,tough matchup,Defense 12 of 30,0.81,0.29,Nikola Jokic,8,Balanced
+ALL|AST|Balanced|All|4,C,Evan Mobley,CLE at PHI,Over 2.5 assists,AST,3.6,9 of 10,16 of 20,Soft (26th),1.38,,Defense 13 of 30,0.9,0.18,Evan Mobley,3,Balanced
+ALL|AST|Balanced|All|5,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Balanced
+ALL|AST|Balanced|All|6,C,Isaiah Hartenstein,OKC vs DEN,Over 1.5 assists,AST,2.5,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.2,Isaiah Hartenstein,2,Balanced
+ALL|AST|Balanced|All|7,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 6.5 assists,AST,7.8,8 of 10,16 of 20,Mid (13th),1.47,,Defense 17 of 30,0.8,0.1,Shai Gilgeous-Alexander,7,Balanced
+ALL|AST|Balanced|All|8,C,Joel Embiid,PHI vs CLE,Over 2.5 assists,AST,4.9,8 of 10,17 of 20,Tough (5th),1.43,tough matchup,Defense 11 of 30,0.785,0.39,Joel Embiid,3,Balanced
+ALL|AST|Balanced|All|9,C,Tyrese Maxey,PHI vs CLE,Over 4.5 assists,AST,5.7,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 11 of 30,0.76,0.12,Tyrese Maxey,5,Balanced
+ALL|BLK|Balanced|All|1,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Balanced
+ALL|DBL_DBL|Balanced|All|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Balanced
+ALL|PA|Balanced|All|1,B,Donovan Mitchell,CLE at PHI,Over 19.5 pts+ast,PA,30.0,10 of 10,18 of 20,Mid (22nd),1.24,,Defense 13 of 30,0.95,0.33,Donovan Mitchell,20,Balanced
+ALL|PA|Balanced|All|2,B,LeBron James,PHI vs CLE,Over 19.5 pts+ast,PA,29.7,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,20,Balanced
+ALL|PA|Balanced|All|3,B,Jaylen Brown,PHI vs CLE,Over 19.5 pts+ast,PA,32.4,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 11 of 30,0.935,0.38,Jaylen Brown,20,Balanced
+ALL|PA|Balanced|All|4,B,James Harden,CLE at PHI,Over 14.5 pts+ast,PA,25.0,9 of 10,19 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.4,James Harden,15,Balanced
+ALL|PA|Balanced|All|5,B,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (1st),1.27,tough matchup,Defense 11 of 30,0.885,0.33,Tyrese Maxey,20,Balanced
+ALL|PA|Balanced|All|6,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Balanced
+ALL|PA|Balanced|All|7,B,Joel Embiid,PHI vs CLE,Over 19.5 pts+ast,PA,32.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.38,Joel Embiid,20,Balanced
+ALL|PA|Balanced|All|8,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.25,Evan Mobley,15,Balanced
+ALL|PA|Balanced|All|9,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Balanced
+ALL|PA|Balanced|All|10,C,Jarrett Allen,CLE at PHI,Over 9.5 pts+ast,PA,13.7,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 13 of 30,0.825,0.27,Jarrett Allen,10,Balanced
+ALL|PA|Balanced|All|11,C,Nikola Jokic,DEN at OKC,Over 24.5 pts+ast,PA,35.9,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 12 of 30,0.785,0.3,Nikola Jokic,25,Balanced
+ALL|PA|Balanced|All|12,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+ast,PA,34.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.14,Shai Gilgeous-Alexander,30,Balanced
+ALL|PR|Balanced|All|1,B,James Harden,CLE at PHI,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.37,James Harden,15,Balanced
+ALL|PR|Balanced|All|2,B,Nikola Jokic,DEN at OKC,Over 29.5 pts+reb,PR,38.7,10 of 10,19 of 20,Tough (1st),1.22,tough matchup,Defense 12 of 30,0.935,0.22,Nikola Jokic,30,Balanced
+ALL|PR|Balanced|All|3,B,Shai Gilgeous-Alexander,OKC vs DEN,Over 19.5 pts+reb,PR,30.1,9 of 10,19 of 20,Tough (8th),1.27,tough matchup,Defense 17 of 30,0.885,0.34,Shai Gilgeous-Alexander,20,Balanced
+ALL|PR|Balanced|All|4,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Balanced
+ALL|PR|Balanced|All|5,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Balanced
+ALL|PR|Balanced|All|6,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb,PR,24.0,8 of 10,18 of 20,Tough (7th),1.38,tough matchup,Defense 12 of 30,0.81,0.38,Peyton Watson,15,Balanced
+ALL|PR|Balanced|All|7,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Balanced
+ALL|PR|Balanced|All|8,C,LeBron James,PHI vs CLE,Over 19.5 pts+reb,PR,28.6,9 of 10,17 of 20,Soft (30th),1.34,,Defense 11 of 30,0.925,0.3,LeBron James,20,Balanced
+ALL|PR|Balanced|All|9,C,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb,PR,31.6,9 of 10,16 of 20,Soft (23rd),1.38,,Defense 13 of 30,0.9,0.21,Donovan Mitchell,25,Balanced
+ALL|PR|Balanced|All|10,C,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb,PR,16.1,8 of 10,17 of 20,Tough (8th),1.43,tough matchup,Defense 17 of 30,0.785,0.38,Isaiah Hartenstein,10,Balanced
+ALL|PR|Balanced|All|11,C,Jamal Murray,DEN at OKC,Over 19.5 pts+reb,PR,30.1,8 of 10,16 of 20,Tough (7th),1.47,tough matchup,Defense 12 of 30,0.76,0.34,Jamal Murray,20,Balanced
+ALL|PR|Balanced|All|12,C,Jalen Williams,OKC vs DEN,Over 14.5 pts+reb,PR,19.9,8 of 10,15 of 20,Tough (8th),1.52,tough matchup,Defense 17 of 30,0.735,0.25,Jalen Williams,15,Balanced
+ALL|PRA|Balanced|All|1,B,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,18 of 20,Soft (23rd),1.24,,Defense 13 of 30,1.0,0.29,Donovan Mitchell,25,Balanced
+ALL|PRA|Balanced|All|2,B,James Harden,CLE at PHI,Over 19.5 pts+reb+ast,PRA,29.2,9 of 10,19 of 20,Soft (23rd),1.27,,Defense 13 of 30,0.975,0.32,James Harden,20,Balanced
+ALL|PRA|Balanced|All|3,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,38.4,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.35,Jaylen Brown,25,Balanced
+ALL|PRA|Balanced|All|4,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Balanced
+ALL|PRA|Balanced|All|5,C,LeBron James,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,36.6,9 of 10,15 of 20,Soft (30th),1.43,,Defense 11 of 30,0.875,0.18,LeBron James,30,Balanced
+ALL|PRA|Balanced|All|6,C,Jarrett Allen,CLE at PHI,Over 14.5 pts+reb+ast,PRA,21.1,8 of 10,16 of 20,Soft (26th),1.47,,Defense 13 of 30,0.85,0.29,Jarrett Allen,15,Balanced
+ALL|PRA|Balanced|All|7,C,Nikola Jokic,DEN at OKC,Over 39.5 pts+reb+ast,PRA,49.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,0.2,Nikola Jokic,40,Balanced
+ALL|PRA|Balanced|All|8,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+reb+ast,PRA,37.9,9 of 10,17 of 20,Tough (8th),1.34,tough matchup,Defense 17 of 30,0.835,0.21,Shai Gilgeous-Alexander,30,Balanced
+ALL|PRA|Balanced|All|9,C,Jamal Murray,DEN at OKC,Over 24.5 pts+reb+ast,PRA,36.8,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.32,Jamal Murray,25,Balanced
+ALL|PRA|Balanced|All|10,C,Evan Mobley,CLE at PHI,Over 24.5 pts+reb+ast,PRA,28.8,8 of 10,15 of 20,Soft (26th),1.52,,Defense 13 of 30,0.825,0.13,Evan Mobley,25,Balanced
+ALL|PRA|Balanced|All|11,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Balanced
+ALL|PRA|Balanced|All|12,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,13.4,9 of 10,15 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Kentavious Caldwell-Pope,10,Balanced
+ALL|PRA|Balanced|All|13,C,Tyrese Maxey,PHI vs CLE,Over 24.5 pts+reb+ast,PRA,33.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.26,Tyrese Maxey,25,Balanced
+ALL|PRA|Balanced|All|14,C,VJ Edgecombe,PHI vs CLE,Over 14.5 pts+reb+ast,PRA,24.7,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.39,VJ Edgecombe,15,Balanced
+ALL|PRA|Balanced|All|15,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Balanced
+ALL|PTS|Balanced|All|1,B,James Harden,CLE at PHI,Over 14.5 points,PTS,19.6,8 of 10,18 of 20,Soft (23rd),1.38,,Defense 13 of 30,0.9,0.23,James Harden,15,Balanced
+ALL|PTS|Balanced|All|2,B,Tyrese Maxey,PHI vs CLE,Over 16.5 points,PTS,24.2,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.3,Tyrese Maxey,17,Balanced
+ALL|PTS|Balanced|All|3,B,Bruce Brown,DEN at OKC,Over 5.5 points,PTS,9.2,9 of 10,18 of 20,Tough (6th),1.31,tough matchup,Defense 12 of 30,0.86,0.34,Bruce Brown,6,Balanced
+ALL|PTS|Balanced|All|4,B,Joel Embiid,PHI vs CLE,Over 17.5 points,PTS,27.3,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.34,Joel Embiid,18,Balanced
+ALL|PTS|Balanced|All|5,C,Evan Mobley,CLE at PHI,Over 12.5 points,PTS,16.4,10 of 10,16 of 20,Mid (21st),1.31,,Defense 13 of 30,0.9,0.21,Evan Mobley,13,Balanced
+ALL|PTS|Balanced|All|6,C,Donovan Mitchell,CLE at PHI,Over 21.5 points,PTS,26.6,9 of 10,15 of 20,Soft (23rd),1.43,,Defense 13 of 30,0.875,0.17,Donovan Mitchell,22,Balanced
+ALL|PTS|Balanced|All|7,C,Cameron Johnson,DEN at OKC,Over 8.5 points,PTS,14.3,8 of 10,17 of 20,Soft (27th),1.43,,Defense 12 of 30,0.875,0.37,Cameron Johnson,9,Balanced
+ALL|PTS|Balanced|All|8,C,Jaylin Williams,OKC vs DEN,Over 2.5 points,PTS,4.8,8 of 10,16 of 20,Soft (28th),1.47,,Defense 17 of 30,0.85,0.38,Jaylin Williams,3,Balanced
+ALL|PTS|Balanced|All|9,C,Aaron Gordon,DEN at OKC,Over 7.5 points,PTS,13.2,8 of 10,16 of 20,Soft (27th),1.47,,Defense 12 of 30,0.85,0.4,Aaron Gordon,8,Balanced
+ALL|PTS|Balanced|All|10,C,LeBron James,PHI vs CLE,Over 17.5 points,PTS,21.6,8 of 10,15 of 20,Soft (30th),1.52,,Defense 11 of 30,0.825,0.17,LeBron James,18,Balanced
+ALL|PTS|Balanced|All|11,C,Jarrett Allen,CLE at PHI,Over 8.5 points,PTS,12.8,8 of 10,17 of 20,Mid (21st),1.43,,Defense 13 of 30,0.825,0.29,Jarrett Allen,9,Balanced
+ALL|PTS|Balanced|All|12,C,Jaylen Brown,PHI vs CLE,Over 19.5 points,PTS,28.0,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.29,Jaylen Brown,20,Balanced
+ALL|PTS|Balanced|All|13,C,Chet Holmgren,OKC vs DEN,Over 9.5 points,PTS,15.6,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 17 of 30,0.785,0.36,Chet Holmgren,10,Balanced
+ALL|PTS|Balanced|All|14,C,VJ Edgecombe,PHI vs CLE,Over 8.5 points,PTS,14.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.38,VJ Edgecombe,9,Balanced
+ALL|PTS|Balanced|All|15,C,Nikola Jokic,DEN at OKC,Over 22.5 points,PTS,24.7,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 12 of 30,0.735,0.07,Nikola Jokic,23,Balanced
+ALL|PTS|Balanced|All|16,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 21.5 points,PTS,26.9,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 17 of 30,0.735,0.18,Shai Gilgeous-Alexander,22,Balanced
+ALL|PTS|Balanced|All|17,C,Jamal Murray,DEN at OKC,Over 19.5 points,PTS,25.6,8 of 10,15 of 20,Tough (6th),1.52,tough matchup,Defense 12 of 30,0.735,0.22,Jamal Murray,20,Balanced
+ALL|PTS|Balanced|All|18,C,Anfernee Simons,PHI vs CLE,Over 9.5 points,PTS,15.4,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 11 of 30,0.735,0.35,Anfernee Simons,10,Balanced
+ALL|PTS|Balanced|All|19,C,Jalen Williams,OKC vs DEN,Over 9.5 points,PTS,16.1,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 17 of 30,0.735,0.38,Jalen Williams,10,Balanced
+ALL|RA|Balanced|All|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Balanced
+ALL|RA|Balanced|All|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Balanced
+ALL|RA|Balanced|All|3,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Balanced
+ALL|RA|Balanced|All|4,C,Evan Mobley,CLE at PHI,Over 9.5 reb+ast,RA,12.4,8 of 10,16 of 20,Soft (28th),1.47,,Defense 13 of 30,0.85,0.19,Evan Mobley,10,Balanced
+ALL|RA|Balanced|All|5,C,Nikola Jokic,DEN at OKC,Over 19.5 reb+ast,RA,25.2,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 12 of 30,0.785,0.21,Nikola Jokic,20,Balanced
+ALL|RA|Balanced|All|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 9.5 reb+ast,RA,10.9,8 of 10,15 of 20,Mid (12th),1.52,,Defense 17 of 30,0.775,0.09,Shai Gilgeous-Alexander,10,Balanced
+ALL|RA|Balanced|All|7,C,Joel Embiid,PHI vs CLE,Over 9.5 reb+ast,RA,12.9,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 11 of 30,0.76,0.22,Joel Embiid,10,Balanced
+ALL|REB|Balanced|All|1,A,Evan Mobley,CLE at PHI,Over 5.5 rebounds,REB,8.8,10 of 10,19 of 20,Soft (28th),1.22,,Defense 13 of 30,1.025,0.31,Evan Mobley,6,Balanced
+ALL|REB|Balanced|All|2,B,Joel Embiid,PHI vs CLE,Over 4.5 rebounds,REB,8.0,8 of 10,18 of 20,Tough (5th),1.38,tough matchup,Defense 11 of 30,0.81,0.38,Joel Embiid,5,Balanced
+ALL|REB|Balanced|All|3,C,Donovan Mitchell,CLE at PHI,Over 3.5 rebounds,REB,5.0,9 of 10,16 of 20,Soft (27th),1.38,,Defense 13 of 30,0.9,0.2,Donovan Mitchell,4,Balanced
+ALL|REB|Balanced|All|4,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Balanced
+ALL|REB|Balanced|All|5,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Balanced
+ALL|REB|Balanced|All|6,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Balanced
+ALL|REB|Balanced|All|7,C,Jamal Murray,DEN at OKC,Over 2.5 rebounds,REB,4.5,9 of 10,15 of 20,Mid (11th),1.43,,Defense 12 of 30,0.825,0.34,Jamal Murray,3,Balanced
+ALL|REB|Balanced|All|8,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Balanced
+ALL|REB|Balanced|All|9,C,VJ Edgecombe,PHI vs CLE,Over 3.5 rebounds,REB,6.2,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 11 of 30,0.81,0.35,VJ Edgecombe,4,Balanced
+ALL|REB|Balanced|All|10,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 1.5 rebounds,REB,3.1,8 of 10,16 of 20,Mid (9th),1.47,,Defense 17 of 30,0.8,0.37,Shai Gilgeous-Alexander,2,Balanced
+ALL|REB|Balanced|All|11,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Balanced
+ALL|REB|Balanced|All|12,C,Ajay Mitchell,OKC vs DEN,Over 2.5 rebounds,REB,3.3,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.09,Ajay Mitchell,3,Balanced
+ALL|REB|Balanced|All|13,C,Nikola Jokic,DEN at OKC,Over 11.5 rebounds,REB,14.0,8 of 10,16 of 20,Tough (1st),1.47,tough matchup,Defense 12 of 30,0.76,0.14,Nikola Jokic,12,Balanced
+ALL|REB|Balanced|All|14,C,Jaylen Brown,PHI vs CLE,Over 3.5 rebounds,REB,6.0,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 11 of 30,0.76,0.33,Jaylen Brown,4,Balanced
+ALL|STL|Balanced|All|1,C,Cameron Johnson,DEN at OKC,Over 0.5 steals,STL,1.1,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 12 of 30,0.825,0.09,Cameron Johnson,1,Balanced
+ALL|STL|Balanced|All|2,C,James Harden,CLE at PHI,Over 0.5 steals,STL,1.6,9 of 10,15 of 20,Mid (16th),1.43,,Defense 13 of 30,0.825,0.39,James Harden,1,Balanced
+ALL|STL|Balanced|All|3,C,Jaylen Brown,PHI vs CLE,Over 0.5 steals,STL,1.0,8 of 10,15 of 20,Mid (13th),1.52,,Defense 11 of 30,0.775,0.0,Jaylen Brown,1,Balanced
+ALL|STL|Balanced|All|4,C,Jarrett Allen,CLE at PHI,Over 0.5 steals,STL,1.1,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 13 of 30,0.76,0.05,Jarrett Allen,1,Balanced
+ALL|STL|Balanced|All|5,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 0.5 steals,STL,1.3,8 of 10,15 of 20,Tough (2nd),1.52,tough matchup,Defense 17 of 30,0.735,0.23,Shai Gilgeous-Alexander,1,Balanced
+ALL|THREES|Balanced|All|1,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Balanced
+ALL|THREES|Balanced|All|2,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Balanced
+ALL|THREES|Balanced|All|3,C,Jamal Murray,DEN at OKC,Over 1.5 threes,THREES,3.3,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 12 of 30,0.76,0.39,Jamal Murray,2,Balanced
+ALL|ALL|Reach|A and B|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Reach
+ALL|ALL|Reach|A and B|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Reach
+ALL|ALL|Reach|A and B|3,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Reach
+ALL|ALL|Reach|A and B|4,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Reach
+ALL|ALL|Reach|A and B|5,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Reach
+ALL|ALL|Reach|A and B|6,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Reach
+ALL|AST|Reach|A and B|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Reach
+ALL|PA|Reach|A and B|1,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Reach
+ALL|PR|Reach|A and B|1,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Reach
+ALL|PR|Reach|A and B|2,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Reach
+ALL|PR|Reach|A and B|3,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb,PR,24.0,8 of 10,18 of 20,Tough (7th),1.38,tough matchup,Defense 12 of 30,0.81,0.38,Peyton Watson,15,Reach
+ALL|PRA|Reach|A and B|1,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Reach
+ALL|RA|Reach|A and B|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Reach
+ALL|RA|Reach|A and B|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Reach
+ALL|ALL|Reach|A to C|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Reach
+ALL|ALL|Reach|A to C|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Reach
+ALL|ALL|Reach|A to C|3,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Reach
+ALL|ALL|Reach|A to C|4,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Reach
+ALL|ALL|Reach|A to C|5,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Reach
+ALL|ALL|Reach|A to C|6,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Reach
+ALL|ALL|Reach|A to C|7,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Reach
+ALL|ALL|Reach|A to C|8,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Reach
+ALL|ALL|Reach|A to C|9,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Reach
+ALL|ALL|Reach|A to C|10,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Reach
+ALL|ALL|Reach|A to C|11,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Reach
+ALL|ALL|Reach|A to C|12,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Reach
+ALL|ALL|Reach|A to C|13,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Reach
+ALL|ALL|Reach|A to C|14,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Reach
+ALL|ALL|Reach|A to C|15,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Reach
+ALL|ALL|Reach|A to C|16,C,Cameron Johnson,DEN at OKC,Over 0.5 steals,STL,1.1,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 12 of 30,0.825,0.09,Cameron Johnson,1,Reach
+ALL|ALL|Reach|A to C|17,C,James Harden,CLE at PHI,Over 15.5 points,PTS,19.6,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 13 of 30,0.825,0.18,James Harden,16,Reach
+ALL|ALL|Reach|A to C|18,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Reach
+ALL|ALL|Reach|A to C|19,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Reach
+ALL|ALL|Reach|A to C|20,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 1.5 rebounds,REB,3.1,8 of 10,16 of 20,Mid (9th),1.47,,Defense 17 of 30,0.8,0.37,Shai Gilgeous-Alexander,2,Reach
+ALL|ALL|Reach|A to C|21,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Reach
+ALL|ALL|Reach|A to C|22,C,Tyrese Maxey,PHI vs CLE,Over 4.5 assists,AST,5.7,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 11 of 30,0.76,0.12,Tyrese Maxey,5,Reach
+ALL|ALL|Reach|A to C|23,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Reach
+ALL|ALL|Reach|A to C|24,C,VJ Edgecombe,PHI vs CLE,Over 0.5 steals,STL,1.2,7 of 10,16 of 20,Mid (13th),1.57,,Defense 11 of 30,0.75,0.17,VJ Edgecombe,1,Reach
+ALL|ALL|Reach|A to C|25,C,Christian Braun,DEN at OKC,Over 2.5 rebounds,REB,4.5,7 of 10,15 of 20,Mid (11th),1.62,,Defense 12 of 30,0.725,0.33,Christian Braun,3,Reach
+ALL|ALL|Reach|A to C|26,C,Bruce Brown,DEN at OKC,Over 9.5 pts+reb,PR,12.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.22,Bruce Brown,10,Reach
+ALL|AST|Reach|A to C|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Reach
+ALL|AST|Reach|A to C|2,C,Evan Mobley,CLE at PHI,Over 2.5 assists,AST,3.6,9 of 10,16 of 20,Soft (26th),1.38,,Defense 13 of 30,0.9,0.18,Evan Mobley,3,Reach
+ALL|AST|Reach|A to C|3,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Reach
+ALL|AST|Reach|A to C|4,C,Isaiah Hartenstein,OKC vs DEN,Over 1.5 assists,AST,2.5,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.2,Isaiah Hartenstein,2,Reach
+ALL|AST|Reach|A to C|5,C,Tyrese Maxey,PHI vs CLE,Over 4.5 assists,AST,5.7,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 11 of 30,0.76,0.12,Tyrese Maxey,5,Reach
+ALL|AST|Reach|A to C|6,C,Jaylen Brown,PHI vs CLE,Over 2.5 assists,AST,4.4,7 of 10,17 of 20,Tough (8th),1.52,tough matchup,Defense 11 of 30,0.735,0.32,Jaylen Brown,3,Reach
+ALL|AST|Reach|A to C|7,C,Nikola Jokic,DEN at OKC,Over 8.5 assists,AST,11.2,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 12 of 30,0.71,0.2,Nikola Jokic,9,Reach
+ALL|BLK|Reach|A to C|1,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Reach
+ALL|BLK|Reach|A to C|2,C,Joel Embiid,PHI vs CLE,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Tough (4th),1.62,tough matchup,Defense 11 of 30,0.685,0.26,Joel Embiid,1,Reach
+ALL|DBL_DBL|Reach|A to C|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Reach
+ALL|PA|Reach|A to C|1,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Reach
+ALL|PA|Reach|A to C|2,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.25,Evan Mobley,15,Reach
+ALL|PA|Reach|A to C|3,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Reach
+ALL|PA|Reach|A to C|4,C,Jarrett Allen,CLE at PHI,Over 9.5 pts+ast,PA,13.7,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 13 of 30,0.825,0.27,Jarrett Allen,10,Reach
+ALL|PA|Reach|A to C|5,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+ast,PA,34.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.14,Shai Gilgeous-Alexander,30,Reach
+ALL|PA|Reach|A to C|6,C,James Harden,CLE at PHI,Over 19.5 pts+ast,PA,25.0,7 of 10,17 of 20,Mid (22nd),1.52,,Defense 13 of 30,0.775,0.2,James Harden,20,Reach
+ALL|PA|Reach|A to C|7,C,Joel Embiid,PHI vs CLE,Over 24.5 pts+ast,PA,32.2,7 of 10,17 of 20,Tough (3rd),1.52,tough matchup,Defense 11 of 30,0.735,0.22,Joel Embiid,25,Reach
+ALL|PA|Reach|A to C|8,C,Jalen Williams,OKC vs DEN,Over 14.5 pts+ast,PA,20.6,7 of 10,15 of 20,Mid (9th),1.62,,Defense 17 of 30,0.725,0.27,Jalen Williams,15,Reach
+ALL|PA|Reach|A to C|9,C,Nikola Jokic,DEN at OKC,Over 29.5 pts+ast,PA,35.9,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 12 of 30,0.71,0.16,Nikola Jokic,30,Reach
+ALL|PA|Reach|A to C|10,C,Jaylen Brown,PHI vs CLE,Over 24.5 pts+ast,PA,32.4,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.23,Jaylen Brown,25,Reach
+ALL|PA|Reach|A to C|11,C,Peyton Watson,DEN at OKC,Over 14.5 pts+ast,PA,21.6,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 12 of 30,0.71,0.31,Peyton Watson,15,Reach
+ALL|PA|Reach|A to C|12,C,Christian Braun,DEN at OKC,Over 9.5 pts+ast,PA,15.6,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 12 of 30,0.71,0.36,Christian Braun,10,Reach
+ALL|PR|Reach|A to C|1,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Reach
+ALL|PR|Reach|A to C|2,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Reach
+ALL|PR|Reach|A to C|3,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb,PR,24.0,8 of 10,18 of 20,Tough (7th),1.38,tough matchup,Defense 12 of 30,0.81,0.38,Peyton Watson,15,Reach
+ALL|PR|Reach|A to C|4,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Reach
+ALL|PR|Reach|A to C|5,C,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb,PR,31.6,9 of 10,16 of 20,Soft (23rd),1.38,,Defense 13 of 30,0.9,0.21,Donovan Mitchell,25,Reach
+ALL|PR|Reach|A to C|6,C,James Harden,CLE at PHI,Over 19.5 pts+reb,PR,23.8,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 13 of 30,0.8,0.16,James Harden,20,Reach
+ALL|PR|Reach|A to C|7,C,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb,PR,16.1,8 of 10,17 of 20,Tough (8th),1.43,tough matchup,Defense 17 of 30,0.785,0.38,Isaiah Hartenstein,10,Reach
+ALL|PR|Reach|A to C|8,C,Aaron Gordon,DEN at OKC,Over 14.5 pts+reb,PR,18.6,7 of 10,15 of 20,Soft (28th),1.62,,Defense 12 of 30,0.775,0.2,Aaron Gordon,15,Reach
+ALL|PR|Reach|A to C|9,C,Jarrett Allen,CLE at PHI,Over 14.5 pts+reb,PR,20.2,7 of 10,15 of 20,Soft (25th),1.62,,Defense 13 of 30,0.775,0.26,Jarrett Allen,15,Reach
+ALL|PR|Reach|A to C|10,C,Jalen Williams,OKC vs DEN,Over 14.5 pts+reb,PR,19.9,8 of 10,15 of 20,Tough (8th),1.52,tough matchup,Defense 17 of 30,0.735,0.25,Jalen Williams,15,Reach
+ALL|PR|Reach|A to C|11,C,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb,PR,35.3,7 of 10,17 of 20,Tough (3rd),1.52,tough matchup,Defense 11 of 30,0.735,0.29,Joel Embiid,25,Reach
+ALL|PR|Reach|A to C|12,C,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+reb,PR,27.9,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.28,Tyrese Maxey,20,Reach
+ALL|PR|Reach|A to C|13,C,Nikola Jokic,DEN at OKC,Over 34.5 pts+reb,PR,38.7,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.1,Nikola Jokic,35,Reach
+ALL|PR|Reach|A to C|14,C,Bruce Brown,DEN at OKC,Over 9.5 pts+reb,PR,12.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.22,Bruce Brown,10,Reach
+ALL|PR|Reach|A to C|15,C,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb,PR,15.7,7 of 10,15 of 20,Tough (8th),1.62,tough matchup,Defense 17 of 30,0.685,0.36,Ajay Mitchell,10,Reach
+ALL|PRA|Reach|A to C|1,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Reach
+ALL|PRA|Reach|A to C|2,C,LeBron James,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,36.6,9 of 10,15 of 20,Soft (30th),1.43,,Defense 11 of 30,0.875,0.18,LeBron James,30,Reach
+ALL|PRA|Reach|A to C|3,C,Evan Mobley,CLE at PHI,Over 24.5 pts+reb+ast,PRA,28.8,8 of 10,15 of 20,Soft (26th),1.52,,Defense 13 of 30,0.825,0.13,Evan Mobley,25,Reach
+ALL|PRA|Reach|A to C|4,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Reach
+ALL|PRA|Reach|A to C|5,C,James Harden,CLE at PHI,Over 24.5 pts+reb+ast,PRA,29.2,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 13 of 30,0.8,0.14,James Harden,25,Reach
+ALL|PRA|Reach|A to C|6,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,13.4,9 of 10,15 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Kentavious Caldwell-Pope,10,Reach
+ALL|PRA|Reach|A to C|7,C,Aaron Gordon,DEN at OKC,Over 14.5 pts+reb+ast,PRA,22.1,7 of 10,15 of 20,Soft (26th),1.62,,Defense 12 of 30,0.775,0.32,Aaron Gordon,15,Reach
+ALL|PRA|Reach|A to C|8,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Reach
+ALL|PRA|Reach|A to C|9,C,Jaylen Brown,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,38.4,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.22,Jaylen Brown,30,Reach
+ALL|PRA|Reach|A to C|10,C,Christian Braun,DEN at OKC,Over 14.5 pts+reb+ast,PRA,20.1,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 12 of 30,0.71,0.25,Christian Braun,15,Reach
+ALL|PRA|Reach|A to C|11,C,Nikola Jokic,DEN at OKC,Over 44.5 pts+reb+ast,PRA,49.9,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.1,Nikola Jokic,45,Reach
+ALL|PRA|Reach|A to C|12,C,Isaiah Hartenstein,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,18.6,7 of 10,15 of 20,Tough (8th),1.62,tough matchup,Defense 17 of 30,0.685,0.19,Isaiah Hartenstein,15,Reach
+ALL|PRA|Reach|A to C|13,C,VJ Edgecombe,PHI vs CLE,Over 19.5 pts+reb+ast,PRA,24.7,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 11 of 30,0.685,0.19,VJ Edgecombe,20,Reach
+ALL|PRA|Reach|A to C|14,C,Peyton Watson,DEN at OKC,Over 19.5 pts+reb+ast,PRA,26.9,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.26,Peyton Watson,20,Reach
+ALL|PRA|Reach|A to C|15,C,Bruce Brown,DEN at OKC,Over 9.5 pts+reb+ast,PRA,14.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.32,Bruce Brown,10,Reach
+ALL|PTS|Reach|A to C|1,C,Jaylin Williams,OKC vs DEN,Over 2.5 points,PTS,4.8,8 of 10,16 of 20,Soft (28th),1.47,,Defense 17 of 30,0.85,0.38,Jaylin Williams,3,Reach
+ALL|PTS|Reach|A to C|2,C,James Harden,CLE at PHI,Over 15.5 points,PTS,19.6,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 13 of 30,0.825,0.18,James Harden,16,Reach
+ALL|PTS|Reach|A to C|3,C,Cameron Johnson,DEN at OKC,Over 11.5 points,PTS,14.3,7 of 10,16 of 20,Soft (27th),1.57,,Defense 12 of 30,0.8,0.16,Cameron Johnson,12,Reach
+ALL|PTS|Reach|A to C|4,C,Chet Holmgren,OKC vs DEN,Over 9.5 points,PTS,15.6,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 17 of 30,0.785,0.36,Chet Holmgren,10,Reach
+ALL|PTS|Reach|A to C|5,C,Jamal Murray,DEN at OKC,Over 19.5 points,PTS,25.6,8 of 10,15 of 20,Tough (6th),1.52,tough matchup,Defense 12 of 30,0.735,0.22,Jamal Murray,20,Reach
+ALL|PTS|Reach|A to C|6,C,Joel Embiid,PHI vs CLE,Over 18.5 points,PTS,27.3,7 of 10,17 of 20,Tough (3rd),1.52,tough matchup,Defense 11 of 30,0.735,0.3,Joel Embiid,19,Reach
+ALL|PTS|Reach|A to C|7,C,Jarrett Allen,CLE at PHI,Over 9.5 points,PTS,12.8,7 of 10,15 of 20,Mid (21st),1.62,,Defense 13 of 30,0.725,0.22,Jarrett Allen,10,Reach
+ALL|PTS|Reach|A to C|8,C,Jaylen Brown,PHI vs CLE,Over 21.5 points,PTS,28.0,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.21,Jaylen Brown,22,Reach
+ALL|PTS|Reach|A to C|9,C,Christian Braun,DEN at OKC,Over 8.5 points,PTS,13.3,7 of 10,16 of 20,Tough (6th),1.57,tough matchup,Defense 12 of 30,0.71,0.33,Christian Braun,9,Reach
+ALL|PTS|Reach|A to C|10,C,Bruce Brown,DEN at OKC,Over 6.5 points,PTS,9.2,7 of 10,15 of 20,Tough (6th),1.62,tough matchup,Defense 12 of 30,0.685,0.23,Bruce Brown,7,Reach
+ALL|PTS|Reach|A to C|11,C,VJ Edgecombe,PHI vs CLE,Over 9.5 points,PTS,14.6,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 11 of 30,0.685,0.31,VJ Edgecombe,10,Reach
+ALL|RA|Reach|A to C|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Reach
+ALL|RA|Reach|A to C|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Reach
+ALL|RA|Reach|A to C|3,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Reach
+ALL|RA|Reach|A to C|4,C,Evan Mobley,CLE at PHI,Over 9.5 reb+ast,RA,12.4,8 of 10,16 of 20,Soft (28th),1.47,,Defense 13 of 30,0.85,0.19,Evan Mobley,10,Reach
+ALL|RA|Reach|A to C|5,C,Nikola Jokic,DEN at OKC,Over 19.5 reb+ast,RA,25.2,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 12 of 30,0.785,0.21,Nikola Jokic,20,Reach
+ALL|RA|Reach|A to C|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 9.5 reb+ast,RA,10.9,8 of 10,15 of 20,Mid (12th),1.52,,Defense 17 of 30,0.775,0.09,Shai Gilgeous-Alexander,10,Reach
+ALL|RA|Reach|A to C|7,C,Joel Embiid,PHI vs CLE,Over 9.5 reb+ast,RA,12.9,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 11 of 30,0.76,0.22,Joel Embiid,10,Reach
+ALL|RA|Reach|A to C|8,C,Cason Wallace,OKC vs DEN,Over 4.5 reb+ast,RA,6.0,7 of 10,15 of 20,Mid (12th),1.62,,Defense 17 of 30,0.725,0.16,Cason Wallace,5,Reach
+ALL|REB|Reach|A to C|1,C,Donovan Mitchell,CLE at PHI,Over 3.5 rebounds,REB,5.0,9 of 10,16 of 20,Soft (27th),1.38,,Defense 13 of 30,0.9,0.2,Donovan Mitchell,4,Reach
+ALL|REB|Reach|A to C|2,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Reach
+ALL|REB|Reach|A to C|3,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Reach
+ALL|REB|Reach|A to C|4,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Reach
+ALL|REB|Reach|A to C|5,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Reach
+ALL|REB|Reach|A to C|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 1.5 rebounds,REB,3.1,8 of 10,16 of 20,Mid (9th),1.47,,Defense 17 of 30,0.8,0.37,Shai Gilgeous-Alexander,2,Reach
+ALL|REB|Reach|A to C|7,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Reach
+ALL|REB|Reach|A to C|8,C,Ajay Mitchell,OKC vs DEN,Over 2.5 rebounds,REB,3.3,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.09,Ajay Mitchell,3,Reach
+ALL|REB|Reach|A to C|9,C,Chet Holmgren,OKC vs DEN,Over 6.5 rebounds,REB,8.2,7 of 10,16 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.15,Chet Holmgren,7,Reach
+ALL|REB|Reach|A to C|10,C,Peyton Watson,DEN at OKC,Over 3.5 rebounds,REB,5.2,7 of 10,16 of 20,Mid (11th),1.57,,Defense 12 of 30,0.75,0.24,Peyton Watson,4,Reach
+ALL|REB|Reach|A to C|11,C,Christian Braun,DEN at OKC,Over 2.5 rebounds,REB,4.5,7 of 10,15 of 20,Mid (11th),1.62,,Defense 12 of 30,0.725,0.33,Christian Braun,3,Reach
+ALL|REB|Reach|A to C|12,C,Nikola Jokic,DEN at OKC,Over 12.5 rebounds,REB,14.0,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.07,Nikola Jokic,13,Reach
+ALL|REB|Reach|A to C|13,C,Joel Embiid,PHI vs CLE,Over 5.5 rebounds,REB,8.0,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 11 of 30,0.685,0.25,Joel Embiid,6,Reach
+ALL|STL|Reach|A to C|1,C,Cameron Johnson,DEN at OKC,Over 0.5 steals,STL,1.1,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 12 of 30,0.825,0.09,Cameron Johnson,1,Reach
+ALL|STL|Reach|A to C|2,C,James Harden,CLE at PHI,Over 0.5 steals,STL,1.6,9 of 10,15 of 20,Mid (16th),1.43,,Defense 13 of 30,0.825,0.39,James Harden,1,Reach
+ALL|STL|Reach|A to C|3,C,LeBron James,PHI vs CLE,Over 0.5 steals,STL,1.4,7 of 10,16 of 20,Soft (30th),1.57,,Defense 11 of 30,0.8,0.29,LeBron James,1,Reach
+ALL|STL|Reach|A to C|4,C,Jaylen Brown,PHI vs CLE,Over 0.5 steals,STL,1.0,8 of 10,15 of 20,Mid (13th),1.52,,Defense 11 of 30,0.775,0.0,Jaylen Brown,1,Reach
+ALL|STL|Reach|A to C|5,C,Jarrett Allen,CLE at PHI,Over 0.5 steals,STL,1.1,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 13 of 30,0.76,0.05,Jarrett Allen,1,Reach
+ALL|STL|Reach|A to C|6,C,VJ Edgecombe,PHI vs CLE,Over 0.5 steals,STL,1.2,7 of 10,16 of 20,Mid (13th),1.57,,Defense 11 of 30,0.75,0.17,VJ Edgecombe,1,Reach
+ALL|STL|Reach|A to C|7,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 0.5 steals,STL,1.3,8 of 10,15 of 20,Tough (2nd),1.52,tough matchup,Defense 17 of 30,0.735,0.23,Shai Gilgeous-Alexander,1,Reach
+ALL|THREES|Reach|A to C|1,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Reach
+ALL|THREES|Reach|A to C|2,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Reach
+ALL|THREES|Reach|A to C|3,C,Jamal Murray,DEN at OKC,Over 1.5 threes,THREES,3.3,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 12 of 30,0.76,0.39,Jamal Murray,2,Reach
+ALL|THREES|Reach|A to C|4,C,Joel Embiid,PHI vs CLE,Over 0.5 threes,THREES,1.6,7 of 10,17 of 20,Tough (6th),1.52,tough matchup,Defense 11 of 30,0.735,0.35,Joel Embiid,1,Reach
+ALL|THREES|Reach|A to C|5,C,Jaylin Williams,OKC vs DEN,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Mid (17th),1.62,,Defense 17 of 30,0.725,0.13,Jaylin Williams,1,Reach
+ALL|THREES|Reach|A to C|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (15th),1.62,,Defense 17 of 30,0.725,0.29,Shai Gilgeous-Alexander,1,Reach
+ALL|THREES|Reach|A to C|7,C,Nikola Jokic,DEN at OKC,Over 0.5 threes,THREES,1.2,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.2,Nikola Jokic,1,Reach
+ALL|ALL|Reach|All|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Reach
+ALL|ALL|Reach|All|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Reach
+ALL|ALL|Reach|All|3,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Reach
+ALL|ALL|Reach|All|4,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Reach
+ALL|ALL|Reach|All|5,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Reach
+ALL|ALL|Reach|All|6,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Reach
+ALL|ALL|Reach|All|7,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Reach
+ALL|ALL|Reach|All|8,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Reach
+ALL|ALL|Reach|All|9,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Reach
+ALL|ALL|Reach|All|10,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Reach
+ALL|ALL|Reach|All|11,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Reach
+ALL|ALL|Reach|All|12,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Reach
+ALL|ALL|Reach|All|13,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Reach
+ALL|ALL|Reach|All|14,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Reach
+ALL|ALL|Reach|All|15,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Reach
+ALL|ALL|Reach|All|16,C,Cameron Johnson,DEN at OKC,Over 0.5 steals,STL,1.1,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 12 of 30,0.825,0.09,Cameron Johnson,1,Reach
+ALL|ALL|Reach|All|17,C,James Harden,CLE at PHI,Over 15.5 points,PTS,19.6,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 13 of 30,0.825,0.18,James Harden,16,Reach
+ALL|ALL|Reach|All|18,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Reach
+ALL|ALL|Reach|All|19,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Reach
+ALL|ALL|Reach|All|20,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 1.5 rebounds,REB,3.1,8 of 10,16 of 20,Mid (9th),1.47,,Defense 17 of 30,0.8,0.37,Shai Gilgeous-Alexander,2,Reach
+ALL|ALL|Reach|All|21,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Reach
+ALL|ALL|Reach|All|22,C,Tyrese Maxey,PHI vs CLE,Over 4.5 assists,AST,5.7,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 11 of 30,0.76,0.12,Tyrese Maxey,5,Reach
+ALL|ALL|Reach|All|23,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Reach
+ALL|ALL|Reach|All|24,C,VJ Edgecombe,PHI vs CLE,Over 0.5 steals,STL,1.2,7 of 10,16 of 20,Mid (13th),1.57,,Defense 11 of 30,0.75,0.17,VJ Edgecombe,1,Reach
+ALL|ALL|Reach|All|25,C,Christian Braun,DEN at OKC,Over 2.5 rebounds,REB,4.5,7 of 10,15 of 20,Mid (11th),1.62,,Defense 12 of 30,0.725,0.33,Christian Braun,3,Reach
+ALL|ALL|Reach|All|26,C,Bruce Brown,DEN at OKC,Over 9.5 pts+reb,PR,12.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.22,Bruce Brown,10,Reach
+ALL|ALL|Reach|All|27,D,Cameron Payne,PHI vs CLE,Over 1.5 rebounds,REB,2.2,9 of 10,14 of 20,Tough (2nd),1.47,"tough matchup; last season stats, check roster",Defense 11 of 30,0.72,0.09,Cameron Payne,2,Reach
+ALL|ALL|Reach|All|28,D,Jared McCain,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,13.9,8 of 10,14 of 20,Tough (8th),1.57,tough matchup,Defense 17 of 30,0.71,0.28,Jared McCain,10,Reach
+ALL|AST|Reach|All|1,B,LeBron James,PHI vs CLE,Over 5.5 assists,AST,8.1,9 of 10,18 of 20,Soft (27th),1.31,,Defense 11 of 30,0.95,0.25,LeBron James,6,Reach
+ALL|AST|Reach|All|2,C,Evan Mobley,CLE at PHI,Over 2.5 assists,AST,3.6,9 of 10,16 of 20,Soft (26th),1.38,,Defense 13 of 30,0.9,0.18,Evan Mobley,3,Reach
+ALL|AST|Reach|All|3,C,Jamal Murray,DEN at OKC,Over 4.5 assists,AST,6.7,9 of 10,16 of 20,Mid (19th),1.38,,Defense 12 of 30,0.85,0.25,Jamal Murray,5,Reach
+ALL|AST|Reach|All|4,C,Isaiah Hartenstein,OKC vs DEN,Over 1.5 assists,AST,2.5,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.2,Isaiah Hartenstein,2,Reach
+ALL|AST|Reach|All|5,C,Tyrese Maxey,PHI vs CLE,Over 4.5 assists,AST,5.7,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 11 of 30,0.76,0.12,Tyrese Maxey,5,Reach
+ALL|AST|Reach|All|6,C,Jaylen Brown,PHI vs CLE,Over 2.5 assists,AST,4.4,7 of 10,17 of 20,Tough (8th),1.52,tough matchup,Defense 11 of 30,0.735,0.32,Jaylen Brown,3,Reach
+ALL|AST|Reach|All|7,C,Nikola Jokic,DEN at OKC,Over 8.5 assists,AST,11.2,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 12 of 30,0.71,0.2,Nikola Jokic,9,Reach
+ALL|AST|Reach|All|8,D,Bruce Brown,DEN at OKC,Over 1.5 assists,AST,2.0,8 of 10,13 of 20,Mid (19th),1.62,,Defense 12 of 30,0.725,0.0,Bruce Brown,2,Reach
+ALL|AST|Reach|All|9,D,Joel Embiid,PHI vs CLE,Over 3.5 assists,AST,4.9,8 of 10,14 of 20,Tough (5th),1.57,tough matchup,Defense 11 of 30,0.71,0.18,Joel Embiid,4,Reach
+ALL|AST|Reach|All|10,D,Aaron Gordon,DEN at OKC,Over 2.5 assists,AST,3.5,7 of 10,14 of 20,Mid (13th),1.68,,Defense 12 of 30,0.7,0.13,Aaron Gordon,3,Reach
+ALL|AST|Reach|All|11,D,Cameron Johnson,DEN at OKC,Over 1.5 assists,AST,2.6,7 of 10,14 of 20,Mid (13th),1.68,,Defense 12 of 30,0.7,0.23,Cameron Johnson,2,Reach
+ALL|AST|Reach|All|12,D,Ajay Mitchell,OKC vs DEN,Over 2.5 assists,AST,4.1,7 of 10,14 of 20,Mid (13th),1.68,,Defense 17 of 30,0.7,0.27,Ajay Mitchell,3,Reach
+ALL|AST|Reach|All|13,D,Peyton Watson,DEN at OKC,Over 2.5 assists,AST,2.9,7 of 10,13 of 20,Mid (19th),1.74,,Defense 12 of 30,0.675,-0.03,Peyton Watson,3,Reach
+ALL|AST|Reach|All|14,D,VJ Edgecombe,PHI vs CLE,Over 2.5 assists,AST,4.0,7 of 10,14 of 20,Tough (8th),1.68,tough matchup,Defense 11 of 30,0.66,0.25,VJ Edgecombe,3,Reach
+ALL|AST|Reach|All|15,D,Shai Gilgeous-Alexander,OKC vs DEN,Over 7.5 assists,AST,7.8,7 of 10,12 of 20,Mid (13th),1.81,,Defense 17 of 30,0.65,-0.03,Shai Gilgeous-Alexander,8,Reach
+ALL|BLK|Reach|All|1,C,Jarrett Allen,CLE at PHI,Over 0.5 blocks,BLK,1.6,10 of 10,16 of 20,Mid (17th),1.31,,Defense 13 of 30,0.9,0.35,Jarrett Allen,1,Reach
+ALL|BLK|Reach|All|2,C,Joel Embiid,PHI vs CLE,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Tough (4th),1.62,tough matchup,Defense 11 of 30,0.685,0.26,Joel Embiid,1,Reach
+ALL|BLK|Reach|All|3,D,Evan Mobley,CLE at PHI,Over 0.5 blocks,BLK,1.4,8 of 10,14 of 20,Mid (17th),1.57,,Defense 13 of 30,0.75,0.31,Evan Mobley,1,Reach
+ALL|DBL_DBL|Reach|All|1,C,Nikola Jokic,DEN at OKC,Double double,DBL_DBL,0.8,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 12 of 30,0.835,-0.18,Nikola Jokic,1,Reach
+ALL|PA|Reach|All|1,B,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+ast,PA,16.5,8 of 10,18 of 20,Mid (9th),1.38,,Defense 17 of 30,0.85,0.39,Ajay Mitchell,10,Reach
+ALL|PA|Reach|All|2,C,Evan Mobley,CLE at PHI,Over 14.5 pts+ast,PA,20.1,10 of 10,17 of 20,Mid (22nd),1.27,,Defense 13 of 30,0.925,0.25,Evan Mobley,15,Reach
+ALL|PA|Reach|All|3,C,Jamal Murray,DEN at OKC,Over 24.5 pts+ast,PA,32.2,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 12 of 30,0.835,0.22,Jamal Murray,25,Reach
+ALL|PA|Reach|All|4,C,Jarrett Allen,CLE at PHI,Over 9.5 pts+ast,PA,13.7,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 13 of 30,0.825,0.27,Jarrett Allen,10,Reach
+ALL|PA|Reach|All|5,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 29.5 pts+ast,PA,34.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.14,Shai Gilgeous-Alexander,30,Reach
+ALL|PA|Reach|All|6,C,James Harden,CLE at PHI,Over 19.5 pts+ast,PA,25.0,7 of 10,17 of 20,Mid (22nd),1.52,,Defense 13 of 30,0.775,0.2,James Harden,20,Reach
+ALL|PA|Reach|All|7,C,Joel Embiid,PHI vs CLE,Over 24.5 pts+ast,PA,32.2,7 of 10,17 of 20,Tough (3rd),1.52,tough matchup,Defense 11 of 30,0.735,0.22,Joel Embiid,25,Reach
+ALL|PA|Reach|All|8,C,Jalen Williams,OKC vs DEN,Over 14.5 pts+ast,PA,20.6,7 of 10,15 of 20,Mid (9th),1.62,,Defense 17 of 30,0.725,0.27,Jalen Williams,15,Reach
+ALL|PA|Reach|All|9,C,Nikola Jokic,DEN at OKC,Over 29.5 pts+ast,PA,35.9,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 12 of 30,0.71,0.16,Nikola Jokic,30,Reach
+ALL|PA|Reach|All|10,C,Jaylen Brown,PHI vs CLE,Over 24.5 pts+ast,PA,32.4,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.23,Jaylen Brown,25,Reach
+ALL|PA|Reach|All|11,C,Peyton Watson,DEN at OKC,Over 14.5 pts+ast,PA,21.6,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 12 of 30,0.71,0.31,Peyton Watson,15,Reach
+ALL|PA|Reach|All|12,C,Christian Braun,DEN at OKC,Over 9.5 pts+ast,PA,15.6,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 12 of 30,0.71,0.36,Christian Braun,10,Reach
+ALL|PA|Reach|All|13,D,LeBron James,PHI vs CLE,Over 24.5 pts+ast,PA,29.7,8 of 10,14 of 20,Soft (30th),1.57,,Defense 11 of 30,0.8,0.16,LeBron James,25,Reach
+ALL|PA|Reach|All|14,D,Donovan Mitchell,CLE at PHI,Over 24.5 pts+ast,PA,30.0,8 of 10,14 of 20,Mid (22nd),1.57,,Defense 13 of 30,0.75,0.17,Donovan Mitchell,25,Reach
+ALL|PA|Reach|All|15,D,Tyrese Maxey,PHI vs CLE,Over 24.5 pts+ast,PA,29.9,7 of 10,14 of 20,Tough (1st),1.68,tough matchup,Defense 11 of 30,0.66,0.16,Tyrese Maxey,25,Reach
+ALL|PA|Reach|All|16,D,Jared McCain,OKC vs DEN,Over 9.5 pts+ast,PA,12.0,7 of 10,12 of 20,Mid (9th),1.81,,Defense 17 of 30,0.65,0.17,Jared McCain,10,Reach
+ALL|PR|Reach|All|1,B,Jaylen Brown,PHI vs CLE,Over 24.5 pts+reb,PR,34.0,9 of 10,18 of 20,Tough (1st),1.31,tough matchup,Defense 11 of 30,0.86,0.26,Jaylen Brown,25,Reach
+ALL|PR|Reach|All|2,B,Chet Holmgren,OKC vs DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup,Defense 17 of 30,0.86,0.37,Chet Holmgren,15,Reach
+ALL|PR|Reach|All|3,B,Peyton Watson,DEN at OKC,Over 14.5 pts+reb,PR,24.0,8 of 10,18 of 20,Tough (7th),1.38,tough matchup,Defense 12 of 30,0.81,0.38,Peyton Watson,15,Reach
+ALL|PR|Reach|All|4,C,Evan Mobley,CLE at PHI,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Soft (25th),1.27,,Defense 13 of 30,0.975,0.2,Evan Mobley,20,Reach
+ALL|PR|Reach|All|5,C,Donovan Mitchell,CLE at PHI,Over 24.5 pts+reb,PR,31.6,9 of 10,16 of 20,Soft (23rd),1.38,,Defense 13 of 30,0.9,0.21,Donovan Mitchell,25,Reach
+ALL|PR|Reach|All|6,C,James Harden,CLE at PHI,Over 19.5 pts+reb,PR,23.8,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 13 of 30,0.8,0.16,James Harden,20,Reach
+ALL|PR|Reach|All|7,C,Isaiah Hartenstein,OKC vs DEN,Over 9.5 pts+reb,PR,16.1,8 of 10,17 of 20,Tough (8th),1.43,tough matchup,Defense 17 of 30,0.785,0.38,Isaiah Hartenstein,10,Reach
+ALL|PR|Reach|All|8,C,Aaron Gordon,DEN at OKC,Over 14.5 pts+reb,PR,18.6,7 of 10,15 of 20,Soft (28th),1.62,,Defense 12 of 30,0.775,0.2,Aaron Gordon,15,Reach
+ALL|PR|Reach|All|9,C,Jarrett Allen,CLE at PHI,Over 14.5 pts+reb,PR,20.2,7 of 10,15 of 20,Soft (25th),1.62,,Defense 13 of 30,0.775,0.26,Jarrett Allen,15,Reach
+ALL|PR|Reach|All|10,C,Jalen Williams,OKC vs DEN,Over 14.5 pts+reb,PR,19.9,8 of 10,15 of 20,Tough (8th),1.52,tough matchup,Defense 17 of 30,0.735,0.25,Jalen Williams,15,Reach
+ALL|PR|Reach|All|11,C,Joel Embiid,PHI vs CLE,Over 24.5 pts+reb,PR,35.3,7 of 10,17 of 20,Tough (3rd),1.52,tough matchup,Defense 11 of 30,0.735,0.29,Joel Embiid,25,Reach
+ALL|PR|Reach|All|12,C,Tyrese Maxey,PHI vs CLE,Over 19.5 pts+reb,PR,27.9,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.28,Tyrese Maxey,20,Reach
+ALL|PR|Reach|All|13,C,Nikola Jokic,DEN at OKC,Over 34.5 pts+reb,PR,38.7,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.1,Nikola Jokic,35,Reach
+ALL|PR|Reach|All|14,C,Bruce Brown,DEN at OKC,Over 9.5 pts+reb,PR,12.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.22,Bruce Brown,10,Reach
+ALL|PR|Reach|All|15,C,Ajay Mitchell,OKC vs DEN,Over 9.5 pts+reb,PR,15.7,7 of 10,15 of 20,Tough (8th),1.62,tough matchup,Defense 17 of 30,0.685,0.36,Ajay Mitchell,10,Reach
+ALL|PR|Reach|All|16,D,LeBron James,PHI vs CLE,Over 24.5 pts+reb,PR,28.6,8 of 10,14 of 20,Soft (30th),1.57,,Defense 11 of 30,0.8,0.13,LeBron James,25,Reach
+ALL|PR|Reach|All|17,D,Shai Gilgeous-Alexander,OKC vs DEN,Over 24.5 pts+reb,PR,30.1,8 of 10,14 of 20,Tough (8th),1.57,tough matchup,Defense 17 of 30,0.71,0.17,Shai Gilgeous-Alexander,25,Reach
+ALL|PR|Reach|All|18,D,Jamal Murray,DEN at OKC,Over 24.5 pts+reb,PR,30.1,7 of 10,13 of 20,Tough (7th),1.74,tough matchup,Defense 12 of 30,0.635,0.17,Jamal Murray,25,Reach
+ALL|PR|Reach|All|19,D,Jared McCain,OKC vs DEN,Over 9.5 pts+reb,PR,12.7,7 of 10,13 of 20,Tough (8th),1.74,tough matchup,Defense 17 of 30,0.635,0.21,Jared McCain,10,Reach
+ALL|PR|Reach|All|20,D,Anfernee Simons,PHI vs CLE,Over 14.5 pts+reb,PR,18.1,7 of 10,12 of 20,Tough (1st),1.81,tough matchup,Defense 11 of 30,0.61,0.17,Anfernee Simons,15,Reach
+ALL|PR|Reach|All|21,D,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb,PR,12.1,7 of 10,12 of 20,Tough (8th),1.81,tough matchup,Defense 17 of 30,0.61,0.17,Cason Wallace,10,Reach
+ALL|PRA|Reach|All|1,B,Joel Embiid,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,40.2,8 of 10,18 of 20,Tough (3rd),1.38,tough matchup,Defense 11 of 30,0.81,0.25,Joel Embiid,30,Reach
+ALL|PRA|Reach|All|2,C,LeBron James,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,36.6,9 of 10,15 of 20,Soft (30th),1.43,,Defense 11 of 30,0.875,0.18,LeBron James,30,Reach
+ALL|PRA|Reach|All|3,C,Evan Mobley,CLE at PHI,Over 24.5 pts+reb+ast,PRA,28.8,8 of 10,15 of 20,Soft (26th),1.52,,Defense 13 of 30,0.825,0.13,Evan Mobley,25,Reach
+ALL|PRA|Reach|All|4,C,Cason Wallace,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.3,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 17 of 30,0.81,0.3,Cason Wallace,10,Reach
+ALL|PRA|Reach|All|5,C,James Harden,CLE at PHI,Over 24.5 pts+reb+ast,PRA,29.2,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 13 of 30,0.8,0.14,James Harden,25,Reach
+ALL|PRA|Reach|All|6,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 9.5 pts+reb+ast,PRA,13.4,9 of 10,15 of 20,Tough (1st),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Kentavious Caldwell-Pope,10,Reach
+ALL|PRA|Reach|All|7,C,Aaron Gordon,DEN at OKC,Over 14.5 pts+reb+ast,PRA,22.1,7 of 10,15 of 20,Soft (26th),1.62,,Defense 12 of 30,0.775,0.32,Aaron Gordon,15,Reach
+ALL|PRA|Reach|All|8,C,Jalen Williams,OKC vs DEN,Over 19.5 pts+reb+ast,PRA,24.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 17 of 30,0.76,0.19,Jalen Williams,20,Reach
+ALL|PRA|Reach|All|9,C,Jaylen Brown,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,38.4,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.22,Jaylen Brown,30,Reach
+ALL|PRA|Reach|All|10,C,Christian Braun,DEN at OKC,Over 14.5 pts+reb+ast,PRA,20.1,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 12 of 30,0.71,0.25,Christian Braun,15,Reach
+ALL|PRA|Reach|All|11,C,Nikola Jokic,DEN at OKC,Over 44.5 pts+reb+ast,PRA,49.9,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.1,Nikola Jokic,45,Reach
+ALL|PRA|Reach|All|12,C,Isaiah Hartenstein,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,18.6,7 of 10,15 of 20,Tough (8th),1.62,tough matchup,Defense 17 of 30,0.685,0.19,Isaiah Hartenstein,15,Reach
+ALL|PRA|Reach|All|13,C,VJ Edgecombe,PHI vs CLE,Over 19.5 pts+reb+ast,PRA,24.7,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 11 of 30,0.685,0.19,VJ Edgecombe,20,Reach
+ALL|PRA|Reach|All|14,C,Peyton Watson,DEN at OKC,Over 19.5 pts+reb+ast,PRA,26.9,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.26,Peyton Watson,20,Reach
+ALL|PRA|Reach|All|15,C,Bruce Brown,DEN at OKC,Over 9.5 pts+reb+ast,PRA,14.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 12 of 30,0.685,0.32,Bruce Brown,10,Reach
+ALL|PRA|Reach|All|16,D,Donovan Mitchell,CLE at PHI,Over 29.5 pts+reb+ast,PRA,35.0,7 of 10,13 of 20,Soft (23rd),1.74,,Defense 13 of 30,0.725,0.14,Donovan Mitchell,30,Reach
+ALL|PRA|Reach|All|17,D,Jared McCain,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,13.9,8 of 10,14 of 20,Tough (8th),1.57,tough matchup,Defense 17 of 30,0.71,0.28,Jared McCain,10,Reach
+ALL|PRA|Reach|All|18,D,Jarrett Allen,CLE at PHI,Over 19.5 pts+reb+ast,PRA,21.1,7 of 10,12 of 20,Soft (26th),1.81,,Defense 13 of 30,0.7,0.05,Jarrett Allen,20,Reach
+ALL|PRA|Reach|All|19,D,Shai Gilgeous-Alexander,OKC vs DEN,Over 34.5 pts+reb+ast,PRA,37.9,8 of 10,13 of 20,Tough (8th),1.62,tough matchup,Defense 17 of 30,0.685,0.08,Shai Gilgeous-Alexander,35,Reach
+ALL|PRA|Reach|All|20,D,Tyrese Maxey,PHI vs CLE,Over 29.5 pts+reb+ast,PRA,33.6,7 of 10,14 of 20,Tough (1st),1.68,tough matchup,Defense 11 of 30,0.66,0.11,Tyrese Maxey,30,Reach
+ALL|PRA|Reach|All|21,D,Jamal Murray,DEN at OKC,Over 29.5 pts+reb+ast,PRA,36.8,7 of 10,14 of 20,Tough (7th),1.68,tough matchup,Defense 12 of 30,0.66,0.18,Jamal Murray,30,Reach
+ALL|PRA|Reach|All|22,D,Ajay Mitchell,OKC vs DEN,Over 14.5 pts+reb+ast,PRA,19.8,7 of 10,14 of 20,Tough (8th),1.68,tough matchup,Defense 17 of 30,0.66,0.24,Ajay Mitchell,15,Reach
+ALL|PRA|Reach|All|23,D,Anfernee Simons,PHI vs CLE,Over 14.5 pts+reb+ast,PRA,20.5,7 of 10,14 of 20,Tough (1st),1.68,tough matchup,Defense 11 of 30,0.66,0.27,Anfernee Simons,15,Reach
+ALL|PRA|Reach|All|24,D,Alex Caruso,OKC vs DEN,Over 9.5 pts+reb+ast,PRA,14.4,8 of 10,12 of 20,Tough (8th),1.68,tough matchup,Defense 17 of 30,0.66,0.31,Alex Caruso,10,Reach
+ALL|PTS|Reach|All|1,C,Jaylin Williams,OKC vs DEN,Over 2.5 points,PTS,4.8,8 of 10,16 of 20,Soft (28th),1.47,,Defense 17 of 30,0.85,0.38,Jaylin Williams,3,Reach
+ALL|PTS|Reach|All|2,C,James Harden,CLE at PHI,Over 15.5 points,PTS,19.6,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 13 of 30,0.825,0.18,James Harden,16,Reach
+ALL|PTS|Reach|All|3,C,Cameron Johnson,DEN at OKC,Over 11.5 points,PTS,14.3,7 of 10,16 of 20,Soft (27th),1.57,,Defense 12 of 30,0.8,0.16,Cameron Johnson,12,Reach
+ALL|PTS|Reach|All|4,C,Chet Holmgren,OKC vs DEN,Over 9.5 points,PTS,15.6,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 17 of 30,0.785,0.36,Chet Holmgren,10,Reach
+ALL|PTS|Reach|All|5,C,Jamal Murray,DEN at OKC,Over 19.5 points,PTS,25.6,8 of 10,15 of 20,Tough (6th),1.52,tough matchup,Defense 12 of 30,0.735,0.22,Jamal Murray,20,Reach
+ALL|PTS|Reach|All|6,C,Joel Embiid,PHI vs CLE,Over 18.5 points,PTS,27.3,7 of 10,17 of 20,Tough (3rd),1.52,tough matchup,Defense 11 of 30,0.735,0.3,Joel Embiid,19,Reach
+ALL|PTS|Reach|All|7,C,Jarrett Allen,CLE at PHI,Over 9.5 points,PTS,12.8,7 of 10,15 of 20,Mid (21st),1.62,,Defense 13 of 30,0.725,0.22,Jarrett Allen,10,Reach
+ALL|PTS|Reach|All|8,C,Jaylen Brown,PHI vs CLE,Over 21.5 points,PTS,28.0,7 of 10,16 of 20,Tough (1st),1.57,tough matchup,Defense 11 of 30,0.71,0.21,Jaylen Brown,22,Reach
+ALL|PTS|Reach|All|9,C,Christian Braun,DEN at OKC,Over 8.5 points,PTS,13.3,7 of 10,16 of 20,Tough (6th),1.57,tough matchup,Defense 12 of 30,0.71,0.33,Christian Braun,9,Reach
+ALL|PTS|Reach|All|10,C,Bruce Brown,DEN at OKC,Over 6.5 points,PTS,9.2,7 of 10,15 of 20,Tough (6th),1.62,tough matchup,Defense 12 of 30,0.685,0.23,Bruce Brown,7,Reach
+ALL|PTS|Reach|All|11,C,VJ Edgecombe,PHI vs CLE,Over 9.5 points,PTS,14.6,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 11 of 30,0.685,0.31,VJ Edgecombe,10,Reach
+ALL|PTS|Reach|All|12,D,Evan Mobley,CLE at PHI,Over 13.5 points,PTS,16.4,8 of 10,14 of 20,Mid (21st),1.57,,Defense 13 of 30,0.75,0.15,Evan Mobley,14,Reach
+ALL|PTS|Reach|All|13,D,Aaron Gordon,DEN at OKC,Over 8.5 points,PTS,13.2,7 of 10,14 of 20,Soft (27th),1.68,,Defense 12 of 30,0.75,0.32,Aaron Gordon,9,Reach
+ALL|PTS|Reach|All|14,D,Alex Caruso,OKC vs DEN,Over 5.5 points,PTS,9.5,9 of 10,13 of 20,Tough (7th),1.52,tough matchup,Defense 17 of 30,0.735,0.37,Alex Caruso,6,Reach
+ALL|PTS|Reach|All|15,D,Donovan Mitchell,CLE at PHI,Over 23.5 points,PTS,26.6,7 of 10,13 of 20,Soft (23rd),1.74,,Defense 13 of 30,0.725,0.1,Donovan Mitchell,24,Reach
+ALL|PTS|Reach|All|16,D,Cason Wallace,OKC vs DEN,Over 5.5 points,PTS,8.3,8 of 10,14 of 20,Tough (7th),1.57,tough matchup,Defense 17 of 30,0.71,0.28,Cason Wallace,6,Reach
+ALL|PTS|Reach|All|17,D,LeBron James,PHI vs CLE,Over 20.5 points,PTS,21.6,7 of 10,12 of 20,Soft (30th),1.81,,Defense 11 of 30,0.7,0.03,LeBron James,21,Reach
+ALL|PTS|Reach|All|18,D,Jalen Williams,OKC vs DEN,Over 11.5 points,PTS,16.1,7 of 10,14 of 20,Tough (7th),1.68,tough matchup,Defense 17 of 30,0.66,0.25,Jalen Williams,12,Reach
+ALL|PTS|Reach|All|19,D,Tyrese Maxey,PHI vs CLE,Over 21.5 points,PTS,24.2,7 of 10,13 of 20,Tough (1st),1.74,tough matchup,Defense 11 of 30,0.635,0.09,Tyrese Maxey,22,Reach
+ALL|PTS|Reach|All|20,D,Shai Gilgeous-Alexander,OKC vs DEN,Over 23.5 points,PTS,26.9,7 of 10,13 of 20,Tough (7th),1.74,tough matchup,Defense 17 of 30,0.635,0.11,Shai Gilgeous-Alexander,24,Reach
+ALL|PTS|Reach|All|21,D,Kentavious Caldwell-Pope,PHI vs CLE,Over 6.5 points,PTS,8.8,7 of 10,13 of 20,Tough (1st),1.74,tough matchup,Defense 11 of 30,0.635,0.21,Kentavious Caldwell-Pope,7,Reach
+ALL|PTS|Reach|All|22,D,Ajay Mitchell,OKC vs DEN,Over 8.5 points,PTS,12.4,7 of 10,13 of 20,Tough (7th),1.74,tough matchup,Defense 17 of 30,0.635,0.27,Ajay Mitchell,9,Reach
+ALL|PTS|Reach|All|23,D,Nikola Jokic,DEN at OKC,Over 23.5 points,PTS,24.7,7 of 10,12 of 20,Tough (1st),1.81,tough matchup,Defense 12 of 30,0.61,0.03,Nikola Jokic,24,Reach
+ALL|PTS|Reach|All|24,D,Anfernee Simons,PHI vs CLE,Over 12.5 points,PTS,15.4,7 of 10,12 of 20,Tough (1st),1.81,tough matchup,Defense 11 of 30,0.61,0.16,Anfernee Simons,13,Reach
+ALL|PTS|Reach|All|25,D,Jared McCain,OKC vs DEN,Over 8.5 points,PTS,10.8,7 of 10,12 of 20,Tough (7th),1.81,tough matchup,Defense 17 of 30,0.61,0.17,Jared McCain,9,Reach
+ALL|RA|Reach|All|1,B,LeBron James,PHI vs CLE,Over 9.5 reb+ast,RA,15.0,9 of 10,18 of 20,Soft (30th),1.31,,Defense 11 of 30,0.95,0.33,LeBron James,10,Reach
+ALL|RA|Reach|All|2,B,Peyton Watson,DEN at OKC,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 12 of 30,0.9,0.39,Peyton Watson,5,Reach
+ALL|RA|Reach|All|3,C,Ajay Mitchell,OKC vs DEN,Over 4.5 reb+ast,RA,7.4,9 of 10,17 of 20,Mid (12th),1.34,,Defense 17 of 30,0.875,0.32,Ajay Mitchell,5,Reach
+ALL|RA|Reach|All|4,C,Evan Mobley,CLE at PHI,Over 9.5 reb+ast,RA,12.4,8 of 10,16 of 20,Soft (28th),1.47,,Defense 13 of 30,0.85,0.19,Evan Mobley,10,Reach
+ALL|RA|Reach|All|5,C,Nikola Jokic,DEN at OKC,Over 19.5 reb+ast,RA,25.2,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 12 of 30,0.785,0.21,Nikola Jokic,20,Reach
+ALL|RA|Reach|All|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 9.5 reb+ast,RA,10.9,8 of 10,15 of 20,Mid (12th),1.52,,Defense 17 of 30,0.775,0.09,Shai Gilgeous-Alexander,10,Reach
+ALL|RA|Reach|All|7,C,Joel Embiid,PHI vs CLE,Over 9.5 reb+ast,RA,12.9,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 11 of 30,0.76,0.22,Joel Embiid,10,Reach
+ALL|RA|Reach|All|8,C,Cason Wallace,OKC vs DEN,Over 4.5 reb+ast,RA,6.0,7 of 10,15 of 20,Mid (12th),1.62,,Defense 17 of 30,0.725,0.16,Cason Wallace,5,Reach
+ALL|RA|Reach|All|9,D,Jamal Murray,DEN at OKC,Over 9.5 reb+ast,RA,11.2,8 of 10,14 of 20,Mid (14th),1.57,,Defense 12 of 30,0.75,0.11,Jamal Murray,10,Reach
+ALL|RA|Reach|All|10,D,Jaylin Williams,OKC vs DEN,Over 4.5 reb+ast,RA,5.8,7 of 10,14 of 20,Soft (25th),1.68,,Defense 17 of 30,0.75,0.14,Jaylin Williams,5,Reach
+ALL|RA|Reach|All|11,D,Christian Braun,DEN at OKC,Over 4.5 reb+ast,RA,6.7,7 of 10,14 of 20,Mid (14th),1.68,,Defense 12 of 30,0.7,0.25,Christian Braun,5,Reach
+ALL|REB|Reach|All|1,C,Donovan Mitchell,CLE at PHI,Over 3.5 rebounds,REB,5.0,9 of 10,16 of 20,Soft (27th),1.38,,Defense 13 of 30,0.9,0.2,Donovan Mitchell,4,Reach
+ALL|REB|Reach|All|2,C,Alex Caruso,OKC vs DEN,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Mid (9th),1.34,,Defense 17 of 30,0.875,0.34,Alex Caruso,2,Reach
+ALL|REB|Reach|All|3,C,Jaylin Williams,OKC vs DEN,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Mid (21st),1.38,,Defense 17 of 30,0.85,0.29,Jaylin Williams,3,Reach
+ALL|REB|Reach|All|4,C,Kentavious Caldwell-Pope,PHI vs CLE,Over 1.5 rebounds,REB,2.8,9 of 10,17 of 20,Tough (2nd),1.34,tough matchup,Defense 11 of 30,0.835,0.27,Kentavious Caldwell-Pope,2,Reach
+ALL|REB|Reach|All|5,C,Isaiah Hartenstein,OKC vs DEN,Over 4.5 rebounds,REB,7.7,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.35,Isaiah Hartenstein,5,Reach
+ALL|REB|Reach|All|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 1.5 rebounds,REB,3.1,8 of 10,16 of 20,Mid (9th),1.47,,Defense 17 of 30,0.8,0.37,Shai Gilgeous-Alexander,2,Reach
+ALL|REB|Reach|All|7,C,Anfernee Simons,PHI vs CLE,Over 1.5 rebounds,REB,2.6,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 11 of 30,0.785,0.25,Anfernee Simons,2,Reach
+ALL|REB|Reach|All|8,C,Ajay Mitchell,OKC vs DEN,Over 2.5 rebounds,REB,3.3,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.09,Ajay Mitchell,3,Reach
+ALL|REB|Reach|All|9,C,Chet Holmgren,OKC vs DEN,Over 6.5 rebounds,REB,8.2,7 of 10,16 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.15,Chet Holmgren,7,Reach
+ALL|REB|Reach|All|10,C,Peyton Watson,DEN at OKC,Over 3.5 rebounds,REB,5.2,7 of 10,16 of 20,Mid (11th),1.57,,Defense 12 of 30,0.75,0.24,Peyton Watson,4,Reach
+ALL|REB|Reach|All|11,C,Christian Braun,DEN at OKC,Over 2.5 rebounds,REB,4.5,7 of 10,15 of 20,Mid (11th),1.62,,Defense 12 of 30,0.725,0.33,Christian Braun,3,Reach
+ALL|REB|Reach|All|12,C,Nikola Jokic,DEN at OKC,Over 12.5 rebounds,REB,14.0,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.07,Nikola Jokic,13,Reach
+ALL|REB|Reach|All|13,C,Joel Embiid,PHI vs CLE,Over 5.5 rebounds,REB,8.0,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 11 of 30,0.685,0.25,Joel Embiid,6,Reach
+ALL|REB|Reach|All|14,D,Evan Mobley,CLE at PHI,Over 6.5 rebounds,REB,8.8,8 of 10,14 of 20,Soft (28th),1.57,,Defense 13 of 30,0.8,0.2,Evan Mobley,7,Reach
+ALL|REB|Reach|All|15,D,James Harden,CLE at PHI,Over 3.5 rebounds,REB,4.2,8 of 10,13 of 20,Soft (27th),1.62,,Defense 13 of 30,0.775,0.05,James Harden,4,Reach
+ALL|REB|Reach|All|16,D,Jamal Murray,DEN at OKC,Over 3.5 rebounds,REB,4.5,8 of 10,14 of 20,Mid (11th),1.57,,Defense 12 of 30,0.75,0.12,Jamal Murray,4,Reach
+ALL|REB|Reach|All|17,D,Cason Wallace,OKC vs DEN,Over 2.5 rebounds,REB,3.7,8 of 10,14 of 20,Mid (9th),1.57,,Defense 17 of 30,0.75,0.19,Cason Wallace,3,Reach
+ALL|REB|Reach|All|18,D,Jarrett Allen,CLE at PHI,Over 4.5 rebounds,REB,7.5,7 of 10,13 of 20,Soft (28th),1.74,,Defense 13 of 30,0.725,0.33,Jarrett Allen,5,Reach
+ALL|REB|Reach|All|19,D,Cameron Payne,PHI vs CLE,Over 1.5 rebounds,REB,2.2,9 of 10,14 of 20,Tough (2nd),1.47,"tough matchup; last season stats, check roster",Defense 11 of 30,0.72,0.09,Cameron Payne,2,Reach
+ALL|REB|Reach|All|20,D,Jared McCain,OKC vs DEN,Over 1.5 rebounds,REB,1.9,8 of 10,12 of 20,Mid (9th),1.68,,Defense 17 of 30,0.7,-0.05,Jared McCain,2,Reach
+ALL|REB|Reach|All|21,D,Bruce Brown,DEN at OKC,Over 2.5 rebounds,REB,3.6,7 of 10,14 of 20,Mid (11th),1.68,,Defense 12 of 30,0.7,0.18,Bruce Brown,3,Reach
+ALL|REB|Reach|All|22,D,Jaylen Brown,PHI vs CLE,Over 4.5 rebounds,REB,6.0,7 of 10,14 of 20,Tough (2nd),1.68,tough matchup,Defense 11 of 30,0.66,0.17,Jaylen Brown,5,Reach
+ALL|REB|Reach|All|23,D,VJ Edgecombe,PHI vs CLE,Over 4.5 rebounds,REB,6.2,7 of 10,14 of 20,Tough (2nd),1.68,tough matchup,Defense 11 of 30,0.66,0.19,VJ Edgecombe,5,Reach
+ALL|STL|Reach|All|1,C,Cameron Johnson,DEN at OKC,Over 0.5 steals,STL,1.1,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 12 of 30,0.825,0.09,Cameron Johnson,1,Reach
+ALL|STL|Reach|All|2,C,James Harden,CLE at PHI,Over 0.5 steals,STL,1.6,9 of 10,15 of 20,Mid (16th),1.43,,Defense 13 of 30,0.825,0.39,James Harden,1,Reach
+ALL|STL|Reach|All|3,C,LeBron James,PHI vs CLE,Over 0.5 steals,STL,1.4,7 of 10,16 of 20,Soft (30th),1.57,,Defense 11 of 30,0.8,0.29,LeBron James,1,Reach
+ALL|STL|Reach|All|4,C,Jaylen Brown,PHI vs CLE,Over 0.5 steals,STL,1.0,8 of 10,15 of 20,Mid (13th),1.52,,Defense 11 of 30,0.775,0.0,Jaylen Brown,1,Reach
+ALL|STL|Reach|All|5,C,Jarrett Allen,CLE at PHI,Over 0.5 steals,STL,1.1,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 13 of 30,0.76,0.05,Jarrett Allen,1,Reach
+ALL|STL|Reach|All|6,C,VJ Edgecombe,PHI vs CLE,Over 0.5 steals,STL,1.2,7 of 10,16 of 20,Mid (13th),1.57,,Defense 11 of 30,0.75,0.17,VJ Edgecombe,1,Reach
+ALL|STL|Reach|All|7,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 0.5 steals,STL,1.3,8 of 10,15 of 20,Tough (2nd),1.52,tough matchup,Defense 17 of 30,0.735,0.23,Shai Gilgeous-Alexander,1,Reach
+ALL|STL|Reach|All|8,D,Alex Caruso,OKC vs DEN,Over 0.5 steals,STL,1.2,8 of 10,14 of 20,Tough (2nd),1.57,tough matchup,Defense 17 of 30,0.71,0.17,Alex Caruso,1,Reach
+ALL|STL|Reach|All|9,D,Jalen Williams,OKC vs DEN,Over 0.5 steals,STL,0.9,8 of 10,13 of 20,Tough (2nd),1.62,tough matchup,Defense 17 of 30,0.685,-0.11,Jalen Williams,1,Reach
+ALL|STL|Reach|All|10,D,Cason Wallace,OKC vs DEN,Over 1.5 steals,STL,1.9,7 of 10,13 of 20,Tough (2nd),1.74,tough matchup,Defense 17 of 30,0.635,-0.03,Cason Wallace,2,Reach
+ALL|THREES|Reach|All|1,C,Donovan Mitchell,CLE at PHI,Over 1.5 threes,THREES,2.8,10 of 10,17 of 20,Soft (24th),1.27,,Defense 13 of 30,0.975,0.27,Donovan Mitchell,2,Reach
+ALL|THREES|Reach|All|2,C,Aaron Gordon,DEN at OKC,Over 0.5 threes,THREES,1.4,8 of 10,16 of 20,Soft (30th),1.47,,Defense 12 of 30,0.85,0.26,Aaron Gordon,1,Reach
+ALL|THREES|Reach|All|3,C,Jamal Murray,DEN at OKC,Over 1.5 threes,THREES,3.3,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 12 of 30,0.76,0.39,Jamal Murray,2,Reach
+ALL|THREES|Reach|All|4,C,Joel Embiid,PHI vs CLE,Over 0.5 threes,THREES,1.6,7 of 10,17 of 20,Tough (6th),1.52,tough matchup,Defense 11 of 30,0.735,0.35,Joel Embiid,1,Reach
+ALL|THREES|Reach|All|5,C,Jaylin Williams,OKC vs DEN,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Mid (17th),1.62,,Defense 17 of 30,0.725,0.13,Jaylin Williams,1,Reach
+ALL|THREES|Reach|All|6,C,Shai Gilgeous-Alexander,OKC vs DEN,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (15th),1.62,,Defense 17 of 30,0.725,0.29,Shai Gilgeous-Alexander,1,Reach
+ALL|THREES|Reach|All|7,C,Nikola Jokic,DEN at OKC,Over 0.5 threes,THREES,1.2,7 of 10,15 of 20,Tough (1st),1.62,tough matchup,Defense 12 of 30,0.685,0.2,Nikola Jokic,1,Reach
+ALL|THREES|Reach|All|8,D,Evan Mobley,CLE at PHI,Over 0.5 threes,THREES,1.1,9 of 10,13 of 20,Soft (29th),1.52,,Defense 13 of 30,0.825,0.05,Evan Mobley,1,Reach
+ALL|THREES|Reach|All|9,D,LeBron James,PHI vs CLE,Over 0.5 threes,THREES,1.3,7 of 10,14 of 20,Soft (27th),1.68,,Defense 11 of 30,0.75,0.23,LeBron James,1,Reach
+ALL|THREES|Reach|All|10,D,Jaylen Brown,PHI vs CLE,Over 1.5 threes,THREES,2.1,8 of 10,14 of 20,Tough (8th),1.57,tough matchup,Defense 11 of 30,0.71,0.05,Jaylen Brown,2,Reach
+ALL|THREES|Reach|All|11,D,Anfernee Simons,PHI vs CLE,Over 1.5 threes,THREES,2.8,8 of 10,14 of 20,Tough (8th),1.57,tough matchup,Defense 11 of 30,0.71,0.29,Anfernee Simons,2,Reach

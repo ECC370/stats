@@ -9,7 +9,7 @@ NBA_COLS = [
     "PRA", "PR", "PA", "RA", "STL+BLK", "game_id",
 ]
 NBA_STATS = ["PTS", "REB", "AST", "THREES", "STL", "BLK", "TOV",
-             "PRA", "PR", "PA", "RA", "STL+BLK", "MIN"]
+             "PRA", "PR", "PA", "RA", "MIN"]
 
 NFL_COLS = [
     "key", "season", "week", "date", "player", "team", "opp", "home", "pos",
@@ -68,7 +68,8 @@ NBA_THRESH = {
     "PR": [10, 15, 20, 25, 30, 35, 40, 45],
     "PA": [10, 15, 20, 25, 30, 35, 40],
     "RA": [4, 6, 8, 10, 12, 14, 16, 18],
-    "STL+BLK": [1, 2, 3, 4, 5],
+    "STL": [1, 2, 3, 4],
+    "BLK": [1, 2, 3, 4],
 }
 NFL_THRESH = {
     "PASS_YDS": [175, 200, 225, 250, 275, 300, 325, 350],
@@ -93,11 +94,28 @@ SLATE_CAP = {"NBA": 70, "NFL": 90}
 
 
 # ---- safe plays ----
-SAFE_COLS = ["key", "player", "pos", "team", "opp", "home", "fav", "status", "rest", "stat", "line",
-             "recent", "long", "avg", "cushion", "opp_rk", "opp_avg", "matchup", "opp_team", "fair", "score", "note"]
+STAT_LABELS = {
+    "PTS": "points", "REB": "rebounds", "AST": "assists", "THREES": "threes", "PRA": "pts+reb+ast",
+    "PR": "pts+reb", "PA": "pts+ast", "RA": "reb+ast", "STL": "steals", "BLK": "blocks",
+    "PASS_YDS": "pass yards", "PASS_TD": "pass TDs", "COMP": "completions", "ATT": "pass attempts",
+    "RUSH_YDS": "rush yards", "RUSH_ATT": "rush attempts", "REC": "receptions", "REC_YDS": "rec yards",
+    "TGT": "targets", "RR_YDS": "rush+rec yards", "TDS": "rush+rec TDs",
+}
+SAFE_COLS = ["key", "grade", "who", "game", "pick", "stat", "avg", "recent", "long", "matchup", "fair",
+             "flags", "team_def", "score", "cushion", "player", "line"]
 SAFE_RULES = {   # recent window games, long window games, min games, min recent hit, min long hit
     "NBA": dict(recent=10, long=20, min_recent=8, min_long=12, hit_recent=0.9, hit_long=0.85),
     "NFL": dict(recent=8, long=16, min_recent=6, min_long=8, hit_recent=0.85, hit_long=0.8),
 }
+_r = lambda a, b, st=1: list(range(a, b + 1, st))
+SAFE_THRESH = {   # finer lines than the Slate grid, so steady but lower output players still qualify
+    "NBA": {"PTS": _r(4, 40, 2), "REB": _r(1, 16), "AST": _r(1, 12), "THREES": _r(1, 6), "PRA": _r(8, 50, 2),
+            "PR": _r(6, 46, 2), "PA": _r(6, 46, 2), "RA": _r(3, 20), "STL": _r(1, 4), "BLK": _r(1, 4)},
+    "NFL": {"PASS_YDS": _r(100, 350, 10), "PASS_TD": [1, 2, 3, 4], "COMP": _r(10, 30), "ATT": _r(15, 40),
+            "RUSH_YDS": _r(10, 100, 5), "RUSH_ATT": _r(3, 25), "REC": _r(1, 10), "REC_YDS": _r(10, 100, 5),
+            "TGT": _r(1, 12), "RR_YDS": _r(20, 180, 5), "TDS": [1, 2]},
+}
+SAFE_SHOW = ["A only", "A and B", "All"]
 SAFE_CAP_ALL = 120
 SAFE_CAP_STAT = 40
+MAX_CUSHION = 0.55      # ignore lines far below the average (nobody posts them)

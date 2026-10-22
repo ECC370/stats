@@ -7,8 +7,8 @@ import pandas as pd
 
 import re
 
-from schema import (SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SLATE_CAP, SLATE_COLS,  # noqa: E402
-                    SLATE_WINDOWS, THRESH)
+from schema import (MAX_CUSHION, SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SAFE_SHOW, SAFE_THRESH,  # noqa: E402
+                    SLATE_CAP, SLATE_COLS, SLATE_WINDOWS, STAT_LABELS, THRESH)
 
 LIMIT = 900_000
 WINDOW_SPEC = {
@@ -198,11 +198,11 @@ def games_table(glist, tg, results, ranks, inj):
 
 def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.10):
     """For each player on the slate and each stat, the HIGHEST line that cleared in
-    nearly every recent game and almost as often over the longer window. Ranked by a
-    simple score: average of the two hit rates, nudged by matchup, rest, injury and
-    blowout risk. Players listed Out or Doubtful are left out."""
+    nearly every recent game and almost as often over the longer window.
+    Grade A = near perfect hit rates and no red flags; B = at most one flag; C = the rest.
+    Players listed Out or Doubtful are left out."""
     status, rest, defense, team_info = status or {}, rest or {}, defense or {}, team_info or {}
-    rules, thr = SAFE_RULES[sport], THRESH[sport]
+    rules, thr = SAFE_RULES[sport], SAFE_THRESH[sport]
     rows = []
     for player, g in log.groupby("player"):
         g = g.sort_values("rk")
@@ -220,40 +220,58 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
         m = re.search(r"(\d+(?:\.\d+)?)", str(info.get("fav", "")))
         spread = float(m.group(1)) if m else 0.0
         rt = rest.get(last.team, "")
+        who = player + (f" ({last.get('pos')})" if sport == "NFL" and last.get("pos") else "")
+        game = f"{last.team} {'vs' if info['home'] else 'at'} {info['opp']}"
         for stat, ts in thr.items():
             if r[stat].mean() < 0.25 * ts[0]:
                 continue
             for t in sorted(ts, reverse=True):
                 hr, hl = float((r[stat] >= t).mean()), float((lg[stat] >= t).mean())
-                if hr >= rules["hit_recent"] and hl >= rules["hit_long"]:
-                    avg = float(lg[stat].mean())
-                    dr, da = defense.get((info["opp"], grp, stat), ("", ""))
-                    tag = "" if dr == "" else ("Soft" if dr <= 8 else ("Tough" if dr >= 23 else "Mid"))
-                    score = (hr + hl) / 2 + (0.05 if tag == "Soft" else -0.05 if tag == "Tough" else 0)
-                    notes = []
-                    if "B2B" in rt or "3in4" in rt or "short" in rt:
-                        score -= 0.03; notes.append(rt)
-                    if st == "Questionable":
-                        score -= 0.05; notes.append("questionable")
-                    if spread >= 10:
-                        score -= 0.03; notes.append("big spread, game script risk")
-                    p = ((hr + hl) / 2) * (1 - haircut)
-                    rows.append([None, player, last.get("pos", ""), last.team, info["opp"], "H" if info["home"] else "A",
-                                 info.get("fav", ""), st, rt, stat, f"o{t - 0.5:g}",
-                                 f"{int(round(hr * len(r)))}/{len(r)}", f"{int(round(hl * len(lg)))}/{len(lg)}",
-                                 round(avg, 1), round((avg - t) / avg, 2) if avg else 0, dr, da, tag,
-                                 team_info.get(info["opp"], ""), round(1 / p, 2), round(score, 3), "; ".join(notes)])
+                if hr < rules["hit_recent"] or hl < rules["hit_long"]:
+                    continue
+                avg = float(lg[stat].mean())
+                cushion = (avg - t) / avg if avg else 0
+                if cushion > MAX_CUSHION:
                     break
+                dr, da = defense.get((info["opp"], grp, stat), ("", ""))
+                tag = "" if dr == "" else ("Soft" if dr <= 8 else ("Tough" if dr >= 23 else "Mid"))
+                flags, issues = [], 0
+                if tag == "Tough":
+                    issues += 1; flags.append("tough matchup")
+                if "B2B" in rt or "3in4" in rt or "short" in rt:
+                    issues += 1; flags.append(rt)
+                if st == "Questionable":
+                    issues += 1; flags.append("questionable")
+                if spread >= 10:
+                    issues += 1; flags.append("big spread, game script risk")
+                if hr >= 1 and hl >= 0.95 and issues == 0:
+                    grade = "A"
+                elif issues <= 1 and hl >= 0.9:
+                    grade = "B"
+                else:
+                    grade = "C"
+                score = (hr + hl) / 2 + (0.05 if tag == "Soft" else 0) - 0.04 * issues
+                p = ((hr + hl) / 2) * (1 - haircut)
+                rows.append([None, grade, who, game, f"Over {t - 0.5:g} {STAT_LABELS[stat]}", stat, round(avg, 1),
+                             f"{int(round(hr * len(r)))} of {len(r)}", f"{int(round(hl * len(lg)))} of {len(lg)}",
+                             "" if not tag else f"{tag} ({dr})", round(1 / p, 2), "; ".join(flags),
+                             team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t])
+                break
     df = pd.DataFrame(rows, columns=SAFE_COLS)
     if not len(df):
         return df
-    df["_c"] = df.cushion
+    order = {"A": 0, "B": 1, "C": 2}
+    df["_g"] = df.grade.map(order)
+    df = df.sort_values(["_g", "score", "cushion"], ascending=[True, False, True])
+    allowed = {"A only": {"A"}, "A and B": {"A", "B"}, "All": {"A", "B", "C"}}
     parts = []
-    allx = df.sort_values(["score", "_c"], ascending=False).head(SAFE_CAP_ALL).copy()
-    allx["key"] = ["ALL|" + str(i) for i in range(1, len(allx) + 1)]
-    parts.append(allx)
-    for stat, x in df.groupby("stat"):
-        x = x.sort_values(["score", "_c"], ascending=False).head(SAFE_CAP_STAT).copy()
-        x["key"] = [f"{stat}|{i}" for i in range(1, len(x) + 1)]
-        parts.append(x)
+    for show in SAFE_SHOW:
+        d = df[df.grade.isin(allowed[show])]
+        best = d.drop_duplicates("player").head(SAFE_CAP_ALL).copy()      # one best play per player
+        best["key"] = [f"ALL|{show}|{i}" for i in range(1, len(best) + 1)]
+        parts.append(best)
+        for stat, x in d.groupby("stat"):
+            x = x.head(SAFE_CAP_STAT).copy()
+            x["key"] = [f"{stat}|{show}|{i}" for i in range(1, len(x) + 1)]
+            parts.append(x)
     return pd.concat(parts)[SAFE_COLS]

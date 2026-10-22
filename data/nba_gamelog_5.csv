@@ -1,4 +1,4 @@
-key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,3PM,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
+key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,THREES,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
 Trendon Watford|1,2026,2026-05-10,Trendon Watford,PHI,NY,1,0,30.0,0,1,9.0,2.0,0.0,1.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,1.0,2.0,401871162
 Trendon Watford|2,2026,2026-05-08,Trendon Watford,PHI,NY,1,0,14.0,0,2,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0,401871161
 Trendon Watford|3,2026,2026-05-04,Trendon Watford,PHI,NY,0,0,39.0,0,3,14.0,5.0,1.0,1.0,0.0,1.0,0.0,2.0,7.0,6.0,6.0,2.0,1.0,401871159

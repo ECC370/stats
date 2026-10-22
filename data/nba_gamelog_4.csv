@@ -1,4 +1,4 @@
-key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,3PM,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
+key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,THREES,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
 Monte Morris|1,2026,2025-11-17,Monte Morris,IND,DET,0,0,15.0,0,1,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,2.0,0.0,0.0,401810097
 Monte Morris|2,2026,2025-11-15,Monte Morris,IND,TOR,1,0,18.0,0,2,5.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,401810085
 Monte Morris|3,2026,2025-11-13,Monte Morris,IND,PHX,0,0,35.0,0,3,10.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,3.0,3.0,2.0,0.0,401810081

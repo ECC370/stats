@@ -1,4 +1,4 @@
-key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,3PM,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
+key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,THREES,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
 A.J. Lawson|1,2026,2026-05-03,A.J. Lawson,TOR,CLE,0,0,12.0,0,1,16.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,4.0,4.0,2.0,2.0,1.0,401869384
 A.J. Lawson|2,2026,2026-05-01,A.J. Lawson,TOR,CLE,1,0,2.0,0,2,10.0,6.0,1.0,0.0,2.0,0.0,0.0,1.0,7.0,7.0,6.0,1.0,0.0,401869381
 A.J. Lawson|3,2026,2026-04-29,A.J. Lawson,TOR,CLE,0,0,5.0,0,3,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,401869380

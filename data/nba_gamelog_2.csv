@@ -1,4 +1,4 @@
-key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,3PM,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
+key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,THREES,STL,BLK,TOV,PRA,PR,PA,RA,STL+BLK,game_id
 Derrick White|1,2027,2026-10-20,Derrick White,BOS,DET,0,1,8.0,0,1,36.0,17.0,1.0,8.0,3.0,1.0,0.0,4.0,26.0,18.0,25.0,9.0,1.0,401909088
 Derrick White|2,2026,2026-05-02,Derrick White,BOS,PHI,1,1,9.0,0,2,45.0,26.0,6.0,4.0,5.0,0.0,3.0,0.0,36.0,32.0,30.0,10.0,3.0,401869412
 Derrick White|3,2026,2026-04-30,Derrick White,BOS,PHI,0,1,13.0,0,3,32.0,11.0,1.0,1.0,3.0,3.0,0.0,2.0,13.0,12.0,12.0,2.0,3.0,401869410

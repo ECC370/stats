@@ -165,6 +165,10 @@ def nfl_extras(log, games, cur, today):
     if inj_raw is not None and len(inj_raw):
         wk = int(up.week.min()) if len(up) else int(inj_raw.week.max())
         r = inj_raw[inj_raw.week == wk] if (inj_raw.week == wk).any() else inj_raw[inj_raw.week == inj_raw.week.max()]
+        # official game status wins; before Friday fall back to the practice report
+        pr = r.practice_status.fillna("").str.lower()
+        prac = pr.map(lambda t: "DNP" if t.startswith("did not") else ("Limited" if t.startswith("limited") else ""))
+        r = r.assign(report_status=r.report_status.where(r.report_status.notna(), prac.replace("", None)))
         r = r[r.report_status.notna()]
         inj = pd.DataFrame({"team": r.team, "pos": r.position, "player": r.full_name, "status": r.report_status,
                             "injury": r.report_primary_injury.fillna(""), "practice": r.practice_status.fillna("")})

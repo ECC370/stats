@@ -251,6 +251,8 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
                     issues += 1; flags.append(rt)
                 if st == "Questionable":
                     issues += 1; flags.append("questionable")
+                elif st == "DNP":
+                    issues += 1; flags.append("missed practice")
                 if st == "Check roster":
                     issues += 1; flags.append("last season stats, check roster")
                 if spread >= 10:

@@ -9,38 +9,33 @@ Shai Gilgeous-Alexander,G,OKC,DEN,,PTS,15+,84,1.0,30.5
 Shai Gilgeous-Alexander,G,OKC,DEN,,PRA,20+,84,1.0,41.4
 Shai Gilgeous-Alexander,G,OKC,DEN,,PR,15+,84,1.0,34.6
 Shai Gilgeous-Alexander,G,OKC,DEN,,PA,15+,84,1.0,37.3
-Shai Gilgeous-Alexander,G,OKC,DEN,,RA,4+,84,1.0,10.9
 James Harden,G,CLE,PHI,Check roster,AST,2+,81,1.0,7.5
-Jarrett Allen,C,CLE,PHI,Questionable,REB,2+,71,1.0,8.2
-Isaiah Hartenstein,C,OKC,DEN,,REB,2+,63,1.0,9.1
-Isaiah Hartenstein,C,OKC,DEN,,RA,4+,63,1.0,12.4
-Joel Embiid,C,PHI,CLE,,RA,4+,46,1.0,11.9
+Jarrett Allen,C,CLE,PHI,Questionable,REB,3+,71,1.0,8.2
+Joel Embiid,C,PHI,CLE,,RA,5+,46,1.0,11.9
 Joel Embiid,C,PHI,CLE,,PTS,10+,45,1.0,26.6
 Joel Embiid,C,PHI,CLE,,PRA,15+,45,1.0,38.6
 Joel Embiid,C,PHI,CLE,,PR,15+,45,1.0,34.4
 Joel Embiid,C,PHI,CLE,,PA,15+,45,1.0,30.9
 Joel Embiid,C,PHI,CLE,,REB,4+,44,1.0,7.9
 VJ Edgecombe,G,PHI,CLE,,PR,10+,43,1.0,22.8
+Evan Mobley,C,CLE,PHI,Check roster,RA,5+,36,1.0,12.6
 LeBron James,F,PHI,CLE,,PTS,10+,35,1.0,20.3
-Donovan Mitchell,G,CLE,PHI,Check roster,RA,4+,34,1.0,8.9
+LeBron James,F,PHI,CLE,,RA,5+,35,1.0,14.0
 Tyrese Maxey,G,PHI,CLE,,PTS,10+,31,1.0,25.7
 Tyrese Maxey,G,PHI,CLE,,PRA,15+,31,1.0,35.8
 Tyrese Maxey,G,PHI,CLE,,PR,15+,31,1.0,29.8
 Tyrese Maxey,G,PHI,CLE,,PA,15+,31,1.0,31.7
 LeBron James,F,PHI,CLE,,REB,2+,29,1.0,7.0
-Peyton Watson,G,DEN,OKC,Check roster,REB,2+,29,1.0,5.0
 Max Strus,G,CLE,PHI,Out,REB,2+,27,1.0,5.0
 Peyton Watson,G,DEN,OKC,Check roster,PTS,5+,27,1.0,18.6
-Chet Holmgren,C,OKC,DEN,,RA,4+,25,1.0,9.6
-LeBron James,F,PHI,CLE,,RA,8+,23,1.0,15.4
 Cameron Johnson,F,DEN,OKC,Check roster,PTS,5+,22,1.0,13.7
 Jamal Murray,G,DEN,OKC,Check roster,AST,4+,21,1.0,6.7
-Jamal Murray,G,DEN,OKC,Check roster,RA,6+,21,1.0,11.4
+Jamal Murray,G,DEN,OKC,Check roster,RA,5+,21,1.0,11.4
 Jaylen Brown,G,PHI,CLE,,PTS,15+,21,1.0,28.3
 Jaylen Brown,G,PHI,CLE,,PRA,20+,21,1.0,38.8
 Jaylen Brown,G,PHI,CLE,,PR,15+,21,1.0,34.3
-Jarrett Allen,C,CLE,PHI,Questionable,RA,4+,20,1.0,8.3
 Evan Mobley,C,CLE,PHI,Check roster,REB,6+,19,0.95,9.0
+James Harden,G,CLE,PHI,Check roster,RA,5+,19,0.95,10.0
 Jaylen Brown,G,PHI,CLE,,THREES,1+,19,0.95,2.2
 Jaylen Brown,G,PHI,CLE,,PA,20+,19,0.95,33.1
 Donovan Mitchell,G,CLE,PHI,Check roster,PTS,15+,18,0.95,27.1
@@ -53,14 +48,12 @@ Cason Wallace,G,OKC,DEN,,STL,1+,16,0.95,2.1
 Jamal Murray,G,DEN,OKC,Check roster,PTS,15+,16,0.9,26.6
 Jamal Murray,G,DEN,OKC,Check roster,PA,20+,16,0.9,33.6
 Evan Mobley,C,CLE,PHI,Check roster,PRA,20+,15,0.9,29.3
-Evan Mobley,C,CLE,PHI,Check roster,RA,8+,15,0.95,12.4
-James Harden,G,CLE,PHI,Check roster,RA,6+,15,0.9,10.5
 LeBron James,F,PHI,CLE,,AST,3+,15,0.95,8.3
 Jarrett Allen,C,CLE,PHI,Questionable,BLK,1+,14,0.8,2.0
 Aaron Gordon,F,DEN,OKC,Check roster,PTS,5+,13,0.9,14.2
 Aaron Gordon,F,DEN,OKC,Check roster,PRA,10+,13,0.9,22.2
 Tyrese Maxey,G,PHI,CLE,,AST,2+,13,0.9,5.8
-Tyrese Maxey,G,PHI,CLE,,RA,4+,13,0.9,9.7
+Tyrese Maxey,G,PHI,CLE,,RA,5+,13,0.9,9.7
 Donovan Mitchell,G,CLE,PHI,Check roster,THREES,2+,12,0.85,3.0
 Donovan Mitchell,G,CLE,PHI,Check roster,PRA,25+,12,0.9,34.2
 Donovan Mitchell,G,CLE,PHI,Check roster,PA,20+,12,0.9,29.1
@@ -72,23 +65,26 @@ Tyrese Maxey,G,PHI,CLE,,REB,2+,11,0.9,4.3
 Evan Mobley,C,CLE,PHI,Check roster,AST,2+,10,0.9,3.9
 Max Strus,G,CLE,PHI,Out,THREES,1+,10,0.85,1.7
 Shai Gilgeous-Alexander,G,OKC,DEN,,AST,4+,10,0.95,8.3
-Cason Wallace,G,OKC,DEN,,REB,2+,9,0.9,4.2
+Shai Gilgeous-Alexander,G,OKC,DEN,,RA,5+,10,0.95,11.4
+Peyton Watson,G,DEN,OKC,Check roster,REB,3+,9,0.95,4.6
 Cason Wallace,G,OKC,DEN,,PTS,5+,8,0.85,9.6
+Cason Wallace,G,OKC,DEN,,REB,3+,8,0.7,4.5
 Cason Wallace,G,OKC,DEN,,PRA,10+,8,0.8,16.8
-Cason Wallace,G,OKC,DEN,,RA,4+,8,0.8,7.1
 Donovan Mitchell,G,CLE,PHI,Check roster,REB,4+,8,0.8,5.2
-Jaylin Williams,F,OKC,DEN,,REB,2+,8,0.85,5.1
+Donovan Mitchell,G,CLE,PHI,Check roster,RA,5+,8,0.95,8.2
+Jaylin Williams,F,OKC,DEN,,REB,3+,8,0.8,5.1
 Kentavious Caldwell-Pope,G,PHI,CLE,,PRA,10+,8,0.75,14.6
 VJ Edgecombe,G,PHI,CLE,,PA,10+,8,0.95,16.4
+Isaiah Hartenstein,C,OKC,DEN,,REB,3+,7,0.95,8.0
 Isaiah Hartenstein,C,OKC,DEN,,PRA,10+,7,0.9,19.4
+Isaiah Hartenstein,C,OKC,DEN,,RA,5+,7,0.9,10.9
 Jarrett Allen,C,CLE,PHI,Questionable,PTS,5+,7,0.9,13.1
 Jarrett Allen,C,CLE,PHI,Questionable,PRA,10+,7,0.95,20.6
-Jaylin Williams,F,OKC,DEN,,RA,4+,7,0.75,7.1
 LeBron James,F,PHI,CLE,,PRA,30+,7,0.75,35.4
 LeBron James,F,PHI,CLE,,PR,20+,7,0.85,29.0
 LeBron James,F,PHI,CLE,,PA,20+,7,0.9,29.3
 Evan Mobley,C,CLE,PHI,Check roster,THREES,1+,6,0.65,1.5
-Jamal Murray,G,DEN,OKC,Check roster,REB,2+,6,0.9,5.2
+Jamal Murray,G,DEN,OKC,Check roster,REB,3+,6,0.75,5.2
 Nikola Jokic,C,DEN,OKC,Check roster,PTS,20+,6,0.85,25.0
 Chet Holmgren,C,OKC,DEN,,REB,4+,5,0.95,8.4
 Chet Holmgren,C,OKC,DEN,,BLK,1+,5,0.8,2.0
@@ -101,4 +97,5 @@ Nikola Jokic,C,DEN,OKC,Check roster,AST,3+,5,0.95,9.4
 Nikola Jokic,C,DEN,OKC,Check roster,PRA,45+,5,0.75,48.8
 Nikola Jokic,C,DEN,OKC,Check roster,PR,35+,5,0.75,39.4
 Nikola Jokic,C,DEN,OKC,Check roster,PA,30+,5,0.8,34.8
-Nikola Jokic,C,DEN,OKC,Check roster,RA,18+,5,0.9,23.4
+Nikola Jokic,C,DEN,OKC,Check roster,RA,15+,5,0.95,23.4
+Nikola Jokic,C,DEN,OKC,Check roster,DBL_DBL,1+,5,0.85,1.0

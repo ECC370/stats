@@ -189,8 +189,12 @@ def fetch_new(raw, since, until):
     return pd.concat([raw, add], ignore_index=True) if len(raw) else add
 
 
+ALLSTAR = ["STARS", "STRIPES", "WORLD", "USA", "TEAM", "EAST", "WEST", "LEBRON", "GIANNIS", "DURANT",
+           "STEPH", "CHUCK", "SHAQ", "KENNY", "CANDACE", "RISING", "FUTURE", "CELEB"]
+
+
 def build_log(raw):
-    d = raw.copy()
+    d = raw[~raw.team.isin(ALLSTAR)].copy()   # all star game sides are not real games
     d["date"] = pd.to_datetime(d["date"])
     # unique names: if two different players share a name, add the team
     ids = d.groupby("player")["player_id"].nunique()
@@ -308,7 +312,7 @@ def nba_rest(raw, games, today):
         days = (pd.Timestamp(today) - ds.max()).days - 1
         recent = ((ds >= pd.Timestamp(today) - pd.Timedelta(days=3)) & (ds < pd.Timestamp(today))).sum()
         tags = (["B2B"] if days == 0 else []) + (["3in4"] if recent >= 2 else [])
-        out[team] = " ".join(tags) or f"{max(days, 0)}d"
+        out[team] = "opener" if days > 60 else (" ".join(tags) or f"{max(days, 0)}d")
     return out
 
 
@@ -330,11 +334,14 @@ def nba_extras(raw, log, today):
     early = (pd.Timestamp(today) - pd.Timestamp(log[log.season == cur].date.min())).days < 30
     if early:
         extras.EARLY["NBA"] = 250
-        for p in log[(log.rk == 1) & (log.season < cur)].player:
+        played = set(log[log.season == cur].team)   # teams that already played this season
+        old = log[(log.rk == 1) & (log.season < cur)]
+        for p in old[old.team.isin(played)].player:  # team played but the player did not appear
             status.setdefault(p, "Check roster")
     rest = nba_rest(raw, games, today)
     tgm = raw[["team", "game_id", "date", "season", "team_pts", "opp_pts"]].drop_duplicates(["team", "game_id"])
     tg = tgm.rename(columns={"team_pts": "pf", "opp_pts": "pa"})
+    tg = tg[~tg.team.isin(ALLSTAR)]
     tt = extras.team_table(tg, "NBA")
     tt.to_csv(DATA / "nba_teams.csv", index=False)
     n = extras.CFG["NBA"]["recent_n"]

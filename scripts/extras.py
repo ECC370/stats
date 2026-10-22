@@ -152,15 +152,16 @@ def team_table(tg, sport, extra=None):
     tg = tg.sort_values(["team", "date"], ascending=[True, False]).copy()
     tg["rk"] = tg.groupby("team").cumcount() + 1
     cur = int(tg.season.max())
-    def block(x, tag):
+    def block(x, tag, mingp=1):
         a = x.groupby("team").agg(gp=("pf", "size"), pf=("pf", "mean"), pa=("pa", "mean"))
+        a = a[a.gp >= mingp]   # one game is noise, leave it blank
         a["net"] = a.pf - a.pa
         a["off_rk"] = a.pf.rank(ascending=False, method="min").astype(int)
         a["def_rk"] = a.pa.rank(ascending=True, method="min").astype(int)
         a = a.round(1)
         a.columns = [f"{tag}_{c}" for c in a.columns]
         return a
-    out = block(tg[tg.rk <= n], f"L{n}").join(block(tg[tg.season == cur], "season"), how="outer")
+    out = block(tg[tg.rk <= n], f"L{n}").join(block(tg[tg.season == cur], "season", 3), how="outer")
     if extra is not None:
         out = out.join(extra, how="left")
     out = out.reset_index().rename(columns={"team": "Team"})

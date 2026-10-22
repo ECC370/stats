@@ -7,7 +7,7 @@ import pandas as pd
 
 import re
 
-from schema import (MAX_CUSHION, SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SAFE_SHOW, SAFE_THRESH,  # noqa: E402
+from schema import (MAX_CUSHION, MAXH, SAFE_CAP_ALL, SAFE_CAP_STAT, SAFE_COLS, SAFE_RULES, SAFE_SHOW, SAFE_THRESH,  # noqa: E402
                     SLATE_CAP, SLATE_COLS, SLATE_WINDOWS, STAT_LABELS, THRESH)
 
 LIMIT = 900_000
@@ -83,13 +83,13 @@ def make_slate(log, games, today, sport, status=None, rest=None, defense=None):
                 v = x[stat]
                 if v.mean() < cfg["factor"] * ts[0]:
                     continue
-                hits = [round(float((v >= t).mean()), 3) for t in ts]
+                hits = [round(float((v >= t).mean()), 2) for t in ts]
                 dr, da = defense.get((info["opp"], grp, stat), ("", ""))
                 rows.append([None, player, last.get("pos", ""), last.team, info["opp"],
                              "H" if info["home"] else "A", info.get("fav", ""), info.get("total", ""),
                              status.get(player, ""), rest.get(last.team, ""), stat, w, 0, len(x),
                              round(float(v.mean()), 1), round(float(x[cfg["usage"]].mean()), 1), dr, da]
-                            + hits + [""] * (8 - len(hits)) + [info.get("slot", "")])
+                            + hits + [""] * (MAXH - len(hits)) + [info.get("slot", "")])
     df = pd.DataFrame(rows, columns=SLATE_COLS + ["slot"])
     if not len(df):
         return df[SLATE_COLS]
@@ -263,7 +263,7 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
                     grade = "C"
                 score = (hr + hl) / 2 + (0.05 if tag == "Soft" else 0) - 0.04 * issues
                 p = ((hr + hl) / 2) * (1 - haircut)
-                rows.append([None, grade, who, game, f"Over {t - 0.5:g} {STAT_LABELS[stat]}", stat, round(avg, 1),
+                rows.append([None, grade, who, game, (STAT_LABELS[stat].capitalize() if stat in ("DBL_DBL", "TRP_DBL") else f"Over {t - 0.5:g} {STAT_LABELS[stat]}"), stat, round(avg, 1),
                              f"{int(round(hr * len(r)))} of {len(r)}", f"{int(round(hl * len(lg)))} of {len(lg)}",
                              "" if not tag else f"{tag} ({dr})", round(1 / p, 2), "; ".join(flags),
                              team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t, slot])

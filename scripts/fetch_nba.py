@@ -216,6 +216,9 @@ def build_log(raw):
     d["PA"] = d.PTS + d.AST
     d["RA"] = d.REB + d.AST
     d["STL+BLK"] = d.STL + d.BLK
+    cats = (d.PTS >= 10).astype(int) + (d.REB >= 10) + (d.AST >= 10) + (d.STL >= 10) + (d.BLK >= 10)
+    d["DBL_DBL"] = (cats >= 2).astype(int)
+    d["TRP_DBL"] = (cats >= 3).astype(int)
     d["date"] = d.date.dt.strftime("%Y-%m-%d")
     return d[NBA_COLS]
 

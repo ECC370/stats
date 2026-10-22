@@ -22,7 +22,8 @@ import pandas as pd
 import requests
 
 sys.path.insert(0, str(Path(__file__).parent))
-from schema import NBA_COLS, NBA_PARTS, PLAYER_COLS, write_parts  # noqa: E402
+import extras  # noqa: E402
+from schema import NBA_COLS, NBA_PARTS, PLAYER_COLS, write_parts  # noqa: E402  # noqa: E402
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 RAW = DATA / "nba_raw.csv"
@@ -219,6 +220,128 @@ def build_log(raw):
     return d[NBA_COLS]
 
 
+def norm_status(text):
+    t = (text or "").lower()
+    if "out" in t:
+        return "Out"
+    if "doubt" in t:
+        return "Doubtful"
+    if "quest" in t or "day" in t or "gtd" in t:
+        return "Questionable"
+    return text or ""
+
+
+def espn_injuries():
+    """All teams' injury report from ESPN -> DataFrame(team, player, status, detail)."""
+    teams = {}
+    tj = get_json(BASE + "/teams") or {}
+    for sp in tj.get("sports", []):
+        for lg in sp.get("leagues", []):
+            for t in lg.get("teams", []):
+                t = t.get("team", t)
+                teams[str(t.get("displayName"))] = t.get("abbreviation")
+    js = get_json(BASE + "/injuries") or {}
+    rows = []
+    for blk in js.get("injuries", []):
+        abbr = teams.get(str(blk.get("displayName")), blk.get("displayName"))
+        for i in blk.get("injuries", []):
+            ath = i.get("athlete") or {}
+            name = ath.get("displayName")
+            if not name:
+                continue
+            rows.append([abbr, name, norm_status(i.get("status")),
+                         (i.get("shortComment") or i.get("longComment") or "")[:140]])
+    return pd.DataFrame(rows, columns=["team", "player", "status", "detail"])
+
+
+def clock_et(iso):
+    try:
+        from zoneinfo import ZoneInfo
+        t = pd.Timestamp(iso).tz_convert(ZoneInfo("America/Toronto"))
+        return t.strftime("%a ") + f"{(t.hour - 1) % 12 + 1}:{t.minute:02d} {'PM' if t.hour >= 12 else 'AM'} ET"
+    except Exception:
+        return str(iso)
+
+
+def ml(team_odds):
+    if not isinstance(team_odds, dict):
+        return ""
+    v = team_odds.get("moneyLine", team_odds.get("moneyline", ""))
+    return "" if v is None else v
+
+
+def todays_games(today):
+    """Scoreboard for `today`: ({team: {opp, home, fav, total}}, [game dicts])."""
+    sb = get_json(SCOREBOARD.format(d=today.strftime("%Y%m%d"))) or {}
+    out, glist = {}, []
+    for ev in sb.get("events", []):
+        comp = (ev.get("competitions") or [{}])[0]
+        cs = comp.get("competitors") or []
+        if len(cs) != 2:
+            continue
+        odds = (comp.get("odds") or [{}])[0]
+        fav, total = odds.get("details") or "", odds.get("overUnder") or ""
+        for a, b in ((cs[0], cs[1]), (cs[1], cs[0])):
+            out[a["team"]["abbreviation"]] = {"opp": b["team"]["abbreviation"],
+                                              "home": 1 if a.get("homeAway") == "home" else 0,
+                                              "fav": fav, "total": total}
+        home = next(c for c in cs if c.get("homeAway") == "home")
+        away = next(c for c in cs if c.get("homeAway") == "away")
+        glist.append(dict(when=clock_et(ev.get("date")), away=away["team"]["abbreviation"],
+                          home=home["team"]["abbreviation"], spread=fav, total=total,
+                          aml=ml(odds.get("awayTeamOdds")), hml=ml(odds.get("homeTeamOdds")), venue=""))
+    return out, glist
+
+
+def nba_rest(raw, games, today):
+    """Rest text per team playing today: B2B, 3in4 (3 games in 4 nights) or days of rest."""
+    sched = raw[["team", "date"]].drop_duplicates()
+    sched["date"] = pd.to_datetime(sched["date"])
+    out = {}
+    for team in games:
+        ds = sched[sched.team == team].date
+        if not len(ds):
+            continue
+        days = (pd.Timestamp(today) - ds.max()).days - 1
+        recent = ((ds >= pd.Timestamp(today) - pd.Timedelta(days=3)) & (ds < pd.Timestamp(today))).sum()
+        tags = (["B2B"] if days == 0 else []) + (["3in4"] if recent >= 2 else [])
+        out[team] = " ".join(tags) or f"{max(days, 0)}d"
+    return out
+
+
+def nba_extras(raw, log, today):
+    """Write slate, games, streaks, teams and injuries files."""
+    log = log.copy()
+    pos = raw.dropna(subset=["pos"]).drop_duplicates("player").set_index("player")["pos"]
+    grp = lambda p: "C" if str(p).split("-")[0].upper() == "C" else (  # noqa: E731
+        "G" if str(p).split("-")[0].upper() in ("PG", "SG", "G") else "F")
+    log["pos"] = log.player.map(pos).fillna("")
+    log["group"] = log.pos.map(grp)
+    games, glist = todays_games(today)
+    inj = espn_injuries()
+    inj.rename(columns=dict(team="Team", player="Player", status="Status", detail="Detail")).sort_values(
+        ["Team", "Status"]).to_csv(DATA / "nba_injuries.csv", index=False)
+    status = dict(zip(inj.player, inj.status))
+    rest = nba_rest(raw, games, today)
+    tgm = raw[["team", "game_id", "date", "season", "team_pts", "opp_pts"]].drop_duplicates(["team", "game_id"])
+    tg = tgm.rename(columns={"team_pts": "pf", "opp_pts": "pa"})
+    tt = extras.team_table(tg, "NBA")
+    tt.to_csv(DATA / "nba_teams.csv", index=False)
+    n = extras.CFG["NBA"]["recent_n"]
+    ranks = tt.set_index("Team")[[f"L{n}_off_rk", f"L{n}_def_rk"]]
+    ranks.columns = ["off_rk", "def_rk"]
+    hm = raw[raw.home == 1].drop_duplicates(["game_id"])
+    res = pd.DataFrame({"date": hm.date, "home": hm.team, "away": hm.opp, "hs": hm.team_pts, "as_": hm.opp_pts})
+    for g in glist:
+        g["arest"], g["hrest"] = rest.get(g["away"], ""), rest.get(g["home"], "")
+    extras.games_table(glist, tg, res, ranks, inj).to_csv(DATA / "nba_games.csv", index=False)
+    defense = extras.defense_table(log, "NBA")
+    slate = extras.make_slate(log, games, today, "NBA", status, rest, defense)
+    cap = extras.save_slate(slate, DATA / "nba_slate.csv", "NBA")
+    extras.streaks(log, games, today, "NBA", status).to_csv(DATA / "nba_streaks.csv", index=False)
+    print(f"NBA extras: {len(games) // 2} games today, slate {len(slate)} rows (cap {cap}), injuries {len(inj)}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--since", help="first date to fetch (YYYY-MM-DD) if no data yet")
@@ -247,6 +370,12 @@ def main():
     players = latest[["player", "team"]].merge(pos, on="player", how="left")
     players["pos"] = players.pos.fillna("")
     players.sort_values("player")[PLAYER_COLS].to_csv(DATA / "nba_players.csv", index=False)
+    try:
+        nba_extras(raw, log, today)
+    except Exception as exc:  # the extras must never break the main data
+        import traceback
+        traceback.print_exc()
+        print(f"NBA extras skipped: {exc!r}")
     print(f"NBA: {len(log)} rows, {log.player.nunique()} players, latest {log.date.max()}")
 
 

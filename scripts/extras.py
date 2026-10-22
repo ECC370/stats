@@ -204,7 +204,7 @@ def games_table(glist, tg, results, ranks, inj):
     return pd.DataFrame(rows, columns=cols)
 
 
-def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.10):
+def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.15):
     """For each player on the slate and each stat, the HIGHEST line that cleared in
     nearly every recent game and almost as often over the longer window.
     Grade A = near perfect hit rates and no red flags; B = at most one flag; C = the rest.
@@ -262,7 +262,7 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
                 else:
                     grade = "C"
                 score = (hr + hl) / 2 + (0.05 if tag == "Soft" else 0) - 0.04 * issues
-                p = ((hr + hl) / 2) * (1 - haircut)
+                p = min(((hr + hl) / 2) * (1 - haircut), 0.82)   # backtest: "safe" lines really hit about 77 to 82%
                 rows.append([None, grade, who, game, (STAT_LABELS[stat].capitalize() if stat in ("DBL_DBL", "TRP_DBL") else f"Over {t - 0.5:g} {STAT_LABELS[stat]}"), stat, round(avg, 1),
                              f"{int(round(hr * len(r)))} of {len(r)}", f"{int(round(hl * len(lg)))} of {len(lg)}",
                              "" if not tag else f"{tag} ({dr})", round(1 / p, 2), "; ".join(flags),

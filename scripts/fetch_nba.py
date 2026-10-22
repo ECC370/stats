@@ -322,6 +322,13 @@ def nba_extras(raw, log, today):
     inj.rename(columns=dict(team="Team", player="Player", status="Status", detail="Detail")).sort_values(
         ["Team", "Status"]).to_csv(DATA / "nba_injuries.csv", index=False)
     status = dict(zip(inj.player, inj.status))
+    # first weeks of a season: teams that have not played yet still have last season's stats only
+    cur = int(log.season.max())
+    early = (pd.Timestamp(today) - pd.Timestamp(log[log.season == cur].date.min())).days < 30
+    if early:
+        extras.EARLY["NBA"] = 250
+        for p in log[(log.rk == 1) & (log.season < cur)].player:
+            status.setdefault(p, "Check roster")
     rest = nba_rest(raw, games, today)
     tgm = raw[["team", "game_id", "date", "season", "team_pts", "opp_pts"]].drop_duplicates(["team", "game_id"])
     tg = tgm.rename(columns={"team_pts": "pf", "opp_pts": "pa"})

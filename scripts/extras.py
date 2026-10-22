@@ -26,10 +26,13 @@ def subset(g, window, cur):
     return g[g.rk <= val] if kind == "rk" else g[g.season == cur + val]
 
 
+EARLY = {}   # sport -> longer stale limit, set in the first weeks of a season when some teams have not played yet
+
+
 def eligible(g, sport, today):
     """Is this player relevant enough to show on the slate?"""
     last = g.iloc[0]
-    if (pd.Timestamp(today) - pd.Timestamp(last["date"])).days > CFG[sport]["stale_days"]:
+    if (pd.Timestamp(today) - pd.Timestamp(last["date"])).days > EARLY.get(sport, CFG[sport]["stale_days"]):
         return False
     if sport == "NBA":
         return g.head(10).MIN.mean() >= 15
@@ -86,14 +89,19 @@ def make_slate(log, games, today, sport, status=None, rest=None, defense=None):
                              "H" if info["home"] else "A", info.get("fav", ""), info.get("total", ""),
                              status.get(player, ""), rest.get(last.team, ""), stat, w, 0, len(x),
                              round(float(v.mean()), 1), round(float(x[cfg["usage"]].mean()), 1), dr, da]
-                            + hits + [""] * (8 - len(hits)))
-    df = pd.DataFrame(rows, columns=SLATE_COLS)
-    if len(df):
-        df = df.sort_values(["stat", "window", "avg"], ascending=[True, True, False])
-        df["rank"] = df.groupby(["stat", "window"]).cumcount() + 1
-        df = df[df["rank"] <= SLATE_CAP[sport]].copy()
-        df["key"] = df.stat + "|" + df.window + "|" + df["rank"].astype(str)
-    return df
+                            + hits + [""] * (8 - len(hits)) + [info.get("slot", "")])
+    df = pd.DataFrame(rows, columns=SLATE_COLS + ["slot"])
+    if not len(df):
+        return df[SLATE_COLS]
+    df = df.sort_values(["stat", "window", "avg"], ascending=[True, True, False])
+    parts = []
+    for sl in ["ALL"] + sorted(s for s in df.slot.unique() if s):   # ALL plus one list per primetime slot
+        d = (df if sl == "ALL" else df[df.slot == sl]).copy()
+        d["rank"] = d.groupby(["stat", "window"]).cumcount() + 1
+        d = d[d["rank"] <= SLATE_CAP[sport]].copy()
+        d["key"] = sl + "|" + d.stat + "|" + d.window + "|" + d["rank"].astype(str)
+        parts.append(d)
+    return pd.concat(parts)[SLATE_COLS]
 
 
 def save_slate(df, path, sport):
@@ -222,6 +230,7 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
         rt = rest.get(last.team, "")
         who = player + (f" ({last.get('pos')})" if sport == "NFL" and last.get("pos") else "")
         game = f"{last.team} {'vs' if info['home'] else 'at'} {info['opp']}"
+        slot = info.get("slot", "")
         for stat, ts in thr.items():
             if r[stat].mean() < 0.25 * ts[0]:
                 continue
@@ -242,6 +251,8 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
                     issues += 1; flags.append(rt)
                 if st == "Questionable":
                     issues += 1; flags.append("questionable")
+                if st == "Check roster":
+                    issues += 1; flags.append("last season stats, check roster")
                 if spread >= 10:
                     issues += 1; flags.append("big spread, game script risk")
                 if hr >= 1 and hl >= 0.95 and issues == 0:
@@ -255,23 +266,25 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
                 rows.append([None, grade, who, game, f"Over {t - 0.5:g} {STAT_LABELS[stat]}", stat, round(avg, 1),
                              f"{int(round(hr * len(r)))} of {len(r)}", f"{int(round(hl * len(lg)))} of {len(lg)}",
                              "" if not tag else f"{tag} ({dr})", round(1 / p, 2), "; ".join(flags),
-                             team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t])
+                             team_info.get(info["opp"], ""), round(score, 3), round(cushion, 2), player, t, slot])
                 break
-    df = pd.DataFrame(rows, columns=SAFE_COLS)
+    df = pd.DataFrame(rows, columns=SAFE_COLS + ["slot"])
     if not len(df):
-        return df
+        return df[SAFE_COLS]
     order = {"A": 0, "B": 1, "C": 2}
     df["_g"] = df.grade.map(order)
     df = df.sort_values(["_g", "score", "cushion"], ascending=[True, False, True])
     allowed = {"A only": {"A"}, "A and B": {"A", "B"}, "All": {"A", "B", "C"}}
     parts = []
-    for show in SAFE_SHOW:
-        d = df[df.grade.isin(allowed[show])]
-        best = d.drop_duplicates("player").head(SAFE_CAP_ALL).copy()      # one best play per player
-        best["key"] = [f"ALL|{show}|{i}" for i in range(1, len(best) + 1)]
-        parts.append(best)
-        for stat, x in d.groupby("stat"):
-            x = x.head(SAFE_CAP_STAT).copy()
-            x["key"] = [f"{stat}|{show}|{i}" for i in range(1, len(x) + 1)]
-            parts.append(x)
+    for sl in ["ALL"] + sorted(s for s in df.slot.unique() if s):
+        ds = df if sl == "ALL" else df[df.slot == sl]
+        for show in SAFE_SHOW:
+            d = ds[ds.grade.isin(allowed[show])]
+            best = d.drop_duplicates("player").head(SAFE_CAP_ALL).copy()      # one best play per player
+            best["key"] = [f"{sl}|ALL|{show}|{i}" for i in range(1, len(best) + 1)]
+            parts.append(best)
+            for stat, x in d.groupby("stat"):
+                x = x.head(SAFE_CAP_STAT).copy()
+                x["key"] = [f"{sl}|{stat}|{show}|{i}" for i in range(1, len(x) + 1)]
+                parts.append(x)
     return pd.concat(parts)[SAFE_COLS]

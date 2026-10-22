@@ -142,6 +142,16 @@ def clock(day, t):
         return str(day)
 
 
+def slot_of(day, t):
+    """TNF, SNF or MNF for primetime games, blank for the rest."""
+    try:
+        wd = pd.Timestamp(day).weekday()
+        h = int(str(t).split(":")[0])
+    except Exception:
+        return ""
+    return "TNF" if wd == 3 else ("MNF" if wd == 0 else ("SNF" if wd == 6 and h >= 19 else ""))
+
+
 def nfl_extras(log, games, cur, today):
     """Write slate, games, streaks, teams and injuries files for the coming games."""
     log = log.copy()
@@ -185,8 +195,9 @@ def nfl_extras(log, games, cur, today):
     for r in wkgames.itertuples():
         sp = spread_text(r)
         tot = "" if pd.isna(r.total_line) else r.total_line
-        gdict[r.home_team] = dict(opp=r.away_team, home=1, fav=sp, total=tot)
-        gdict[r.away_team] = dict(opp=r.home_team, home=0, fav=sp, total=tot)
+        sl_ = slot_of(r.gameday, r.gametime)
+        gdict[r.home_team] = dict(opp=r.away_team, home=1, fav=sp, total=tot, slot=sl_)
+        gdict[r.away_team] = dict(opp=r.home_team, home=0, fav=sp, total=tot, slot=sl_)
         rest[r.home_team], rest[r.away_team] = rest_label(r.home_rest), rest_label(r.away_rest)
         roof = "" if pd.isna(r.roof) else r.roof
         glist.append(dict(when=clock(r.gameday, r.gametime), away=r.away_team, home=r.home_team, spread=sp, total=tot,

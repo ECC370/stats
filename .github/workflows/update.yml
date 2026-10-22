@@ -2,6 +2,9 @@ name: Update stats
 on:
   schedule:
     - cron: "0 9 * * *"
+    - cron: "0 16 * * *"
+    - cron: "30 19 * * *"
+    - cron: "30 15 * * 0"
   workflow_dispatch:
 permissions:
   contents: write

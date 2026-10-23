@@ -60,9 +60,39 @@ def defense_table(log, sport):
     return out
 
 
-def make_slate(log, games, today, sport, status=None, rest=None, defense=None):
+ROLE_RULES = {"NFL": [dict(metric="SNAP", recent=2, prior=2, gap=15),     # snap share, percentage points
+                      dict(metric="TGT_SH", recent=3, prior=2, gap=10)],  # share of team targets, percentage points
+              "NBA": [dict(metric="MIN", recent=3, prior=3, gap=5)]}     # minutes
+
+
+def role_changes(log, sport):
+    """'up' or 'down' when a player's recent usage moved a lot versus his earlier games this season.
+    NFL: snap share over the last 2 games, or share of team targets over the last 3. NBA: minutes over the last 3.
+    If one signal says up and another says down, no flag. Returns {player: 'up' or 'down'}."""
+    cur = log.season.max()
+    x = log[log.season == cur]
+    votes = {}
+    for r in ROLE_RULES[sport]:
+        if r["metric"] not in x.columns:
+            continue
+        y = x.assign(m=pd.to_numeric(x[r["metric"]], errors="coerce"))
+        if r["metric"] == "TGT_SH":
+            y = y[y.pos.isin(["WR", "TE", "RB"])] if "pos" in y.columns else y
+        for player, g in y.sort_values("rk").groupby("player"):
+            m = g.m.dropna()
+            if len(m) < r["recent"] + r["prior"]:
+                continue
+            diff = m.iloc[:r["recent"]].mean() - m.iloc[r["recent"]:].mean()
+            if diff >= r["gap"]:
+                votes.setdefault(player, set()).add("up")
+            elif diff <= -r["gap"]:
+                votes.setdefault(player, set()).add("down")
+    return {p: v.pop() for p, v in votes.items() if len(v) == 1}
+
+
+def make_slate(log, games, today, sport, status=None, rest=None, defense=None, role=None):
     """games: {team: {opp, home, fav, total}}. Returns DataFrame in SLATE_COLS."""
-    status, rest, defense = status or {}, rest or {}, defense or {}
+    status, rest, defense, role = status or {}, rest or {}, defense or {}, role or {}
     cfg, thr = CFG[sport], THRESH[sport]
     cur = int(log.season.max())
     wins = SLATE_WINDOWS[sport]
@@ -88,7 +118,7 @@ def make_slate(log, games, today, sport, status=None, rest=None, defense=None):
                 rows.append([None, None, player, last.get("pos", ""), last.team, info["opp"],
                              "H" if info["home"] else "A", info.get("fav", ""), info.get("total", ""),
                              status.get(player, ""), rest.get(last.team, ""), stat, w, 0, len(x),
-                             round(float(v.mean()), 1), round(float(x[cfg["usage"]].mean()), 1), dr, da]
+                             round(float(v.mean()), 1), round(float(x[cfg["usage"]].mean()), 1), dr, da, role.get(player, "")]
                             + hits + [""] * (MAXH - len(hits)) + [game_label(last.team, info)])
     df = pd.DataFrame(rows, columns=SLATE_COLS + ["game"])
     if not len(df):
@@ -197,7 +227,7 @@ def form_text(tg, team, k=5):
     return "".join("W" if r.pf > r.pa else "L" for r in x.itertuples())
 
 
-def games_table(glist, tg, results, ranks, inj):
+def games_table(glist, tg, results, ranks, inj, units=None):
     """glist: list of dicts (when, away, home, spread, total, aml, hml, arest, hrest, venue).
     inj: DataFrame with team, player, status."""
     rows = []
@@ -215,10 +245,13 @@ def games_table(glist, tg, results, ranks, inj):
                      names(h, ["Out", "Doubtful"]), names(h, ["Questionable"]),
                      form_text(tg, a), form_text(tg, h),
                      rk(a, "off_rk"), rk(a, "def_rk"), rk(h, "off_rk"), rk(h, "def_rk"),
-                     last_meetings(results, a, h)])
+                     last_meetings(results, a, h)]
+                    + ([", ".join(units.get(t, {}).get(k, [])) for k in ("OL", "DB", "FRONT") for t in (a, h)] if units is not None else []))
     cols = ["When", "Away", "Home", "Spread", "Total", "Away ML", "Home ML", "Away rest", "Home rest", "Venue",
             "Away out", "Away questionable", "Home out", "Home questionable", "Away form", "Home form",
             "Away off rank", "Away def rank", "Home off rank", "Home def rank", "Last meetings"]
+    if units is not None:
+        cols += ["Away OL out", "Home OL out", "Away DB out", "Home DB out", "Away front out", "Home front out"]
     return pd.DataFrame(rows, columns=cols)
 
 
@@ -227,7 +260,7 @@ def ordinal(n):
     return f"{n}{'th' if 10 <= n % 100 <= 20 else {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th')}"
 
 
-def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.15):
+def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.15, units=None, role=None):
     """For each player on the slate, each stat and each risk level (Safest, Balanced, Reach): the
     HIGHEST line that cleared often enough in the recent and the longer window.
     Grade A = near perfect hit rates and no red flags. B = very high long rate with at most one flag.
@@ -278,6 +311,24 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
                         issues += 1; flags.append("questionable")
                     elif st == "DNP":
                         issues += 1; flags.append("missed practice")
+                    my_u = (units or {}).get(last.team, {}) if units else {}
+                    op_u = (units or {}).get(info["opp"], {}) if units else {}
+                    pass_stat = stat in ("PASS_YDS", "PASS_TD", "COMP", "ATT", "INT", "REC", "TGT", "REC_YDS", "REC_TD", "RR_YDS")
+                    rush_stat = stat.startswith("RUSH") or stat in ("RR_YDS", "TDS")
+                    n_ol = len(my_u.get("OL", []))
+                    if n_ol >= 2:
+                        issues += 1; flags.append(f"{n_ol} OL starters out")
+                    elif n_ol == 1:
+                        flags.append("1 OL starter out")
+                    if pass_stat and op_u.get("DB"):
+                        flags.append(f"+ {len(op_u['DB'])} opp DBs out")
+                    if rush_stat and op_u.get("FRONT"):
+                        flags.append(f"+ {len(op_u['FRONT'])} opp front out")
+                    rl = (role or {}).get(player, "")
+                    if rl == "down":
+                        issues += 1; flags.append("role down")
+                    elif rl == "up":
+                        flags.append("+ role up")
                     if st == "Check roster":
                         issues += 1; flags.append("last season stats, check roster")
                     if spread >= 10:

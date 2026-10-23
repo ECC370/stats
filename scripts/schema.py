@@ -7,6 +7,7 @@ NBA_COLS = [
     "abs_margin", "b2b", "rk",
     "MIN", "PTS", "REB", "AST", "THREES", "STL", "BLK", "TOV",
     "PRA", "PR", "PA", "RA", "STL+BLK", "game_id", "DBL_DBL", "TRP_DBL",
+    "FGA", "FTA", "FG3A",
 ]
 NBA_STATS = ["PTS", "REB", "AST", "THREES", "STL", "BLK", "TOV",
              "PRA", "PR", "PA", "RA", "DBL_DBL", "TRP_DBL", "MIN"]
@@ -18,6 +19,7 @@ NFL_COLS = [
     "RUSH_ATT", "RUSH_YDS", "RUSH_TD",
     "REC", "TGT", "REC_YDS", "REC_TD",
     "RR_YDS", "TDS", "OPP", "FPTS_PPR", "game_id",
+    "SNAP", "TGT_SH", "AY_SH",
 ]
 NFL_STATS = ["PASS_YDS", "PASS_TD", "INT", "COMP", "ATT",
              "RUSH_ATT", "RUSH_YDS", "RUSH_TD",
@@ -100,7 +102,7 @@ SLATE_WINDOWS = {"NBA": ["L5", "L10", "L20", "SEASON", "LAST SEASON"],
                  "NFL": ["L3", "L5", "L8", "SEASON", "LAST SEASON"]}
 MAXH = 16   # most lines shown in the Slate grid
 SLATE_COLS = (["key", "gkey", "player", "pos", "team", "opp", "home", "fav", "total", "status", "rest",
-               "stat", "window", "rank", "gp", "avg", "usage", "def_rk", "def_avg"]
+               "stat", "window", "rank", "gp", "avg", "usage", "def_rk", "def_avg", "role"]
               + [f"h{i}" for i in range(1, MAXH + 1)])
 SLATE_CAP = {"NBA": 70, "NFL": 90}
 

@@ -33,7 +33,7 @@ SUMMARY = BASE + "/summary?event={e}"
 SKIP_SEASON_TYPES = {1, 4}          # 1 = preseason; 4 = offseason / all-star style
 RAW_COLS = ["game_id", "date", "season", "player_id", "player", "pos", "team",
             "opp", "home", "starter", "team_pts", "opp_pts",
-            "MIN", "PTS", "REB", "AST", "3PM", "STL", "BLK", "TOV"]
+            "MIN", "PTS", "REB", "AST", "3PM", "STL", "BLK", "TOV", "FGA", "FTA", "FG3A"]
 HEADERS = {"User-Agent": "Mozilla/5.0 (personal stats sheet)"}
 
 
@@ -84,6 +84,14 @@ def made(text):
     if "-" in s:
         return num(s.split("-", 1)[0])
     return num(s)
+
+
+def attempted(text):
+    """'5-12' -> 12 (attempts). None when missing."""
+    if text is None:
+        return None
+    s = str(text)
+    return num(s.split("-", 1)[1]) if "-" in s else None
 
 
 def parse_summary(js, game_date):
@@ -137,13 +145,21 @@ def parse_summary(js, game_date):
                     "STL": num(rec.get("STL")) or 0,
                     "BLK": num(rec.get("BLK")) or 0,
                     "TOV": num(rec.get("TO")) or 0,
+                    "FGA": attempted(rec.get("FG")),
+                    "FTA": attempted(rec.get("FT")),
+                    "FG3A": attempted(rec.get("3PT")),
                 })
     return rows
 
 
 def load_raw():
     if RAW.exists():
-        return pd.read_csv(RAW, dtype={"game_id": str, "player_id": str})
+        raw = pd.read_csv(RAW, dtype={"game_id": str, "player_id": str})
+        if "FG3A" not in raw.columns:
+            # shot attempts were added later: refetch this season's games once so they carry FGA and FTA
+            cur = raw.season.max() if len(raw) else None
+            raw = raw[raw.season != cur].assign(FGA=None, FTA=None, FG3A=None)
+        return raw
     return pd.DataFrame(columns=RAW_COLS)
 
 
@@ -224,6 +240,9 @@ def build_log(raw):
     d["DBL_DBL"] = (cats >= 2).astype(int)
     d["TRP_DBL"] = (cats >= 3).astype(int)
     d["date"] = d.date.dt.strftime("%Y-%m-%d")
+    for c in ("FGA", "FTA", "FG3A"):  # older stored games have no shot attempts
+        if c not in d.columns:
+            d[c] = None
     return d[NBA_COLS]
 
 
@@ -359,12 +378,13 @@ def nba_extras(raw, log, today):
         g["arest"], g["hrest"] = rest.get(g["away"], ""), rest.get(g["home"], "")
     extras.games_table(glist, tg, res, ranks, inj).to_csv(DATA / "nba_games.csv", index=False)
     defense = extras.defense_table(log, "NBA")
-    slate = extras.make_slate(log, games, today, "NBA", status, rest, defense)
+    role = extras.role_changes(log, "NBA")
+    slate = extras.make_slate(log, games, today, "NBA", status, rest, defense, role)
     cap = extras.save_slate(slate, DATA / "nba_slate.csv", "NBA")
     extras.streaks(log, games, today, "NBA", status).to_csv(DATA / "nba_streaks.csv", index=False)
     pa = tt.set_index("Team")[f"L{n}_pa"].rank(ascending=True, method="min")   # 1 = fewest points allowed
     team_info = {t: f"Defense {int(v)} of {len(pa)}" for t, v in pa.items()}
-    safe = extras.safe_plays(log, games, today, "NBA", status, rest, defense, team_info)
+    safe = extras.safe_plays(log, games, today, "NBA", status, rest, defense, team_info, role=role)
     safe.to_csv(DATA / "nba_safe.csv", index=False)
     print(f"NBA extras: {len(games) // 2} games today, slate {len(slate)} rows (cap {cap}), injuries {len(inj)}")
 

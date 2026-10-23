@@ -39,6 +39,23 @@ def get_csv(url):
     return pd.read_csv(io.BytesIO(r.content), low_memory=False)
 
 
+def snap_pct(d, seasons):
+    """Offensive snap share (whole percent) for each stats row, matched on season, week, team and name. Blank if not found."""
+    frames = []
+    for s in seasons:
+        x = get_csv(SNAP_URL.format(season=s))
+        if x is not None and len(x):
+            frames.append(x[["season", "week", "team", "player", "offense_pct"]])
+    if not frames:
+        return pd.Series([None] * len(d), index=d.index)
+    sn = pd.concat(frames)
+    sn["nm"] = sn.player.map(norm_name)
+    sn = sn.drop_duplicates(["season", "week", "team", "nm"])
+    look = {(int(r.season), int(r.week), r.team, r.nm): r.offense_pct for r in sn.itertuples()}
+    vals = [look.get((int(s), int(w), t, norm_name(p))) for s, w, t, p in zip(d.season, d.week, d.team, d.player_display_name)]
+    return pd.Series([None if v is None or pd.isna(v) else int(round(v * 100)) for v in vals], index=d.index, dtype="object")
+
+
 def build(seasons, games):
     frames = []
     for s in seasons:
@@ -96,6 +113,10 @@ def build(seasons, games):
         "game_id": d.game_id,
         "_pid": d.player_id,
     })
+    # usage: share of team targets and air yards (nflverse), snap share (nflverse snap counts), in whole percent
+    out["TGT_SH"] = (d.target_share.fillna(0) * 100).round().astype(int).values if "target_share" in d else 0
+    out["AY_SH"] = (d.air_yards_share.fillna(0) * 100).round().astype(int).values if "air_yards_share" in d else 0
+    out["SNAP"] = snap_pct(d, seasons).values
     out["RR_YDS"] = out.RUSH_YDS + out.REC_YDS
     out["TDS"] = out.RUSH_TD + out.REC_TD
     out["OPP"] = out.ATT + out.RUSH_ATT + out.TGT
@@ -150,6 +171,43 @@ def slot_of(day, t):
     except Exception:
         return ""
     return "TNF" if wd == 3 else ("MNF" if wd == 0 else ("SNF" if wd == 6 and h >= 19 else ""))
+
+
+SNAP_URL = "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_{season}.csv"
+UNIT_OF = {**{p: "OL" for p in ("T", "G", "C", "OT", "OG", "OL")},
+           **{p: "DB" for p in ("CB", "S", "DB", "FS", "SS", "SAF")},
+           **{p: "FRONT" for p in ("DE", "DT", "NT", "DL", "LB", "OLB", "ILB", "MLB", "EDGE")}}
+
+
+def norm_name(n):
+    import re
+    n = re.sub(r"[^a-z ]", "", str(n).lower().replace("-", " "))
+    return " ".join(w for w in n.split() if w not in ("jr", "sr", "ii", "iii", "iv"))
+
+
+def unit_injuries(inj, cur):
+    """Starters on the line (OL), in the secondary (DB) and up front (DL and LB) who are Out, Doubtful or did not
+    practise. A starter is a player who took 60% (OL) or 50% (defense) of the snaps in any of his team's last 3 games.
+    Returns {team: {"OL": [...], "DB": [...], "FRONT": [...]}}."""
+    snaps = get_csv(SNAP_URL.format(season=cur))
+    out = {}
+    if snaps is None or not len(snaps) or not len(inj):
+        return out
+    snaps = snaps[(snaps.season == cur) & (snaps.game_type == "REG") & snaps.position.isin(UNIT_OF)].copy()
+    snaps["unit"] = snaps.position.map(UNIT_OF)
+    snaps["pct"] = snaps.offense_pct.where(snaps.unit == "OL", snaps.defense_pct)
+    snaps["nm"] = snaps.player.map(norm_name)
+    last3 = snaps.sort_values("week").groupby(["team", "nm"]).tail(3)
+    best = last3.groupby(["team", "nm"]).agg(pct=("pct", "max"), unit=("unit", "first")).reset_index()
+    best = best[((best.unit == "OL") & (best.pct >= 0.6)) | ((best.unit != "OL") & (best.pct >= 0.5))]
+    starters = {(r.team, r.nm): r.unit for r in best.itertuples()}
+    for r in inj[inj.status.isin(["Out", "Doubtful", "DNP"])].itertuples():
+        unit = starters.get((r.team, norm_name(r.player)))
+        if not unit:
+            continue
+        tag = " (DNP)" if r.status == "DNP" else ""
+        out.setdefault(r.team, {"OL": [], "DB": [], "FRONT": []})[unit].append(f"{r.player} {r.pos}{tag}")
+    return out
 
 
 def nfl_extras(log, games, cur, today):
@@ -226,13 +284,19 @@ def nfl_extras(log, games, cur, today):
     res = pd.DataFrame({"date": done.gameday, "home": done.home_team, "away": done.away_team,
                         "hs": done.home_score, "as_": done.away_score})
     skill = inj[inj.pos.isin(["QB", "RB", "WR", "TE"])]
-    extras.games_table(glist, tg, res, ranks, skill).to_csv(DATA / "nfl_games.csv", index=False)
+    try:
+        units = unit_injuries(inj, cur)
+    except Exception as exc:
+        print(f"unit injuries skipped: {exc!r}")
+        units = {}
+    extras.games_table(glist, tg, res, ranks, skill, units=units).to_csv(DATA / "nfl_games.csv", index=False)
     defense = extras.defense_table(log, "NFL")
-    slate = extras.make_slate(log, gdict, today, "NFL", status, rest, defense)
+    role = extras.role_changes(log, "NFL")
+    slate = extras.make_slate(log, gdict, today, "NFL", status, rest, defense, role)
     cap = extras.save_slate(slate, DATA / "nfl_slate.csv", "NFL")
     extras.streaks(log, gdict, today, "NFL", status).to_csv(DATA / "nfl_streaks.csv", index=False)
     team_info = {t: f"Run D {int(disp.loc[t, 'Rush D rank'])} / Pass D {int(disp.loc[t, 'Pass D rank'])}" for t in disp.index}
-    safe = extras.safe_plays(log, gdict, today, "NFL", status, rest, defense, team_info)
+    safe = extras.safe_plays(log, gdict, today, "NFL", status, rest, defense, team_info, units=units, role=role)
     safe.to_csv(DATA / "nfl_safe.csv", index=False)
     print(f"safe plays: {len(safe)} rows")
     print(f"NFL extras: {len(gdict) // 2} games, slate {len(slate)} rows (cap {cap}), injuries {len(inj)}")

@@ -134,7 +134,7 @@ def game_label(team, info):
     return f"{info['opp']} at {team}" if info["home"] else f"{team} at {info['opp']}"
 
 
-GAME_CAP = {"NFL": 8, "NBA": 10}    # players kept per game, per stat and window, for the game picker
+GAME_CAP = {"NFL": 12, "NBA": 15}    # players kept per game, per stat and window, for the game picker
 
 
 def with_keys(df, cap, gcap):
@@ -150,17 +150,43 @@ def with_keys(df, cap, gcap):
     return d[SLATE_COLS]
 
 
+SLATE_PARTS = 2          # the slate is written as 2 files so per game lists do not get trimmed
+SLATE_MAX_ROWS = 11500   # the sheet reads up to row 12000
+
+
 def save_slate(df, path, sport):
-    """Write the slate, trimming ranks until it fits Google's import limit."""
-    cap, gcap = SLATE_CAP[sport], GAME_CAP[sport]
-    while True:
-        text = with_keys(df, cap, gcap).to_csv(index=False) if len(df) else ",".join(SLATE_COLS) + "\n"
-        if len(text.encode()) <= LIMIT or cap <= 20:
-            break
-        cap -= 5
-        gcap = max(8, min(gcap, cap // 5))
+    """Write the slate as name_1.csv and name_2.csv (each under Google's import limit), trimming ranks only if
+    even two files are not enough. Also writes the old single file (trimmed to fit) for sheets built before the split."""
+    import os
+    path = str(path)
+    stem = path[:-4]
+    def fit(limit, cap, gcap, rows_max=10**9):
+        while True:
+            d = with_keys(df, cap, gcap) if len(df) else pd.DataFrame(columns=SLATE_COLS)
+            text = d.to_csv(index=False)
+            if (len(text.encode()) <= limit and len(d) <= rows_max) or cap <= 20:
+                return text, cap
+            cap -= 5
+            gcap = max(8, min(gcap, cap // 5))
+    # old single file
+    text1, _ = fit(LIMIT, SLATE_CAP[sport], min(GAME_CAP[sport], 10))
     with open(path, "w", newline="") as f:
-        f.write(text)
+        f.write(text1)
+    # split files
+    text, cap = fit(SLATE_PARTS * LIMIT - 20_000, SLATE_CAP[sport], GAME_CAP[sport], SLATE_MAX_ROWS)
+    lines = text.split("\n")
+    header, body = lines[0], [l for l in lines[1:] if l]
+    parts, cur, size = [], [], len(header) + 1
+    for l in body:
+        b = len(l.encode()) + 1
+        if cur and size + b > LIMIT - 5_000 and len(parts) < SLATE_PARTS - 1:
+            parts.append(cur); cur, size = [], len(header) + 1
+        cur.append(l); size += b
+    parts.append(cur)
+    for i in range(SLATE_PARTS):
+        rows = parts[i] if i < len(parts) else []
+        with open(f"{stem}_{i + 1}.csv", "w", newline="") as f:
+            f.write(header + "\n" + "".join(r + "\n" for r in rows))
     return cap
 
 
@@ -258,6 +284,9 @@ def games_table(glist, tg, results, ranks, inj, units=None):
 def ordinal(n):
     n = int(n)
     return f"{n}{'th' if 10 <= n % 100 <= 20 else {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th')}"
+
+
+COMBO_STATS = {"PRA", "PR", "PA", "RA", "RR_YDS"}
 
 
 def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, team_info=None, haircut=0.15, units=None, role=None):
@@ -360,7 +389,10 @@ def safe_plays(log, games, today, sport, status=None, rest=None, defense=None, t
         dr_ = df[df.risk == risk]
         for show in SAFE_SHOW:
             d = dr_[dr_.grade.isin(allowed[show])]
-            best = d.drop_duplicates("player").copy()          # one best play per player
+            # best single stat and best combined stat per player (combined stats often have no alternate ladder)
+            combo = d.stat.isin(COMBO_STATS)
+            keep = set(d[~combo].drop_duplicates("player").index) | set(d[combo].drop_duplicates("player").index)
+            best = d[d.index.isin(keep)].copy()
             lists = [("ALL", best)] + [(stat, x) for stat, x in d.groupby("stat")]
             for stat, x in lists:
                 x = x.copy()

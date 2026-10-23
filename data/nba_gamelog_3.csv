@@ -1,6 +1,5 @@
 key,season,date,player,team,opp,home,starter,abs_margin,b2b,rk,MIN,PTS,REB,AST,THREES,STL,BLK,TOV,PRA,PR,PA,RA,DBL_DBL,TRP_DBL,FGA,FTA,FG3A
-Kyrie Irving|1,2027,2026-10-21,Kyrie Irving,DAL,HOU,0,1,18,0,1,24,15,4,2,1,1,0,4,21,19,17,6,0,0,9.0,2.0,4.0
-Kyshawn George|1,2027,2026-10-21,Kyshawn George,WSH,MIL,1,1,12,0,1,29,18,5,3,1,1,1,4,26,23,21,8,0,0,14.0,1.0,6.0
+Kyshawn George|1,2027,2026-10-21,Kyshawn George,WSH,MIL,1,1,12,0,1,29,18,5,3,1,1,1,4,26,23,21,8,0,0,14,1,6
 Kyshawn George|2,2026,2026-03-02,Kyshawn George,WSH,HOU,1,1,5,0,2,22,16,1,2,3,1,0,0,19,17,18,3,0,0,,,
 Kyshawn George|3,2026,2026-02-28,Kyshawn George,WSH,TOR,1,1,9,0,3,15,14,3,1,3,0,2,1,18,17,15,4,0,0,,,
 Kyshawn George|4,2026,2026-02-24,Kyshawn George,WSH,ATL,0,1,21,0,4,21,11,2,2,1,0,0,4,15,13,13,4,0,0,,,
@@ -49,7 +48,7 @@ Kyshawn George|46,2026,2025-10-28,Kyshawn George,WSH,PHI,1,1,5,0,46,40,20,9,7,4,
 Kyshawn George|47,2026,2025-10-26,Kyshawn George,WSH,CHA,1,1,26,0,47,25,6,8,5,0,0,0,3,19,14,11,13,0,0,,,
 Kyshawn George|48,2026,2025-10-24,Kyshawn George,WSH,DAL,0,1,10,0,48,35,34,11,4,7,2,3,5,49,45,38,15,1,0,,,
 Kyshawn George|49,2026,2025-10-22,Kyshawn George,WSH,MIL,0,1,13,0,49,32,21,9,4,3,1,2,2,34,30,25,13,0,0,,,
-LJ Cryer|1,2027,2026-10-21,LJ Cryer,GS,LAL,0,0,22,0,1,9,9,1,3,2,0,0,0,13,10,12,4,0,0,6.0,2.0,4.0
+LJ Cryer|1,2027,2026-10-21,LJ Cryer,GS,LAL,0,0,22,0,1,9,9,1,3,2,0,0,0,13,10,12,4,0,0,6,2,4
 LJ Cryer|2,2026,2026-04-09,LJ Cryer,GS,LAL,1,0,16,0,2,15,8,1,2,2,1,0,2,11,9,10,3,0,0,,,
 LJ Cryer|3,2026,2026-04-02,LJ Cryer,GS,CLE,1,0,7,1,3,25,12,1,0,3,0,0,0,13,13,12,1,0,0,,,
 LJ Cryer|4,2026,2026-04-01,LJ Cryer,GS,SA,1,1,14,0,4,23,17,1,3,2,0,0,2,21,18,20,4,0,0,,,
@@ -68,7 +67,7 @@ LJ Cryer|16,2026,2026-03-05,LJ Cryer,GS,HOU,0,0,2,0,16,20,12,3,1,4,0,0,1,16,15,1
 LJ Cryer|17,2026,2026-01-25,LJ Cryer,GS,MIN,0,0,26,0,17,3,3,1,0,1,0,0,0,4,4,3,1,0,0,,,
 LJ Cryer|18,2026,2026-01-20,LJ Cryer,GS,TOR,1,0,18,1,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 LJ Cryer|19,2026,2026-01-19,LJ Cryer,GS,MIA,1,0,23,0,19,3,3,0,0,1,0,0,0,3,3,3,0,0,0,,,
-LaMelo Ball|1,2027,2026-10-21,LaMelo Ball,MIN,MIA,0,1,25,0,1,29,21,2,6,5,2,0,1,29,23,27,8,0,0,17.0,3.0,13.0
+LaMelo Ball|1,2027,2026-10-21,LaMelo Ball,MIN,MIA,0,1,25,0,1,29,21,2,6,5,2,0,1,29,23,27,8,0,0,17,3,13
 LaMelo Ball|2,2026,2026-04-17,LaMelo Ball,CHA,ORL,0,1,31,0,2,25,23,2,5,3,0,0,3,30,25,28,7,0,0,,,
 LaMelo Ball|3,2026,2026-04-14,LaMelo Ball,CHA,MIA,1,1,1,0,3,40,30,5,10,2,1,1,3,45,35,40,15,1,0,,,
 LaMelo Ball|4,2026,2026-04-12,LaMelo Ball,CHA,NY,0,1,14,0,4,29,19,7,6,5,2,1,5,32,26,25,13,0,0,,,
@@ -157,7 +156,7 @@ Lachlan Olbrich|11,2026,2026-03-25,Lachlan Olbrich,CHI,PHI,0,0,20,0,11,6,2,2,0,0
 Lachlan Olbrich|12,2026,2026-03-18,Lachlan Olbrich,CHI,TOR,1,0,30,0,12,8,2,2,0,0,2,0,0,4,4,2,2,0,0,,,
 Lachlan Olbrich|13,2026,2026-03-16,Lachlan Olbrich,CHI,MEM,1,0,25,0,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
 Lachlan Olbrich|14,2026,2026-03-12,Lachlan Olbrich,CHI,LAL,0,0,12,0,14,6,4,0,1,0,0,1,2,5,4,5,1,0,0,,,
-Landry Shamet|1,2027,2026-10-20,Landry Shamet,NY,PHI,1,0,6,0,1,25,5,2,4,1,0,0,2,11,7,9,6,0,0,7.0,2.0,4.0
+Landry Shamet|1,2027,2026-10-20,Landry Shamet,NY,PHI,1,0,6,0,1,25,5,2,4,1,0,0,2,11,7,9,6,0,0,7,2,4
 Landry Shamet|2,2026,2026-06-13,Landry Shamet,NY,SA,0,0,4,0,2,13,5,1,0,1,0,0,0,6,6,5,1,0,0,,,
 Landry Shamet|3,2026,2026-06-10,Landry Shamet,NY,SA,1,0,1,0,3,21,0,2,1,0,0,0,0,3,2,1,3,0,0,,,
 Landry Shamet|4,2026,2026-06-08,Landry Shamet,NY,SA,1,0,4,0,4,23,3,4,2,1,0,1,0,9,7,5,6,0,0,,,
@@ -227,7 +226,7 @@ Landry Shamet|67,2026,2025-10-28,Landry Shamet,NY,MIL,0,1,10,0,67,30,16,3,1,4,1,
 Landry Shamet|68,2026,2025-10-26,Landry Shamet,NY,MIA,0,0,8,0,68,16,0,1,1,0,0,0,0,2,1,1,2,0,0,,,
 Landry Shamet|69,2026,2025-10-24,Landry Shamet,NY,BOS,1,0,10,0,69,14,3,3,0,1,0,0,2,6,6,3,3,0,0,,,
 Landry Shamet|70,2026,2025-10-22,Landry Shamet,NY,CLE,1,0,8,0,70,14,9,2,1,2,1,0,1,12,11,10,3,0,0,,,
-Larry Nance Jr.|1,2027,2026-10-21,Larry Nance Jr.,IND,NO,0,0,3,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,1.0
+Larry Nance Jr.|1,2027,2026-10-21,Larry Nance Jr.,IND,NO,0,0,3,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
 Larry Nance Jr.|2,2026,2026-04-23,Larry Nance Jr.,CLE,TOR,0,0,22,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Larry Nance Jr.|3,2026,2026-04-18,Larry Nance Jr.,CLE,TOR,1,0,13,0,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
 Larry Nance Jr.|4,2026,2026-04-12,Larry Nance Jr.,CLE,WSH,1,1,13,0,4,20,10,6,3,1,0,1,0,19,16,13,9,0,0,,,
@@ -265,7 +264,7 @@ Larry Nance Jr.|35,2026,2025-10-27,Larry Nance Jr.,CLE,DET,0,0,21,1,35,18,3,4,2,
 Larry Nance Jr.|36,2026,2025-10-26,Larry Nance Jr.,CLE,MIL,1,0,5,0,36,12,5,5,1,1,1,0,1,11,10,6,6,0,0,,,
 Larry Nance Jr.|37,2026,2025-10-24,Larry Nance Jr.,CLE,BKN,0,0,7,0,37,16,9,3,1,0,1,0,0,13,12,10,4,0,0,,,
 Larry Nance Jr.|38,2026,2025-10-22,Larry Nance Jr.,CLE,NY,0,0,8,0,38,17,10,6,1,2,0,0,1,17,16,11,7,0,0,,,
-Lauri Markkanen|1,2027,2026-10-21,Lauri Markkanen,UTAH,MEM,0,1,20,0,1,36,18,9,3,1,0,1,3,30,27,21,12,0,0,13.0,10.0,7.0
+Lauri Markkanen|1,2027,2026-10-21,Lauri Markkanen,UTAH,MEM,0,1,20,0,1,36,18,9,3,1,0,1,3,30,27,21,12,0,0,13,10,7
 Lauri Markkanen|2,2026,2026-02-23,Lauri Markkanen,UTAH,HOU,0,1,20,0,2,32,29,3,2,1,2,0,2,34,32,31,5,0,0,,,
 Lauri Markkanen|3,2026,2026-02-11,Lauri Markkanen,UTAH,SAC,1,1,28,0,3,21,19,7,3,1,1,0,0,29,26,22,10,0,0,,,
 Lauri Markkanen|4,2026,2026-02-09,Lauri Markkanen,UTAH,MIA,0,1,4,0,4,25,17,8,1,3,0,0,1,26,25,18,9,0,0,,,
@@ -310,8 +309,8 @@ Lauri Markkanen|42,2026,2025-10-24,Lauri Markkanen,UTAH,SAC,0,1,1,0,42,36,33,4,1
 Lauri Markkanen|43,2026,2025-10-22,Lauri Markkanen,UTAH,LAC,1,1,21,0,43,33,20,6,5,4,0,0,1,31,26,25,11,0,0,,,
 Lawson Lovering|1,2026,2026-02-20,Lawson Lovering,MEM,UTAH,1,1,9,0,1,32,11,11,3,0,1,1,1,25,22,14,14,1,0,,,
 Lawson Lovering|2,2026,2026-02-11,Lawson Lovering,MEM,DEN,0,0,6,0,2,18,3,4,0,0,2,0,1,7,7,3,4,0,0,,,
-LeBron James|1,2027,2026-10-22,LeBron James,PHI,CLE,1,1,8,0,1,33,17,10,5,1,3,1,5,32,27,22,15,1,0,14.0,7.0,4.0
-LeBron James|2,2027,2026-10-20,LeBron James,PHI,NY,0,1,6,0,2,34,14,9,7,0,1,1,1,30,23,21,16,0,0,13.0,6.0,3.0
+LeBron James|1,2027,2026-10-22,LeBron James,PHI,CLE,1,1,8,0,1,33,17,10,5,1,3,1,5,32,27,22,15,1,0,14,7,4
+LeBron James|2,2027,2026-10-20,LeBron James,PHI,NY,0,1,6,0,2,34,14,9,7,0,1,1,1,30,23,21,16,0,0,13,6,3
 LeBron James|3,2026,2026-05-11,LeBron James,LAL,OKC,1,1,5,0,3,40,24,12,3,2,0,1,4,39,36,27,15,1,0,,,
 LeBron James|4,2026,2026-05-09,LeBron James,LAL,OKC,1,1,23,0,4,37,19,6,8,2,1,0,3,33,25,27,14,0,0,,,
 LeBron James|5,2026,2026-05-07,LeBron James,LAL,OKC,0,1,18,0,5,38,23,2,6,1,3,0,3,31,25,29,8,0,0,,,
@@ -397,7 +396,7 @@ Leaky Black|12,2026,2026-03-08,Leaky Black,WSH,NO,0,1,20,0,12,31,10,4,2,2,1,0,0,
 Leaky Black|13,2026,2026-03-05,Leaky Black,WSH,UTAH,1,1,10,0,13,39,16,3,1,4,0,0,3,20,19,17,4,0,0,,,
 Leaky Black|14,2026,2026-03-03,Leaky Black,WSH,ORL,0,0,17,1,14,31,8,9,1,0,0,2,0,18,17,9,10,0,0,,,
 Leaky Black|15,2026,2026-02-26,Leaky Black,WSH,ATL,0,0,30,0,15,30,4,7,0,0,0,2,0,11,11,4,7,0,0,,,
-Leonard Miller|1,2027,2026-10-21,Leonard Miller,CHI,TOR,0,0,43,0,1,26,4,6,1,0,1,0,5,11,10,5,7,0,0,9.0,0.0,4.0
+Leonard Miller|1,2027,2026-10-21,Leonard Miller,CHI,TOR,0,0,43,0,1,26,4,6,1,0,1,0,5,11,10,5,7,0,0,9,0,4
 Leonard Miller|2,2026,2026-04-12,Leonard Miller,CHI,DAL,0,1,21,0,2,35,17,7,2,1,0,1,3,26,24,19,9,0,0,,,
 Leonard Miller|3,2026,2026-04-10,Leonard Miller,CHI,ORL,1,1,24,1,3,39,15,7,4,2,3,1,3,26,22,19,11,0,0,,,
 Leonard Miller|4,2026,2026-04-09,Leonard Miller,CHI,WSH,0,1,11,0,4,39,26,11,3,2,1,1,2,40,37,29,14,1,0,,,
@@ -444,7 +443,7 @@ Leonard Miller|44,2026,2025-11-05,Leonard Miller,MIN,NY,0,0,23,0,44,3,2,1,0,0,1,
 Leonard Miller|45,2026,2025-11-03,Leonard Miller,MIN,BKN,0,0,16,0,45,3,2,1,0,0,0,0,0,3,3,2,1,0,0,,,
 Leonard Miller|46,2026,2025-10-27,Leonard Miller,MIN,DEN,1,0,13,1,46,3,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Leonard Miller|47,2026,2025-10-24,Leonard Miller,MIN,LAL,0,0,18,0,47,4,2,1,0,0,0,0,1,3,3,2,1,0,0,,,
-Liam McNeeley|1,2027,2026-10-21,Liam McNeeley,CHA,BKN,0,0,7,0,1,3,0,1,0,0,0,0,0,1,1,0,1,0,0,1.0,0.0,1.0
+Liam McNeeley|1,2027,2026-10-21,Liam McNeeley,CHA,BKN,0,0,7,0,1,3,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,1
 Liam McNeeley|2,2026,2026-04-17,Liam McNeeley,CHA,ORL,0,0,31,0,2,6,2,0,0,0,1,0,0,2,2,2,0,0,0,,,
 Liam McNeeley|3,2026,2026-04-12,Liam McNeeley,CHA,NY,0,0,14,0,3,4,0,1,1,0,0,0,0,2,1,1,2,0,0,,,
 Liam McNeeley|4,2026,2026-03-29,Liam McNeeley,CHA,BOS,1,0,15,1,4,11,10,6,0,1,0,0,0,16,16,10,6,0,0,,,
@@ -568,7 +567,7 @@ Lucas Williamson|4,2026,2026-04-06,Lucas Williamson,MEM,CLE,1,1,16,1,4,40,17,5,4
 Lucas Williamson|5,2026,2026-04-05,Lucas Williamson,MEM,MIL,0,0,16,0,5,36,5,4,4,1,1,0,3,13,9,9,8,0,0,,,
 Lucas Williamson|6,2026,2026-04-03,Lucas Williamson,MEM,TOR,1,0,32,0,6,20,5,4,2,1,0,0,1,11,9,7,6,0,0,,,
 Lucas Williamson|7,2026,2026-04-01,Lucas Williamson,MEM,NY,1,0,11,0,7,8,2,0,1,0,0,0,0,3,2,3,1,0,0,,,
-Luguentz Dort|1,2027,2026-10-21,Luguentz Dort,ATL,ORL,0,0,7,0,1,28,8,4,0,2,1,0,2,12,12,8,4,0,0,7.0,2.0,5.0
+Luguentz Dort|1,2027,2026-10-21,Luguentz Dort,ATL,ORL,0,0,7,0,1,28,8,4,0,2,1,0,2,12,12,8,4,0,0,7,2,5
 Luguentz Dort|2,2026,2026-05-30,Luguentz Dort,OKC,SA,1,1,8,0,2,16,3,1,2,1,0,0,0,6,4,5,3,0,0,,,
 Luguentz Dort|3,2026,2026-05-28,Luguentz Dort,OKC,SA,0,1,27,0,3,23,5,1,0,1,1,1,1,6,6,5,1,0,0,,,
 Luguentz Dort|4,2026,2026-05-26,Luguentz Dort,OKC,SA,1,1,13,0,4,18,7,4,0,1,0,0,0,11,11,7,4,0,0,,,
@@ -653,7 +652,7 @@ Luguentz Dort|82,2026,2025-10-27,Luguentz Dort,OKC,DAL,0,1,7,0,82,32,6,5,1,2,0,0
 Luguentz Dort|83,2026,2025-10-25,Luguentz Dort,OKC,ATL,0,1,17,0,83,27,5,2,1,1,2,0,0,8,7,6,3,0,0,,,
 Luguentz Dort|84,2026,2025-10-23,Luguentz Dort,OKC,IND,0,1,6,0,84,43,7,8,2,1,1,0,3,17,15,9,10,0,0,,,
 Luguentz Dort|85,2026,2025-10-21,Luguentz Dort,OKC,HOU,1,1,1,0,85,45,6,6,5,0,1,0,1,17,12,11,11,0,0,,,
-Luka Doncic|1,2027,2026-10-21,Luka Doncic,LAL,GS,1,1,22,0,1,30,28,8,7,5,3,0,6,43,36,35,15,0,0,18.0,9.0,12.0
+Luka Doncic|1,2027,2026-10-21,Luka Doncic,LAL,GS,1,1,22,0,1,30,28,8,7,5,3,0,6,43,36,35,15,0,0,18,9,12
 Luka Doncic|2,2026,2026-04-02,Luka Doncic,LAL,OKC,0,1,43,0,2,26,12,4,7,1,1,0,6,23,16,19,11,0,0,,,
 Luka Doncic|3,2026,2026-03-31,Luka Doncic,LAL,CLE,1,1,14,1,3,34,42,5,12,6,2,0,0,59,47,54,17,1,0,,,
 Luka Doncic|4,2026,2026-03-27,Luka Doncic,LAL,BKN,1,1,17,0,4,39,41,8,3,5,3,1,5,52,49,44,11,0,0,,,
@@ -718,7 +717,7 @@ Luka Doncic|62,2026,2025-11-02,Luka Doncic,LAL,MIA,1,1,10,0,62,38,29,11,10,1,3,0
 Luka Doncic|63,2026,2025-10-31,Luka Doncic,LAL,MEM,0,1,5,0,63,39,44,12,6,6,0,0,5,62,56,50,18,1,0,,,
 Luka Doncic|64,2026,2025-10-24,Luka Doncic,LAL,MIN,1,1,18,0,64,35,49,11,8,5,0,0,3,68,60,57,19,1,0,,,
 Luka Doncic|65,2026,2025-10-21,Luka Doncic,LAL,GS,1,1,10,0,65,41,43,12,9,2,2,1,3,64,55,52,21,1,0,,,
-Luka Garza|1,2027,2026-10-20,Luka Garza,BOS,DET,0,0,8,0,1,8,2,2,0,0,0,0,1,4,4,2,2,0,0,3.0,0.0,2.0
+Luka Garza|1,2027,2026-10-20,Luka Garza,BOS,DET,0,0,8,0,1,8,2,2,0,0,0,0,1,4,4,2,2,0,0,3,0,2
 Luka Garza|2,2026,2026-05-02,Luka Garza,BOS,PHI,1,1,9,0,2,9,0,0,0,0,0,1,1,0,0,0,0,0,0,,,
 Luka Garza|3,2026,2026-04-30,Luka Garza,BOS,PHI,0,0,13,0,3,14,9,2,1,1,0,0,0,12,11,10,3,0,0,,,
 Luka Garza|4,2026,2026-04-28,Luka Garza,BOS,PHI,1,0,16,0,4,6,4,0,1,0,0,0,0,5,4,5,1,0,0,,,
@@ -883,7 +882,7 @@ Luke Kennard|85,2026,2025-10-27,Luke Kennard,ATL,CHI,0,0,5,0,85,21,7,3,2,1,0,0,1
 Luke Kennard|86,2026,2025-10-25,Luke Kennard,ATL,OKC,1,0,17,1,86,21,5,0,3,1,0,0,1,8,5,8,3,0,0,,,
 Luke Kennard|87,2026,2025-10-24,Luke Kennard,ATL,ORL,0,0,4,0,87,23,6,3,2,0,1,0,2,11,9,8,5,0,0,,,
 Luke Kennard|88,2026,2025-10-22,Luke Kennard,ATL,TOR,1,0,20,0,88,30,6,4,3,1,1,0,3,13,10,9,7,0,0,,,
-Luke Kornet|1,2027,2026-10-20,Luke Kornet,SA,OKC,1,0,12,0,1,13,4,1,0,0,0,1,0,5,5,4,1,0,0,2.0,0.0,0.0
+Luke Kornet|1,2027,2026-10-20,Luke Kornet,SA,OKC,1,0,12,0,1,13,4,1,0,0,0,1,0,5,5,4,1,0,0,2,0,0
 Luke Kornet|2,2026,2026-06-13,Luke Kornet,SA,NY,1,0,4,0,2,10,0,2,0,0,0,0,1,2,2,0,2,0,0,,,
 Luke Kornet|3,2026,2026-06-10,Luke Kornet,SA,NY,0,0,1,0,3,4,0,0,0,0,1,0,0,0,0,0,0,0,0,,,
 Luke Kornet|4,2026,2026-06-08,Luke Kornet,SA,NY,0,0,4,0,4,9,2,5,2,0,1,0,0,9,7,4,7,0,0,,,
@@ -1040,7 +1039,7 @@ Malaki Branham|23,2026,2025-11-12,Malaki Branham,WSH,HOU,0,0,23,0,23,3,2,0,1,0,0
 Malaki Branham|24,2026,2025-11-08,Malaki Branham,WSH,DAL,1,0,6,1,24,10,2,4,2,0,0,0,1,8,6,4,6,0,0,,,
 Malaki Branham|25,2026,2025-11-05,Malaki Branham,WSH,BOS,0,0,29,0,25,17,10,3,0,0,0,0,0,13,13,10,3,0,0,,,
 Malaki Branham|26,2026,2025-11-03,Malaki Branham,WSH,NY,0,0,17,0,26,4,5,1,0,1,0,0,0,6,6,5,1,0,0,,,
-Malevy Leons|1,2027,2026-10-21,Malevy Leons,GS,LAL,0,0,22,0,1,9,0,1,0,0,1,0,0,1,1,0,1,0,0,4.0,0.0,1.0
+Malevy Leons|1,2027,2026-10-21,Malevy Leons,GS,LAL,0,0,22,0,1,9,0,1,0,0,1,0,0,1,1,0,1,0,0,4,0,1
 Malevy Leons|2,2026,2026-04-12,Malevy Leons,GS,LAC,0,0,5,0,2,17,8,2,2,0,0,0,0,12,10,10,4,0,0,,,
 Malevy Leons|3,2026,2026-04-10,Malevy Leons,GS,SAC,0,0,6,1,3,12,7,2,0,1,2,0,0,9,9,7,2,0,0,,,
 Malevy Leons|4,2026,2026-04-09,Malevy Leons,GS,LAL,1,0,16,0,4,24,12,4,3,0,2,0,2,19,16,15,7,0,0,,,
@@ -1128,7 +1127,7 @@ Malik Monk|59,2026,2025-10-28,Malik Monk,SAC,OKC,0,0,6,0,59,26,9,2,4,0,1,0,2,15,
 Malik Monk|60,2026,2025-10-26,Malik Monk,SAC,LAL,1,0,7,0,60,24,15,1,2,3,2,2,1,18,16,17,3,0,0,,,
 Malik Monk|61,2026,2025-10-24,Malik Monk,SAC,UTAH,1,0,1,0,61,21,20,1,3,6,2,2,1,24,21,23,4,0,0,,,
 Malik Monk|62,2026,2025-10-22,Malik Monk,SAC,PHX,0,0,4,0,62,27,19,1,2,3,0,0,0,22,20,21,3,0,0,,,
-Maliq Brown|1,2027,2026-10-20,Maliq Brown,SA,OKC,1,0,12,0,1,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0.0,0.0,0.0
+Maliq Brown|1,2027,2026-10-20,Maliq Brown,SA,OKC,1,0,12,0,1,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0
 MarJon Beauchamp|1,2026,2026-04-12,MarJon Beauchamp,PHI,MIL,1,0,20,0,1,3,3,1,0,0,0,0,0,4,4,3,1,0,0,,,
 MarJon Beauchamp|2,2026,2026-04-04,MarJon Beauchamp,PHI,DET,1,0,23,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 MarJon Beauchamp|3,2026,2026-04-01,MarJon Beauchamp,PHI,WSH,0,0,22,0,3,3,3,0,1,1,0,0,0,4,3,4,1,0,0,,,
@@ -1143,7 +1142,7 @@ MarJon Beauchamp|11,2026,2026-03-12,MarJon Beauchamp,PHI,DET,0,0,22,0,11,31,17,6
 MarJon Beauchamp|12,2026,2026-03-09,MarJon Beauchamp,PHI,CLE,0,0,14,0,12,5,8,0,0,2,1,0,1,8,8,8,0,0,0,,,
 MarJon Beauchamp|13,2026,2026-02-11,MarJon Beauchamp,PHI,NY,1,0,49,0,13,16,8,3,1,2,0,1,3,12,11,9,4,0,0,,,
 MarJon Beauchamp|14,2026,2026-02-09,MarJon Beauchamp,PHI,POR,0,0,17,0,14,20,10,4,4,1,3,0,0,18,14,14,8,0,0,,,
-Marcus Sasser|1,2027,2026-10-21,Marcus Sasser,DAL,HOU,0,0,18,0,1,24,17,1,1,4,1,0,1,19,18,18,2,0,0,8.0,1.0,5.0
+Marcus Sasser|1,2027,2026-10-21,Marcus Sasser,DAL,HOU,0,0,18,0,1,24,17,1,1,4,1,0,1,19,18,18,2,0,0,8,1,5
 Marcus Sasser|2,2026,2026-05-17,Marcus Sasser,DET,CLE,1,0,31,0,2,23,9,2,1,3,1,0,0,12,11,10,3,0,0,,,
 Marcus Sasser|3,2026,2026-05-15,Marcus Sasser,DET,CLE,0,0,21,0,3,18,9,1,1,1,1,0,1,11,10,10,2,0,0,,,
 Marcus Sasser|4,2026,2026-05-11,Marcus Sasser,DET,CLE,0,0,9,0,4,3,7,0,0,1,1,0,0,7,7,7,0,0,0,,,
@@ -1187,7 +1186,7 @@ Marcus Sasser|41,2026,2025-12-20,Marcus Sasser,DET,CHA,1,0,26,0,41,2,0,1,1,0,0,0
 Marcus Sasser|42,2026,2025-12-18,Marcus Sasser,DET,DAL,0,0,2,0,42,8,0,2,3,0,0,0,0,5,2,3,5,0,0,,,
 Marcus Sasser|43,2026,2025-12-12,Marcus Sasser,DET,ATL,1,0,27,0,43,4,7,0,1,1,0,0,0,8,7,8,1,0,0,,,
 Marcus Sasser|44,2026,2025-12-06,Marcus Sasser,DET,MIL,1,0,12,1,44,4,0,0,2,0,0,0,0,2,0,2,2,0,0,,,
-Marcus Smart|1,2027,2026-10-21,Marcus Smart,HOU,DAL,1,0,18,0,1,26,10,2,2,2,1,0,1,14,12,12,4,0,0,6.0,0.0,4.0
+Marcus Smart|1,2027,2026-10-21,Marcus Smart,HOU,DAL,1,0,18,0,1,26,10,2,2,2,1,0,1,14,12,12,4,0,0,6,0,4
 Marcus Smart|2,2026,2026-05-11,Marcus Smart,LAL,OKC,1,1,5,0,2,36,5,2,3,0,2,0,6,10,7,8,5,0,0,,,
 Marcus Smart|3,2026,2026-05-09,Marcus Smart,LAL,OKC,1,1,23,0,3,32,10,3,3,1,1,0,2,16,13,13,6,0,0,,,
 Marcus Smart|4,2026,2026-05-07,Marcus Smart,LAL,OKC,0,1,18,0,4,34,14,4,5,1,1,0,3,23,18,19,9,0,0,,,
@@ -1260,7 +1259,7 @@ Marcus Smart|70,2026,2025-10-31,Marcus Smart,LAL,MEM,0,1,5,0,70,35,12,3,4,1,2,0,
 Marcus Smart|71,2026,2025-10-26,Marcus Smart,LAL,SAC,0,1,7,0,71,31,11,3,5,0,0,0,1,19,14,16,8,0,0,,,
 Marcus Smart|72,2026,2025-10-24,Marcus Smart,LAL,MIN,1,0,18,0,72,21,3,0,1,1,2,0,2,4,3,4,1,0,0,,,
 Marcus Smart|73,2026,2025-10-21,Marcus Smart,LAL,GS,1,0,10,0,73,23,9,0,0,0,1,0,3,9,9,9,0,0,0,,,
-Mario Hezonja|1,2027,2026-10-22,Mario Hezonja,CLE,PHI,0,0,8,0,1,19,10,3,2,0,2,1,0,15,13,12,5,0,0,13.0,0.0,5.0
+Mario Hezonja|1,2027,2026-10-22,Mario Hezonja,CLE,PHI,0,0,8,0,1,19,10,3,2,0,2,1,0,15,13,12,5,0,0,13,0,5
 Mark Sears|1,2026,2025-11-24,Mark Sears,MIL,POR,1,0,12,0,1,3,3,0,0,1,0,0,0,3,3,3,0,0,0,,,
 Mark Sears|2,2026,2025-11-22,Mark Sears,MIL,DET,1,0,13,0,2,2,0,1,1,0,0,0,0,2,1,1,2,0,0,,,
 Mark Sears|3,2026,2025-11-15,Mark Sears,MIL,LAL,1,0,24,1,3,3,4,1,0,0,0,0,2,5,5,4,1,0,0,,,
@@ -1333,7 +1332,7 @@ Markelle Fultz|2,2026,2026-03-29,Markelle Fultz,TOR,ORL,1,0,52,0,2,7,0,1,1,0,0,0
 Markelle Fultz|3,2026,2026-03-27,Markelle Fultz,TOR,NO,1,0,13,0,3,2,2,0,0,0,0,0,1,2,2,2,0,0,0,,,
 Markelle Fultz|4,2026,2026-03-25,Markelle Fultz,TOR,LAC,0,0,25,0,4,9,0,0,2,0,0,0,0,2,0,2,2,0,0,,,
 Markelle Fultz|5,2026,2026-03-23,Markelle Fultz,TOR,UTAH,0,0,16,1,5,16,2,0,5,0,2,0,3,7,2,7,5,0,0,,,
-Marvin Bagley III|1,2027,2026-10-22,Marvin Bagley III,DEN,OKC,0,0,12,0,1,11,2,3,1,0,0,0,2,6,5,3,4,0,0,3.0,0.0,0.0
+Marvin Bagley III|1,2027,2026-10-22,Marvin Bagley III,DEN,OKC,0,0,12,0,1,11,2,3,1,0,0,0,2,6,5,3,4,0,0,3,0,0
 Marvin Bagley III|2,2026,2026-04-10,Marvin Bagley III,DAL,SA,0,1,19,0,2,8,2,1,1,0,0,0,0,4,3,3,2,0,0,,,
 Marvin Bagley III|3,2026,2026-04-08,Marvin Bagley III,DAL,PHX,0,1,5,1,3,26,20,8,2,3,0,1,2,30,28,22,10,0,0,,,
 Marvin Bagley III|4,2026,2026-04-07,Marvin Bagley III,DAL,LAC,0,0,13,0,4,26,21,9,1,1,1,2,0,31,30,22,10,0,0,,,
@@ -1420,7 +1419,7 @@ Mason Plumlee|23,2026,2025-11-12,Mason Plumlee,CHA,MIL,1,0,11,0,23,4,0,1,0,0,0,0
 Mason Plumlee|24,2026,2025-11-02,Mason Plumlee,CHA,UTAH,1,0,23,1,24,4,0,1,0,0,0,0,1,1,1,0,1,0,0,,,
 Mason Plumlee|25,2026,2025-10-26,Mason Plumlee,CHA,WSH,0,0,26,1,25,3,2,2,0,0,0,0,0,4,4,2,2,0,0,,,
 Mason Plumlee|26,2026,2025-10-25,Mason Plumlee,CHA,PHI,0,0,4,0,26,5,0,0,1,0,0,0,0,1,0,1,1,0,0,,,
-Matas Buzelis|1,2027,2026-10-21,Matas Buzelis,CHI,TOR,0,1,43,0,1,25,17,6,0,0,0,2,3,23,23,17,6,0,0,8.0,16.0,4.0
+Matas Buzelis|1,2027,2026-10-21,Matas Buzelis,CHI,TOR,0,1,43,0,1,25,17,6,0,0,0,2,3,23,23,17,6,0,0,8,16,4
 Matas Buzelis|2,2026,2026-04-10,Matas Buzelis,CHI,ORL,1,1,24,1,2,27,14,8,3,0,1,3,2,25,22,17,11,0,0,,,
 Matas Buzelis|3,2026,2026-04-03,Matas Buzelis,CHI,NY,0,1,40,0,3,23,11,6,0,1,0,0,3,17,17,11,6,0,0,,,
 Matas Buzelis|4,2026,2026-04-01,Matas Buzelis,CHI,IND,1,1,19,0,4,29,17,9,6,3,2,0,4,32,26,23,15,0,0,,,
@@ -1498,7 +1497,7 @@ Matas Buzelis|75,2026,2025-10-29,Matas Buzelis,CHI,SAC,1,1,13,0,75,34,27,5,2,4,2
 Matas Buzelis|76,2026,2025-10-27,Matas Buzelis,CHI,ATL,1,1,5,0,76,32,16,5,3,2,0,0,1,24,21,19,8,0,0,,,
 Matas Buzelis|77,2026,2025-10-25,Matas Buzelis,CHI,ORL,0,1,12,0,77,12,3,3,0,0,1,0,2,6,6,3,3,0,0,,,
 Matas Buzelis|78,2026,2025-10-22,Matas Buzelis,CHI,DET,1,1,4,0,78,34,21,6,1,0,0,3,3,28,27,22,7,0,0,,,
-Matisse Thybulle|1,2027,2026-10-21,Matisse Thybulle,LAL,GS,1,1,22,0,1,23,3,3,1,1,1,1,1,7,6,4,4,0,0,4.0,0.0,2.0
+Matisse Thybulle|1,2027,2026-10-21,Matisse Thybulle,LAL,GS,1,1,22,0,1,23,3,3,1,1,1,1,1,7,6,4,4,0,0,4,0,2
 Matisse Thybulle|2,2026,2026-04-28,Matisse Thybulle,POR,SA,0,0,19,0,2,15,2,1,2,0,2,1,0,5,3,4,3,0,0,,,
 Matisse Thybulle|3,2026,2026-04-24,Matisse Thybulle,POR,SA,1,0,12,0,3,6,2,2,0,0,0,1,0,4,4,2,2,0,0,,,
 Matisse Thybulle|4,2026,2026-04-21,Matisse Thybulle,POR,SA,0,0,3,0,4,10,0,1,1,0,0,1,0,2,1,1,2,0,0,,,
@@ -1534,7 +1533,7 @@ Matisse Thybulle|33,2026,2025-10-29,Matisse Thybulle,POR,UTAH,0,0,2,0,33,5,3,0,1
 Matisse Thybulle|34,2026,2025-10-26,Matisse Thybulle,POR,LAC,0,0,7,0,34,15,5,0,0,1,3,0,0,5,5,5,0,0,0,,,
 Matisse Thybulle|35,2026,2025-10-24,Matisse Thybulle,POR,GS,1,0,20,0,35,15,10,2,0,2,3,0,1,12,12,10,2,0,0,,,
 Matisse Thybulle|36,2026,2025-10-22,Matisse Thybulle,POR,MIN,1,0,4,0,36,14,2,2,2,0,2,0,0,6,4,4,4,0,0,,,
-Max Christie|1,2027,2026-10-21,Max Christie,DAL,HOU,0,1,18,0,1,29,5,3,2,1,0,0,2,10,8,7,5,0,0,8.0,0.0,7.0
+Max Christie|1,2027,2026-10-21,Max Christie,DAL,HOU,0,1,18,0,1,29,5,3,2,1,0,0,2,10,8,7,5,0,0,8,0,7
 Max Christie|2,2026,2026-04-12,Max Christie,DAL,CHI,1,1,21,0,2,13,12,1,1,2,0,2,1,14,13,13,2,0,0,,,
 Max Christie|3,2026,2026-04-10,Max Christie,DAL,SA,0,1,19,0,3,31,16,1,2,4,1,0,1,19,17,18,3,0,0,,,
 Max Christie|4,2026,2026-04-08,Max Christie,DAL,PHX,0,1,5,1,4,33,18,2,2,4,1,1,0,22,20,20,4,0,0,,,
@@ -1828,7 +1827,7 @@ Micah Peavy|58,2026,2025-11-05,Micah Peavy,NO,DAL,0,0,2,1,58,18,0,3,0,0,0,0,0,3,
 Micah Peavy|59,2026,2025-11-02,Micah Peavy,NO,OKC,0,0,31,0,59,7,3,1,2,1,0,0,1,6,4,5,3,0,0,,,
 Micah Peavy|60,2026,2025-10-29,Micah Peavy,NO,DEN,0,0,34,0,60,8,3,1,1,0,1,0,0,5,4,4,2,0,0,,,
 Micah Peavy|61,2026,2025-10-27,Micah Peavy,NO,BOS,1,0,32,0,61,3,2,2,0,0,0,0,0,4,4,2,2,0,0,,,
-Micah Potter|1,2027,2026-10-21,Micah Potter,POR,PHX,1,0,41,0,1,12,4,3,0,0,0,0,1,7,7,4,3,0,0,3.0,0.0,1.0
+Micah Potter|1,2027,2026-10-21,Micah Potter,POR,PHX,1,0,41,0,1,12,4,3,0,0,0,0,1,7,7,4,3,0,0,3,0,1
 Micah Potter|2,2026,2026-04-12,Micah Potter,IND,DET,1,1,12,0,2,34,15,11,2,3,2,0,4,28,26,17,13,1,0,,,
 Micah Potter|3,2026,2026-04-10,Micah Potter,IND,PHI,1,1,11,1,3,24,13,10,0,3,1,1,3,23,23,13,10,1,0,,,
 Micah Potter|4,2026,2026-04-09,Micah Potter,IND,BKN,0,1,29,0,4,23,18,14,2,1,0,0,0,34,32,20,16,1,0,,,
@@ -1876,7 +1875,7 @@ Micah Potter|45,2026,2025-12-31,Micah Potter,IND,ORL,1,0,2,0,45,26,8,3,3,1,0,0,1
 Micah Potter|46,2026,2025-12-29,Micah Potter,IND,HOU,0,0,7,0,46,12,3,3,6,0,0,1,1,12,6,9,9,0,0,,,
 Micah Potter|47,2026,2025-12-27,Micah Potter,IND,MIA,0,0,26,1,47,11,2,4,1,0,0,0,0,7,6,3,5,0,0,,,
 Micah Potter|48,2026,2025-12-26,Micah Potter,IND,BOS,1,0,18,0,48,18,9,1,0,1,0,1,0,10,10,9,1,0,0,,,
-Michael Porter Jr.|1,2027,2026-10-21,Michael Porter Jr.,BKN,CHA,1,1,7,0,1,34,26,7,1,5,3,0,4,34,33,27,8,0,0,21.0,2.0,11.0
+Michael Porter Jr.|1,2027,2026-10-21,Michael Porter Jr.,BKN,CHA,1,1,7,0,1,34,26,7,1,5,3,0,4,34,33,27,8,0,0,21,2,11
 Michael Porter Jr.|2,2026,2026-03-10,Michael Porter Jr.,BKN,DET,1,1,38,1,2,22,19,2,1,1,1,0,3,22,21,20,3,0,0,,,
 Michael Porter Jr.|3,2026,2026-03-07,Michael Porter Jr.,BKN,DET,0,1,2,0,3,39,30,13,1,3,2,1,2,44,43,31,14,1,0,,,
 Michael Porter Jr.|4,2026,2026-03-05,Michael Porter Jr.,BKN,MIA,0,1,16,0,4,36,27,13,3,7,2,1,3,43,40,30,16,1,0,,,
@@ -1929,7 +1928,7 @@ Michael Porter Jr.|50,2026,2025-10-27,Michael Porter Jr.,BKN,HOU,0,1,28,1,50,28,
 Michael Porter Jr.|51,2026,2025-10-26,Michael Porter Jr.,BKN,SA,0,1,11,0,51,38,15,6,4,3,2,0,0,25,21,19,10,0,0,,,
 Michael Porter Jr.|52,2026,2025-10-24,Michael Porter Jr.,BKN,CLE,1,1,7,0,52,36,31,8,3,5,1,0,2,42,39,34,11,0,0,,,
 Michael Porter Jr.|53,2026,2025-10-22,Michael Porter Jr.,BKN,CHA,0,1,19,0,53,25,12,4,5,2,0,0,0,21,16,17,9,0,0,,,
-Mikal Bridges|1,2027,2026-10-20,Mikal Bridges,NY,PHI,1,1,6,0,1,33,4,3,1,0,0,1,0,8,7,5,4,0,0,8.0,0.0,2.0
+Mikal Bridges|1,2027,2026-10-20,Mikal Bridges,NY,PHI,1,1,6,0,1,33,4,3,1,0,0,1,0,8,7,5,4,0,0,8,0,2
 Mikal Bridges|2,2026,2026-06-13,Mikal Bridges,NY,SA,0,1,4,0,2,39,14,2,4,3,0,1,0,20,16,18,6,0,0,,,
 Mikal Bridges|3,2026,2026-06-10,Mikal Bridges,NY,SA,1,1,1,0,3,28,7,2,2,1,0,0,0,11,9,9,4,0,0,,,
 Mikal Bridges|4,2026,2026-06-08,Mikal Bridges,NY,SA,1,1,4,0,4,29,2,5,2,0,0,1,1,9,7,4,7,0,0,,,
@@ -2095,8 +2094,8 @@ Mike Conley|62,2026,2025-10-27,Mike Conley,MIN,DEN,1,1,13,1,62,26,10,3,4,1,1,1,0
 Mike Conley|63,2026,2025-10-26,Mike Conley,MIN,IND,1,0,4,0,63,25,6,1,4,1,0,0,2,11,7,10,5,0,0,,,
 Mike Conley|64,2026,2025-10-24,Mike Conley,MIN,LAL,0,0,18,0,64,9,0,2,1,0,0,0,2,3,2,1,3,0,0,,,
 Mike Conley|65,2026,2025-10-22,Mike Conley,MIN,POR,0,0,4,0,65,13,3,2,0,1,1,0,1,5,5,3,2,0,0,,,
-Mikel Brown Jr.|1,2027,2026-10-21,Mikel Brown Jr.,BKN,CHA,1,0,7,0,1,20,6,3,3,1,0,0,1,12,9,9,6,0,0,8.0,1.0,3.0
-Miles Bridges|1,2027,2026-10-21,Miles Bridges,PHX,POR,0,1,41,0,1,29,8,4,0,0,1,1,1,12,12,8,4,0,0,11.0,2.0,5.0
+Mikel Brown Jr.|1,2027,2026-10-21,Mikel Brown Jr.,BKN,CHA,1,0,7,0,1,20,6,3,3,1,0,0,1,12,9,9,6,0,0,8,1,3
+Miles Bridges|1,2027,2026-10-21,Miles Bridges,PHX,POR,0,1,41,0,1,29,8,4,0,0,1,1,1,12,12,8,4,0,0,11,2,5
 Miles Bridges|2,2026,2026-04-17,Miles Bridges,CHA,ORL,0,1,31,0,2,28,15,2,1,1,0,0,3,18,17,16,3,0,0,,,
 Miles Bridges|3,2026,2026-04-14,Miles Bridges,CHA,MIA,1,1,1,0,3,43,28,9,2,5,1,3,0,39,37,30,11,0,0,,,
 Miles Bridges|4,2026,2026-04-12,Miles Bridges,CHA,NY,0,1,14,0,4,24,7,1,2,0,0,0,0,10,8,9,3,0,0,,,
@@ -2190,7 +2189,7 @@ Miles Kelly|11,2026,2026-01-12,Miles Kelly,DAL,BKN,1,0,8,0,11,11,5,0,0,1,0,0,1,5
 Miles Kelly|12,2026,2026-01-10,Miles Kelly,DAL,CHI,0,0,18,0,12,15,5,3,2,1,0,0,1,10,8,7,5,0,0,,,
 Miles Kelly|13,2026,2025-11-17,Miles Kelly,DAL,MIN,0,0,24,1,13,9,2,4,0,0,0,0,0,6,6,2,4,0,0,,,
 Miles Kelly|14,2026,2025-10-26,Miles Kelly,DAL,TOR,1,0,10,0,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
-Miles McBride|1,2027,2026-10-20,Miles McBride,NY,PHI,1,0,6,0,1,14,3,1,1,1,0,1,1,5,4,4,2,0,0,5.0,0.0,3.0
+Miles McBride|1,2027,2026-10-20,Miles McBride,NY,PHI,1,0,6,0,1,14,3,1,1,1,0,1,1,5,4,4,2,0,0,5,0,3
 Miles McBride|2,2026,2026-06-13,Miles McBride,NY,SA,0,0,4,0,2,13,0,0,1,0,0,0,0,1,0,1,1,0,0,,,
 Miles McBride|3,2026,2026-06-10,Miles McBride,NY,SA,1,0,1,0,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Miles McBride|4,2026,2026-06-08,Miles McBride,NY,SA,1,0,4,0,4,9,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
@@ -2250,7 +2249,7 @@ Miles McBride|57,2026,2025-11-02,Miles McBride,NY,CHI,1,0,12,0,57,23,8,4,3,2,1,0
 Miles McBride|58,2026,2025-10-31,Miles McBride,NY,CHI,0,0,10,0,58,29,8,2,2,2,1,0,1,12,10,10,4,0,0,,,
 Miles McBride|59,2026,2025-10-24,Miles McBride,NY,BOS,1,1,10,0,59,32,10,4,4,2,1,1,0,18,14,14,8,0,0,,,
 Miles McBride|60,2026,2025-10-22,Miles McBride,NY,CLE,1,0,8,0,60,26,15,2,1,4,1,0,2,18,17,16,3,0,0,,,
-Mitchell Robinson|1,2027,2026-10-20,Mitchell Robinson,BOS,DET,0,1,8,0,1,18,4,3,1,0,1,2,2,8,7,5,4,0,0,2.0,2.0,0.0
+Mitchell Robinson|1,2027,2026-10-20,Mitchell Robinson,BOS,DET,0,1,8,0,1,18,4,3,1,0,1,2,2,8,7,5,4,0,0,2,2,0
 Mitchell Robinson|2,2026,2026-06-13,Mitchell Robinson,NY,SA,0,0,4,0,2,20,2,10,2,0,0,0,0,14,12,4,12,0,0,,,
 Mitchell Robinson|3,2026,2026-06-10,Mitchell Robinson,NY,SA,1,0,1,0,3,13,2,5,1,0,0,2,1,8,7,3,6,0,0,,,
 Mitchell Robinson|4,2026,2026-06-08,Mitchell Robinson,NY,SA,1,0,4,0,4,7,5,4,0,0,0,0,0,9,9,5,4,0,0,,,
@@ -2413,8 +2412,8 @@ Monte Morris|3,2026,2025-11-13,Monte Morris,IND,PHX,0,0,35,0,3,10,2,1,1,0,0,0,0,
 Monte Morris|4,2026,2025-11-11,Monte Morris,IND,UTAH,0,0,24,0,4,12,2,1,3,0,0,1,1,6,3,5,4,0,0,,,
 Monte Morris|5,2026,2025-11-09,Monte Morris,IND,GS,0,0,31,1,5,20,8,2,4,2,0,0,0,14,10,12,6,0,0,,,
 Monte Morris|6,2026,2025-11-08,Monte Morris,IND,DEN,0,0,17,0,6,15,3,2,0,0,1,0,0,5,5,3,2,0,0,,,
-Morez Johnson Jr.|1,2027,2026-10-21,Morez Johnson Jr.,DAL,HOU,0,0,18,0,1,14,6,3,1,0,0,0,0,10,9,7,4,0,0,5.0,2.0,0.0
-Moritz Wagner|1,2027,2026-10-21,Moritz Wagner,BKN,CHA,1,0,7,0,1,16,7,0,1,1,0,0,2,8,7,8,1,0,0,3.0,4.0,2.0
+Morez Johnson Jr.|1,2027,2026-10-21,Morez Johnson Jr.,DAL,HOU,0,0,18,0,1,14,6,3,1,0,0,0,0,10,9,7,4,0,0,5,2,0
+Moritz Wagner|1,2027,2026-10-21,Moritz Wagner,BKN,CHA,1,0,7,0,1,16,7,0,1,1,0,0,2,8,7,8,1,0,0,3,4,2
 Moritz Wagner|2,2026,2026-05-03,Moritz Wagner,ORL,DET,0,0,22,0,2,10,5,2,0,1,0,0,1,7,7,5,2,0,0,,,
 Moritz Wagner|3,2026,2026-04-22,Moritz Wagner,ORL,DET,0,0,15,0,3,3,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
 Moritz Wagner|4,2026,2026-04-17,Moritz Wagner,ORL,CHA,1,0,31,0,4,6,0,3,0,0,0,0,0,3,3,0,3,0,0,,,
@@ -2599,7 +2598,7 @@ Mouhamed Gueye|80,2026,2025-10-27,Mouhamed Gueye,ATL,CHI,0,0,5,0,80,10,4,0,0,0,0
 Mouhamed Gueye|81,2026,2025-10-25,Mouhamed Gueye,ATL,OKC,1,1,17,1,81,23,11,6,2,2,0,2,1,19,17,13,8,0,0,,,
 Mouhamed Gueye|82,2026,2025-10-24,Mouhamed Gueye,ATL,ORL,0,0,4,0,82,30,13,8,3,2,0,1,3,24,21,16,11,0,0,,,
 Mouhamed Gueye|83,2026,2025-10-22,Mouhamed Gueye,ATL,TOR,1,0,20,0,83,5,0,0,0,0,0,1,0,0,0,0,0,0,0,,,
-Moussa Cisse|1,2027,2026-10-21,Moussa Cisse,DAL,HOU,0,0,18,0,1,3,3,0,0,0,0,0,0,3,3,3,0,0,0,1.0,2.0,0.0
+Moussa Cisse|1,2027,2026-10-21,Moussa Cisse,DAL,HOU,0,0,18,0,1,3,3,0,0,0,0,0,0,3,3,3,0,0,0,1,2,0
 Moussa Cisse|2,2026,2026-04-12,Moussa Cisse,DAL,CHI,1,0,21,0,2,41,17,20,1,0,2,2,3,38,37,18,21,1,0,,,
 Moussa Cisse|3,2026,2026-04-10,Moussa Cisse,DAL,SA,0,0,19,0,3,19,7,8,0,0,2,3,0,15,15,7,8,0,0,,,
 Moussa Cisse|4,2026,2026-04-08,Moussa Cisse,DAL,PHX,0,0,5,1,4,22,11,9,0,0,0,1,1,20,20,11,9,0,0,,,
@@ -2637,7 +2636,7 @@ Moussa Cisse|35,2026,2025-11-07,Moussa Cisse,DAL,MEM,0,0,14,0,35,14,10,8,0,0,0,1
 Moussa Cisse|36,2026,2025-11-05,Moussa Cisse,DAL,NO,1,0,2,0,36,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Moussa Cisse|37,2026,2025-11-03,Moussa Cisse,DAL,HOU,0,0,8,0,37,14,4,2,0,0,1,1,2,6,6,4,2,0,0,,,
 Moussa Cisse|38,2026,2025-10-22,Moussa Cisse,DAL,SA,1,0,33,0,38,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Moussa Diabate|1,2027,2026-10-21,Moussa Diabate,CHA,BKN,0,1,7,0,1,34,17,8,3,0,5,0,4,28,25,20,11,0,0,11.0,3.0,0.0
+Moussa Diabate|1,2027,2026-10-21,Moussa Diabate,CHA,BKN,0,1,7,0,1,34,17,8,3,0,5,0,4,28,25,20,11,0,0,11,3,0
 Moussa Diabate|2,2026,2026-04-17,Moussa Diabate,CHA,ORL,0,1,31,0,2,18,2,8,2,0,0,3,1,12,10,4,10,0,0,,,
 Moussa Diabate|3,2026,2026-04-14,Moussa Diabate,CHA,MIA,1,1,1,0,3,36,8,14,1,0,0,1,1,23,22,9,15,0,0,,,
 Moussa Diabate|4,2026,2026-04-12,Moussa Diabate,CHA,NY,0,1,14,0,4,26,4,9,3,0,0,2,0,16,13,7,12,0,0,,,
@@ -2713,7 +2712,7 @@ Moussa Diabate|73,2026,2025-10-28,Moussa Diabate,CHA,MIA,0,0,27,0,73,19,8,2,0,0,
 Moussa Diabate|74,2026,2025-10-26,Moussa Diabate,CHA,WSH,0,0,26,1,74,23,12,10,1,0,0,2,1,23,22,13,11,1,0,,,
 Moussa Diabate|75,2026,2025-10-25,Moussa Diabate,CHA,PHI,0,0,4,0,75,17,6,2,0,0,1,1,0,8,8,6,2,0,0,,,
 Moussa Diabate|76,2026,2025-10-22,Moussa Diabate,CHA,BKN,1,0,19,0,76,21,13,9,0,0,1,1,2,22,22,13,9,0,0,,,
-Myles Turner|1,2027,2026-10-21,Myles Turner,MIL,WSH,0,1,12,0,1,32,11,5,3,2,0,1,3,19,16,14,8,0,0,7.0,1.0,5.0
+Myles Turner|1,2027,2026-10-21,Myles Turner,MIL,WSH,0,1,12,0,1,32,11,5,3,2,0,1,3,19,16,14,8,0,0,7,1,5
 Myles Turner|2,2026,2026-04-10,Myles Turner,MIL,BKN,1,1,17,0,2,27,13,5,3,1,0,5,0,21,18,16,8,0,0,,,
 Myles Turner|3,2026,2026-04-05,Myles Turner,MIL,MEM,1,1,16,0,3,22,19,11,0,1,2,2,0,30,30,19,11,1,0,,,
 Myles Turner|4,2026,2026-04-03,Myles Turner,MIL,BOS,1,1,32,0,4,19,4,1,0,1,0,2,1,5,5,4,1,0,0,,,
@@ -2785,7 +2784,7 @@ Myles Turner|69,2026,2025-10-28,Myles Turner,MIL,NY,1,1,10,0,69,30,5,8,3,1,0,3,0
 Myles Turner|70,2026,2025-10-26,Myles Turner,MIL,CLE,0,1,5,0,70,31,13,6,2,2,1,2,3,21,19,15,8,0,0,,,
 Myles Turner|71,2026,2025-10-24,Myles Turner,MIL,TOR,0,1,6,0,71,28,4,5,2,0,1,2,3,11,9,6,7,0,0,,,
 Myles Turner|72,2026,2025-10-22,Myles Turner,MIL,WSH,1,1,13,0,72,29,11,8,5,2,0,3,1,24,19,16,13,0,0,,,
-Myron Gardner|1,2027,2026-10-21,Myron Gardner,MIA,MIN,1,0,25,0,1,3,4,2,0,0,0,0,0,6,6,4,2,0,0,0.0,4.0,0.0
+Myron Gardner|1,2027,2026-10-21,Myron Gardner,MIA,MIN,1,0,25,0,1,3,4,2,0,0,0,0,0,6,6,4,2,0,0,0,4,0
 Myron Gardner|2,2026,2026-04-12,Myron Gardner,MIA,ATL,1,0,26,0,2,6,2,2,3,0,0,0,0,7,4,5,5,0,0,,,
 Myron Gardner|3,2026,2026-04-10,Myron Gardner,MIA,WSH,0,0,23,1,3,3,0,1,0,0,0,0,1,1,1,0,1,0,0,,,
 Myron Gardner|4,2026,2026-04-09,Myron Gardner,MIA,TOR,0,0,14,0,4,3,2,1,0,0,0,0,0,3,3,2,1,0,0,,,
@@ -2904,7 +2903,7 @@ Nae'Qwan Tomlin|67,2026,2025-11-13,Nae'Qwan Tomlin,CLE,TOR,1,0,13,1,67,22,18,6,0
 Nae'Qwan Tomlin|68,2026,2025-11-12,Nae'Qwan Tomlin,CLE,MIA,0,0,14,0,68,18,9,6,2,0,2,1,1,17,15,11,8,0,0,,,
 Nae'Qwan Tomlin|69,2026,2025-11-07,Nae'Qwan Tomlin,CLE,WSH,0,0,33,0,69,6,6,2,0,0,1,1,0,8,8,6,2,0,0,,,
 Nae'Qwan Tomlin|70,2026,2025-11-05,Nae'Qwan Tomlin,CLE,PHI,1,0,11,0,70,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Naji Marshall|1,2027,2026-10-21,Naji Marshall,DAL,HOU,0,0,18,0,1,29,16,2,6,2,1,0,2,24,18,22,8,0,0,13.0,0.0,6.0
+Naji Marshall|1,2027,2026-10-21,Naji Marshall,DAL,HOU,0,0,18,0,1,29,16,2,6,2,1,0,2,24,18,22,8,0,0,13,0,6
 Naji Marshall|2,2026,2026-04-07,Naji Marshall,DAL,LAC,0,1,13,0,2,20,6,2,0,0,3,0,1,8,8,6,2,0,0,,,
 Naji Marshall|3,2026,2026-04-05,Naji Marshall,DAL,LAL,1,1,6,0,3,32,13,6,7,0,2,0,2,26,19,20,13,0,0,,,
 Naji Marshall|4,2026,2026-04-03,Naji Marshall,DAL,ORL,1,1,11,0,4,24,9,4,2,1,1,0,0,15,13,11,6,0,0,,,
@@ -2993,7 +2992,7 @@ Nate Williams|11,2026,2026-03-07,Nate Williams,GS,OKC,0,0,7,0,11,9,4,0,1,0,0,0,0
 Nate Williams|12,2026,2026-03-05,Nate Williams,GS,HOU,0,0,2,0,12,18,2,3,0,0,0,0,0,5,5,2,3,0,0,,,
 Nate Williams|13,2026,2026-03-02,Nate Williams,GS,LAC,1,0,13,0,13,22,18,2,2,3,1,0,1,22,20,20,4,0,0,,,
 Nate Williams|14,2026,2026-02-28,Nate Williams,GS,LAL,1,0,28,0,14,15,7,1,2,1,0,0,2,10,8,9,3,0,0,,,
-Naz Reid|1,2027,2026-10-21,Naz Reid,CHA,BKN,0,1,7,0,1,33,20,11,7,4,0,0,1,38,31,27,18,1,0,19.0,1.0,10.0
+Naz Reid|1,2027,2026-10-21,Naz Reid,CHA,BKN,0,1,7,0,1,33,20,11,7,4,0,0,1,38,31,27,18,1,0,19,1,10
 Naz Reid|2,2026,2026-05-15,Naz Reid,MIN,SA,1,0,30,0,2,32,18,7,1,3,0,0,0,26,25,19,8,0,0,,,
 Naz Reid|3,2026,2026-05-12,Naz Reid,MIN,SA,0,0,29,0,3,31,12,5,2,3,1,0,0,19,17,14,7,0,0,,,
 Naz Reid|4,2026,2026-05-10,Naz Reid,MIN,SA,1,0,5,0,4,31,15,9,4,0,1,0,1,28,24,19,13,0,0,,,
@@ -3082,7 +3081,7 @@ Naz Reid|86,2026,2025-10-27,Naz Reid,MIN,DEN,1,0,13,1,86,27,18,7,2,2,1,1,2,27,25
 Naz Reid|87,2026,2025-10-26,Naz Reid,MIN,IND,1,0,4,0,87,23,16,10,2,1,2,0,3,28,26,18,12,1,0,,,
 Naz Reid|88,2026,2025-10-24,Naz Reid,MIN,LAL,0,0,18,0,88,23,5,5,2,1,1,1,1,12,10,7,7,0,0,,,
 Naz Reid|89,2026,2025-10-22,Naz Reid,MIN,POR,0,0,4,0,89,20,6,3,1,0,1,2,1,10,9,7,4,0,0,,,
-Neemias Queta|1,2027,2026-10-20,Neemias Queta,BOS,DET,0,0,8,0,1,22,3,4,2,0,1,2,1,9,7,5,6,0,0,3.0,2.0,0.0
+Neemias Queta|1,2027,2026-10-20,Neemias Queta,BOS,DET,0,0,8,0,1,22,3,4,2,0,1,2,1,9,7,5,6,0,0,3,2,0
 Neemias Queta|2,2026,2026-05-02,Neemias Queta,BOS,PHI,1,0,9,0,2,33,17,12,1,0,0,0,1,30,29,18,13,1,0,,,
 Neemias Queta|3,2026,2026-04-30,Neemias Queta,BOS,PHI,0,1,13,0,3,20,4,11,0,0,0,2,1,15,15,4,11,0,0,,,
 Neemias Queta|4,2026,2026-04-28,Neemias Queta,BOS,PHI,1,1,16,0,4,26,8,14,1,0,0,0,0,23,22,9,15,0,0,,,
@@ -3235,8 +3234,8 @@ Nic Claxton|66,2026,2025-10-27,Nic Claxton,BKN,HOU,0,1,28,1,66,23,6,3,3,0,0,0,1,
 Nic Claxton|67,2026,2025-10-26,Nic Claxton,BKN,SA,0,1,11,0,67,26,10,5,2,0,1,0,0,17,15,12,7,0,0,,,
 Nic Claxton|68,2026,2025-10-24,Nic Claxton,BKN,CLE,1,1,7,0,68,31,10,9,4,0,3,0,2,23,19,14,13,0,0,,,
 Nic Claxton|69,2026,2025-10-22,Nic Claxton,BKN,CHA,0,1,19,0,69,23,17,4,2,0,0,0,1,23,21,19,6,0,0,,,
-Nick Martinelli|1,2027,2026-10-21,Nick Martinelli,LAC,SAC,1,0,25,0,1,2,0,1,1,0,0,0,0,2,1,1,2,0,0,1.0,0.0,0.0
-Nick Richards|1,2027,2026-10-21,Nick Richards,MIA,MIN,1,0,25,0,1,3,4,1,0,0,0,0,0,5,5,4,1,0,0,2.0,0.0,0.0
+Nick Martinelli|1,2027,2026-10-21,Nick Martinelli,LAC,SAC,1,0,25,0,1,2,0,1,1,0,0,0,0,2,1,1,2,0,0,1,0,0
+Nick Richards|1,2027,2026-10-21,Nick Richards,MIA,MIN,1,0,25,0,1,3,4,1,0,0,0,0,0,5,5,4,1,0,0,2,0,0
 Nick Richards|2,2026,2026-03-25,Nick Richards,CHI,PHI,0,1,20,0,2,9,2,5,0,0,0,0,2,7,7,2,5,0,0,,,
 Nick Richards|3,2026,2026-03-23,Nick Richards,CHI,HOU,1,1,8,0,3,26,11,8,0,1,0,1,0,19,19,11,8,0,0,,,
 Nick Richards|4,2026,2026-03-19,Nick Richards,CHI,CLE,1,1,5,1,4,30,16,8,0,1,0,0,1,24,24,16,8,0,0,,,
@@ -3319,7 +3318,7 @@ Nick Smith Jr.|32,2026,2025-11-05,Nick Smith Jr.,LAL,SA,1,0,2,0,32,7,2,0,0,0,0,0
 Nick Smith Jr.|33,2026,2025-11-03,Nick Smith Jr.,LAL,POR,0,0,8,1,33,27,25,1,6,5,1,0,3,32,26,31,7,0,0,,,
 Nick Smith Jr.|34,2026,2025-10-29,Nick Smith Jr.,LAL,MIN,0,0,1,0,34,10,7,1,1,1,0,0,1,9,8,8,2,0,0,,,
 Nick Smith Jr.|35,2026,2025-10-27,Nick Smith Jr.,LAL,POR,1,0,14,1,35,20,2,3,3,0,0,1,2,8,5,5,6,0,0,,,
-Nickeil Alexander-Walker|1,2027,2026-10-21,Nickeil Alexander-Walker,ATL,ORL,0,1,7,0,1,30,31,4,3,5,1,1,2,38,35,34,7,0,0,15.0,13.0,8.0
+Nickeil Alexander-Walker|1,2027,2026-10-21,Nickeil Alexander-Walker,ATL,ORL,0,1,7,0,1,30,31,4,3,5,1,1,2,38,35,34,7,0,0,15,13,8
 Nickeil Alexander-Walker|2,2026,2026-04-30,Nickeil Alexander-Walker,ATL,NY,1,1,51,0,2,29,11,1,2,1,1,0,5,14,12,13,3,0,0,,,
 Nickeil Alexander-Walker|3,2026,2026-04-28,Nickeil Alexander-Walker,ATL,NY,0,1,29,0,3,34,16,0,3,4,1,0,1,19,16,19,3,0,0,,,
 Nickeil Alexander-Walker|4,2026,2026-04-25,Nickeil Alexander-Walker,ATL,NY,1,1,16,0,4,35,15,4,1,5,0,0,6,20,19,16,5,0,0,,,
@@ -3505,7 +3504,7 @@ Nigel Hayes-Davis|24,2026,2025-10-27,Nigel Hayes-Davis,PHX,UTAH,0,0,4,0,24,3,0,0
 Nigel Hayes-Davis|25,2026,2025-10-25,Nigel Hayes-Davis,PHX,DEN,0,0,22,1,25,14,4,5,2,0,0,0,1,11,9,6,7,0,0,,,
 Nigel Hayes-Davis|26,2026,2025-10-24,Nigel Hayes-Davis,PHX,LAC,0,0,27,0,26,21,7,2,0,1,3,0,0,9,9,7,2,0,0,,,
 Nigel Hayes-Davis|27,2026,2025-10-22,Nigel Hayes-Davis,PHX,SAC,1,0,4,0,27,10,0,2,0,0,0,0,0,2,2,0,2,0,0,,,
-Nikola Jokic|1,2027,2026-10-22,Nikola Jokic,DEN,OKC,0,1,12,0,1,35,13,7,5,1,1,1,2,25,20,18,12,0,0,19.0,4.0,7.0
+Nikola Jokic|1,2027,2026-10-22,Nikola Jokic,DEN,OKC,0,1,12,0,1,35,13,7,5,1,1,1,2,25,20,18,12,0,0,19,4,7
 Nikola Jokic|2,2026,2026-04-27,Nikola Jokic,DEN,MIN,1,1,12,0,2,38,27,12,16,1,0,2,3,55,39,43,28,1,1,,,
 Nikola Jokic|3,2026,2026-04-25,Nikola Jokic,DEN,MIN,0,1,16,0,3,41,24,15,9,0,3,1,4,48,39,33,24,1,0,,,
 Nikola Jokic|4,2026,2026-04-23,Nikola Jokic,DEN,MIN,0,1,17,0,4,35,27,15,3,2,2,0,4,45,42,30,18,1,0,,,
@@ -3576,7 +3575,7 @@ Nikola Jokic|68,2026,2025-10-29,Nikola Jokic,DEN,NO,1,1,34,0,68,28,21,12,10,1,2,
 Nikola Jokic|69,2026,2025-10-27,Nikola Jokic,DEN,MIN,0,1,13,0,69,36,25,19,10,0,2,1,3,54,44,35,29,1,1,,,
 Nikola Jokic|70,2026,2025-10-25,Nikola Jokic,DEN,PHX,1,1,22,0,70,32,14,14,15,0,3,0,5,43,28,29,29,1,1,,,
 Nikola Jokic|71,2026,2025-10-23,Nikola Jokic,DEN,GS,0,1,6,0,71,41,21,13,10,2,1,1,2,44,34,31,23,1,1,,,
-Nikola Jovic|1,2027,2026-10-21,Nikola Jovic,MIA,MIN,1,0,25,0,1,24,4,4,2,0,0,1,2,10,8,6,6,0,0,8.0,0.0,3.0
+Nikola Jovic|1,2027,2026-10-21,Nikola Jovic,MIA,MIN,1,0,25,0,1,24,4,4,2,0,0,1,2,10,8,6,6,0,0,8,0,3
 Nikola Jovic|2,2026,2026-04-04,Nikola Jovic,MIA,WSH,1,0,16,0,2,13,5,0,2,1,0,0,0,7,5,7,2,0,0,,,
 Nikola Jovic|3,2026,2026-03-21,Nikola Jovic,MIA,HOU,0,0,1,0,3,4,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
 Nikola Jovic|4,2026,2026-02-20,Nikola Jovic,MIA,ATL,0,0,31,0,4,3,1,0,1,0,0,0,0,2,1,2,1,0,0,,,
@@ -3642,7 +3641,7 @@ Nikola Topic|16,2026,2026-02-24,Nikola Topic,OKC,TOR,0,0,9,0,16,6,3,0,0,1,0,0,1,
 Nikola Topic|17,2026,2026-02-22,Nikola Topic,OKC,CLE,1,0,8,0,17,8,2,2,3,0,0,0,3,7,4,5,5,0,0,,,
 Nikola Topic|18,2026,2026-02-20,Nikola Topic,OKC,BKN,1,0,19,0,18,11,9,3,2,1,0,0,3,14,12,11,5,0,0,,,
 Nikola Topic|19,2026,2026-02-12,Nikola Topic,OKC,MIL,1,0,17,1,19,12,2,1,1,0,0,0,3,4,3,3,2,0,0,,,
-Nikola Vucevic|1,2027,2026-10-21,Nikola Vucevic,ORL,ATL,1,0,7,0,1,5,0,1,1,0,0,0,0,2,1,1,2,0,0,0.0,0.0,0.0
+Nikola Vucevic|1,2027,2026-10-21,Nikola Vucevic,ORL,ATL,1,0,7,0,1,5,0,1,1,0,0,0,0,2,1,1,2,0,0,0,0,0
 Nikola Vucevic|2,2026,2026-04-30,Nikola Vucevic,BOS,PHI,0,0,13,0,2,14,2,2,1,0,1,0,0,5,4,3,3,0,0,,,
 Nikola Vucevic|3,2026,2026-04-28,Nikola Vucevic,BOS,PHI,1,0,16,0,3,15,8,2,3,2,0,0,1,13,10,11,5,0,0,,,
 Nikola Vucevic|4,2026,2026-04-26,Nikola Vucevic,BOS,PHI,0,0,32,0,4,19,4,5,2,0,0,0,1,11,9,6,7,0,0,,,
@@ -3713,7 +3712,7 @@ Nikola Vucevic|68,2026,2025-10-29,Nikola Vucevic,CHI,SAC,1,1,13,0,68,33,13,14,7,
 Nikola Vucevic|69,2026,2025-10-27,Nikola Vucevic,CHI,ATL,1,1,5,0,69,34,17,17,9,1,2,0,3,43,34,26,26,1,0,,,
 Nikola Vucevic|70,2026,2025-10-25,Nikola Vucevic,CHI,ORL,0,1,12,0,70,31,15,8,2,1,0,1,4,25,23,17,10,0,0,,,
 Nikola Vucevic|71,2026,2025-10-22,Nikola Vucevic,CHI,DET,1,1,4,0,71,33,28,14,2,4,1,0,1,44,42,30,16,1,0,,,
-Nique Clifford|1,2027,2026-10-21,Nique Clifford,SAC,LAC,0,0,25,0,1,17,6,1,3,0,1,0,3,10,7,9,4,0,0,7.0,0.0,2.0
+Nique Clifford|1,2027,2026-10-21,Nique Clifford,SAC,LAC,0,0,25,0,1,17,6,1,3,0,1,0,3,10,7,9,4,0,0,7,0,2
 Nique Clifford|2,2026,2026-04-12,Nique Clifford,SAC,POR,0,1,12,0,2,39,24,7,5,0,0,1,4,36,31,29,12,0,0,,,
 Nique Clifford|3,2026,2026-04-10,Nique Clifford,SAC,GS,1,1,6,0,3,38,20,6,6,2,0,0,4,32,26,26,12,0,0,,,
 Nique Clifford|4,2026,2026-04-07,Nique Clifford,SAC,GS,0,1,5,0,4,36,12,6,2,1,2,0,2,20,18,14,8,0,0,,,
@@ -3789,10 +3788,10 @@ Nique Clifford|73,2026,2025-11-05,Nique Clifford,SAC,GS,1,1,5,0,73,33,12,3,3,3,1
 Nique Clifford|74,2026,2025-11-03,Nique Clifford,SAC,DEN,0,0,6,0,74,19,8,1,3,0,0,1,0,12,9,11,4,0,0,,,
 Nique Clifford|75,2026,2025-11-01,Nique Clifford,SAC,MIL,0,0,2,0,75,16,0,3,0,0,0,1,0,3,3,0,3,0,0,,,
 Nique Clifford|76,2026,2025-10-22,Nique Clifford,SAC,PHX,0,1,4,0,76,24,2,8,2,0,2,1,1,12,10,4,10,0,0,,,
-Noa Essengue|1,2027,2026-10-21,Noa Essengue,CHI,TOR,0,0,43,0,1,10,1,3,0,0,0,0,1,4,4,1,3,0,0,0.0,2.0,0.0
+Noa Essengue|1,2027,2026-10-21,Noa Essengue,CHI,TOR,0,0,43,0,1,10,1,3,0,0,0,0,1,4,4,1,3,0,0,0,2,0
 Noa Essengue|2,2026,2025-11-24,Noa Essengue,CHI,NO,0,0,13,0,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,,,
 Noa Essengue|3,2026,2025-11-22,Noa Essengue,CHI,WSH,1,0,1,1,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Noah Clowney|1,2027,2026-10-21,Noah Clowney,BKN,CHA,1,0,7,0,1,22,9,3,1,1,1,0,0,13,12,10,4,0,0,3.0,2.0,1.0
+Noah Clowney|1,2027,2026-10-21,Noah Clowney,BKN,CHA,1,0,7,0,1,22,9,3,1,1,1,0,0,13,12,10,4,0,0,3,2,1
 Noah Clowney|2,2026,2026-04-03,Noah Clowney,BKN,ATL,1,1,34,0,2,21,12,4,1,0,1,1,4,17,16,13,5,0,0,,,
 Noah Clowney|3,2026,2026-03-31,Noah Clowney,BKN,CHA,1,1,31,0,3,20,4,3,0,0,0,1,0,7,7,4,3,0,0,,,
 Noah Clowney|4,2026,2026-03-29,Noah Clowney,BKN,SAC,1,1,17,0,4,20,15,7,1,3,2,2,1,23,22,16,8,0,0,,,
@@ -3919,7 +3918,7 @@ Noah Penda|57,2026,2025-11-01,Noah Penda,ORL,WSH,0,0,31,0,57,7,3,2,3,1,1,2,1,8,5
 Noah Penda|58,2026,2025-10-30,Noah Penda,ORL,CHA,0,0,16,1,58,17,3,2,1,0,0,0,0,6,5,4,3,0,0,,,
 Noah Penda|59,2026,2025-10-29,Noah Penda,ORL,DET,0,0,19,0,59,12,4,2,0,0,0,0,1,6,6,4,2,0,0,,,
 Noah Penda|60,2026,2025-10-27,Noah Penda,ORL,PHI,0,0,12,0,60,7,3,2,1,1,0,0,0,6,5,4,3,0,0,,,
-Nolan Traore|1,2027,2026-10-21,Nolan Traore,BKN,CHA,1,0,7,0,1,16,3,2,0,0,0,0,2,5,5,3,2,0,0,4.0,4.0,0.0
+Nolan Traore|1,2027,2026-10-21,Nolan Traore,BKN,CHA,1,0,7,0,1,16,3,2,0,0,0,0,2,5,5,3,2,0,0,4,4,0
 Nolan Traore|2,2026,2026-04-10,Nolan Traore,BKN,MIL,0,0,17,1,2,16,14,4,0,1,3,1,1,18,18,14,4,0,0,,,
 Nolan Traore|3,2026,2026-04-07,Nolan Traore,BKN,MIL,1,0,6,0,3,9,5,1,2,1,1,1,2,8,6,7,3,0,0,,,
 Nolan Traore|4,2026,2026-04-05,Nolan Traore,BKN,WSH,1,1,6,0,4,28,23,2,7,5,0,0,3,32,25,30,9,0,0,,,
@@ -3982,7 +3981,7 @@ Norchad Omier|3,2026,2026-04-05,Norchad Omier,LAC,SAC,0,0,29,0,3,5,5,1,1,0,0,0,0
 Norchad Omier|4,2026,2026-03-11,Norchad Omier,LAC,MIN,1,0,25,0,4,6,6,0,1,0,1,0,0,7,6,7,1,0,0,,,
 Norchad Omier|5,2026,2026-03-04,Norchad Omier,LAC,IND,1,0,23,0,5,5,2,3,0,0,0,0,0,5,5,2,3,0,0,,,
 Norchad Omier|6,2026,2026-03-02,Norchad Omier,LAC,GS,0,0,13,1,6,3,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
-Norman Powell|1,2027,2026-10-21,Norman Powell,CHI,TOR,0,1,43,0,1,22,15,5,1,2,2,0,1,21,20,16,6,0,0,9.0,11.0,6.0
+Norman Powell|1,2027,2026-10-21,Norman Powell,CHI,TOR,0,1,43,0,1,22,15,5,1,2,2,0,1,21,20,16,6,0,0,9,11,6
 Norman Powell|2,2026,2026-04-14,Norman Powell,MIA,CHA,0,0,1,0,2,19,11,2,1,1,0,0,2,14,13,12,3,0,0,,,
 Norman Powell|3,2026,2026-04-12,Norman Powell,MIA,ATL,1,0,26,0,3,23,25,2,2,3,1,0,0,29,27,27,4,0,0,,,
 Norman Powell|4,2026,2026-04-09,Norman Powell,MIA,TOR,0,0,14,0,4,17,7,0,0,0,0,0,2,7,7,7,0,0,0,,,
@@ -4042,7 +4041,7 @@ Norman Powell|57,2026,2025-11-03,Norman Powell,MIA,LAC,0,1,1,1,57,28,21,2,2,2,1,
 Norman Powell|58,2026,2025-10-26,Norman Powell,MIA,NY,1,1,8,0,58,32,29,7,3,3,3,0,1,39,36,32,10,0,0,,,
 Norman Powell|59,2026,2025-10-24,Norman Powell,MIA,MEM,0,1,32,0,59,25,15,6,2,2,2,0,2,23,21,17,8,0,0,,,
 Norman Powell|60,2026,2025-10-22,Norman Powell,MIA,ORL,0,1,4,0,60,36,28,9,4,4,1,1,3,41,37,32,13,0,0,,,
-OG Anunoby|1,2027,2026-10-20,OG Anunoby,NY,PHI,1,1,6,0,1,32,10,5,0,1,1,1,2,15,15,10,5,0,0,12.0,3.0,9.0
+OG Anunoby|1,2027,2026-10-20,OG Anunoby,NY,PHI,1,1,6,0,1,32,10,5,0,1,1,1,2,15,15,10,5,0,0,12,3,9
 OG Anunoby|2,2026,2026-06-13,OG Anunoby,NY,SA,0,1,4,0,2,33,11,8,0,1,3,1,1,19,19,11,8,0,0,,,
 OG Anunoby|3,2026,2026-06-10,OG Anunoby,NY,SA,1,1,1,0,3,41,33,4,1,7,1,1,1,38,37,34,5,0,0,,,
 OG Anunoby|4,2026,2026-06-08,OG Anunoby,NY,SA,1,1,4,0,4,38,28,5,1,3,0,2,1,34,33,29,6,0,0,,,
@@ -4127,7 +4126,7 @@ OG Anunoby|82,2026,2025-10-28,OG Anunoby,NY,MIL,0,1,10,0,82,34,9,6,5,1,1,1,2,20,
 OG Anunoby|83,2026,2025-10-26,OG Anunoby,NY,MIA,0,1,8,0,83,37,14,6,1,4,3,1,2,21,20,15,7,0,0,,,
 OG Anunoby|84,2026,2025-10-24,OG Anunoby,NY,BOS,1,1,10,0,84,29,10,2,1,2,2,0,1,13,12,11,3,0,0,,,
 OG Anunoby|85,2026,2025-10-22,OG Anunoby,NY,CLE,1,1,8,0,85,38,24,14,2,4,3,1,4,40,38,26,16,1,0,,,
-Obi Toppin|1,2027,2026-10-21,Obi Toppin,IND,NO,0,0,3,0,1,25,20,3,1,4,2,0,0,24,23,21,4,0,0,12.0,3.0,9.0
+Obi Toppin|1,2027,2026-10-21,Obi Toppin,IND,NO,0,0,3,0,1,25,20,3,1,4,2,0,0,24,23,21,4,0,0,12,3,9
 Obi Toppin|2,2026,2026-04-12,Obi Toppin,IND,DET,1,0,12,0,2,18,21,2,2,7,0,0,2,25,23,23,4,0,0,,,
 Obi Toppin|3,2026,2026-04-10,Obi Toppin,IND,PHI,1,0,11,1,3,19,7,7,2,1,0,0,2,16,14,9,9,0,0,,,
 Obi Toppin|4,2026,2026-04-09,Obi Toppin,IND,BKN,0,0,29,0,4,19,26,9,3,0,0,0,0,38,35,29,12,0,0,,,
@@ -4279,7 +4278,7 @@ Omer Yurtseven|6,2026,2026-03-20,Omer Yurtseven,GS,DET,0,0,14,0,6,21,8,6,2,0,1,0
 Omer Yurtseven|7,2026,2026-03-18,Omer Yurtseven,GS,BOS,0,0,21,0,7,5,4,2,0,0,0,0,0,6,6,4,2,0,0,,,
 Omer Yurtseven|8,2026,2026-03-16,Omer Yurtseven,GS,WSH,0,0,8,1,8,2,2,0,1,0,0,0,0,3,2,3,1,0,0,,,
 Omer Yurtseven|9,2026,2026-03-15,Omer Yurtseven,GS,NY,0,0,3,0,9,13,0,4,0,0,0,0,1,4,4,0,4,0,0,,,
-Onyeka Okongwu|1,2027,2026-10-21,Onyeka Okongwu,ATL,ORL,0,1,7,0,1,29,8,5,7,0,0,0,2,20,13,15,12,0,0,8.0,2.0,4.0
+Onyeka Okongwu|1,2027,2026-10-21,Onyeka Okongwu,ATL,ORL,0,1,7,0,1,29,8,5,7,0,0,0,2,20,13,15,12,0,0,8,2,4
 Onyeka Okongwu|2,2026,2026-04-30,Onyeka Okongwu,ATL,NY,1,1,51,0,2,32,4,6,5,0,1,1,2,15,10,9,11,0,0,,,
 Onyeka Okongwu|3,2026,2026-04-28,Onyeka Okongwu,ATL,NY,0,1,29,0,3,34,16,5,4,2,1,1,0,25,21,20,9,0,0,,,
 Onyeka Okongwu|4,2026,2026-04-25,Onyeka Okongwu,ATL,NY,1,1,16,0,4,28,12,6,1,1,4,0,1,19,18,13,7,0,0,,,
@@ -4391,7 +4390,7 @@ Oscar Tshiebwe|24,2026,2026-02-20,Oscar Tshiebwe,UTAH,MEM,0,0,9,0,24,14,2,6,0,0,
 Oscar Tshiebwe|25,2026,2026-02-12,Oscar Tshiebwe,UTAH,POR,1,0,16,1,25,5,0,1,3,0,0,0,0,4,1,3,4,0,0,,,
 Oscar Tshiebwe|26,2026,2026-02-05,Oscar Tshiebwe,UTAH,ATL,0,0,2,0,26,10,4,2,1,0,0,0,1,7,6,5,3,0,0,,,
 Oscar Tshiebwe|27,2026,2026-01-01,Oscar Tshiebwe,UTAH,LAC,0,0,17,0,27,15,2,6,1,0,1,0,0,9,8,3,7,0,0,,,
-Oso Ighodaro|1,2027,2026-10-21,Oso Ighodaro,PHX,POR,0,0,41,0,1,15,8,3,3,0,0,0,0,14,11,11,6,0,0,7.0,2.0,0.0
+Oso Ighodaro|1,2027,2026-10-21,Oso Ighodaro,PHX,POR,0,0,41,0,1,15,8,3,3,0,0,0,0,14,11,11,6,0,0,7,2,0
 Oso Ighodaro|2,2026,2026-04-27,Oso Ighodaro,PHX,OKC,1,1,9,0,2,34,8,8,4,0,2,1,2,20,16,12,12,0,0,,,
 Oso Ighodaro|3,2026,2026-04-25,Oso Ighodaro,PHX,OKC,1,1,12,0,3,39,15,3,4,0,0,1,2,22,18,19,7,0,0,,,
 Oso Ighodaro|4,2026,2026-04-22,Oso Ighodaro,PHX,OKC,0,1,13,0,4,29,7,8,5,0,0,1,2,20,15,12,13,0,0,,,
@@ -4480,7 +4479,7 @@ Oso Ighodaro|86,2026,2025-10-27,Oso Ighodaro,PHX,UTAH,0,1,4,0,86,13,2,1,1,0,0,1,
 Oso Ighodaro|87,2026,2025-10-25,Oso Ighodaro,PHX,DEN,0,1,22,1,87,23,4,1,1,0,0,1,2,6,5,5,2,0,0,,,
 Oso Ighodaro|88,2026,2025-10-24,Oso Ighodaro,PHX,LAC,0,1,27,0,88,20,9,6,1,0,0,0,1,16,15,10,7,0,0,,,
 Oso Ighodaro|89,2026,2025-10-22,Oso Ighodaro,PHX,SAC,1,1,4,0,89,19,7,4,1,0,0,0,1,12,11,8,5,0,0,,,
-Ousmane Dieng|1,2027,2026-10-21,Ousmane Dieng,MIL,WSH,0,0,12,0,1,21,5,4,3,1,0,0,1,12,9,8,7,0,0,6.0,0.0,4.0
+Ousmane Dieng|1,2027,2026-10-21,Ousmane Dieng,MIL,WSH,0,0,12,0,1,21,5,4,3,1,0,0,1,12,9,8,7,0,0,6,0,4
 Ousmane Dieng|2,2026,2026-04-12,Ousmane Dieng,MIL,PHI,0,1,20,0,2,41,11,7,8,0,1,0,6,26,18,19,15,0,0,,,
 Ousmane Dieng|3,2026,2026-04-10,Ousmane Dieng,MIL,BKN,1,1,17,0,3,37,12,6,12,0,0,0,4,30,18,24,18,1,0,,,
 Ousmane Dieng|4,2026,2026-04-08,Ousmane Dieng,MIL,DET,0,1,26,1,4,27,17,5,4,4,0,0,3,26,22,21,9,0,0,,,
@@ -4538,7 +4537,7 @@ Ousmane Dieng|55,2026,2025-11-02,Ousmane Dieng,OKC,NO,1,0,31,0,55,6,3,1,1,1,0,1,
 Ousmane Dieng|56,2026,2025-10-30,Ousmane Dieng,OKC,WSH,1,0,19,0,56,5,2,0,0,0,0,2,0,2,2,2,0,0,0,,,
 Ousmane Dieng|57,2026,2025-10-25,Ousmane Dieng,OKC,ATL,0,0,17,0,57,5,0,2,0,0,0,0,1,2,2,0,2,0,0,,,
 Ousmane Dieng|58,2026,2025-10-23,Ousmane Dieng,OKC,IND,0,0,6,0,58,15,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
-P.J. Washington|1,2027,2026-10-21,P.J. Washington,DAL,HOU,0,1,18,0,1,31,10,4,2,2,0,1,4,16,14,12,6,0,0,9.0,2.0,6.0
+P.J. Washington|1,2027,2026-10-21,P.J. Washington,DAL,HOU,0,1,18,0,1,31,10,4,2,2,0,1,4,16,14,12,6,0,0,9,2,6
 P.J. Washington|2,2026,2026-04-05,P.J. Washington,DAL,LAL,1,1,6,0,2,30,15,6,0,3,0,0,2,21,21,15,6,0,0,,,
 P.J. Washington|3,2026,2026-03-27,P.J. Washington,DAL,POR,0,1,7,0,3,27,5,5,0,1,0,0,1,10,10,5,5,0,0,,,
 P.J. Washington|4,2026,2026-03-25,P.J. Washington,DAL,DEN,0,1,7,0,4,31,19,15,1,1,0,1,0,35,34,20,16,1,0,,,
@@ -4647,7 +4646,7 @@ Pacome Dadiet|32,2026,2025-11-09,Pacome Dadiet,NY,BKN,1,0,36,0,32,6,2,1,0,0,0,0,
 Pacome Dadiet|33,2026,2025-11-05,Pacome Dadiet,NY,MIN,1,0,23,0,33,2,0,1,1,0,0,0,0,2,1,1,2,0,0,,,
 Pacome Dadiet|34,2026,2025-11-03,Pacome Dadiet,NY,WSH,1,0,17,1,34,4,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
 Pacome Dadiet|35,2026,2025-11-02,Pacome Dadiet,NY,CHI,1,0,12,0,35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Paolo Banchero|1,2027,2026-10-21,Paolo Banchero,ORL,ATL,1,1,7,0,1,41,35,7,10,3,1,0,6,52,42,45,17,1,0,12.0,16.0,4.0
+Paolo Banchero|1,2027,2026-10-21,Paolo Banchero,ORL,ATL,1,1,7,0,1,41,35,7,10,3,1,0,6,52,42,45,17,1,0,12,16,4
 Paolo Banchero|2,2026,2026-05-03,Paolo Banchero,ORL,DET,0,1,22,0,2,42,38,9,6,4,0,1,5,53,47,44,15,0,0,,,
 Paolo Banchero|3,2026,2026-05-01,Paolo Banchero,ORL,DET,1,1,14,0,3,41,17,10,6,0,2,0,1,33,27,23,16,1,0,,,
 Paolo Banchero|4,2026,2026-04-29,Paolo Banchero,ORL,DET,0,1,7,0,4,41,45,9,7,6,2,0,6,61,54,52,16,0,0,,,
@@ -4729,7 +4728,7 @@ Paolo Banchero|79,2026,2025-10-27,Paolo Banchero,ORL,PHI,0,1,12,0,79,38,32,7,5,1
 Paolo Banchero|80,2026,2025-10-25,Paolo Banchero,ORL,CHI,1,1,12,1,80,36,24,10,1,1,1,2,3,35,34,25,11,1,0,,,
 Paolo Banchero|81,2026,2025-10-24,Paolo Banchero,ORL,ATL,1,1,4,0,81,36,11,6,1,0,0,0,3,18,17,12,7,0,0,,,
 Paolo Banchero|82,2026,2025-10-22,Paolo Banchero,ORL,MIA,1,1,4,0,82,35,24,11,1,1,1,1,2,36,35,25,12,1,0,,,
-Pascal Siakam|1,2027,2026-10-21,Pascal Siakam,IND,NO,0,1,3,0,1,35,30,8,1,1,1,0,2,39,38,31,9,0,0,23.0,8.0,3.0
+Pascal Siakam|1,2027,2026-10-21,Pascal Siakam,IND,NO,0,1,3,0,1,35,30,8,1,1,1,0,2,39,38,31,9,0,0,23,8,3
 Pascal Siakam|2,2026,2026-04-03,Pascal Siakam,IND,CHA,0,1,21,0,2,34,30,7,2,2,2,0,2,39,37,32,9,0,0,,,
 Pascal Siakam|3,2026,2026-04-01,Pascal Siakam,IND,CHI,0,1,19,0,3,22,25,4,5,1,0,0,0,34,29,30,9,0,0,,,
 Pascal Siakam|4,2026,2026-03-29,Pascal Siakam,IND,MIA,1,1,17,0,4,31,30,11,6,3,1,0,4,47,41,36,17,1,0,,,
@@ -4835,7 +4834,7 @@ Pat Connaughton|40,2026,2025-11-04,Pat Connaughton,CHA,NO,0,0,4,0,40,11,3,1,1,1,
 Pat Connaughton|41,2026,2025-11-02,Pat Connaughton,CHA,UTAH,1,0,23,1,41,14,6,1,0,2,0,1,1,7,7,6,1,0,0,,,
 Pat Connaughton|42,2026,2025-10-30,Pat Connaughton,CHA,ORL,1,0,16,0,42,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Pat Connaughton|43,2026,2025-10-26,Pat Connaughton,CHA,WSH,0,0,26,1,43,2,4,0,1,0,0,0,0,5,4,5,1,0,0,,,
-Pat Spencer|1,2027,2026-10-21,Pat Spencer,PHX,POR,0,0,41,0,1,7,3,3,1,1,1,1,1,7,6,4,4,0,0,2.0,0.0,1.0
+Pat Spencer|1,2027,2026-10-21,Pat Spencer,PHX,POR,0,0,41,0,1,7,3,3,1,1,1,1,1,7,6,4,4,0,0,2,0,1
 Pat Spencer|2,2026,2026-04-17,Pat Spencer,GS,PHX,0,0,15,0,2,1,2,0,0,0,0,0,0,2,2,2,0,0,0,,,
 Pat Spencer|3,2026,2026-04-12,Pat Spencer,GS,LAC,0,0,5,0,3,19,7,3,3,1,0,0,1,13,10,10,6,0,0,,,
 Pat Spencer|4,2026,2026-04-10,Pat Spencer,GS,SAC,0,0,6,1,4,14,2,1,4,0,0,0,0,7,3,6,5,0,0,,,
@@ -4984,7 +4983,7 @@ Patrick Williams|69,2026,2025-10-29,Patrick Williams,CHI,SAC,1,0,13,0,69,20,9,3,
 Patrick Williams|70,2026,2025-10-27,Patrick Williams,CHI,ATL,1,0,5,0,70,22,12,3,2,2,0,0,0,17,15,14,5,0,0,,,
 Patrick Williams|71,2026,2025-10-25,Patrick Williams,CHI,ORL,0,0,12,0,71,29,12,5,4,1,2,0,2,21,17,16,9,0,0,,,
 Patrick Williams|72,2026,2025-10-22,Patrick Williams,CHI,DET,1,0,4,0,72,17,4,4,0,1,1,2,2,8,8,4,4,0,0,,,
-Paul George|1,2027,2026-10-20,Paul George,BOS,DET,0,1,8,0,1,31,38,5,3,7,5,0,3,46,43,41,8,0,0,21.0,8.0,12.0
+Paul George|1,2027,2026-10-20,Paul George,BOS,DET,0,1,8,0,1,31,38,5,3,7,5,0,3,46,43,41,8,0,0,21,8,12
 Paul George|2,2026,2026-05-10,Paul George,PHI,NY,1,1,30,0,2,27,7,1,2,1,0,0,2,10,8,9,3,0,0,,,
 Paul George|3,2026,2026-05-08,Paul George,PHI,NY,1,1,14,0,3,38,15,5,3,3,2,0,3,23,20,18,8,0,0,,,
 Paul George|4,2026,2026-05-06,Paul George,PHI,NY,0,1,6,0,4,43,19,6,4,5,2,2,2,29,25,23,10,0,0,,,
@@ -5034,7 +5033,7 @@ Paul George|47,2026,2025-11-28,Paul George,PHI,BKN,0,1,12,0,47,21,14,3,2,2,2,0,1
 Paul George|48,2026,2025-11-23,Paul George,PHI,MIA,1,1,10,0,48,20,10,2,5,0,1,1,2,17,12,15,7,0,0,,,
 Paul George|49,2026,2025-11-20,Paul George,PHI,MIL,0,1,9,1,49,25,21,5,3,4,2,0,3,29,26,24,8,0,0,,,
 Paul George|50,2026,2025-11-17,Paul George,PHI,LAC,1,1,2,0,50,21,9,7,3,1,0,2,1,19,16,12,10,0,0,,,
-Paul Reed|1,2027,2026-10-20,Paul Reed,DET,BOS,1,0,8,0,1,17,6,6,2,0,1,0,2,14,12,8,8,0,0,3.0,2.0,0.0
+Paul Reed|1,2027,2026-10-20,Paul Reed,DET,BOS,1,0,8,0,1,17,6,6,2,0,1,0,2,14,12,8,8,0,0,3,2,0
 Paul Reed|2,2026,2026-05-17,Paul Reed,DET,CLE,1,0,31,0,2,8,4,4,1,0,0,0,0,9,8,5,5,0,0,,,
 Paul Reed|3,2026,2026-05-15,Paul Reed,DET,CLE,0,0,21,0,3,16,17,6,1,1,0,1,3,24,23,18,7,0,0,,,
 Paul Reed|4,2026,2026-05-11,Paul Reed,DET,CLE,0,0,9,0,4,14,15,4,2,1,1,0,1,21,19,17,6,0,0,,,
@@ -5108,7 +5107,7 @@ Paul Reed|71,2026,2025-10-29,Paul Reed,DET,ORL,1,0,19,0,71,3,0,0,1,0,0,0,0,1,0,1
 Paul Reed|72,2026,2025-10-27,Paul Reed,DET,CLE,1,0,21,1,72,8,4,2,0,0,1,0,2,6,6,4,2,0,0,,,
 Paul Reed|73,2026,2025-10-24,Paul Reed,DET,HOU,0,0,4,0,73,19,13,9,1,1,0,2,2,23,22,14,10,0,0,,,
 Paul Reed|74,2026,2025-10-22,Paul Reed,DET,CHI,0,0,4,0,74,3,3,0,0,1,0,1,1,3,3,3,0,0,0,,,
-Payton Pritchard|1,2027,2026-10-20,Payton Pritchard,BOS,DET,0,0,8,0,1,28,17,4,1,2,0,0,0,22,21,18,5,0,0,9.0,8.0,5.0
+Payton Pritchard|1,2027,2026-10-20,Payton Pritchard,BOS,DET,0,0,8,0,1,28,17,4,1,2,0,0,0,22,21,18,5,0,0,9,8,5
 Payton Pritchard|2,2026,2026-05-02,Payton Pritchard,BOS,PHI,1,0,9,0,2,39,13,5,7,2,1,0,0,25,18,20,12,0,0,,,
 Payton Pritchard|3,2026,2026-04-30,Payton Pritchard,BOS,PHI,0,0,13,0,3,36,14,3,5,1,0,0,1,22,17,19,8,0,0,,,
 Payton Pritchard|4,2026,2026-04-28,Payton Pritchard,BOS,PHI,1,0,16,0,4,26,12,2,6,1,0,0,0,20,14,18,8,0,0,,,
@@ -5199,7 +5198,7 @@ Payton Sandfort|1,2026,2026-04-12,Payton Sandfort,OKC,PHX,1,0,32,0,1,28,23,4,0,5
 Payton Sandfort|2,2026,2026-04-10,Payton Sandfort,OKC,DEN,0,0,20,0,2,28,8,4,0,1,0,0,0,12,12,8,4,0,0,,,
 Payton Sandfort|3,2026,2026-03-27,Payton Sandfort,OKC,CHI,1,0,18,0,3,2,1,1,0,0,0,0,0,2,2,1,1,0,0,,,
 Payton Sandfort|4,2026,2026-03-18,Payton Sandfort,OKC,BKN,0,0,29,1,4,5,3,1,0,1,0,0,1,4,4,3,1,0,0,,,
-Pelle Larsson|1,2027,2026-10-21,Pelle Larsson,MIA,MIN,1,0,25,0,1,24,2,3,4,0,1,1,0,9,5,6,7,0,0,2.0,2.0,1.0
+Pelle Larsson|1,2027,2026-10-21,Pelle Larsson,MIA,MIN,1,0,25,0,1,24,2,3,4,0,1,1,0,9,5,6,7,0,0,2,2,1
 Pelle Larsson|2,2026,2026-04-14,Pelle Larsson,MIA,CHA,0,0,1,0,2,22,6,3,3,0,1,0,2,12,9,9,6,0,0,,,
 Pelle Larsson|3,2026,2026-04-10,Pelle Larsson,MIA,WSH,0,0,23,1,3,27,24,0,6,1,1,0,3,30,24,30,6,0,0,,,
 Pelle Larsson|4,2026,2026-04-09,Pelle Larsson,MIA,TOR,0,1,14,0,4,32,10,4,2,2,0,0,1,16,14,12,6,0,0,,,
@@ -5318,7 +5317,7 @@ Pete Nance|44,2026,2025-12-05,Pete Nance,MIL,PHI,1,0,15,0,44,1,0,0,0,0,0,0,0,0,0
 Pete Nance|45,2026,2025-11-24,Pete Nance,MIL,POR,1,0,12,0,45,3,0,0,1,0,0,0,0,1,0,1,1,0,0,,,
 Pete Nance|46,2026,2025-11-22,Pete Nance,MIL,DET,1,0,13,0,46,2,3,1,0,1,0,0,0,4,4,3,1,0,0,,,
 Pete Nance|47,2026,2025-11-12,Pete Nance,MIL,CHA,0,0,11,0,47,4,10,1,0,2,0,0,0,11,11,10,1,0,0,,,
-Peyton Watson|1,2027,2026-10-22,Peyton Watson,CLE,PHI,0,1,8,0,1,30,8,1,2,0,2,1,5,11,9,10,3,0,0,7.0,4.0,3.0
+Peyton Watson|1,2027,2026-10-22,Peyton Watson,CLE,PHI,0,1,8,0,1,30,8,1,2,0,2,1,5,11,9,10,3,0,0,7,4,3
 Peyton Watson|2,2026,2026-04-01,Peyton Watson,DEN,UTAH,0,0,13,0,2,9,6,3,0,0,0,0,1,9,9,6,3,0,0,,,
 Peyton Watson|3,2026,2026-03-29,Peyton Watson,DEN,GS,1,1,23,0,3,22,10,6,5,2,0,1,2,21,16,15,11,0,0,,,
 Peyton Watson|4,2026,2026-03-27,Peyton Watson,DEN,UTAH,1,0,6,0,4,21,7,5,4,1,0,2,4,16,12,11,9,0,0,,,
@@ -5373,7 +5372,7 @@ Peyton Watson|52,2026,2025-10-29,Peyton Watson,DEN,NO,1,0,34,0,52,23,5,5,5,0,1,3
 Peyton Watson|53,2026,2025-10-27,Peyton Watson,DEN,MIN,0,0,13,0,53,25,12,2,1,2,1,2,1,15,14,13,3,0,0,,,
 Peyton Watson|54,2026,2025-10-25,Peyton Watson,DEN,PHX,1,0,22,0,54,20,7,2,1,0,1,0,2,10,9,8,3,0,0,,,
 Peyton Watson|55,2026,2025-10-23,Peyton Watson,DEN,GS,0,0,6,0,55,16,2,2,1,0,0,1,2,5,4,3,3,0,0,,,
-Precious Achiuwa|1,2027,2026-10-21,Precious Achiuwa,SAC,LAC,0,0,25,0,1,29,15,5,2,1,2,0,1,22,20,17,7,0,0,8.0,5.0,1.0
+Precious Achiuwa|1,2027,2026-10-21,Precious Achiuwa,SAC,LAC,0,0,25,0,1,29,15,5,2,1,2,0,1,22,20,17,7,0,0,8,5,1
 Precious Achiuwa|2,2026,2026-04-12,Precious Achiuwa,SAC,POR,0,1,12,0,2,35,27,11,4,0,0,1,2,42,38,31,15,1,0,,,
 Precious Achiuwa|3,2026,2026-04-10,Precious Achiuwa,SAC,GS,1,1,6,0,3,25,5,6,4,0,2,1,1,15,11,9,10,0,0,,,
 Precious Achiuwa|4,2026,2026-04-07,Precious Achiuwa,SAC,GS,0,1,5,0,4,34,13,6,4,0,0,1,2,23,19,17,10,0,0,,,
@@ -5447,7 +5446,7 @@ Precious Achiuwa|71,2026,2025-11-11,Precious Achiuwa,SAC,DEN,1,1,14,0,71,18,6,3,
 Precious Achiuwa|72,2026,2025-11-09,Precious Achiuwa,SAC,MIN,1,1,27,0,72,29,12,10,0,0,0,1,1,22,22,12,10,1,0,,,
 Precious Achiuwa|73,2026,2025-11-07,Precious Achiuwa,SAC,OKC,1,0,31,0,73,17,4,4,0,0,1,0,0,8,8,4,4,0,0,,,
 Precious Achiuwa|74,2026,2025-11-05,Precious Achiuwa,SAC,GS,1,0,5,0,74,9,4,3,0,0,0,1,1,7,7,4,3,0,0,,,
-Quentin Grimes|1,2027,2026-10-21,Quentin Grimes,LAL,GS,1,0,22,0,1,27,10,2,4,0,1,1,0,16,12,14,6,0,0,7.0,2.0,2.0
+Quentin Grimes|1,2027,2026-10-21,Quentin Grimes,LAL,GS,1,0,22,0,1,27,10,2,4,0,1,1,0,16,12,14,6,0,0,7,2,2
 Quentin Grimes|2,2026,2026-05-10,Quentin Grimes,PHI,NY,1,0,30,0,2,16,6,0,0,2,0,1,0,6,6,6,0,0,0,,,
 Quentin Grimes|3,2026,2026-05-08,Quentin Grimes,PHI,NY,1,0,14,0,3,22,6,2,2,2,0,0,1,10,8,8,4,0,0,,,
 Quentin Grimes|4,2026,2026-05-06,Quentin Grimes,PHI,NY,0,0,6,0,4,24,7,3,3,1,1,0,1,13,10,10,6,0,0,,,
@@ -5535,7 +5534,7 @@ Quentin Grimes|85,2026,2025-10-28,Quentin Grimes,PHI,WSH,0,0,5,1,85,39,23,7,3,3,
 Quentin Grimes|86,2026,2025-10-27,Quentin Grimes,PHI,ORL,1,0,12,0,86,26,14,5,3,3,0,0,2,22,19,17,8,0,0,,,
 Quentin Grimes|87,2026,2025-10-25,Quentin Grimes,PHI,CHA,1,0,4,0,87,30,24,3,4,5,0,0,2,31,27,28,7,0,0,,,
 Quentin Grimes|88,2026,2025-10-22,Quentin Grimes,PHI,BOS,0,0,1,0,88,32,10,5,5,2,0,0,5,20,15,15,10,0,0,,,
-Quenton Jackson|1,2027,2026-10-21,Quenton Jackson,IND,NO,0,0,3,0,1,16,6,4,1,0,3,0,0,11,10,7,5,0,0,3.0,2.0,0.0
+Quenton Jackson|1,2027,2026-10-21,Quenton Jackson,IND,NO,0,0,3,0,1,16,6,4,1,0,3,0,0,11,10,7,5,0,0,3,2,0
 Quenton Jackson|2,2026,2026-04-12,Quenton Jackson,IND,DET,1,1,12,0,2,30,21,0,8,1,3,0,1,29,21,29,8,0,0,,,
 Quenton Jackson|3,2026,2026-04-10,Quenton Jackson,IND,PHI,1,1,11,1,3,27,16,4,6,2,1,0,2,26,20,22,10,0,0,,,
 Quenton Jackson|4,2026,2026-04-09,Quenton Jackson,IND,BKN,0,1,29,0,4,26,12,6,7,0,0,0,2,25,18,19,13,0,0,,,
@@ -5585,7 +5584,7 @@ Quenton Jackson|47,2026,2025-11-01,Quenton Jackson,IND,GS,1,1,5,1,47,31,25,6,10,
 Quenton Jackson|48,2026,2025-10-31,Quenton Jackson,IND,ATL,1,1,20,0,48,22,15,4,4,2,1,1,3,23,19,19,8,0,0,,,
 Quenton Jackson|49,2026,2025-10-29,Quenton Jackson,IND,DAL,0,0,2,0,49,18,8,3,0,0,1,0,1,11,11,8,3,0,0,,,
 Quenton Jackson|50,2026,2025-10-26,Quenton Jackson,IND,MIN,0,0,4,1,50,10,4,2,0,1,0,0,1,6,6,4,2,0,0,,,
-Quinten Post|1,2027,2026-10-21,Quinten Post,MEM,UTAH,1,0,20,0,1,19,7,1,0,1,0,0,1,8,8,7,1,0,0,4.0,0.0,2.0
+Quinten Post|1,2027,2026-10-21,Quinten Post,MEM,UTAH,1,0,20,0,1,19,7,1,0,1,0,0,1,8,8,7,1,0,0,4,0,2
 Quinten Post|2,2026,2026-03-29,Quinten Post,GS,DEN,0,0,23,0,2,5,0,2,0,0,0,1,0,2,2,0,2,0,0,,,
 Quinten Post|3,2026,2026-03-21,Quinten Post,GS,ATL,0,1,16,1,3,14,8,3,1,2,0,1,1,12,11,9,4,0,0,,,
 Quinten Post|4,2026,2026-03-18,Quinten Post,GS,BOS,0,0,21,0,4,21,6,5,3,1,0,0,0,14,11,9,8,0,0,,,
@@ -5653,7 +5652,7 @@ Quinten Post|65,2026,2025-10-27,Quinten Post,GS,MEM,1,0,13,0,65,13,2,4,2,0,0,2,0
 Quinten Post|66,2026,2025-10-24,Quinten Post,GS,POR,0,1,20,1,66,16,5,4,1,1,0,0,1,10,9,6,5,0,0,,,
 Quinten Post|67,2026,2025-10-23,Quinten Post,GS,DEN,1,0,6,0,67,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Quinten Post|68,2026,2025-10-21,Quinten Post,GS,LAL,0,0,10,0,68,9,0,2,1,0,0,0,0,3,2,1,3,0,0,,,
-RJ Barrett|1,2027,2026-10-21,RJ Barrett,TOR,CHI,1,1,43,0,1,26,20,4,3,0,0,0,1,27,24,23,7,0,0,14.0,7.0,3.0
+RJ Barrett|1,2027,2026-10-21,RJ Barrett,TOR,CHI,1,1,43,0,1,26,20,4,3,0,0,0,1,27,24,23,7,0,0,14,7,3
 RJ Barrett|2,2026,2026-05-03,RJ Barrett,TOR,CLE,0,1,12,0,2,43,23,4,6,1,3,0,3,33,27,29,10,0,0,,,
 RJ Barrett|3,2026,2026-05-01,RJ Barrett,TOR,CLE,1,1,2,0,3,43,24,9,3,4,1,0,5,36,33,27,12,0,0,,,
 RJ Barrett|4,2026,2026-04-29,RJ Barrett,TOR,CLE,0,1,5,0,4,38,25,12,5,2,0,0,3,42,37,30,17,1,0,,,
@@ -5718,7 +5717,7 @@ RJ Barrett|62,2026,2025-10-27,RJ Barrett,TOR,SA,0,1,18,1,62,32,25,2,2,2,1,0,2,29
 RJ Barrett|63,2026,2025-10-26,RJ Barrett,TOR,DAL,0,1,10,0,63,28,16,4,3,1,0,0,1,23,20,19,7,0,0,,,
 RJ Barrett|64,2026,2025-10-24,RJ Barrett,TOR,MIL,1,1,6,0,64,33,20,6,2,1,2,2,2,28,26,22,8,0,0,,,
 RJ Barrett|65,2026,2025-10-22,RJ Barrett,TOR,ATL,0,1,20,0,65,30,25,8,5,2,2,0,4,38,33,30,13,0,0,,,
-Rasheer Fleming|1,2027,2026-10-21,Rasheer Fleming,PHX,POR,0,0,41,0,1,12,1,2,0,0,1,1,0,3,3,1,2,0,0,5.0,2.0,4.0
+Rasheer Fleming|1,2027,2026-10-21,Rasheer Fleming,PHX,POR,0,0,41,0,1,12,1,2,0,0,1,1,0,3,3,1,2,0,0,5,2,4
 Rasheer Fleming|2,2026,2026-04-27,Rasheer Fleming,PHX,OKC,1,0,9,0,2,9,0,1,0,0,2,1,1,1,1,0,1,0,0,,,
 Rasheer Fleming|3,2026,2026-04-25,Rasheer Fleming,PHX,OKC,1,0,12,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Rasheer Fleming|4,2026,2026-04-19,Rasheer Fleming,PHX,OKC,0,0,35,0,4,8,9,0,0,3,0,0,0,9,9,9,0,0,0,,,
@@ -5859,7 +5858,7 @@ Rayan Rupert|61,2026,2025-10-31,Rayan Rupert,POR,DEN,1,0,2,0,61,6,2,0,0,0,0,0,0,
 Rayan Rupert|62,2026,2025-10-29,Rayan Rupert,POR,UTAH,0,0,2,0,62,14,3,3,1,1,2,0,0,7,6,4,4,0,0,,,
 Rayan Rupert|63,2026,2025-10-27,Rayan Rupert,POR,LAL,0,0,14,1,63,1,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
 Rayan Rupert|64,2026,2025-10-24,Rayan Rupert,POR,GS,1,0,20,0,64,4,0,1,1,0,0,0,1,2,1,1,2,0,0,,,
-Reed Sheppard|1,2027,2026-10-21,Reed Sheppard,HOU,DAL,1,0,18,0,1,16,3,2,4,1,2,0,3,9,5,7,6,0,0,6.0,0.0,6.0
+Reed Sheppard|1,2027,2026-10-21,Reed Sheppard,HOU,DAL,1,0,18,0,1,16,3,2,4,1,2,0,3,9,5,7,6,0,0,6,0,6
 Reed Sheppard|2,2026,2026-05-01,Reed Sheppard,HOU,LAL,1,1,20,0,2,36,10,0,1,1,2,2,1,11,10,11,1,0,0,,,
 Reed Sheppard|3,2026,2026-04-29,Reed Sheppard,HOU,LAL,0,1,6,0,3,35,12,0,6,2,3,0,1,18,12,18,6,0,0,,,
 Reed Sheppard|4,2026,2026-04-26,Reed Sheppard,HOU,LAL,1,1,19,0,4,29,17,1,3,4,3,0,1,21,18,20,4,0,0,,,
@@ -6022,7 +6021,7 @@ Rob Dillingham|62,2026,2025-11-01,Rob Dillingham,MIN,CHA,0,0,17,0,62,16,4,0,4,0,
 Rob Dillingham|63,2026,2025-10-29,Rob Dillingham,MIN,LAL,1,0,1,0,63,16,8,1,5,0,1,0,1,14,9,13,6,0,0,,,
 Rob Dillingham|64,2026,2025-10-27,Rob Dillingham,MIN,DEN,1,0,13,1,64,12,4,0,2,0,1,0,3,6,4,6,2,0,0,,,
 Rob Dillingham|65,2026,2025-10-24,Rob Dillingham,MIN,LAL,0,0,18,0,65,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Robert Williams III|1,2027,2026-10-21,Robert Williams III,POR,PHX,1,0,41,0,1,15,2,10,1,0,0,1,0,13,12,3,11,0,0,3.0,0.0,0.0
+Robert Williams III|1,2027,2026-10-21,Robert Williams III,POR,PHX,1,0,41,0,1,15,2,10,1,0,0,1,0,13,12,3,11,0,0,3,0,0
 Robert Williams III|2,2026,2026-04-28,Robert Williams III,POR,SA,0,0,19,0,2,17,11,7,1,1,1,0,0,19,18,12,8,0,0,,,
 Robert Williams III|3,2026,2026-04-26,Robert Williams III,POR,SA,1,0,21,0,3,26,4,6,2,0,0,2,0,12,10,6,8,0,0,,,
 Robert Williams III|4,2026,2026-04-24,Robert Williams III,POR,SA,1,0,12,0,4,25,11,9,2,0,1,2,2,22,20,13,11,0,0,,,
@@ -6127,7 +6126,7 @@ Ron Harper Jr.|31,2026,2025-12-04,Ron Harper Jr.,BOS,WSH,0,0,45,0,31,5,0,0,1,0,1
 Ron Harper Jr.|32,2026,2025-11-12,Ron Harper Jr.,BOS,MEM,1,0,36,1,32,4,6,0,0,2,0,1,0,6,6,6,0,0,0,,,
 Ron Harper Jr.|33,2026,2025-11-01,Ron Harper Jr.,BOS,HOU,1,0,27,1,33,10,2,3,3,0,0,0,0,8,5,5,6,0,0,,,
 Ron Harper Jr.|34,2026,2025-10-27,Ron Harper Jr.,BOS,NO,0,0,32,1,34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Ronald Holland II|1,2027,2026-10-20,Ronald Holland II,DET,BOS,1,0,8,0,1,3,0,1,1,0,0,1,1,2,1,1,2,0,0,1.0,0.0,1.0
+Ronald Holland II|1,2027,2026-10-20,Ronald Holland II,DET,BOS,1,0,8,0,1,3,0,1,1,0,0,1,1,2,1,1,2,0,0,1,0,1
 Ronald Holland II|2,2026,2026-05-17,Ronald Holland II,DET,CLE,1,0,31,0,2,6,3,2,0,1,0,0,0,5,5,3,2,0,0,,,
 Ronald Holland II|3,2026,2026-05-15,Ronald Holland II,DET,CLE,0,0,21,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Ronald Holland II|4,2026,2026-05-11,Ronald Holland II,DET,CLE,0,0,9,0,4,8,0,3,0,0,1,0,1,3,3,0,3,0,0,,,
@@ -6214,7 +6213,7 @@ Ronald Holland II|84,2026,2025-10-27,Ronald Holland II,DET,CLE,1,0,21,1,84,26,11
 Ronald Holland II|85,2026,2025-10-26,Ronald Holland II,DET,BOS,1,0,6,0,85,19,7,1,1,0,2,1,3,9,8,8,2,0,0,,,
 Ronald Holland II|86,2026,2025-10-24,Ronald Holland II,DET,HOU,0,0,4,0,86,13,11,5,3,2,2,0,2,19,16,14,8,0,0,,,
 Ronald Holland II|87,2026,2025-10-22,Ronald Holland II,DET,CHI,0,0,4,0,87,27,19,4,3,1,2,1,2,26,23,22,7,0,0,,,
-Royce O'Neale|1,2027,2026-10-21,Royce O'Neale,CHA,BKN,0,0,7,0,1,17,8,4,0,2,1,1,1,12,12,8,4,0,0,6.0,0.0,5.0
+Royce O'Neale|1,2027,2026-10-21,Royce O'Neale,CHA,BKN,0,0,7,0,1,17,8,4,0,2,1,1,1,12,12,8,4,0,0,6,0,5
 Royce O'Neale|2,2026,2026-04-27,Royce O'Neale,PHX,OKC,1,0,9,0,2,18,8,7,2,2,0,0,1,17,15,10,9,0,0,,,
 Royce O'Neale|3,2026,2026-04-25,Royce O'Neale,PHX,OKC,1,0,12,0,3,22,3,6,0,1,0,0,1,9,9,3,6,0,0,,,
 Royce O'Neale|4,2026,2026-04-22,Royce O'Neale,PHX,OKC,0,0,13,0,4,34,16,9,4,4,2,0,2,29,25,20,13,0,0,,,
@@ -6299,7 +6298,7 @@ Royce O'Neale|82,2026,2025-10-27,Royce O'Neale,PHX,UTAH,0,1,4,0,82,46,17,13,7,5,
 Royce O'Neale|83,2026,2025-10-25,Royce O'Neale,PHX,DEN,0,0,22,1,83,28,7,4,2,2,0,0,1,13,11,9,6,0,0,,,
 Royce O'Neale|84,2026,2025-10-24,Royce O'Neale,PHX,LAC,0,0,27,0,84,28,11,4,1,3,2,1,2,16,15,12,5,0,0,,,
 Royce O'Neale|85,2026,2025-10-22,Royce O'Neale,PHX,SAC,1,0,4,0,85,29,12,5,2,3,1,0,1,19,17,14,7,0,0,,,
-Rudy Gobert|1,2027,2026-10-21,Rudy Gobert,MIN,MIA,0,1,25,0,1,33,5,15,1,0,0,0,3,21,20,6,16,0,0,2.0,8.0,0.0
+Rudy Gobert|1,2027,2026-10-21,Rudy Gobert,MIN,MIA,0,1,25,0,1,33,5,15,1,0,0,0,3,21,20,6,16,0,0,2,8,0
 Rudy Gobert|2,2026,2026-05-15,Rudy Gobert,MIN,SA,1,1,30,0,2,22,0,3,0,0,0,0,0,3,3,0,3,0,0,,,
 Rudy Gobert|3,2026,2026-05-12,Rudy Gobert,MIN,SA,0,1,29,0,3,23,4,5,0,0,2,1,1,9,9,4,5,0,0,,,
 Rudy Gobert|4,2026,2026-05-10,Rudy Gobert,MIN,SA,1,1,5,0,4,30,11,13,4,0,0,1,0,28,24,15,17,1,0,,,
@@ -6387,7 +6386,7 @@ Rudy Gobert|85,2026,2025-10-27,Rudy Gobert,MIN,DEN,1,1,13,1,85,26,8,5,1,0,1,2,1,
 Rudy Gobert|86,2026,2025-10-26,Rudy Gobert,MIN,IND,1,1,4,0,86,34,14,18,1,0,0,2,1,33,32,15,19,1,0,,,
 Rudy Gobert|87,2026,2025-10-24,Rudy Gobert,MIN,LAL,0,1,18,0,87,28,2,7,2,0,0,0,1,11,9,4,9,0,0,,,
 Rudy Gobert|88,2026,2025-10-22,Rudy Gobert,MIN,POR,0,1,4,0,88,32,10,6,0,0,0,1,0,16,16,10,6,0,0,,,
-Rui Hachimura|1,2027,2026-10-21,Rui Hachimura,LAC,SAC,1,1,25,0,1,32,10,8,2,2,1,1,3,20,18,12,10,0,0,13.0,5.0,7.0
+Rui Hachimura|1,2027,2026-10-21,Rui Hachimura,LAC,SAC,1,1,25,0,1,32,10,8,2,2,1,1,3,20,18,12,10,0,0,13,5,7
 Rui Hachimura|2,2026,2026-05-11,Rui Hachimura,LAL,OKC,1,1,5,0,2,43,25,5,2,4,0,1,0,32,30,27,7,0,0,,,
 Rui Hachimura|3,2026,2026-05-09,Rui Hachimura,LAL,OKC,1,1,23,0,3,39,21,5,4,5,1,0,1,30,26,25,9,0,0,,,
 Rui Hachimura|4,2026,2026-05-07,Rui Hachimura,LAL,OKC,0,1,18,0,4,39,16,4,2,4,1,0,2,22,20,18,6,0,0,,,
@@ -6530,8 +6529,8 @@ Russell Westbrook|61,2026,2025-10-28,Russell Westbrook,SAC,OKC,0,1,6,0,61,30,16,
 Russell Westbrook|62,2026,2025-10-26,Russell Westbrook,SAC,LAL,1,0,7,0,62,27,18,6,6,4,1,0,2,30,24,24,12,0,0,,,
 Russell Westbrook|63,2026,2025-10-24,Russell Westbrook,SAC,UTAH,1,0,1,0,63,17,7,1,4,1,1,0,2,12,8,11,5,0,0,,,
 Russell Westbrook|64,2026,2025-10-22,Russell Westbrook,SAC,PHX,0,0,4,0,64,19,6,6,1,0,0,1,2,13,12,7,7,0,0,,,
-Ryan Conwell|1,2027,2026-10-21,Ryan Conwell,MIA,MIN,1,0,25,0,1,3,0,0,2,0,0,0,0,2,0,2,2,0,0,1.0,0.0,1.0
-Ryan Dunn|1,2027,2026-10-21,Ryan Dunn,PHX,POR,0,0,41,0,1,14,3,2,0,0,0,0,0,5,5,3,2,0,0,1.0,4.0,1.0
+Ryan Conwell|1,2027,2026-10-21,Ryan Conwell,MIA,MIN,1,0,25,0,1,3,0,0,2,0,0,0,0,2,0,2,2,0,0,1,0,1
+Ryan Dunn|1,2027,2026-10-21,Ryan Dunn,PHX,POR,0,0,41,0,1,14,3,2,0,0,0,0,0,5,5,3,2,0,0,1,4,1
 Ryan Dunn|2,2026,2026-04-27,Ryan Dunn,PHX,OKC,1,0,9,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Ryan Dunn|3,2026,2026-04-25,Ryan Dunn,PHX,OKC,1,0,12,0,3,1,0,0,1,0,0,0,0,1,0,1,1,0,0,,,
 Ryan Dunn|4,2026,2026-04-22,Ryan Dunn,PHX,OKC,0,0,13,0,4,8,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
@@ -6608,7 +6607,7 @@ Ryan Dunn|74,2026,2025-10-27,Ryan Dunn,PHX,UTAH,0,1,4,0,74,17,7,2,1,1,0,0,0,10,9
 Ryan Dunn|75,2026,2025-10-25,Ryan Dunn,PHX,DEN,0,1,22,1,75,23,9,7,2,1,0,2,0,18,16,11,9,0,0,,,
 Ryan Dunn|76,2026,2025-10-24,Ryan Dunn,PHX,LAC,0,1,27,0,76,17,6,5,0,0,0,0,1,11,11,6,5,0,0,,,
 Ryan Dunn|77,2026,2025-10-22,Ryan Dunn,PHX,SAC,1,1,4,0,77,25,9,10,3,1,1,3,0,22,19,12,13,0,0,,,
-Ryan Kalkbrenner|1,2027,2026-10-21,Ryan Kalkbrenner,CHA,BKN,0,0,7,0,1,14,4,5,3,0,0,2,1,12,9,7,8,0,0,3.0,0.0,0.0
+Ryan Kalkbrenner|1,2027,2026-10-21,Ryan Kalkbrenner,CHA,BKN,0,0,7,0,1,14,4,5,3,0,0,2,1,12,9,7,8,0,0,3,0,0
 Ryan Kalkbrenner|2,2026,2026-04-17,Ryan Kalkbrenner,CHA,ORL,0,0,31,0,2,18,2,3,1,0,2,1,1,6,5,3,4,0,0,,,
 Ryan Kalkbrenner|3,2026,2026-04-14,Ryan Kalkbrenner,CHA,MIA,1,0,1,0,3,13,6,5,1,0,0,0,0,12,11,7,6,0,0,,,
 Ryan Kalkbrenner|4,2026,2026-04-12,Ryan Kalkbrenner,CHA,NY,0,0,14,0,4,21,9,5,2,0,1,1,1,16,14,11,7,0,0,,,
@@ -6680,7 +6679,7 @@ Ryan Kalkbrenner|69,2026,2025-10-28,Ryan Kalkbrenner,CHA,MIA,0,1,27,0,69,31,10,6
 Ryan Kalkbrenner|70,2026,2025-10-26,Ryan Kalkbrenner,CHA,WSH,0,1,26,1,70,22,4,5,1,0,0,0,1,10,9,5,6,0,0,,,
 Ryan Kalkbrenner|71,2026,2025-10-25,Ryan Kalkbrenner,CHA,PHI,0,1,4,0,71,26,14,7,1,0,1,1,1,22,21,15,8,0,0,,,
 Ryan Kalkbrenner|72,2026,2025-10-22,Ryan Kalkbrenner,CHA,BKN,1,1,19,0,72,27,10,11,1,0,0,2,4,22,21,11,12,1,0,,,
-Ryan Nembhard|1,2027,2026-10-22,Ryan Nembhard,DEN,OKC,0,0,12,0,1,2,5,1,1,1,0,0,0,7,6,6,2,0,0,3.0,0.0,1.0
+Ryan Nembhard|1,2027,2026-10-22,Ryan Nembhard,DEN,OKC,0,0,12,0,1,2,5,1,1,1,0,0,0,7,6,6,2,0,0,3,0,1
 Ryan Nembhard|2,2026,2026-04-12,Ryan Nembhard,DAL,CHI,1,1,21,0,2,38,15,9,23,1,2,0,4,47,24,38,32,1,0,,,
 Ryan Nembhard|3,2026,2026-04-10,Ryan Nembhard,DAL,SA,0,1,19,0,3,31,13,1,7,1,0,0,0,21,14,20,8,0,0,,,
 Ryan Nembhard|4,2026,2026-04-08,Ryan Nembhard,DAL,PHX,0,1,5,1,4,32,9,5,7,0,0,0,0,21,14,16,12,0,0,,,
@@ -6741,7 +6740,7 @@ Ryan Nembhard|58,2026,2025-11-07,Ryan Nembhard,DAL,MEM,0,0,14,0,58,10,6,0,2,0,0,
 Ryan Nembhard|59,2026,2025-10-26,Ryan Nembhard,DAL,TOR,1,0,10,0,59,2,0,0,0,0,0,0,2,0,0,0,0,0,0,,,
 Ryan Nembhard|60,2026,2025-10-24,Ryan Nembhard,DAL,WSH,1,0,10,0,60,10,2,1,0,0,0,0,0,3,3,2,1,0,0,,,
 Ryan Nembhard|61,2026,2025-10-22,Ryan Nembhard,DAL,SA,1,0,33,0,61,16,8,0,5,0,0,0,3,13,8,13,5,0,0,,,
-Ryan Rollins|1,2027,2026-10-21,Ryan Rollins,MIL,WSH,0,1,12,0,1,24,9,6,3,1,0,0,0,18,15,12,9,0,0,14.0,0.0,5.0
+Ryan Rollins|1,2027,2026-10-21,Ryan Rollins,MIL,WSH,0,1,12,0,1,24,9,6,3,1,0,0,0,18,15,12,9,0,0,14,0,5
 Ryan Rollins|2,2026,2026-04-08,Ryan Rollins,MIL,DET,0,1,26,1,2,33,23,2,6,1,2,1,3,31,25,29,8,0,0,,,
 Ryan Rollins|3,2026,2026-04-05,Ryan Rollins,MIL,MEM,1,1,16,0,3,32,24,4,3,4,1,0,2,31,28,27,7,0,0,,,
 Ryan Rollins|4,2026,2026-03-31,Ryan Rollins,MIL,DAL,1,1,24,0,4,36,24,7,9,4,1,0,3,40,31,33,16,0,0,,,
@@ -6816,7 +6815,7 @@ Ryan Rollins|72,2026,2025-10-28,Ryan Rollins,MIL,NY,1,1,10,0,72,26,25,2,4,4,4,0,
 Ryan Rollins|73,2026,2025-10-26,Ryan Rollins,MIL,CLE,0,1,5,0,73,34,14,4,8,1,3,0,2,26,18,22,12,0,0,,,
 Ryan Rollins|74,2026,2025-10-24,Ryan Rollins,MIL,TOR,0,1,6,0,74,30,13,5,2,1,3,1,3,20,18,15,7,0,0,,,
 Ryan Rollins|75,2026,2025-10-22,Ryan Rollins,MIL,WSH,1,0,13,0,75,29,9,4,3,1,2,0,2,16,13,12,7,0,0,,,
-Saddiq Bey|1,2027,2026-10-21,Saddiq Bey,NO,IND,1,0,3,0,1,24,13,5,0,2,0,0,2,18,18,13,5,0,0,9.0,3.0,4.0
+Saddiq Bey|1,2027,2026-10-21,Saddiq Bey,NO,IND,1,0,3,0,1,24,13,5,0,2,0,0,2,18,18,13,5,0,0,9,3,4
 Saddiq Bey|2,2026,2026-04-05,Saddiq Bey,NO,ORL,1,1,4,0,2,39,32,6,1,3,2,0,1,39,38,33,7,0,0,,,
 Saddiq Bey|3,2026,2026-04-03,Saddiq Bey,NO,SAC,0,1,4,1,3,29,20,1,3,1,1,0,0,24,21,23,4,0,0,,,
 Saddiq Bey|4,2026,2026-04-02,Saddiq Bey,NO,POR,0,1,12,0,4,35,15,6,1,3,1,0,1,22,21,16,7,0,0,,,
@@ -6889,7 +6888,7 @@ Saddiq Bey|70,2026,2025-10-29,Saddiq Bey,NO,DEN,0,0,34,0,70,19,7,3,2,2,2,0,0,12,
 Saddiq Bey|71,2026,2025-10-27,Saddiq Bey,NO,BOS,1,0,32,0,71,24,11,2,0,3,2,0,3,13,13,11,2,0,0,,,
 Saddiq Bey|72,2026,2025-10-24,Saddiq Bey,NO,SA,1,1,4,0,72,28,9,3,2,3,0,0,0,14,12,11,5,0,0,,,
 Saddiq Bey|73,2026,2025-10-22,Saddiq Bey,NO,MEM,0,0,6,0,73,30,13,6,3,1,1,0,0,22,19,16,9,0,0,,,
-Sam Hauser|1,2027,2026-10-20,Sam Hauser,BOS,DET,0,0,8,0,1,18,11,4,1,3,0,0,0,16,15,12,5,0,0,7.0,0.0,5.0
+Sam Hauser|1,2027,2026-10-20,Sam Hauser,BOS,DET,0,0,8,0,1,18,11,4,1,3,0,0,0,16,15,12,5,0,0,7,0,5
 Sam Hauser|2,2026,2026-05-02,Sam Hauser,BOS,PHI,1,0,9,0,2,30,11,3,1,3,0,0,0,15,14,12,4,0,0,,,
 Sam Hauser|3,2026,2026-04-30,Sam Hauser,BOS,PHI,0,1,13,0,3,21,5,4,1,1,0,0,0,10,9,6,5,0,0,,,
 Sam Hauser|4,2026,2026-04-28,Sam Hauser,BOS,PHI,1,1,16,0,4,20,8,5,0,2,0,0,2,13,13,8,5,0,0,,,
@@ -6975,7 +6974,7 @@ Sam Hauser|83,2026,2025-10-27,Sam Hauser,BOS,NO,0,0,32,1,83,26,9,3,2,3,1,1,1,14,
 Sam Hauser|84,2026,2025-10-26,Sam Hauser,BOS,DET,0,0,6,0,84,24,8,4,0,2,0,0,1,12,12,8,4,0,0,,,
 Sam Hauser|85,2026,2025-10-24,Sam Hauser,BOS,NY,0,1,10,0,85,28,18,3,0,6,1,1,1,21,21,18,3,0,0,,,
 Sam Hauser|86,2026,2025-10-22,Sam Hauser,BOS,PHI,1,1,1,0,86,22,8,2,1,2,0,0,3,11,10,9,3,0,0,,,
-Sam Merrill|1,2027,2026-10-22,Sam Merrill,CLE,PHI,0,0,8,0,1,24,5,5,2,1,1,0,0,12,10,7,7,0,0,5.0,0.0,3.0
+Sam Merrill|1,2027,2026-10-22,Sam Merrill,CLE,PHI,0,0,8,0,1,24,5,5,2,1,1,0,0,12,10,7,7,0,0,5,0,3
 Sam Merrill|2,2026,2026-05-25,Sam Merrill,CLE,NY,1,0,37,0,2,18,5,1,1,1,0,0,1,7,6,6,2,0,0,,,
 Sam Merrill|3,2026,2026-05-21,Sam Merrill,CLE,NY,0,0,16,0,3,23,4,0,0,0,0,0,1,4,4,4,0,0,0,,,
 Sam Merrill|4,2026,2026-05-19,Sam Merrill,CLE,NY,0,0,11,0,4,28,12,1,2,3,1,0,0,15,13,14,3,0,0,,,
@@ -7043,7 +7042,7 @@ Sam Merrill|65,2026,2025-10-27,Sam Merrill,CLE,DET,0,1,21,1,65,18,11,1,1,3,2,0,0
 Sam Merrill|66,2026,2025-10-26,Sam Merrill,CLE,MIL,1,1,5,0,66,30,17,3,1,4,0,0,0,21,20,18,4,0,0,,,
 Sam Merrill|67,2026,2025-10-24,Sam Merrill,CLE,BKN,0,1,7,0,67,26,22,1,5,6,1,1,4,28,23,27,6,0,0,,,
 Sam Merrill|68,2026,2025-10-22,Sam Merrill,CLE,NY,0,1,8,0,68,28,19,3,1,5,0,0,1,23,22,20,4,0,0,,,
-Sandro Mamukelashvili|1,2027,2026-10-21,Sandro Mamukelashvili,LAL,GS,1,0,22,0,1,22,5,4,2,0,2,0,0,11,9,7,6,0,0,5.0,2.0,1.0
+Sandro Mamukelashvili|1,2027,2026-10-21,Sandro Mamukelashvili,LAL,GS,1,0,22,0,1,22,5,4,2,0,2,0,0,11,9,7,6,0,0,5,2,1
 Sandro Mamukelashvili|2,2026,2026-05-03,Sandro Mamukelashvili,TOR,CLE,0,0,12,0,2,9,6,0,0,0,0,0,1,6,6,6,0,0,0,,,
 Sandro Mamukelashvili|3,2026,2026-05-01,Sandro Mamukelashvili,TOR,CLE,1,0,2,0,3,14,2,4,1,0,1,1,0,7,6,3,5,0,0,,,
 Sandro Mamukelashvili|4,2026,2026-04-29,Sandro Mamukelashvili,TOR,CLE,0,0,5,0,4,15,10,3,0,2,0,1,0,13,13,10,3,0,0,,,
@@ -7174,7 +7173,7 @@ Santi Aldama|40,2026,2025-10-27,Santi Aldama,MEM,GS,0,0,13,0,40,22,14,6,4,2,3,0,
 Santi Aldama|41,2026,2025-10-25,Santi Aldama,MEM,IND,1,0,25,1,41,21,9,8,1,1,0,2,0,18,17,10,9,0,0,,,
 Santi Aldama|42,2026,2025-10-24,Santi Aldama,MEM,MIA,1,0,32,0,42,20,13,8,0,1,1,0,1,21,21,13,8,0,0,,,
 Santi Aldama|43,2026,2025-10-22,Santi Aldama,MEM,NO,1,0,6,0,43,24,5,6,2,0,1,2,2,13,11,7,8,0,0,,,
-Scoot Henderson|1,2027,2026-10-21,Scoot Henderson,POR,PHX,1,0,41,0,1,19,15,2,1,1,1,0,4,18,17,16,3,0,0,14.0,0.0,6.0
+Scoot Henderson|1,2027,2026-10-21,Scoot Henderson,POR,PHX,1,0,41,0,1,19,15,2,1,1,1,0,4,18,17,16,3,0,0,14,0,6
 Scoot Henderson|2,2026,2026-04-28,Scoot Henderson,POR,SA,0,1,19,0,2,17,5,2,0,1,0,0,1,7,7,5,2,0,0,,,
 Scoot Henderson|3,2026,2026-04-26,Scoot Henderson,POR,SA,1,1,21,0,3,27,0,0,2,0,1,0,1,2,0,2,2,0,0,,,
 Scoot Henderson|4,2026,2026-04-24,Scoot Henderson,POR,SA,1,1,12,0,4,36,21,2,1,5,1,0,2,24,23,22,3,0,0,,,
@@ -7211,7 +7210,7 @@ Scoot Henderson|34,2026,2026-02-12,Scoot Henderson,POR,UTAH,0,0,16,1,34,20,15,1,
 Scoot Henderson|35,2026,2026-02-11,Scoot Henderson,POR,MIN,0,0,24,0,35,19,18,4,2,3,0,0,5,24,22,20,6,0,0,,,
 Scoot Henderson|36,2026,2026-02-09,Scoot Henderson,POR,PHI,1,0,17,0,36,20,12,2,7,0,1,0,2,21,14,19,9,0,0,,,
 Scoot Henderson|37,2026,2026-02-06,Scoot Henderson,POR,MEM,1,0,20,0,37,21,11,5,9,2,1,0,5,25,16,20,14,0,0,,,
-Scottie Barnes|1,2027,2026-10-21,Scottie Barnes,TOR,CHI,1,1,43,0,1,26,23,6,5,1,0,0,1,34,29,28,11,0,0,19.0,6.0,3.0
+Scottie Barnes|1,2027,2026-10-21,Scottie Barnes,TOR,CHI,1,1,43,0,1,26,23,6,5,1,0,0,1,34,29,28,11,0,0,19,6,3
 Scottie Barnes|2,2026,2026-05-03,Scottie Barnes,TOR,CLE,0,1,12,0,2,37,24,9,6,1,0,1,3,39,33,30,15,0,0,,,
 Scottie Barnes|3,2026,2026-05-01,Scottie Barnes,TOR,CLE,1,1,2,0,3,48,25,7,14,0,3,3,3,46,32,39,21,1,0,,,
 Scottie Barnes|4,2026,2026-04-29,Scottie Barnes,TOR,CLE,0,1,5,0,4,39,17,8,11,0,1,3,4,36,25,28,19,1,0,,,
@@ -7299,7 +7298,7 @@ Scottie Barnes|85,2026,2025-10-27,Scottie Barnes,TOR,SA,0,1,18,1,85,30,8,3,2,2,0
 Scottie Barnes|86,2026,2025-10-26,Scottie Barnes,TOR,DAL,0,1,10,0,86,34,33,11,6,3,1,0,5,50,44,39,17,1,0,,,
 Scottie Barnes|87,2026,2025-10-24,Scottie Barnes,TOR,MIL,1,1,6,0,87,36,17,5,3,2,3,0,3,25,22,20,8,0,0,,,
 Scottie Barnes|88,2026,2025-10-22,Scottie Barnes,TOR,ATL,0,1,20,0,88,32,22,6,9,0,1,2,1,37,28,31,15,0,0,,,
-Scotty Pippen Jr.|1,2027,2026-10-21,Scotty Pippen Jr.,MEM,UTAH,1,0,20,0,1,20,9,2,5,0,3,0,2,16,11,14,7,0,0,7.0,6.0,3.0
+Scotty Pippen Jr.|1,2027,2026-10-21,Scotty Pippen Jr.,MEM,UTAH,1,0,20,0,1,20,9,2,5,0,3,0,2,16,11,14,7,0,0,7,6,3
 Scotty Pippen Jr.|2,2026,2026-03-07,Scotty Pippen Jr.,MEM,LAC,1,1,3,0,2,23,11,3,3,1,1,0,2,17,14,14,6,0,0,,,
 Scotty Pippen Jr.|3,2026,2026-03-03,Scotty Pippen Jr.,MEM,MIN,0,1,7,0,3,24,8,3,5,1,1,0,4,16,11,13,8,0,0,,,
 Scotty Pippen Jr.|4,2026,2026-03-01,Scotty Pippen Jr.,MEM,IND,0,1,19,0,4,20,16,3,5,0,0,0,2,24,19,21,8,0,0,,,
@@ -7317,7 +7316,7 @@ Sean Pedulla|4,2026,2026-03-25,Sean Pedulla,LAC,TOR,1,0,25,0,4,4,0,1,1,0,0,0,0,2
 Sean Pedulla|5,2026,2026-03-23,Sean Pedulla,LAC,MIL,1,0,33,0,5,9,5,0,0,1,0,0,0,5,5,5,0,0,0,,,
 Sean Pedulla|6,2026,2026-03-18,Sean Pedulla,LAC,NO,0,0,15,0,6,5,2,0,0,0,0,0,0,2,2,2,0,0,0,,,
 Sean Pedulla|7,2026,2026-03-11,Sean Pedulla,LAC,MIN,1,0,25,0,7,6,6,1,3,2,0,0,0,10,7,9,4,0,0,,,
-Sergio de Larrea|1,2027,2026-10-21,Sergio de Larrea,DAL,HOU,0,0,18,0,1,7,0,2,1,0,0,0,0,3,2,1,3,0,0,1.0,0.0,1.0
+Sergio de Larrea|1,2027,2026-10-21,Sergio de Larrea,DAL,HOU,0,0,18,0,1,7,0,2,1,0,0,0,0,3,2,1,3,0,0,1,0,1
 Seth Curry|1,2026,2026-04-17,Seth Curry,GS,PHX,0,0,15,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Seth Curry|2,2026,2026-04-12,Seth Curry,GS,LAC,0,0,5,0,2,12,6,1,2,2,0,0,0,9,7,8,3,0,0,,,
 Seth Curry|3,2026,2026-04-09,Seth Curry,GS,LAL,1,0,16,0,3,23,11,2,0,1,0,0,0,13,13,11,2,0,0,,,
@@ -7385,8 +7384,8 @@ Shaedon Sharpe|53,2026,2025-10-27,Shaedon Sharpe,POR,LAL,0,1,14,1,53,29,16,7,2,0
 Shaedon Sharpe|54,2026,2025-10-26,Shaedon Sharpe,POR,LAC,0,1,7,0,54,32,19,5,1,1,2,0,6,25,24,20,6,0,0,,,
 Shaedon Sharpe|55,2026,2025-10-24,Shaedon Sharpe,POR,GS,1,1,20,0,55,25,17,4,1,1,1,0,2,22,21,18,5,0,0,,,
 Shaedon Sharpe|56,2026,2025-10-22,Shaedon Sharpe,POR,MIN,1,1,4,0,56,29,15,2,4,3,1,0,4,21,17,19,6,0,0,,,
-Shai Gilgeous-Alexander|1,2027,2026-10-22,Shai Gilgeous-Alexander,OKC,DEN,1,1,12,0,1,35,17,2,3,3,0,1,0,22,19,20,5,0,0,19.0,2.0,11.0
-Shai Gilgeous-Alexander|2,2027,2026-10-20,Shai Gilgeous-Alexander,OKC,SA,0,1,12,0,2,36,32,6,4,3,3,3,2,42,38,36,10,0,0,27.0,4.0,7.0
+Shai Gilgeous-Alexander|1,2027,2026-10-22,Shai Gilgeous-Alexander,OKC,DEN,1,1,12,0,1,35,17,2,3,3,0,1,0,22,19,20,5,0,0,19,2,11
+Shai Gilgeous-Alexander|2,2027,2026-10-20,Shai Gilgeous-Alexander,OKC,SA,0,1,12,0,2,36,32,6,4,3,3,3,2,42,38,36,10,0,0,27,4,7
 Shai Gilgeous-Alexander|3,2026,2026-05-30,Shai Gilgeous-Alexander,OKC,SA,1,1,8,0,3,43,35,4,9,2,3,1,3,48,39,44,13,0,0,,,
 Shai Gilgeous-Alexander|4,2026,2026-05-28,Shai Gilgeous-Alexander,OKC,SA,0,1,27,0,4,28,15,1,4,0,0,0,2,20,16,19,5,0,0,,,
 Shai Gilgeous-Alexander|5,2026,2026-05-26,Shai Gilgeous-Alexander,OKC,SA,1,1,13,0,5,37,32,2,9,2,2,1,6,43,34,41,11,0,0,,,
@@ -7511,7 +7510,7 @@ Sharife Cooper|38,2026,2025-11-28,Sharife Cooper,WSH,IND,0,0,33,0,38,3,0,0,0,0,0
 Sharife Cooper|39,2026,2025-11-25,Sharife Cooper,WSH,ATL,1,0,19,0,39,3,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Sharife Cooper|40,2026,2025-10-26,Sharife Cooper,WSH,CHA,1,0,26,0,40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Sharife Cooper|41,2026,2025-10-22,Sharife Cooper,WSH,MIL,0,0,13,0,41,2,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
-Sidy Cissoko|1,2027,2026-10-21,Sidy Cissoko,POR,PHX,1,0,41,0,1,25,3,4,3,1,0,0,0,10,7,6,7,0,0,3.0,0.0,3.0
+Sidy Cissoko|1,2027,2026-10-21,Sidy Cissoko,POR,PHX,1,0,41,0,1,25,3,4,3,1,0,0,0,10,7,6,7,0,0,3,0,3
 Sidy Cissoko|2,2026,2026-04-28,Sidy Cissoko,POR,SA,0,0,19,0,2,20,11,4,0,2,3,0,0,15,15,11,4,0,0,,,
 Sidy Cissoko|3,2026,2026-04-26,Sidy Cissoko,POR,SA,1,0,21,0,3,4,0,0,1,0,1,0,1,1,0,1,1,0,0,,,
 Sidy Cissoko|4,2026,2026-04-24,Sidy Cissoko,POR,SA,1,0,12,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
@@ -7591,7 +7590,7 @@ Sidy Cissoko|77,2026,2025-11-08,Sidy Cissoko,POR,MIA,0,0,5,0,77,17,3,2,0,0,0,0,0
 Sidy Cissoko|78,2026,2025-11-05,Sidy Cissoko,POR,OKC,1,0,2,0,78,8,0,3,0,0,0,0,0,3,3,0,3,0,0,,,
 Sidy Cissoko|79,2026,2025-11-03,Sidy Cissoko,POR,LAL,1,0,8,0,79,14,5,2,2,0,2,0,0,9,7,7,4,0,0,,,
 Sidy Cissoko|80,2026,2025-10-27,Sidy Cissoko,POR,LAL,0,0,14,1,80,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Simone Fontecchio|1,2027,2026-10-21,Simone Fontecchio,MIA,MIN,1,0,25,0,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0.0,0.0,0.0
+Simone Fontecchio|1,2027,2026-10-21,Simone Fontecchio,MIA,MIN,1,0,25,0,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Simone Fontecchio|2,2026,2026-04-14,Simone Fontecchio,MIA,CHA,0,0,1,0,2,6,0,1,0,0,0,1,0,1,1,0,1,0,0,,,
 Simone Fontecchio|3,2026,2026-04-10,Simone Fontecchio,MIA,WSH,0,1,23,1,3,27,24,4,2,6,1,0,1,30,28,26,6,0,0,,,
 Simone Fontecchio|4,2026,2026-04-04,Simone Fontecchio,MIA,WSH,1,1,16,0,4,19,8,1,4,2,1,0,1,13,9,12,5,0,0,,,
@@ -7663,7 +7662,7 @@ Simone Fontecchio|69,2026,2025-10-28,Simone Fontecchio,MIA,CHA,1,0,27,0,69,19,10
 Simone Fontecchio|70,2026,2025-10-26,Simone Fontecchio,MIA,NY,1,0,8,0,70,19,14,4,1,3,0,0,0,19,18,15,5,0,0,,,
 Simone Fontecchio|71,2026,2025-10-24,Simone Fontecchio,MIA,MEM,0,0,32,0,71,23,14,4,2,4,2,0,1,20,18,16,6,0,0,,,
 Simone Fontecchio|72,2026,2025-10-22,Simone Fontecchio,MIA,ORL,0,0,4,0,72,19,13,2,1,1,0,0,1,16,15,14,3,0,0,,,
-Sion James|1,2027,2026-10-21,Sion James,CHA,BKN,0,1,7,0,1,27,3,3,0,1,1,0,1,6,6,3,3,0,0,7.0,0.0,6.0
+Sion James|1,2027,2026-10-21,Sion James,CHA,BKN,0,1,7,0,1,27,3,3,0,1,1,0,1,6,6,3,3,0,0,7,0,6
 Sion James|2,2026,2026-04-17,Sion James,CHA,ORL,0,0,31,0,2,18,6,2,2,2,0,0,1,10,8,8,4,0,0,,,
 Sion James|3,2026,2026-04-14,Sion James,CHA,MIA,1,0,1,0,3,13,2,3,3,0,0,0,0,8,5,5,6,0,0,,,
 Sion James|4,2026,2026-04-12,Sion James,CHA,NY,0,0,14,0,4,21,8,5,2,2,1,0,2,15,13,10,7,0,0,,,
@@ -7821,7 +7820,7 @@ Spencer Jones|67,2026,2025-10-25,Spencer Jones,DEN,PHX,1,0,22,0,67,3,0,0,0,0,1,0
 Spencer Jones|68,2026,2025-10-23,Spencer Jones,DEN,GS,0,0,6,0,68,6,0,0,0,0,1,0,1,0,0,0,0,0,0,,,
 Stanley Umude|1,2026,2026-02-21,Stanley Umude,SA,SAC,1,0,17,0,1,4,2,0,1,0,1,0,0,3,2,3,1,0,0,,,
 Stanley Umude|2,2026,2026-02-01,Stanley Umude,SA,ORL,1,0,9,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
-Stephen Curry|1,2027,2026-10-21,Stephen Curry,GS,LAL,0,1,22,0,1,21,23,2,1,2,2,0,2,26,25,24,3,0,0,15.0,7.0,7.0
+Stephen Curry|1,2027,2026-10-21,Stephen Curry,GS,LAL,0,1,22,0,1,21,23,2,1,2,2,0,2,26,25,24,3,0,0,15,7,7
 Stephen Curry|2,2026,2026-04-17,Stephen Curry,GS,PHX,0,1,15,0,2,36,17,4,4,3,2,0,4,25,21,21,8,0,0,,,
 Stephen Curry|3,2026,2026-04-15,Stephen Curry,GS,LAC,0,1,5,0,3,36,35,1,4,7,1,0,3,40,36,39,5,0,0,,,
 Stephen Curry|4,2026,2026-04-12,Stephen Curry,GS,LAC,0,1,5,0,4,29,24,6,3,4,1,1,3,33,30,27,9,0,0,,,
@@ -7867,7 +7866,7 @@ Stephen Curry|43,2026,2025-10-27,Stephen Curry,GS,MEM,1,1,13,0,43,30,16,4,3,4,0,
 Stephen Curry|44,2026,2025-10-24,Stephen Curry,GS,POR,0,1,20,1,44,27,35,6,3,7,1,2,4,44,41,38,9,0,0,,,
 Stephen Curry|45,2026,2025-10-23,Stephen Curry,GS,DEN,1,1,6,0,45,37,42,6,7,6,3,1,2,55,48,49,13,0,0,,,
 Stephen Curry|46,2026,2025-10-21,Stephen Curry,GS,LAL,0,1,10,0,46,32,23,1,4,3,3,1,2,28,24,27,5,0,0,,,
-Stephon Castle|1,2027,2026-10-20,Stephon Castle,SA,OKC,1,1,12,0,1,28,24,7,1,5,0,0,3,32,31,25,8,0,0,21.0,1.0,12.0
+Stephon Castle|1,2027,2026-10-20,Stephon Castle,SA,OKC,1,1,12,0,1,28,24,7,1,5,0,0,3,32,31,25,8,0,0,21,1,12
 Stephon Castle|2,2026,2026-06-13,Stephon Castle,SA,NY,1,1,4,0,2,32,6,5,4,0,1,0,3,15,11,10,9,0,0,,,
 Stephon Castle|3,2026,2026-06-10,Stephon Castle,SA,NY,0,1,1,0,3,26,13,5,5,1,0,0,3,23,18,18,10,0,0,,,
 Stephon Castle|4,2026,2026-06-08,Stephon Castle,SA,NY,0,1,4,0,4,38,23,5,5,2,1,1,2,33,28,28,10,0,0,,,
@@ -7992,7 +7991,7 @@ Steven Adams|29,2026,2025-10-29,Steven Adams,HOU,TOR,0,0,18,0,29,20,12,12,2,0,1,
 Steven Adams|30,2026,2025-10-27,Steven Adams,HOU,BKN,1,0,28,0,30,16,4,8,1,0,0,1,1,13,12,5,9,0,0,,,
 Steven Adams|31,2026,2025-10-24,Steven Adams,HOU,DET,1,1,4,0,31,25,11,10,0,0,3,0,1,21,21,11,10,1,0,,,
 Steven Adams|32,2026,2025-10-21,Steven Adams,HOU,OKC,0,1,1,0,32,37,4,13,3,0,0,0,3,20,17,7,16,0,0,,,
-Svi Mykhailiuk|1,2027,2026-10-21,Svi Mykhailiuk,UTAH,MEM,0,0,20,0,1,19,10,1,2,2,3,0,0,13,11,12,3,0,0,5.0,0.0,3.0
+Svi Mykhailiuk|1,2027,2026-10-21,Svi Mykhailiuk,UTAH,MEM,0,0,20,0,1,19,10,1,2,2,3,0,0,13,11,12,3,0,0,5,0,3
 Svi Mykhailiuk|2,2026,2026-04-05,Svi Mykhailiuk,UTAH,OKC,0,0,35,0,2,23,17,4,1,5,1,0,3,22,21,18,5,0,0,,,
 Svi Mykhailiuk|3,2026,2026-03-28,Svi Mykhailiuk,UTAH,PHX,0,0,25,1,3,9,14,2,1,4,1,0,0,17,16,15,3,0,0,,,
 Svi Mykhailiuk|4,2026,2026-03-02,Svi Mykhailiuk,UTAH,DEN,1,0,3,0,4,26,15,3,2,4,1,0,1,20,18,17,5,0,0,,,
@@ -8147,7 +8146,7 @@ Taj Gibson|7,2026,2026-03-21,Taj Gibson,MEM,CHA,0,0,23,1,7,12,7,3,0,1,0,0,0,10,1
 Taj Gibson|8,2026,2026-03-18,Taj Gibson,MEM,DEN,1,0,7,0,8,9,1,4,1,0,0,0,0,6,5,2,5,0,0,,,
 Taj Gibson|9,2026,2026-03-16,Taj Gibson,MEM,CHI,0,0,25,0,9,8,2,2,0,0,1,1,0,4,4,2,2,0,0,,,
 Taj Gibson|10,2026,2026-03-13,Taj Gibson,MEM,DET,0,0,16,1,10,12,3,3,0,1,0,0,0,6,6,3,3,0,0,,,
-Tari Eason|1,2027,2026-10-21,Tari Eason,HOU,DAL,1,0,18,0,1,3,2,1,0,0,1,0,0,3,3,2,1,0,0,2.0,0.0,0.0
+Tari Eason|1,2027,2026-10-21,Tari Eason,HOU,DAL,1,0,18,0,1,3,2,1,0,0,1,0,0,3,3,2,1,0,0,2,0,0
 Tari Eason|2,2026,2026-05-01,Tari Eason,HOU,LAL,1,1,20,0,2,37,14,5,2,2,3,1,0,21,19,16,7,0,0,,,
 Tari Eason|3,2026,2026-04-29,Tari Eason,HOU,LAL,0,1,6,0,3,31,18,5,1,2,0,1,0,24,23,19,6,0,0,,,
 Tari Eason|4,2026,2026-04-26,Tari Eason,HOU,LAL,1,1,19,0,4,30,20,8,2,2,5,1,2,30,28,22,10,0,0,,,
@@ -8214,7 +8213,7 @@ Tari Eason|64,2026,2025-10-29,Tari Eason,HOU,TOR,0,0,18,0,64,23,14,5,4,2,2,0,5,2
 Tari Eason|65,2026,2025-10-27,Tari Eason,HOU,BKN,1,0,28,0,65,26,22,5,5,5,0,1,0,32,27,27,10,0,0,,,
 Tari Eason|66,2026,2025-10-24,Tari Eason,HOU,DET,1,0,4,0,66,28,4,5,2,0,1,0,1,11,9,6,7,0,0,,,
 Tari Eason|67,2026,2025-10-21,Tari Eason,HOU,OKC,0,0,1,0,67,22,3,6,0,1,0,1,4,9,9,3,6,0,0,,,
-Tarris Reed Jr.|1,2027,2026-10-20,Tarris Reed Jr.,SA,OKC,1,0,12,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+Tarris Reed Jr.|1,2027,2026-10-20,Tarris Reed Jr.,SA,OKC,1,0,12,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Taurean Prince|1,2026,2026-04-12,Taurean Prince,MIL,PHI,0,1,20,0,1,32,14,5,2,3,1,0,2,21,19,16,7,0,0,,,
 Taurean Prince|2,2026,2026-04-10,Taurean Prince,MIL,BKN,1,1,17,0,2,35,18,10,5,6,1,0,2,33,28,23,15,1,0,,,
 Taurean Prince|3,2026,2026-04-08,Taurean Prince,MIL,DET,0,1,26,1,3,28,15,2,2,5,0,1,1,19,17,17,4,0,0,,,
@@ -8363,7 +8362,7 @@ Terance Mann|60,2026,2025-10-27,Terance Mann,BKN,HOU,0,1,28,1,60,23,21,6,0,3,0,0
 Terance Mann|61,2026,2025-10-26,Terance Mann,BKN,SA,0,1,11,0,61,31,7,6,3,1,2,0,0,16,13,10,9,0,0,,,
 Terance Mann|62,2026,2025-10-24,Terance Mann,BKN,CLE,1,1,7,0,62,24,4,1,2,0,1,0,0,7,5,6,3,0,0,,,
 Terance Mann|63,2026,2025-10-22,Terance Mann,BKN,CHA,0,1,19,0,63,19,13,1,1,2,1,0,1,15,14,14,2,0,0,,,
-Terrence Shannon Jr.|1,2027,2026-10-21,Terrence Shannon Jr.,MIN,MIA,0,0,25,0,1,20,10,1,1,2,0,0,1,12,11,11,2,0,0,9.0,4.0,7.0
+Terrence Shannon Jr.|1,2027,2026-10-21,Terrence Shannon Jr.,MIN,MIA,0,0,25,0,1,20,10,1,1,2,0,0,1,12,11,11,2,0,0,9,4,7
 Terrence Shannon Jr.|2,2026,2026-05-15,Terrence Shannon Jr.,MIN,SA,1,0,30,0,2,22,21,2,1,1,1,0,1,24,23,22,3,0,0,,,
 Terrence Shannon Jr.|3,2026,2026-05-12,Terrence Shannon Jr.,MIN,SA,0,0,29,0,3,17,2,0,4,0,0,0,2,6,2,6,4,0,0,,,
 Terrence Shannon Jr.|4,2026,2026-05-10,Terrence Shannon Jr.,MIN,SA,1,0,5,0,4,20,8,2,2,2,1,0,2,12,10,10,4,0,0,,,
@@ -8554,7 +8553,7 @@ Tidjane Salaun|35,2026,2025-10-28,Tidjane Salaun,CHA,MIA,0,0,27,0,35,15,3,6,1,0,
 Tidjane Salaun|36,2026,2025-10-26,Tidjane Salaun,CHA,WSH,0,0,26,1,36,16,4,7,1,1,2,1,0,12,11,5,8,0,0,,,
 Tidjane Salaun|37,2026,2025-10-25,Tidjane Salaun,CHA,PHI,0,0,4,0,37,13,3,5,1,1,0,0,0,9,8,4,6,0,0,,,
 Tidjane Salaun|38,2026,2025-10-22,Tidjane Salaun,CHA,BKN,1,0,19,0,38,17,10,4,1,2,0,0,0,15,14,11,5,0,0,,,
-Tim Hardaway Jr.|1,2027,2026-10-21,Tim Hardaway Jr.,MIA,MIN,1,0,25,0,1,18,3,4,1,1,1,0,0,8,7,4,5,0,0,7.0,0.0,7.0
+Tim Hardaway Jr.|1,2027,2026-10-21,Tim Hardaway Jr.,MIA,MIN,1,0,25,0,1,18,3,4,1,1,1,0,0,8,7,4,5,0,0,7,0,7
 Tim Hardaway Jr.|2,2026,2026-04-27,Tim Hardaway Jr.,DEN,MIN,1,0,12,0,2,12,8,0,0,1,0,0,0,8,8,8,0,0,0,,,
 Tim Hardaway Jr.|3,2026,2026-04-25,Tim Hardaway Jr.,DEN,MIN,0,0,16,0,3,28,10,5,2,0,1,0,0,17,15,12,7,0,0,,,
 Tim Hardaway Jr.|4,2026,2026-04-23,Tim Hardaway Jr.,DEN,MIN,0,0,17,0,4,28,11,5,0,2,0,0,1,16,16,11,5,0,0,,,
@@ -8640,7 +8639,7 @@ Tim Hardaway Jr.|83,2026,2025-10-29,Tim Hardaway Jr.,DEN,NO,1,0,34,0,83,14,11,1,
 Tim Hardaway Jr.|84,2026,2025-10-27,Tim Hardaway Jr.,DEN,MIN,0,0,13,0,84,32,20,1,3,4,0,0,0,24,21,23,4,0,0,,,
 Tim Hardaway Jr.|85,2026,2025-10-25,Tim Hardaway Jr.,DEN,PHX,1,0,22,0,85,26,4,0,0,1,1,0,1,4,4,4,0,0,0,,,
 Tim Hardaway Jr.|86,2026,2025-10-23,Tim Hardaway Jr.,DEN,GS,0,0,6,0,86,22,10,2,0,2,1,0,0,12,12,10,2,0,0,,,
-Tobe Awaka|1,2027,2026-10-21,Tobe Awaka,CHI,TOR,0,0,43,0,1,14,2,7,2,0,0,1,0,11,9,4,9,0,0,1.0,0.0,0.0
+Tobe Awaka|1,2027,2026-10-21,Tobe Awaka,CHI,TOR,0,0,43,0,1,14,2,7,2,0,0,1,0,11,9,4,9,0,0,1,0,0
 Tobias Harris|1,2026,2026-05-17,Tobias Harris,DET,CLE,1,1,31,0,1,23,5,5,2,0,1,1,1,12,10,7,7,0,0,,,
 Tobias Harris|2,2026,2026-05-15,Tobias Harris,DET,CLE,0,1,21,0,2,25,6,5,3,0,2,0,2,14,11,9,8,0,0,,,
 Tobias Harris|3,2026,2026-05-11,Tobias Harris,DET,CLE,0,1,9,0,3,36,16,8,5,2,2,1,0,29,24,21,13,0,0,,,
@@ -8788,7 +8787,7 @@ Tosan Evbuomwan|2,2026,2025-12-09,Tosan Evbuomwan,NY,TOR,0,0,16,0,2,1,0,0,0,0,0,
 Tosan Evbuomwan|3,2026,2025-12-07,Tosan Evbuomwan,NY,ORL,1,0,6,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
 Tosan Evbuomwan|4,2026,2025-11-30,Tosan Evbuomwan,NY,TOR,1,0,22,0,4,2,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
 Tosan Evbuomwan|5,2026,2025-11-24,Tosan Evbuomwan,NY,BKN,0,0,13,0,5,3,0,1,0,0,0,0,0,1,1,0,1,0,0,,,
-Toumani Camara|1,2027,2026-10-21,Toumani Camara,POR,PHX,1,1,41,0,1,23,18,2,3,4,0,0,1,23,20,21,5,0,0,9.0,2.0,7.0
+Toumani Camara|1,2027,2026-10-21,Toumani Camara,POR,PHX,1,1,41,0,1,23,18,2,3,4,0,0,1,23,20,21,5,0,0,9,2,7
 Toumani Camara|2,2026,2026-04-28,Toumani Camara,POR,SA,0,1,19,0,2,33,7,8,2,1,0,0,1,17,15,9,10,0,0,,,
 Toumani Camara|3,2026,2026-04-26,Toumani Camara,POR,SA,1,1,21,0,3,31,8,5,1,2,1,1,2,14,13,9,6,0,0,,,
 Toumani Camara|4,2026,2026-04-24,Toumani Camara,POR,SA,1,1,12,0,4,33,2,3,1,0,1,0,2,6,5,3,4,0,0,,,

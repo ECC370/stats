@@ -24,7 +24,7 @@ De'Aaron Fox,G,SA,DAL,,PA,10+,77,1.0,22.9
 CJ McCollum,G,ATL,HOU,,PTS,5+,76,1.0,19.4
 CJ McCollum,G,ATL,HOU,,PRA,10+,76,1.0,26.4
 Stephon Castle,G,SA,DAL,,RA,5+,73,1.0,12.3
-Draymond Green,F,GS,PHX,,REB,2+,72,1.0,5.4
+Draymond Green,F,GS,PHX,Questionable,REB,2+,72,1.0,5.4
 Jarrett Allen,C,CLE,BKN,,REB,3+,72,1.0,8.2
 Nikola Jokic,C,DEN,NO,,PRA,25+,71,1.0,50.7
 Nikola Jokic,C,DEN,NO,,PA,15+,71,1.0,37.9
@@ -64,7 +64,7 @@ Tyler Herro,G,MIL,PHI,,PTS,5+,36,1.0,21.1
 Tyler Herro,G,MIL,PHI,,REB,2+,36,1.0,4.7
 Tyler Herro,G,MIL,PHI,,PA,10+,36,1.0,25.4
 Nickeil Alexander-Walker,G,ATL,HOU,,THREES,1+,35,1.0,3.4
-Stephen Curry,G,GS,PHX,Questionable,THREES,2+,35,1.0,4.4
+Stephen Curry,G,GS,PHX,Out,THREES,2+,35,1.0,4.4
 Kevin Durant,F,HOU,ATL,,RA,5+,34,1.0,10.9
 Stephon Castle,G,SA,DAL,,PTS,5+,34,1.0,18.2
 Stephon Castle,G,SA,DAL,,PR,10+,34,1.0,23.9
@@ -103,7 +103,7 @@ Jalen Johnson,F,ATL,HOU,,PRA,20+,26,1.0,36.5
 Jalen Johnson,F,ATL,HOU,,PR,15+,26,1.0,29.5
 Jalen Johnson,F,ATL,HOU,,PA,15+,26,1.0,27.5
 Jalen Johnson,F,ATL,HOU,,RA,5+,26,1.0,16.0
-Draymond Green,F,GS,PHX,,PRA,10+,25,1.0,19.3
+Draymond Green,F,GS,PHX,Questionable,PRA,10+,25,1.0,19.3
 Jalen Johnson,F,ATL,HOU,,PTS,10+,25,1.0,21.0
 Klay Thompson,G,MIA,CHA,,PTS,5+,25,1.0,11.7
 P.J. Washington,F,DAL,SA,,PTS,5+,25,1.0,14.3
@@ -308,8 +308,8 @@ Danny Wolf,F,BKN,CLE,Check roster,PR,10+,9,0.85,16.2
 DeMar DeRozan,G,DEN,NO,,PTS,5+,9,0.95,16.6
 Donovan Mitchell,G,CLE,BKN,,REB,4+,9,0.85,5.8
 Donovan Mitchell,G,CLE,BKN,,RA,5+,9,0.95,8.8
-Draymond Green,F,GS,PHX,,AST,6+,9,0.75,7.7
-Draymond Green,F,GS,PHX,,RA,5+,9,0.95,12.9
+Draymond Green,F,GS,PHX,Questionable,AST,6+,9,0.75,7.7
+Draymond Green,F,GS,PHX,Questionable,RA,5+,9,0.95,12.9
 Dylan Harper,G,SA,DAL,,PTS,10+,9,0.8,17.6
 Dylan Harper,G,SA,DAL,,PA,15+,9,0.75,20.8
 Grant Williams,F,CHA,MIA,Out,REB,2+,9,0.9,4.1
@@ -325,8 +325,8 @@ Justin Champagnie,F,WSH,CHI,,PR,10+,9,0.9,17.9
 Matas Buzelis,F,CHI,WSH,,REB,5+,9,0.95,7.4
 Myles Turner,C,MIL,PHI,,BLK,1+,9,0.85,2.7
 Naji Marshall,F,DAL,SA,,PTS,5+,9,0.9,16.0
-Oso Ighodaro,F,PHX,GS,Questionable,PRA,10+,9,0.95,16.4
-Oso Ighodaro,F,PHX,GS,Questionable,RA,5+,9,0.95,9.7
+Oso Ighodaro,F,PHX,GS,Out,PRA,10+,9,0.95,16.4
+Oso Ighodaro,F,PHX,GS,Out,RA,5+,9,0.95,9.7
 Tyler Herro,G,MIL,PHI,,PRA,20+,9,0.95,31.6
 Tyler Herro,G,MIL,PHI,,PR,15+,9,0.95,25.9
 VJ Edgecombe,G,PHI,MIL,,PA,10+,9,0.95,16.4

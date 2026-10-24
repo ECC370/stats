@@ -15,11 +15,11 @@ Nickeil Alexander-Walker,G,ATL,HOU,,PA,10+,86,1.0,24.0
 Jabari Smith Jr.,F,HOU,ATL,,PRA,10+,85,1.0,24.7
 Jabari Smith Jr.,F,HOU,ATL,,PR,10+,85,1.0,22.9
 Devin Vassell,G,SA,DAL,,PTS,5+,83,1.0,13.5
-Kon Knueppel,G,CHA,MIA,Questionable,PTS,5+,83,1.0,18.3
+Kon Knueppel,G,CHA,MIA,Out,PTS,5+,83,1.0,18.3
 James Harden,G,CLE,BKN,,AST,2+,82,1.0,7.5
 Jalen Johnson,F,ATL,HOU,,REB,3+,80,1.0,10.1
-Kon Knueppel,G,CHA,MIA,Questionable,PRA,10+,78,1.0,27.3
-Kon Knueppel,G,CHA,MIA,Questionable,PR,10+,78,1.0,23.9
+Kon Knueppel,G,CHA,MIA,Out,PRA,10+,78,1.0,27.3
+Kon Knueppel,G,CHA,MIA,Out,PR,10+,78,1.0,23.9
 De'Aaron Fox,G,SA,DAL,,PA,10+,77,1.0,22.9
 CJ McCollum,G,ATL,HOU,,PTS,5+,76,1.0,19.4
 CJ McCollum,G,ATL,HOU,,PRA,10+,76,1.0,26.4
@@ -32,8 +32,8 @@ Bam Adebayo,C,MIA,CHA,,REB,3+,68,1.0,10.0
 Bam Adebayo,C,MIA,CHA,,PRA,10+,68,1.0,32.9
 Trey Murphy III,F,NO,DEN,,PTS,5+,68,1.0,21.2
 Brandon Miller,F,CHA,MIA,,PTS,5+,67,1.0,20.0
-LeBron James,F,PHI,MIL,Questionable,RA,5+,67,1.0,13.6
-LeBron James,F,PHI,MIL,Questionable,PTS,10+,66,1.0,21.7
+LeBron James,F,PHI,MIL,Out,RA,5+,67,1.0,13.6
+LeBron James,F,PHI,MIL,Out,PTS,10+,66,1.0,21.7
 Trey Murphy III,F,NO,DEN,,PA,10+,64,1.0,25.5
 Brandon Miller,F,CHA,MIA,,THREES,1+,63,1.0,3.2
 Michael Porter Jr.,F,BKN,CLE,,PTS,5+,53,1.0,24.2
@@ -80,7 +80,7 @@ Amen Thompson,G,HOU,ATL,,PA,15+,31,1.0,25.6
 Julius Randle,F,BKN,CLE,,PR,10+,31,1.0,25.5
 Tyler Herro,G,MIL,PHI,,RA,5+,31,1.0,9.3
 Jeremiah Fears,G,NO,DEN,,PTS,5+,30,1.0,15.9
-LeBron James,F,PHI,MIL,Questionable,REB,2+,30,1.0,7.1
+LeBron James,F,PHI,MIL,Out,REB,2+,30,1.0,7.1
 Tyler Herro,G,MIL,PHI,,THREES,1+,30,1.0,2.7
 Matas Buzelis,F,CHI,WSH,,PR,10+,29,1.0,25.1
 Nic Claxton,C,BKN,CLE,Out,PRA,10+,29,1.0,19.8
@@ -177,7 +177,7 @@ Kevin Porter Jr.,G,MIL,PHI,Check roster,PRA,10+,16,0.95,30.5
 Kevin Porter Jr.,G,MIL,PHI,Check roster,PR,10+,16,0.95,23.2
 Kevin Porter Jr.,G,MIL,PHI,Check roster,PA,10+,16,0.95,25.0
 Kevin Porter Jr.,G,MIL,PHI,Check roster,RA,5+,16,0.95,12.8
-LeBron James,F,PHI,MIL,Questionable,AST,3+,16,0.95,8.1
+LeBron James,F,PHI,MIL,Out,AST,3+,16,0.95,8.1
 Tyson Etienne,G,BKN,CLE,Check roster,THREES,1+,16,0.9,2.4
 Victor Wembanyama,F,SA,DAL,,PTS,10+,16,0.95,25.2
 Victor Wembanyama,F,SA,DAL,,PRA,25+,16,0.95,39.5
@@ -191,7 +191,7 @@ Dejounte Murray,G,NO,DEN,,REB,3+,15,0.94,5.5
 Dejounte Murray,G,NO,DEN,,PRA,20+,15,0.94,29.4
 Jabari Smith Jr.,F,HOU,ATL,,REB,5+,15,0.9,7.0
 Jarrett Allen,C,CLE,BKN,,BLK,1+,15,0.8,2.0
-Kon Knueppel,G,CHA,MIA,Questionable,REB,3+,15,0.9,5.3
+Kon Knueppel,G,CHA,MIA,Out,REB,3+,15,0.9,5.3
 Moussa Diabate,F,CHA,MIA,,PRA,10+,15,0.95,18.7
 Naji Marshall,F,DAL,SA,,REB,2+,15,0.9,4.3
 Onyeka Okongwu,F,ATL,HOU,,REB,4+,15,0.95,6.7
@@ -209,10 +209,10 @@ Brandin Podziemski,G,GS,PHX,Out,PA,10+,14,0.95,23.1
 De'Aaron Fox,G,SA,DAL,,AST,5+,14,0.9,6.5
 Kel'el Ware,C,MIL,PHI,,PTS,5+,14,0.95,10.4
 Kel'el Ware,C,MIL,PHI,,PRA,10+,14,0.95,19.9
-Marcus Smart,G,HOU,ATL,,PTS,5+,14,0.95,11.1
-Marcus Smart,G,HOU,ATL,,REB,2+,14,0.9,3.4
+Marcus Smart,G,HOU,ATL,Questionable,PTS,5+,14,0.95,11.1
+Marcus Smart,G,HOU,ATL,Questionable,REB,2+,14,0.9,3.4
 Naz Reid,C,CHA,MIA,,RA,5+,14,0.95,9.6
-Steven Adams,C,HOU,ATL,Questionable,REB,2+,14,0.95,8.2
+Steven Adams,C,HOU,ATL,Out,REB,2+,14,0.95,8.2
 Tyrese Maxey,G,PHI,MIL,,RA,5+,14,0.9,9.6
 Dillon Brooks,F,PHX,GS,,PRA,10+,13,0.95,24.2
 Dillon Brooks,F,PHX,GS,,PR,10+,13,0.95,22.3
@@ -312,7 +312,7 @@ Draymond Green,F,GS,PHX,,AST,6+,9,0.75,7.7
 Draymond Green,F,GS,PHX,,RA,5+,9,0.95,12.9
 Dylan Harper,G,SA,DAL,,PTS,10+,9,0.8,17.6
 Dylan Harper,G,SA,DAL,,PA,15+,9,0.75,20.8
-Grant Williams,F,CHA,MIA,Questionable,REB,2+,9,0.9,4.1
+Grant Williams,F,CHA,MIA,Out,REB,2+,9,0.9,4.1
 Guerschon Yabusele,F,CHI,WSH,Check roster,REB,4+,9,0.85,6.0
 Jamir Watkins,G,WSH,CHI,Out,PTS,5+,9,0.9,12.2
 Jamir Watkins,G,WSH,CHI,Out,PRA,10+,9,0.85,19.2
@@ -347,17 +347,17 @@ Kevin Durant,F,HOU,ATL,,PTS,20+,8,0.8,26.9
 Kevin Durant,F,HOU,ATL,,PR,25+,8,0.75,33.1
 Kevin Porter Jr.,G,MIL,PHI,Check roster,REB,3+,8,0.85,6.0
 Kyle Kuzma,F,MIL,PHI,,PRA,10+,8,0.85,20.2
-LeBron James,F,PHI,MIL,Questionable,PRA,30+,8,0.75,35.0
-LeBron James,F,PHI,MIL,Questionable,PR,20+,8,0.85,28.8
-LeBron James,F,PHI,MIL,Questionable,PA,20+,8,0.9,28.4
-Max Christie,G,DAL,SA,,PTS,5+,8,0.9,12.6
-Max Christie,G,DAL,SA,,PRA,10+,8,0.9,17.5
+LeBron James,F,PHI,MIL,Out,PRA,30+,8,0.75,35.0
+LeBron James,F,PHI,MIL,Out,PR,20+,8,0.85,28.8
+LeBron James,F,PHI,MIL,Out,PA,20+,8,0.9,28.4
+Max Christie,G,DAL,SA,Questionable,PTS,5+,8,0.9,12.6
+Max Christie,G,DAL,SA,Questionable,PRA,10+,8,0.9,17.5
 Michael Porter Jr.,F,BKN,CLE,,REB,2+,8,0.95,7.4
 Moses Moody,G,GS,PHX,Out,REB,2+,8,0.9,3.8
 Moses Moody,G,GS,PHX,Out,THREES,2+,8,0.9,3.4
 Onyeka Okongwu,F,ATL,HOU,,PRA,15+,8,0.9,20.5
 Onyeka Okongwu,F,ATL,HOU,,PR,10+,8,0.95,17.8
-Zaccharie Risacher,F,DAL,SA,,REB,2+,8,0.95,4.5
+Zaccharie Risacher,F,DAL,SA,Questionable,REB,2+,8,0.95,4.5
 Collin Gillespie,G,PHX,GS,,STL,1+,7,0.8,1.6
 Daniel Gafford,F,DAL,SA,,BLK,1+,7,0.8,1.6
 Dillon Brooks,F,PHX,GS,,THREES,1+,7,0.95,2.9
@@ -376,7 +376,7 @@ Jalen Green,G,PHX,GS,,RA,5+,7,0.85,8.1
 Jamal Murray,G,DEN,NO,,REB,3+,7,0.8,5.9
 Jamir Watkins,G,WSH,CHI,Out,THREES,1+,7,0.85,1.9
 Justin Champagnie,F,WSH,CHI,,REB,6+,7,0.45,7.6
-Marcus Smart,G,HOU,ATL,,STL,1+,7,0.9,1.7
+Marcus Smart,G,HOU,ATL,Questionable,STL,1+,7,0.9,1.7
 Mark Williams,C,PHX,GS,Out,PRA,10+,7,0.9,17.4
 Trae Young,G,WSH,CHI,,PTS,10+,7,0.82,16.9
 Trae Young,G,WSH,CHI,,PRA,20+,7,0.82,27.1
@@ -384,7 +384,7 @@ Tyler Herro,G,MIL,PHI,,AST,4+,7,0.8,6.3
 Victor Wembanyama,F,SA,DAL,,REB,8+,7,0.75,11.7
 Victor Wembanyama,F,SA,DAL,,RA,10+,7,0.75,14.3
 Victor Wembanyama,F,SA,DAL,,BLK,2+,7,0.9,3.7
-Yves Missi,C,NO,DEN,Questionable,PTS,5+,7,0.65,9.1
+Yves Missi,C,NO,DEN,Out,PTS,5+,7,0.65,9.1
 Zach Collins,F,CHI,WSH,,RA,5+,7,0.91,7.4
 Alex Sarr,C,WSH,CHI,,RA,5+,6,0.95,9.2
 Anthony Davis,F,WSH,CHI,,PTS,5+,6,0.85,20.3

@@ -33,13 +33,13 @@ Ja'Marr Chase,WR,CIN,BAL,,RR_YDS,10+,21,1.0,81.7
 Justin Jefferson,WR,MIN,IND,,REC,2+,21,1.0,4.9
 Rico Dowdle,RB,PIT,NO,Questionable,RUSH_YDS,5+,21,1.0,55.3
 Rico Dowdle,RB,PIT,NO,Questionable,RR_YDS,15+,21,1.0,71.5
-Saquon Barkley,RB,PHI,DAL,Limited,RUSH_YDS,5+,21,1.0,68.0
-Saquon Barkley,RB,PHI,DAL,Limited,RR_YDS,10+,21,1.0,82.6
+Saquon Barkley,RB,PHI,DAL,Questionable,RUSH_YDS,5+,21,1.0,68.0
+Saquon Barkley,RB,PHI,DAL,Questionable,RR_YDS,10+,21,1.0,82.6
 Travis Etienne,RB,NO,PIT,,RUSH_YDS,25+,21,1.0,62.0
 Travis Etienne,RB,NO,PIT,,RUSH_ATT,8+,21,1.0,14.3
 Travis Etienne,RB,NO,PIT,,RR_YDS,30+,21,1.0,80.7
 Cade Otton,TE,TB,CAR,,REC,1+,20,1.0,3.9
-Dallas Goedert,TE,PHI,DAL,DNP,REC,1+,20,1.0,4.0
+Dallas Goedert,TE,PHI,DAL,,REC,1+,20,1.0,4.0
 Michael Wilson,WR,ARI,DEN,,REC,2+,20,1.0,5.4
 Michael Wilson,WR,ARI,DEN,,REC_YDS,15+,20,1.0,65.2
 Michael Wilson,WR,ARI,DEN,,RR_YDS,15+,20,1.0,65.2
@@ -56,7 +56,7 @@ Derrick Henry,RB,BAL,CIN,,RR_YDS,60+,18,0.9,110.6
 Jacoby Brissett,QB,ARI,DEN,,ATT,28+,18,0.9,39.9
 Kenneth Walker III,RB,KC,SEA,,REC,1+,18,0.95,2.6
 Christian Watson,WR,GB,DET,Limited,TGT,3+,17,1.0,6.5
-Lamar Jackson,QB,BAL,CIN,Questionable,RUSH_YDS,5+,17,1.0,29.0
+Lamar Jackson,QB,BAL,CIN,Out,RUSH_YDS,5+,17,1.0,29.0
 Puka Nacua,WR,LA,LV,Questionable,REC,5+,17,0.95,8.0
 RJ Harvey,RB,DEN,ARI,,RUSH_YDS,5+,17,0.9,30.8
 Tee Higgins,WR,CIN,BAL,,REC_YDS,20+,17,0.95,68.5
@@ -267,9 +267,9 @@ Dak Prescott,QB,DAL,PHI,,ATT,31+,6,0.8,41.0
 Daniel Jones,QB,IND,MIN,,PASS_YDS,125+,6,0.95,215.0
 Daniel Jones,QB,IND,MIN,,COMP,18+,6,0.89,21.7
 Daniel Jones,QB,IND,MIN,,ATT,31+,6,0.58,36.3
-DeVonta Smith,WR,PHI,DAL,DNP,REC,3+,6,0.8,6.2
-DeVonta Smith,WR,PHI,DAL,DNP,REC_YDS,50+,6,0.65,72.0
-DeVonta Smith,WR,PHI,DAL,DNP,RR_YDS,50+,6,0.65,72.0
+DeVonta Smith,WR,PHI,DAL,Out,REC,3+,6,0.8,6.2
+DeVonta Smith,WR,PHI,DAL,Out,REC_YDS,50+,6,0.65,72.0
+DeVonta Smith,WR,PHI,DAL,Out,RR_YDS,50+,6,0.65,72.0
 Denzel Boston,WR,CLE,TEN,,REC,1+,6,1.0,2.8
 Denzel Boston,WR,CLE,TEN,,REC_YDS,15+,6,1.0,57.5
 Denzel Boston,WR,CLE,TEN,,TGT,4+,6,1.0,5.7
@@ -278,10 +278,10 @@ Derrick Henry,RB,BAL,CIN,,REC,1+,6,0.7,1.5
 Deshaun Watson,QB,CLE,TEN,,PASS_YDS,125+,6,1.0,195.7
 Deshaun Watson,QB,CLE,TEN,,RUSH_YDS,20+,6,1.0,32.7
 Deshaun Watson,QB,CLE,TEN,,RR_YDS,20+,6,1.0,32.7
-Dontayvion Wicks,WR,PHI,DAL,DNP,REC,2+,6,0.79,3.2
-Dontayvion Wicks,WR,PHI,DAL,DNP,REC_YDS,15+,6,0.74,47.3
-Dontayvion Wicks,WR,PHI,DAL,DNP,TGT,4+,6,0.63,5.3
-Dontayvion Wicks,WR,PHI,DAL,DNP,RR_YDS,15+,6,0.74,47.3
+Dontayvion Wicks,WR,PHI,DAL,Out,REC,2+,6,0.79,3.2
+Dontayvion Wicks,WR,PHI,DAL,Out,REC_YDS,15+,6,0.74,47.3
+Dontayvion Wicks,WR,PHI,DAL,Out,TGT,4+,6,0.63,5.3
+Dontayvion Wicks,WR,PHI,DAL,Out,RR_YDS,15+,6,0.74,47.3
 Emeka Egbuka,WR,TB,CAR,Out,REC,2+,6,0.9,4.7
 Emeka Egbuka,WR,TB,CAR,Out,REC_YDS,10+,6,0.95,40.0
 Emeka Egbuka,WR,TB,CAR,Out,TGT,4+,6,0.9,8.2
@@ -366,7 +366,7 @@ Dak Prescott,QB,DAL,PHI,,PASS_YDS,250+,5,0.75,292.8
 Dak Prescott,QB,DAL,PHI,,COMP,24+,5,0.55,28.2
 Davante Adams,WR,LA,LV,,REC_YDS,30+,5,0.8,90.8
 Davante Adams,WR,LA,LV,,RR_YDS,30+,5,0.8,90.8
-DeVonta Smith,WR,PHI,DAL,DNP,TGT,6+,5,0.7,10.4
+DeVonta Smith,WR,PHI,DAL,Out,TGT,6+,5,0.7,10.4
 Deebo Samuel Sr.,WR,SF,ATL,Out,RR_YDS,25+,5,0.85,56.8
 Deshaun Watson,QB,CLE,TEN,,ATT,25+,5,0.83,30.4
 Drake London,WR,ATL,SF,,REC,4+,5,0.78,5.8

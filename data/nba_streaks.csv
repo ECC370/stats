@@ -1,8 +1,8 @@
 Player,Pos,Team,Opp,Status,Stat,Line,Streak,L20 hit,Avg in streak
 Julius Randle,F,BKN,IND,,PRA,10+,92,1.0,32.3
 Julius Randle,F,BKN,IND,,RA,5+,92,1.0,11.6
-VJ Edgecombe,G,PHI,DET,,PTS,5+,90,1.0,15.7
-VJ Edgecombe,G,PHI,DET,,PRA,10+,90,1.0,25.5
+VJ Edgecombe,G,PHI,DET,Out,PTS,5+,90,1.0,15.7
+VJ Edgecombe,G,PHI,DET,Out,PRA,10+,90,1.0,25.5
 Rudy Gobert,C,MIN,TOR,,REB,3+,89,1.0,11.2
 Shai Gilgeous-Alexander,G,OKC,LAC,,PTS,15+,85,1.0,30.4
 Shai Gilgeous-Alexander,G,OKC,LAC,,PRA,20+,85,1.0,41.2
@@ -11,16 +11,16 @@ Shai Gilgeous-Alexander,G,OKC,LAC,,PA,15+,85,1.0,37.1
 Jalen Duren,C,DET,PHI,Out,REB,2+,84,1.0,10.2
 Immanuel Quickley,G,TOR,MIN,,PRA,10+,72,1.0,26.4
 Anthony Edwards,G,MIN,TOR,,REB,2+,70,1.0,5.2
-Kawhi Leonard,F,TOR,MIN,,PTS,15+,67,1.0,27.8
-Kawhi Leonard,F,TOR,MIN,,PRA,25+,67,1.0,37.8
-Kawhi Leonard,F,TOR,MIN,,PA,15+,67,1.0,31.4
+Kawhi Leonard,F,TOR,MIN,Out,PTS,15+,67,1.0,27.8
+Kawhi Leonard,F,TOR,MIN,Out,PRA,25+,67,1.0,37.8
+Kawhi Leonard,F,TOR,MIN,Out,PA,15+,67,1.0,31.4
 LeBron James,F,PHI,DET,,RA,5+,67,1.0,13.6
 LeBron James,F,PHI,DET,,PTS,10+,66,1.0,21.7
 Luka Doncic,G,LAL,UTAH,,PTS,10+,66,1.0,33.2
 Karl-Anthony Towns,C,NY,ORL,,PRA,10+,62,1.0,33.5
 Karl-Anthony Towns,C,NY,ORL,,PR,10+,62,1.0,29.9
 Karl-Anthony Towns,C,NY,ORL,,RA,5+,62,1.0,15.3
-Kawhi Leonard,F,TOR,MIN,,RA,5+,59,1.0,10.2
+Kawhi Leonard,F,TOR,MIN,Out,RA,5+,59,1.0,10.2
 LaMelo Ball,G,MIN,TOR,,RA,5+,50,1.0,11.3
 RJ Barrett,F,TOR,MIN,,RA,5+,49,1.0,9.0
 Joel Embiid,C,PHI,DET,Out,RA,5+,48,1.0,12.0
@@ -29,7 +29,7 @@ Joel Embiid,C,PHI,DET,Out,PA,15+,47,1.0,30.9
 Isaiah Collier,G,UTAH,LAL,,PRA,10+,46,1.0,23.4
 Isaiah Collier,G,UTAH,LAL,,PA,10+,46,1.0,20.7
 Kelly Oubre Jr.,G,IND,BKN,,REB,2+,45,1.0,5.2
-VJ Edgecombe,G,PHI,DET,,PR,10+,45,1.0,22.8
+VJ Edgecombe,G,PHI,DET,Out,PR,10+,45,1.0,22.8
 Jalen Brunson,G,NY,ORL,,PA,20+,44,1.0,32.7
 Russell Westbrook,G,SAC,MEM,Check roster,PTS,5+,43,1.0,16.0
 LaMelo Ball,G,MIN,TOR,,PTS,10+,42,1.0,20.8
@@ -47,7 +47,7 @@ Lauri Markkanen,F,UTAH,LAL,,THREES,1+,35,1.0,2.6
 Lauri Markkanen,F,UTAH,LAL,,PR,20+,35,1.0,32.9
 Lauri Markkanen,F,UTAH,LAL,,PA,15+,35,1.0,28.0
 Lauri Markkanen,F,UTAH,LAL,,RA,5+,35,1.0,9.3
-Kawhi Leonard,F,TOR,MIN,,PR,25+,34,1.0,34.1
+Kawhi Leonard,F,TOR,MIN,Out,PR,25+,34,1.0,34.1
 Maxime Raynaud,C,SAC,MEM,Out,RA,5+,34,1.0,10.6
 LaMelo Ball,G,MIN,TOR,,REB,2+,33,1.0,4.6
 Luka Doncic,G,LAL,UTAH,,REB,4+,33,1.0,7.9
@@ -55,7 +55,7 @@ Julius Randle,F,BKN,IND,,PR,10+,32,1.0,25.7
 Pascal Siakam,F,IND,BKN,,RA,5+,31,1.0,10.4
 LaMelo Ball,G,MIN,TOR,,THREES,2+,30,1.0,4.3
 LeBron James,F,PHI,DET,,REB,2+,30,1.0,7.1
-Ausar Thompson,G,DET,PHI,Questionable,REB,3+,29,1.0,6.7
+Ausar Thompson,G,DET,PHI,Out,REB,3+,29,1.0,6.7
 Isaiah Collier,G,UTAH,LAL,,PR,10+,29,1.0,17.7
 Nic Claxton,C,BKN,IND,Out,PRA,10+,29,1.0,19.8
 Precious Achiuwa,F,SAC,MEM,,PTS,5+,29,1.0,15.0
@@ -76,7 +76,7 @@ Luka Doncic,G,LAL,UTAH,,PR,15+,24,1.0,41.5
 Luka Doncic,G,LAL,UTAH,,PA,15+,24,1.0,41.6
 Ace Bailey,G,UTAH,LAL,,PTS,5+,23,1.0,18.0
 Ace Bailey,G,UTAH,LAL,,THREES,1+,23,1.0,2.8
-Ausar Thompson,G,DET,PHI,Questionable,RA,5+,23,1.0,10.8
+Ausar Thompson,G,DET,PHI,Out,RA,5+,23,1.0,10.8
 Jaren Jackson Jr.,F,UTAH,LAL,,PA,15+,23,1.0,23.3
 Jaylen Brown,G,PHI,DET,,PTS,15+,23,1.0,27.9
 Jaylen Brown,G,PHI,DET,,PRA,20+,23,1.0,38.4
@@ -84,11 +84,11 @@ Jaylen Brown,G,PHI,DET,,PR,15+,23,1.0,33.9
 Nic Claxton,C,BKN,IND,Out,REB,4+,23,1.0,6.0
 Nic Claxton,C,BKN,IND,Out,RA,5+,23,1.0,9.0
 Collin Sexton,G,LAL,UTAH,,PTS,5+,22,1.0,17.9
-Ivica Zubac,C,IND,BKN,,RA,5+,22,1.0,11.8
+Ivica Zubac,C,IND,BKN,Questionable,RA,5+,22,1.0,11.8
 Luka Doncic,G,LAL,UTAH,,RA,10+,22,1.0,15.4
 Darius Garland,G,LAC,OKC,,RA,5+,21,1.0,8.8
-Ivica Zubac,C,IND,BKN,,PTS,5+,21,1.0,12.4
-Ivica Zubac,C,IND,BKN,,PRA,15+,21,1.0,24.4
+Ivica Zubac,C,IND,BKN,Questionable,PTS,5+,21,1.0,12.4
+Ivica Zubac,C,IND,BKN,Questionable,PRA,15+,21,1.0,24.4
 Jaylen Brown,G,PHI,DET,,THREES,1+,21,1.0,2.2
 Jaylen Brown,G,PHI,DET,,PA,20+,21,1.0,32.7
 Zach LaVine,G,SAC,MEM,,PTS,5+,21,1.0,19.1
@@ -101,7 +101,7 @@ Jaden McDaniels,F,MIN,TOR,,PA,10+,20,1.0,18.6
 Jerami Grant,F,MEM,SAC,,PTS,5+,19,0.95,15.6
 John Collins,F,DET,PHI,,REB,2+,19,0.95,6.1
 Paolo Banchero,F,ORL,NY,Out,PTS,10+,19,0.95,22.5
-Ivica Zubac,C,IND,BKN,,PA,10+,18,0.95,13.9
+Ivica Zubac,C,IND,BKN,Questionable,PA,10+,18,0.95,13.9
 OG Anunoby,F,NY,ORL,,PTS,10+,18,0.95,19.5
 OG Anunoby,F,NY,ORL,,THREES,1+,18,0.95,2.4
 OG Anunoby,F,NY,ORL,,PRA,15+,18,0.95,27.7
@@ -117,7 +117,7 @@ Cade Cunningham,G,DET,PHI,,PRA,20+,17,0.95,36.4
 Cade Cunningham,G,DET,PHI,,PR,15+,17,0.95,28.5
 Cade Cunningham,G,DET,PHI,,PA,15+,17,0.95,31.5
 Cade Cunningham,G,DET,PHI,,RA,5+,17,0.95,12.7
-Cason Wallace,G,OKC,LAC,,STL,1+,17,0.95,2.2
+Cason Wallace,G,OKC,LAC,Questionable,STL,1+,17,0.95,2.2
 Jalen Brunson,G,NY,ORL,,THREES,1+,17,0.95,2.4
 Jaren Jackson Jr.,F,UTAH,LAL,,PRA,20+,17,0.95,29.5
 Paolo Banchero,F,ORL,NY,Out,PA,15+,17,0.9,29.6
@@ -166,8 +166,8 @@ Oscar Tshiebwe,C,UTAH,LAL,Check roster,RA,5+,13,0.85,10.6
 Ty Jerome,G,MEM,SAC,,PRA,20+,13,0.94,31.1
 Ty Jerome,G,MEM,SAC,,PR,15+,13,0.94,25.4
 Tyrese Maxey,G,PHI,DET,,REB,2+,13,0.9,4.2
-Aaron Nesmith,G,IND,BKN,Questionable,PTS,5+,12,0.9,15.9
-Aaron Nesmith,G,IND,BKN,Questionable,THREES,1+,12,0.9,2.5
+Aaron Nesmith,G,IND,BKN,,PTS,5+,12,0.9,15.9
+Aaron Nesmith,G,IND,BKN,,THREES,1+,12,0.9,2.5
 Austin Reaves,G,LAL,UTAH,,REB,2+,12,0.95,4.2
 Ben Saraf,G,BKN,IND,Check roster,REB,2+,12,0.75,3.7
 Ben Saraf,G,BKN,IND,Check roster,RA,5+,12,0.85,7.6
@@ -218,9 +218,9 @@ Russell Westbrook,G,SAC,MEM,Check roster,PRA,15+,10,0.85,29.3
 Russell Westbrook,G,SAC,MEM,Check roster,PA,15+,10,0.8,24.4
 Scottie Barnes,F,TOR,MIN,,PA,25+,10,0.65,32.0
 Tyler Burton,F,MEM,SAC,Check roster,PTS,5+,10,0.83,12.2
-VJ Edgecombe,G,PHI,DET,,PA,10+,10,0.95,16.7
-Cason Wallace,G,OKC,LAC,,PTS,5+,9,0.85,9.6
-Cason Wallace,G,OKC,LAC,,PRA,10+,9,0.8,16.1
+VJ Edgecombe,G,PHI,DET,Out,PA,10+,10,0.95,16.7
+Cason Wallace,G,OKC,LAC,Questionable,PTS,5+,9,0.85,9.6
+Cason Wallace,G,OKC,LAC,Questionable,PRA,10+,9,0.8,16.1
 Collin Murray-Boyles,F,TOR,MIN,,PTS,5+,9,0.9,12.8
 Collin Murray-Boyles,F,TOR,MIN,,REB,3+,9,0.9,6.2
 Collin Murray-Boyles,F,TOR,MIN,,PRA,10+,9,0.95,21.2
@@ -262,7 +262,7 @@ Isaiah Jackson,F,LAC,OKC,,REB,4+,8,0.75,5.4
 Jalen Slawson,F,IND,BKN,,REB,2+,8,0.86,4.9
 Jamal Shead,G,TOR,MIN,,RA,5+,8,0.8,7.5
 Jaren Jackson Jr.,F,UTAH,LAL,,AST,2+,8,0.7,2.6
-Kawhi Leonard,F,TOR,MIN,,THREES,1+,8,0.9,2.6
+Kawhi Leonard,F,TOR,MIN,Out,THREES,1+,8,0.9,2.6
 Keyonte George,G,UTAH,LAL,,PTS,10+,8,0.9,21.9
 Keyonte George,G,UTAH,LAL,,AST,2+,8,0.95,4.2
 Keyonte George,G,UTAH,LAL,,THREES,1+,8,0.8,2.6
@@ -338,7 +338,7 @@ Walker Kessler,C,LAL,UTAH,,RA,10+,7,1.0,12.9
 Wendell Carter Jr.,C,ORL,NY,,PTS,5+,7,0.8,14.1
 Wendell Carter Jr.,C,ORL,NY,,PRA,10+,7,0.9,24.0
 Wendell Carter Jr.,C,ORL,NY,,PA,10+,7,0.75,16.4
-Aaron Nesmith,G,IND,BKN,Questionable,REB,2+,6,0.75,3.5
+Aaron Nesmith,G,IND,BKN,,REB,2+,6,0.75,3.5
 Ace Bailey,G,UTAH,LAL,,REB,3+,6,0.7,5.8
 Anthony Edwards,G,MIN,TOR,,PTS,15+,6,0.8,28.7
 Anthony Edwards,G,MIN,TOR,,AST,2+,6,0.9,3.2
@@ -361,8 +361,8 @@ Dariq Whitehead,F,MEM,SAC,Check roster,PR,10+,6,1.0,20.3
 Dariq Whitehead,F,MEM,SAC,Check roster,PA,10+,6,1.0,17.8
 Dylan Cardwell,C,SAC,MEM,Out,PRA,10+,6,0.85,16.5
 Dylan Cardwell,C,SAC,MEM,Out,RA,5+,6,0.95,9.2
-Ivica Zubac,C,IND,BKN,,REB,7+,6,0.85,9.3
-Ivica Zubac,C,IND,BKN,,PR,15+,6,0.9,21.8
+Ivica Zubac,C,IND,BKN,Questionable,REB,7+,6,0.85,9.3
+Ivica Zubac,C,IND,BKN,Questionable,PR,15+,6,0.9,21.8
 Ja'Kobe Walter,G,TOR,MIN,,PRA,10+,6,0.9,18.5
 Ja'Kobe Walter,G,TOR,MIN,,STL,2+,6,0.5,3.0
 Jalen Brunson,G,NY,ORL,,AST,3+,6,0.95,4.7
@@ -397,5 +397,5 @@ Tyrese Maxey,G,PHI,DET,,AST,4+,6,0.85,5.3
 Tyrese Maxey,G,PHI,DET,,THREES,1+,6,0.95,1.8
 Tyrese Maxey,G,PHI,DET,,PRA,20+,6,0.95,32.7
 Tyrese Maxey,G,PHI,DET,,PA,20+,6,0.95,29.7
-VJ Edgecombe,G,PHI,DET,,REB,4+,6,0.9,7.0
-VJ Edgecombe,G,PHI,DET,,RA,5+,6,0.95,10.8
+VJ Edgecombe,G,PHI,DET,Out,REB,4+,6,0.9,7.0
+VJ Edgecombe,G,PHI,DET,Out,RA,5+,6,0.95,10.8

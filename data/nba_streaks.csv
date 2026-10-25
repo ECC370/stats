@@ -14,8 +14,8 @@ Anthony Edwards,G,MIN,TOR,,REB,2+,70,1.0,5.2
 Kawhi Leonard,F,TOR,MIN,,PTS,15+,67,1.0,27.8
 Kawhi Leonard,F,TOR,MIN,,PRA,25+,67,1.0,37.8
 Kawhi Leonard,F,TOR,MIN,,PA,15+,67,1.0,31.4
-LeBron James,F,PHI,DET,Questionable,RA,5+,67,1.0,13.6
-LeBron James,F,PHI,DET,Questionable,PTS,10+,66,1.0,21.7
+LeBron James,F,PHI,DET,,RA,5+,67,1.0,13.6
+LeBron James,F,PHI,DET,,PTS,10+,66,1.0,21.7
 Luka Doncic,G,LAL,UTAH,,PTS,10+,66,1.0,33.2
 Karl-Anthony Towns,C,NY,ORL,,PRA,10+,62,1.0,33.5
 Karl-Anthony Towns,C,NY,ORL,,PR,10+,62,1.0,29.9
@@ -23,9 +23,9 @@ Karl-Anthony Towns,C,NY,ORL,,RA,5+,62,1.0,15.3
 Kawhi Leonard,F,TOR,MIN,,RA,5+,59,1.0,10.2
 LaMelo Ball,G,MIN,TOR,,RA,5+,50,1.0,11.3
 RJ Barrett,F,TOR,MIN,,RA,5+,49,1.0,9.0
-Joel Embiid,C,PHI,DET,Questionable,RA,5+,48,1.0,12.0
-Joel Embiid,C,PHI,DET,Questionable,PTS,10+,47,1.0,26.6
-Joel Embiid,C,PHI,DET,Questionable,PA,15+,47,1.0,30.9
+Joel Embiid,C,PHI,DET,Out,RA,5+,48,1.0,12.0
+Joel Embiid,C,PHI,DET,Out,PTS,10+,47,1.0,26.6
+Joel Embiid,C,PHI,DET,Out,PA,15+,47,1.0,30.9
 Isaiah Collier,G,UTAH,LAL,,PRA,10+,46,1.0,23.4
 Isaiah Collier,G,UTAH,LAL,,PA,10+,46,1.0,20.7
 Kelly Oubre Jr.,G,IND,BKN,,REB,2+,45,1.0,5.2
@@ -54,7 +54,7 @@ Luka Doncic,G,LAL,UTAH,,REB,4+,33,1.0,7.9
 Julius Randle,F,BKN,IND,,PR,10+,32,1.0,25.7
 Pascal Siakam,F,IND,BKN,,RA,5+,31,1.0,10.4
 LaMelo Ball,G,MIN,TOR,,THREES,2+,30,1.0,4.3
-LeBron James,F,PHI,DET,Questionable,REB,2+,30,1.0,7.1
+LeBron James,F,PHI,DET,,REB,2+,30,1.0,7.1
 Ausar Thompson,G,DET,PHI,Questionable,REB,3+,29,1.0,6.7
 Isaiah Collier,G,UTAH,LAL,,PR,10+,29,1.0,17.7
 Nic Claxton,C,BKN,IND,Out,PRA,10+,29,1.0,19.8
@@ -125,7 +125,7 @@ Rui Hachimura,F,LAC,OKC,,PTS,10+,17,0.95,16.7
 Rui Hachimura,F,LAC,OKC,,PA,10+,17,0.95,18.3
 Ty Jerome,G,MEM,SAC,,THREES,2+,17,1.0,2.9
 Day'Ron Sharpe,C,BKN,IND,,PRA,10+,16,0.95,20.0
-LeBron James,F,PHI,DET,Questionable,AST,3+,16,0.95,8.1
+LeBron James,F,PHI,DET,,AST,3+,16,0.95,8.1
 Oscar Tshiebwe,C,UTAH,LAL,Check roster,REB,4+,16,0.9,8.4
 Paolo Banchero,F,ORL,NY,Out,PRA,25+,16,0.85,38.9
 Paolo Banchero,F,ORL,NY,Out,PR,20+,16,0.85,32.6
@@ -270,9 +270,9 @@ Keyonte George,G,UTAH,LAL,,PRA,15+,8,0.9,28.1
 Keyonte George,G,UTAH,LAL,,PR,15+,8,0.9,23.9
 Keyonte George,G,UTAH,LAL,,PA,15+,8,0.9,26.1
 Killian Hayes,G,SAC,MEM,Check roster,AST,2+,8,0.9,4.0
-LeBron James,F,PHI,DET,Questionable,PRA,30+,8,0.75,35.0
-LeBron James,F,PHI,DET,Questionable,PR,20+,8,0.85,28.8
-LeBron James,F,PHI,DET,Questionable,PA,20+,8,0.9,28.4
+LeBron James,F,PHI,DET,,PRA,30+,8,0.75,35.0
+LeBron James,F,PHI,DET,,PR,20+,8,0.85,28.8
+LeBron James,F,PHI,DET,,PA,20+,8,0.9,28.4
 Obi Toppin,F,IND,BKN,,PRA,15+,8,0.75,23.8
 Obi Toppin,F,IND,BKN,,PR,10+,8,0.85,21.8
 Pascal Siakam,F,IND,BKN,,REB,3+,8,0.95,6.6

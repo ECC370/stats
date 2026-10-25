@@ -244,6 +244,8 @@ ALL|ALL|Safest|A to C|88,C,Danny Wolf,BKN vs IND,Over 4.5 reb+ast,RA,8.2,9 of 10
 ALL|ALL|Safest|A to C|89,C,Danny Wolf,BKN vs IND,Over 1.5 assists,AST,2.6,9 of 10,17 of 20,Mid (18th),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.23,Danny Wolf,2,Safest,
 ALL|ALL|Safest|A to C|90,C,Kentavious Caldwell-Pope,PHI vs DET,Over 1.5 rebounds,REB,2.6,9 of 10,17 of 20,Tough (6th),1.34,tough matchup; B2B 3in4,Defense 4 of 30,0.795,0.25,Kentavious Caldwell-Pope,2,Safest,DET at PHI|ALL|Safest|A to C|11
 ALL|ALL|Safest|A to C|91,C,Terance Mann,BKN vs IND,Over 3.5 points,PTS,6.3,9 of 10,17 of 20,Mid (21st),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.37,Terance Mann,4,Safest,
+ALL|ALL|Safest|A to C|92,C,LeBron James,PHI vs DET,Over 24.5 pts+reb+ast,PRA,36.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.31,LeBron James,25,Safest,DET at PHI|ALL|Safest|A to C|12
+ALL|ALL|Safest|A to C|93,C,LeBron James,PHI vs DET,Over 13.5 points,PTS,21.4,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.34,LeBron James,14,Safest,
 ALL|AST|Safest|A to C|1,A,Scotty Pippen Jr.,MEM at SAC,Over 2.5 assists,AST,4.6,10 of 10,12 of 12,Mid (22nd),1.22,,Defense 22 of 30,1.0,0.35,Scotty Pippen Jr.,3,Safest,MEM at SAC|AST|Safest|A to C|1
 ALL|AST|Safest|A to C|2,B,Domantas Sabonis,SAC vs MEM,Over 2.5 assists,AST,4.8,9 of 10,18 of 20,Mid (21st),1.31,,Defense 28 of 30,0.9,0.37,Domantas Sabonis,3,Safest,MEM at SAC|AST|Safest|A to C|2
 ALL|AST|Safest|A to C|3,B,Darius Garland,LAC at OKC,Over 3.5 assists,AST,6.5,9 of 10,19 of 20,Mid (13th),1.27,"big spread, game script risk",Defense 9 of 30,0.885,0.38,Darius Garland,4,Safest,LAC at OKC|AST|Safest|A to C|1
@@ -255,6 +257,7 @@ ALL|AST|Safest|A to C|8,C,Josh Hart,NY vs ORL,Over 2.5 assists,AST,4.5,9 of 10,1
 ALL|AST|Safest|A to C|9,C,Egor Demin,BKN vs IND,Over 1.5 assists,AST,3.0,9 of 10,17 of 20,Mid (15th),1.34,B2B,Defense 21 of 30,0.835,0.34,Egor Demin,2,Safest,IND at BKN|AST|Safest|A to C|1
 ALL|AST|Safest|A to C|10,C,Danny Wolf,BKN vs IND,Over 1.5 assists,AST,2.6,9 of 10,17 of 20,Mid (18th),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.23,Danny Wolf,2,Safest,IND at BKN|AST|Safest|A to C|2
 ALL|AST|Safest|A to C|11,C,Tyrese Maxey,PHI vs DET,Over 3.5 assists,AST,5.3,9 of 10,17 of 20,Tough (1st),1.34,tough matchup; B2B 3in4,Defense 4 of 30,0.795,0.25,Tyrese Maxey,4,Safest,DET at PHI|AST|Safest|A to C|2
+ALL|AST|Safest|A to C|12,C,LeBron James,PHI vs DET,Over 4.5 assists,AST,7.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.36,LeBron James,5,Safest,DET at PHI|AST|Safest|A to C|3
 ALL|PA|Safest|A to C|1,A,Scotty Pippen Jr.,MEM at SAC,Over 9.5 pts+ast,PA,15.5,10 of 10,12 of 12,Soft (23rd),1.22,,Defense 22 of 30,1.05,0.35,Scotty Pippen Jr.,10,Safest,MEM at SAC|PA|Safest|A to C|1
 ALL|PA|Safest|A to C|2,A,Jalen Brunson,NY vs ORL,Over 19.5 pts+ast,PA,33.2,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.4,Jalen Brunson,20,Safest,ORL at NY|PA|Safest|A to C|1
 ALL|PA|Safest|A to C|3,A,Ivica Zubac,IND at BKN,Over 9.5 pts+ast,PA,14.2,10 of 10,19 of 20,Mid (17th),1.22,,Defense 19 of 30,0.975,0.3,Ivica Zubac,10,Safest,IND at BKN|PA|Safest|A to C|1
@@ -272,6 +275,7 @@ ALL|PA|Safest|A to C|14,C,Jaylen Brown,PHI vs DET,Over 19.5 pts+ast,PA,31.9,10 o
 ALL|PA|Safest|A to C|15,C,Cedric Coward,MEM at SAC,Over 9.5 pts+ast,PA,14.9,9 of 10,17 of 20,Soft (23rd),1.34,questionable,Defense 22 of 30,0.885,0.33,Cedric Coward,10,Safest,MEM at SAC|PA|Safest|A to C|4
 ALL|PA|Safest|A to C|16,C,Tyrese Maxey,PHI vs DET,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup; B2B 3in4,Defense 4 of 30,0.845,0.33,Tyrese Maxey,20,Safest,DET at PHI|PA|Safest|A to C|4
 ALL|PA|Safest|A to C|17,C,Darius Garland,LAC at OKC,Over 19.5 pts+ast,PA,28.0,9 of 10,18 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 9 of 30,0.82,0.29,Darius Garland,20,Safest,LAC at OKC|PA|Safest|A to C|1
+ALL|PA|Safest|A to C|18,C,LeBron James,PHI vs DET,Over 19.5 pts+ast,PA,29.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.32,LeBron James,20,Safest,DET at PHI|PA|Safest|A to C|5
 ALL|PR|Safest|A to C|1,A,Kawhi Leonard,TOR at MIN,Over 24.5 pts+reb,PR,33.0,10 of 10,20 of 20,Mid (13th),1.22,,Defense 15 of 30,1.0,0.24,Kawhi Leonard,25,Safest,TOR at MIN|PR|Safest|A to C|1
 ALL|PR|Safest|A to C|2,A,RJ Barrett,TOR at MIN,Over 19.5 pts+reb,PR,27.8,10 of 10,19 of 20,Mid (13th),1.22,,Defense 15 of 30,0.975,0.28,RJ Barrett,20,Safest,TOR at MIN|PR|Safest|A to C|2
 ALL|PR|Safest|A to C|3,A,OG Anunoby,NY vs ORL,Over 14.5 pts+reb,PR,24.5,10 of 10,19 of 20,Mid (12th),1.22,,Defense 4 of 30,0.975,0.39,OG Anunoby,15,Safest,ORL at NY|PR|Safest|A to C|1
@@ -294,6 +298,7 @@ ALL|PR|Safest|A to C|19,C,Duncan Robinson,DET at PHI,Over 9.5 pts+reb,PR,15.6,9 
 ALL|PR|Safest|A to C|20,C,Darius Garland,LAC at OKC,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,"tough matchup; big spread, game script risk",Defense 9 of 30,0.82,0.37,Darius Garland,15,Safest,LAC at OKC|PR|Safest|A to C|3
 ALL|PR|Safest|A to C|21,C,Blake Hinson,UTAH vs LAL,Over 9.5 pts+reb,PR,14.3,9 of 10,12 of 14,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 10 of 30,0.799,0.3,Blake Hinson,10,Safest,LAL at UTAH|PR|Safest|A to C|4
 ALL|PR|Safest|A to C|22,C,Danny Wolf,BKN vs IND,Over 9.5 pts+reb,PR,15.9,9 of 10,17 of 20,Mid (21st),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.37,Danny Wolf,10,Safest,IND at BKN|PR|Safest|A to C|2
+ALL|PR|Safest|A to C|23,C,LeBron James,PHI vs DET,Over 19.5 pts+reb,PR,28.4,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.755,0.29,LeBron James,20,Safest,DET at PHI|PR|Safest|A to C|3
 ALL|PRA|Safest|A to C|1,A,Ivica Zubac,IND at BKN,Over 14.5 pts+reb+ast,PRA,24.4,10 of 10,20 of 20,Mid (17th),1.22,,Defense 19 of 30,1.0,0.39,Ivica Zubac,15,Safest,IND at BKN|PRA|Safest|A to C|1
 ALL|PRA|Safest|A to C|2,B,Rui Hachimura,LAC at OKC,Over 14.5 pts+reb+ast,PRA,21.6,10 of 10,19 of 20,Soft (24th),1.22,"big spread, game script risk",Defense 9 of 30,0.985,0.3,Rui Hachimura,15,Safest,LAC at OKC|PRA|Safest|A to C|1
 ALL|PRA|Safest|A to C|3,B,Luka Doncic,LAL at UTAH,Over 34.5 pts+reb+ast,PRA,49.4,9 of 10,19 of 20,Soft (30th),1.27,,Defense 30 of 30,0.975,0.29,Luka Doncic,35,Safest,LAL at UTAH|PRA|Safest|A to C|1
@@ -325,6 +330,7 @@ ALL|PRA|Safest|A to C|28,C,Jaylen Brown,PHI vs DET,Over 24.5 pts+reb+ast,PRA,38.
 ALL|PRA|Safest|A to C|29,C,Cedric Coward,MEM at SAC,Over 14.5 pts+reb+ast,PRA,19.9,9 of 10,17 of 20,Mid (21st),1.34,questionable,Defense 22 of 30,0.835,0.25,Cedric Coward,15,Safest,MEM at SAC|PRA|Safest|A to C|6
 ALL|PRA|Safest|A to C|30,C,Michael Porter Jr.,BKN vs IND,Over 19.5 pts+reb+ast,PRA,31.9,9 of 10,17 of 20,Mid (20th),1.34,B2B,Defense 21 of 30,0.835,0.37,Michael Porter Jr.,20,Safest,IND at BKN|PRA|Safest|A to C|4
 ALL|PRA|Safest|A to C|31,C,Desmond Bane,ORL at NY,Over 14.5 pts+reb+ast,PRA,24.4,9 of 10,17 of 20,Tough (5th),1.34,tough matchup,Defense 1 of 30,0.835,0.39,Desmond Bane,15,Safest,ORL at NY|PRA|Safest|A to C|5
+ALL|PRA|Safest|A to C|32,C,LeBron James,PHI vs DET,Over 24.5 pts+reb+ast,PRA,36.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.31,LeBron James,25,Safest,DET at PHI|PRA|Safest|A to C|4
 ALL|PTS|Safest|A to C|1,A,Ivica Zubac,IND at BKN,Over 7.5 points,PTS,12.6,10 of 10,19 of 20,Mid (18th),1.22,,Defense 19 of 30,0.975,0.36,Ivica Zubac,8,Safest,IND at BKN|PTS|Safest|A to C|1
 ALL|PTS|Safest|A to C|2,B,Luka Doncic,LAL at UTAH,Over 22.5 points,PTS,34.5,9 of 10,19 of 20,Soft (30th),1.27,,Defense 30 of 30,0.975,0.33,Luka Doncic,23,Safest,LAL at UTAH|PTS|Safest|A to C|1
 ALL|PTS|Safest|A to C|3,B,Jaden McDaniels,MIN vs TOR,Over 11.5 points,PTS,16.1,10 of 10,20 of 20,Tough (2nd),1.22,tough matchup,Defense 7 of 30,0.96,0.26,Jaden McDaniels,12,Safest,TOR at MIN|PTS|Safest|A to C|1
@@ -359,6 +365,7 @@ ALL|PTS|Safest|A to C|31,C,Tyrese Maxey,PHI vs DET,Over 16.5 points,PTS,24.6,9 o
 ALL|PTS|Safest|A to C|32,C,VJ Edgecombe,PHI vs DET,Over 8.5 points,PTS,14.4,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; B2B 3in4,Defense 4 of 30,0.82,0.38,VJ Edgecombe,9,Safest,DET at PHI|PTS|Safest|A to C|4
 ALL|PTS|Safest|A to C|33,C,Blake Hinson,UTAH vs LAL,Over 7.5 points,PTS,11.9,9 of 10,12 of 14,Tough (3rd),1.34,"tough matchup; last season stats, check roster",Defense 10 of 30,0.799,0.33,Blake Hinson,8,Safest,
 ALL|PTS|Safest|A to C|34,C,Terance Mann,BKN vs IND,Over 3.5 points,PTS,6.3,9 of 10,17 of 20,Mid (21st),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.37,Terance Mann,4,Safest,IND at BKN|PTS|Safest|A to C|4
+ALL|PTS|Safest|A to C|35,C,LeBron James,PHI vs DET,Over 13.5 points,PTS,21.4,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.34,LeBron James,14,Safest,DET at PHI|PTS|Safest|A to C|5
 ALL|RA|Safest|A to C|1,A,Luka Doncic,LAL at UTAH,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Soft (30th),1.22,,Defense 30 of 30,1.05,0.33,Luka Doncic,10,Safest,LAL at UTAH|RA|Safest|A to C|1
 ALL|RA|Safest|A to C|2,B,Josh Hart,NY vs ORL,Over 9.5 reb+ast,RA,13.5,10 of 10,18 of 20,Mid (17th),1.24,,Defense 4 of 30,0.95,0.26,Josh Hart,10,Safest,ORL at NY|RA|Safest|A to C|1
 ALL|RA|Safest|A to C|3,B,OG Anunoby,NY vs ORL,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Mid (13th),1.31,,Defense 4 of 30,0.9,0.38,OG Anunoby,5,Safest,ORL at NY|RA|Safest|A to C|2
@@ -367,6 +374,7 @@ ALL|RA|Safest|A to C|5,C,Jakob Poeltl,TOR at MIN,Over 4.5 reb+ast,RA,7.3,10 of 1
 ALL|RA|Safest|A to C|6,C,Jaren Jackson Jr.,UTAH vs LAL,Over 4.5 reb+ast,RA,8.1,10 of 10,17 of 20,Tough (5th),1.27,tough matchup,Defense 10 of 30,0.885,0.38,Jaren Jackson Jr.,5,Safest,LAL at UTAH|RA|Safest|A to C|2
 ALL|RA|Safest|A to C|7,C,Ben Saraf,BKN vs IND,Over 4.5 reb+ast,RA,6.8,10 of 10,17 of 20,Mid (13th),1.27,"B2B; last season stats, check roster",Defense 21 of 30,0.845,0.26,Ben Saraf,5,Safest,IND at BKN|RA|Safest|A to C|1
 ALL|RA|Safest|A to C|8,C,Danny Wolf,BKN vs IND,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (18th),1.31,"B2B; last season stats, check roster",Defense 21 of 30,0.82,0.39,Danny Wolf,5,Safest,IND at BKN|RA|Safest|A to C|2
+ALL|RA|Safest|A to C|9,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Safest,DET at PHI|RA|Safest|A to C|1
 ALL|REB|Safest|A to C|1,B,Luka Doncic,LAL at UTAH,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (28th),1.27,,Defense 30 of 30,0.975,0.34,Luka Doncic,5,Safest,LAL at UTAH|REB|Safest|A to C|1
 ALL|REB|Safest|A to C|2,B,Day'Ron Sharpe,BKN vs IND,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (23rd),1.27,B2B,Defense 21 of 30,0.935,0.34,Day'Ron Sharpe,5,Safest,IND at BKN|REB|Safest|A to C|1
 ALL|REB|Safest|A to C|3,B,Brice Sensabaugh,UTAH vs LAL,Over 1.5 rebounds,REB,3.3,10 of 10,19 of 20,Tough (8th),1.22,tough matchup,Defense 10 of 30,0.935,0.39,Brice Sensabaugh,2,Safest,LAL at UTAH|REB|Safest|A to C|2
@@ -482,6 +490,8 @@ ALL|ALL|Safest|All|88,C,Danny Wolf,BKN vs IND,Over 4.5 reb+ast,RA,8.2,9 of 10,18
 ALL|ALL|Safest|All|89,C,Danny Wolf,BKN vs IND,Over 1.5 assists,AST,2.6,9 of 10,17 of 20,Mid (18th),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.23,Danny Wolf,2,Safest,
 ALL|ALL|Safest|All|90,C,Kentavious Caldwell-Pope,PHI vs DET,Over 1.5 rebounds,REB,2.6,9 of 10,17 of 20,Tough (6th),1.34,tough matchup; B2B 3in4,Defense 4 of 30,0.795,0.25,Kentavious Caldwell-Pope,2,Safest,DET at PHI|ALL|Safest|All|11
 ALL|ALL|Safest|All|91,C,Terance Mann,BKN vs IND,Over 3.5 points,PTS,6.3,9 of 10,17 of 20,Mid (21st),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.37,Terance Mann,4,Safest,
+ALL|ALL|Safest|All|92,C,LeBron James,PHI vs DET,Over 24.5 pts+reb+ast,PRA,36.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.31,LeBron James,25,Safest,DET at PHI|ALL|Safest|All|12
+ALL|ALL|Safest|All|93,C,LeBron James,PHI vs DET,Over 13.5 points,PTS,21.4,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.34,LeBron James,14,Safest,
 ALL|AST|Safest|All|1,A,Scotty Pippen Jr.,MEM at SAC,Over 2.5 assists,AST,4.6,10 of 10,12 of 12,Mid (22nd),1.22,,Defense 22 of 30,1.0,0.35,Scotty Pippen Jr.,3,Safest,MEM at SAC|AST|Safest|All|1
 ALL|AST|Safest|All|2,B,Domantas Sabonis,SAC vs MEM,Over 2.5 assists,AST,4.8,9 of 10,18 of 20,Mid (21st),1.31,,Defense 28 of 30,0.9,0.37,Domantas Sabonis,3,Safest,MEM at SAC|AST|Safest|All|2
 ALL|AST|Safest|All|3,B,Darius Garland,LAC at OKC,Over 3.5 assists,AST,6.5,9 of 10,19 of 20,Mid (13th),1.27,"big spread, game script risk",Defense 9 of 30,0.885,0.38,Darius Garland,4,Safest,LAC at OKC|AST|Safest|All|1
@@ -493,6 +503,7 @@ ALL|AST|Safest|All|8,C,Josh Hart,NY vs ORL,Over 2.5 assists,AST,4.5,9 of 10,17 o
 ALL|AST|Safest|All|9,C,Egor Demin,BKN vs IND,Over 1.5 assists,AST,3.0,9 of 10,17 of 20,Mid (15th),1.34,B2B,Defense 21 of 30,0.835,0.34,Egor Demin,2,Safest,IND at BKN|AST|Safest|All|1
 ALL|AST|Safest|All|10,C,Danny Wolf,BKN vs IND,Over 1.5 assists,AST,2.6,9 of 10,17 of 20,Mid (18th),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.23,Danny Wolf,2,Safest,IND at BKN|AST|Safest|All|2
 ALL|AST|Safest|All|11,C,Tyrese Maxey,PHI vs DET,Over 3.5 assists,AST,5.3,9 of 10,17 of 20,Tough (1st),1.34,tough matchup; B2B 3in4,Defense 4 of 30,0.795,0.25,Tyrese Maxey,4,Safest,DET at PHI|AST|Safest|All|2
+ALL|AST|Safest|All|12,C,LeBron James,PHI vs DET,Over 4.5 assists,AST,7.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.36,LeBron James,5,Safest,DET at PHI|AST|Safest|All|3
 ALL|PA|Safest|All|1,A,Scotty Pippen Jr.,MEM at SAC,Over 9.5 pts+ast,PA,15.5,10 of 10,12 of 12,Soft (23rd),1.22,,Defense 22 of 30,1.05,0.35,Scotty Pippen Jr.,10,Safest,MEM at SAC|PA|Safest|All|1
 ALL|PA|Safest|All|2,A,Jalen Brunson,NY vs ORL,Over 19.5 pts+ast,PA,33.2,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.4,Jalen Brunson,20,Safest,ORL at NY|PA|Safest|All|1
 ALL|PA|Safest|All|3,A,Ivica Zubac,IND at BKN,Over 9.5 pts+ast,PA,14.2,10 of 10,19 of 20,Mid (17th),1.22,,Defense 19 of 30,0.975,0.3,Ivica Zubac,10,Safest,IND at BKN|PA|Safest|All|1
@@ -510,6 +521,7 @@ ALL|PA|Safest|All|14,C,Jaylen Brown,PHI vs DET,Over 19.5 pts+ast,PA,31.9,10 of 1
 ALL|PA|Safest|All|15,C,Cedric Coward,MEM at SAC,Over 9.5 pts+ast,PA,14.9,9 of 10,17 of 20,Soft (23rd),1.34,questionable,Defense 22 of 30,0.885,0.33,Cedric Coward,10,Safest,MEM at SAC|PA|Safest|All|4
 ALL|PA|Safest|All|16,C,Tyrese Maxey,PHI vs DET,Over 19.5 pts+ast,PA,29.9,9 of 10,19 of 20,Tough (3rd),1.27,tough matchup; B2B 3in4,Defense 4 of 30,0.845,0.33,Tyrese Maxey,20,Safest,DET at PHI|PA|Safest|All|4
 ALL|PA|Safest|All|17,C,Darius Garland,LAC at OKC,Over 19.5 pts+ast,PA,28.0,9 of 10,18 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 9 of 30,0.82,0.29,Darius Garland,20,Safest,LAC at OKC|PA|Safest|All|1
+ALL|PA|Safest|All|18,C,LeBron James,PHI vs DET,Over 19.5 pts+ast,PA,29.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.32,LeBron James,20,Safest,DET at PHI|PA|Safest|All|5
 ALL|PR|Safest|All|1,A,Kawhi Leonard,TOR at MIN,Over 24.5 pts+reb,PR,33.0,10 of 10,20 of 20,Mid (13th),1.22,,Defense 15 of 30,1.0,0.24,Kawhi Leonard,25,Safest,TOR at MIN|PR|Safest|All|1
 ALL|PR|Safest|All|2,A,RJ Barrett,TOR at MIN,Over 19.5 pts+reb,PR,27.8,10 of 10,19 of 20,Mid (13th),1.22,,Defense 15 of 30,0.975,0.28,RJ Barrett,20,Safest,TOR at MIN|PR|Safest|All|2
 ALL|PR|Safest|All|3,A,OG Anunoby,NY vs ORL,Over 14.5 pts+reb,PR,24.5,10 of 10,19 of 20,Mid (12th),1.22,,Defense 4 of 30,0.975,0.39,OG Anunoby,15,Safest,ORL at NY|PR|Safest|All|1
@@ -532,6 +544,7 @@ ALL|PR|Safest|All|19,C,Duncan Robinson,DET at PHI,Over 9.5 pts+reb,PR,15.6,9 of 
 ALL|PR|Safest|All|20,C,Darius Garland,LAC at OKC,Over 14.5 pts+reb,PR,23.8,9 of 10,18 of 20,Tough (8th),1.31,"tough matchup; big spread, game script risk",Defense 9 of 30,0.82,0.37,Darius Garland,15,Safest,LAC at OKC|PR|Safest|All|3
 ALL|PR|Safest|All|21,C,Blake Hinson,UTAH vs LAL,Over 9.5 pts+reb,PR,14.3,9 of 10,12 of 14,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 10 of 30,0.799,0.3,Blake Hinson,10,Safest,LAL at UTAH|PR|Safest|All|4
 ALL|PR|Safest|All|22,C,Danny Wolf,BKN vs IND,Over 9.5 pts+reb,PR,15.9,9 of 10,17 of 20,Mid (21st),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.37,Danny Wolf,10,Safest,IND at BKN|PR|Safest|All|2
+ALL|PR|Safest|All|23,C,LeBron James,PHI vs DET,Over 19.5 pts+reb,PR,28.4,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.755,0.29,LeBron James,20,Safest,DET at PHI|PR|Safest|All|3
 ALL|PRA|Safest|All|1,A,Ivica Zubac,IND at BKN,Over 14.5 pts+reb+ast,PRA,24.4,10 of 10,20 of 20,Mid (17th),1.22,,Defense 19 of 30,1.0,0.39,Ivica Zubac,15,Safest,IND at BKN|PRA|Safest|All|1
 ALL|PRA|Safest|All|2,B,Rui Hachimura,LAC at OKC,Over 14.5 pts+reb+ast,PRA,21.6,10 of 10,19 of 20,Soft (24th),1.22,"big spread, game script risk",Defense 9 of 30,0.985,0.3,Rui Hachimura,15,Safest,LAC at OKC|PRA|Safest|All|1
 ALL|PRA|Safest|All|3,B,Luka Doncic,LAL at UTAH,Over 34.5 pts+reb+ast,PRA,49.4,9 of 10,19 of 20,Soft (30th),1.27,,Defense 30 of 30,0.975,0.29,Luka Doncic,35,Safest,LAL at UTAH|PRA|Safest|All|1
@@ -563,6 +576,7 @@ ALL|PRA|Safest|All|28,C,Jaylen Brown,PHI vs DET,Over 24.5 pts+reb+ast,PRA,38.0,9
 ALL|PRA|Safest|All|29,C,Cedric Coward,MEM at SAC,Over 14.5 pts+reb+ast,PRA,19.9,9 of 10,17 of 20,Mid (21st),1.34,questionable,Defense 22 of 30,0.835,0.25,Cedric Coward,15,Safest,MEM at SAC|PRA|Safest|All|6
 ALL|PRA|Safest|All|30,C,Michael Porter Jr.,BKN vs IND,Over 19.5 pts+reb+ast,PRA,31.9,9 of 10,17 of 20,Mid (20th),1.34,B2B,Defense 21 of 30,0.835,0.37,Michael Porter Jr.,20,Safest,IND at BKN|PRA|Safest|All|4
 ALL|PRA|Safest|All|31,C,Desmond Bane,ORL at NY,Over 14.5 pts+reb+ast,PRA,24.4,9 of 10,17 of 20,Tough (5th),1.34,tough matchup,Defense 1 of 30,0.835,0.39,Desmond Bane,15,Safest,ORL at NY|PRA|Safest|All|5
+ALL|PRA|Safest|All|32,C,LeBron James,PHI vs DET,Over 24.5 pts+reb+ast,PRA,36.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.31,LeBron James,25,Safest,DET at PHI|PRA|Safest|All|4
 ALL|PTS|Safest|All|1,A,Ivica Zubac,IND at BKN,Over 7.5 points,PTS,12.6,10 of 10,19 of 20,Mid (18th),1.22,,Defense 19 of 30,0.975,0.36,Ivica Zubac,8,Safest,IND at BKN|PTS|Safest|All|1
 ALL|PTS|Safest|All|2,B,Luka Doncic,LAL at UTAH,Over 22.5 points,PTS,34.5,9 of 10,19 of 20,Soft (30th),1.27,,Defense 30 of 30,0.975,0.33,Luka Doncic,23,Safest,LAL at UTAH|PTS|Safest|All|1
 ALL|PTS|Safest|All|3,B,Jaden McDaniels,MIN vs TOR,Over 11.5 points,PTS,16.1,10 of 10,20 of 20,Tough (2nd),1.22,tough matchup,Defense 7 of 30,0.96,0.26,Jaden McDaniels,12,Safest,TOR at MIN|PTS|Safest|All|1
@@ -597,6 +611,7 @@ ALL|PTS|Safest|All|31,C,Tyrese Maxey,PHI vs DET,Over 16.5 points,PTS,24.6,9 of 1
 ALL|PTS|Safest|All|32,C,VJ Edgecombe,PHI vs DET,Over 8.5 points,PTS,14.4,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; B2B 3in4,Defense 4 of 30,0.82,0.38,VJ Edgecombe,9,Safest,DET at PHI|PTS|Safest|All|4
 ALL|PTS|Safest|All|33,C,Blake Hinson,UTAH vs LAL,Over 7.5 points,PTS,11.9,9 of 10,12 of 14,Tough (3rd),1.34,"tough matchup; last season stats, check roster",Defense 10 of 30,0.799,0.33,Blake Hinson,8,Safest,
 ALL|PTS|Safest|All|34,C,Terance Mann,BKN vs IND,Over 3.5 points,PTS,6.3,9 of 10,17 of 20,Mid (21st),1.34,"B2B; last season stats, check roster",Defense 21 of 30,0.795,0.37,Terance Mann,4,Safest,IND at BKN|PTS|Safest|All|4
+ALL|PTS|Safest|All|35,C,LeBron James,PHI vs DET,Over 13.5 points,PTS,21.4,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.34,LeBron James,14,Safest,DET at PHI|PTS|Safest|All|5
 ALL|RA|Safest|All|1,A,Luka Doncic,LAL at UTAH,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Soft (30th),1.22,,Defense 30 of 30,1.05,0.33,Luka Doncic,10,Safest,LAL at UTAH|RA|Safest|All|1
 ALL|RA|Safest|All|2,B,Josh Hart,NY vs ORL,Over 9.5 reb+ast,RA,13.5,10 of 10,18 of 20,Mid (17th),1.24,,Defense 4 of 30,0.95,0.26,Josh Hart,10,Safest,ORL at NY|RA|Safest|All|1
 ALL|RA|Safest|All|3,B,OG Anunoby,NY vs ORL,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Mid (13th),1.31,,Defense 4 of 30,0.9,0.38,OG Anunoby,5,Safest,ORL at NY|RA|Safest|All|2
@@ -605,6 +620,7 @@ ALL|RA|Safest|All|5,C,Jakob Poeltl,TOR at MIN,Over 4.5 reb+ast,RA,7.3,10 of 10,1
 ALL|RA|Safest|All|6,C,Jaren Jackson Jr.,UTAH vs LAL,Over 4.5 reb+ast,RA,8.1,10 of 10,17 of 20,Tough (5th),1.27,tough matchup,Defense 10 of 30,0.885,0.38,Jaren Jackson Jr.,5,Safest,LAL at UTAH|RA|Safest|All|2
 ALL|RA|Safest|All|7,C,Ben Saraf,BKN vs IND,Over 4.5 reb+ast,RA,6.8,10 of 10,17 of 20,Mid (13th),1.27,"B2B; last season stats, check roster",Defense 21 of 30,0.845,0.26,Ben Saraf,5,Safest,IND at BKN|RA|Safest|All|1
 ALL|RA|Safest|All|8,C,Danny Wolf,BKN vs IND,Over 4.5 reb+ast,RA,8.2,9 of 10,18 of 20,Mid (18th),1.31,"B2B; last season stats, check roster",Defense 21 of 30,0.82,0.39,Danny Wolf,5,Safest,IND at BKN|RA|Safest|All|2
+ALL|RA|Safest|All|9,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Safest,DET at PHI|RA|Safest|All|1
 ALL|REB|Safest|All|1,B,Luka Doncic,LAL at UTAH,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (28th),1.27,,Defense 30 of 30,0.975,0.34,Luka Doncic,5,Safest,LAL at UTAH|REB|Safest|All|1
 ALL|REB|Safest|All|2,B,Day'Ron Sharpe,BKN vs IND,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (23rd),1.27,B2B,Defense 21 of 30,0.935,0.34,Day'Ron Sharpe,5,Safest,IND at BKN|REB|Safest|All|1
 ALL|REB|Safest|All|3,B,Brice Sensabaugh,UTAH vs LAL,Over 1.5 rebounds,REB,3.3,10 of 10,19 of 20,Tough (8th),1.22,tough matchup,Defense 10 of 30,0.935,0.39,Brice Sensabaugh,2,Safest,LAL at UTAH|REB|Safest|All|2
@@ -942,6 +958,7 @@ ALL|AST|Balanced|A to C|27,C,Kris Dunn,LAC at OKC,Over 2.5 assists,AST,3.9,8 of 
 ALL|AST|Balanced|A to C|28,C,Immanuel Quickley,TOR at MIN,Over 3.5 assists,AST,5.7,8 of 10,15 of 20,Tough (8th),1.52,tough matchup,Defense 15 of 30,0.735,0.29,Immanuel Quickley,4,Balanced,
 ALL|AST|Balanced|A to C|29,C,Brice Sensabaugh,UTAH vs LAL,Over 1.5 assists,AST,2.9,8 of 10,15 of 20,Tough (4th),1.52,tough matchup,Defense 10 of 30,0.735,0.31,Brice Sensabaugh,2,Balanced,LAL at UTAH|AST|Balanced|A to C|4
 ALL|AST|Balanced|A to C|30,C,Kam Jones,IND at BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (21st),1.52,"last season stats, check roster",Defense 19 of 30,0.735,0.39,Kam Jones,3,Balanced,IND at BKN|AST|Balanced|A to C|5
+ALL|AST|Balanced|A to C|31,C,LeBron James,PHI vs DET,Over 5.5 assists,AST,7.8,8 of 10,17 of 20,Tough (6th),1.43,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.705,0.24,LeBron James,6,Balanced,DET at PHI|AST|Balanced|A to C|6
 ALL|BLK|Balanced|A to C|1,C,Isaiah Jackson,LAC at OKC,Over 0.5 blocks,BLK,1.1,8 of 10,15 of 20,Soft (30th),1.52,"big spread, game script risk",Defense 9 of 30,0.785,0.09,Isaiah Jackson,1,Balanced,LAC at OKC|BLK|Balanced|A to C|1
 ALL|BLK|Balanced|A to C|2,C,Keegan Murray,SAC vs MEM,Over 0.5 blocks,BLK,1.6,8 of 10,15 of 20,Soft (27th),1.52,questionable,Defense 28 of 30,0.785,0.35,Keegan Murray,1,Balanced,MEM at SAC|BLK|Balanced|A to C|1
 ALL|PA|Balanced|A to C|1,A,Scotty Pippen Jr.,MEM at SAC,Over 9.5 pts+ast,PA,15.5,10 of 10,12 of 12,Soft (23rd),1.22,,Defense 22 of 30,1.05,0.35,Scotty Pippen Jr.,10,Balanced,MEM at SAC|PA|Balanced|A to C|1
@@ -982,11 +999,10 @@ ALL|PA|Balanced|A to C|35,C,Obi Toppin,IND at BKN,Over 9.5 pts+ast,PA,15.4,8 of 
 ALL|PA|Balanced|A to C|36,C,Franz Wagner,ORL at NY,Over 14.5 pts+ast,PA,19.6,9 of 10,15 of 20,Tough (8th),1.43,tough matchup,Defense 1 of 30,0.785,0.23,Franz Wagner,15,Balanced,ORL at NY|PA|Balanced|A to C|5
 ALL|PA|Balanced|A to C|37,C,Wendell Carter Jr.,ORL at NY,Over 9.5 pts+ast,PA,13.9,9 of 10,15 of 20,Tough (2nd),1.43,tough matchup,Defense 1 of 30,0.785,0.28,Wendell Carter Jr.,10,Balanced,ORL at NY|PA|Balanced|A to C|6
 ALL|PA|Balanced|A to C|38,C,Aaron Nesmith,IND at BKN,Over 9.5 pts+ast,PA,15.4,9 of 10,15 of 20,Mid (14th),1.43,questionable,Defense 19 of 30,0.785,0.35,Aaron Nesmith,10,Balanced,IND at BKN|PA|Balanced|A to C|6
-ALL|PA|Balanced|A to C|39,C,Ben Saraf,BKN vs IND,Over 9.5 pts+ast,PA,14.4,9 of 10,16 of 20,Mid (20th),1.38,"B2B; last season stats, check roster",Defense 21 of 30,0.77,0.31,Ben Saraf,10,Balanced,
-ALL|PA|Balanced|A to C|40,C,Blake Hinson,UTAH vs LAL,Over 9.5 pts+ast,PA,13.1,9 of 10,11 of 14,Tough (3rd),1.4,"tough matchup; last season stats, check roster",Defense 10 of 30,0.763,0.23,Blake Hinson,10,Balanced,
+ALL|PA|Balanced|A to C|39,C,LeBron James,PHI vs DET,Over 19.5 pts+ast,PA,29.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.32,LeBron James,20,Balanced,DET at PHI|PA|Balanced|A to C|5
+ALL|PA|Balanced|A to C|40,C,Ben Saraf,BKN vs IND,Over 9.5 pts+ast,PA,14.4,9 of 10,16 of 20,Mid (20th),1.38,"B2B; last season stats, check roster",Defense 21 of 30,0.77,0.31,Ben Saraf,10,Balanced,
 ,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 24.5 pts+ast,PA,34.0,8 of 10,16 of 20,Mid (10th),1.47,"big spread, game script risk",Defense 16 of 30,0.76,0.26,Shai Gilgeous-Alexander,25,Balanced,LAC at OKC|PA|Balanced|A to C|3
-,C,Jaylen Brown,PHI vs DET,Over 24.5 pts+ast,PA,31.9,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.22,Jaylen Brown,25,Balanced,DET at PHI|PA|Balanced|A to C|5
-,C,John Collins,DET at PHI,Over 9.5 pts+ast,PA,13.9,8 of 10,15 of 20,Tough (4th),1.52,tough matchup,Defense 11 of 30,0.735,0.28,John Collins,10,Balanced,DET at PHI|PA|Balanced|A to C|6
+,C,Jaylen Brown,PHI vs DET,Over 24.5 pts+ast,PA,31.9,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.22,Jaylen Brown,25,Balanced,DET at PHI|PA|Balanced|A to C|6
 ALL|PR|Balanced|A to C|1,A,Kawhi Leonard,TOR at MIN,Over 24.5 pts+reb,PR,33.0,10 of 10,20 of 20,Mid (13th),1.22,,Defense 15 of 30,1.0,0.24,Kawhi Leonard,25,Balanced,TOR at MIN|PR|Balanced|A to C|1
 ALL|PR|Balanced|A to C|2,A,OG Anunoby,NY vs ORL,Over 14.5 pts+reb,PR,24.5,10 of 10,19 of 20,Mid (12th),1.22,,Defense 4 of 30,0.975,0.39,OG Anunoby,15,Balanced,ORL at NY|PR|Balanced|A to C|1
 ALL|PR|Balanced|A to C|3,B,Ty Jerome,MEM at SAC,Over 14.5 pts+reb,PR,24.6,10 of 10,16 of 17,Mid (20th),1.22,,Defense 22 of 30,0.971,0.39,Ty Jerome,15,Balanced,MEM at SAC|PR|Balanced|A to C|1
@@ -1027,6 +1043,7 @@ ALL|PR|Balanced|A to C|37,C,Danny Wolf,BKN vs IND,Over 9.5 pts+reb,PR,15.9,9 of 
 ALL|PR|Balanced|A to C|38,C,Isaiah Hartenstein,OKC vs LAC,Over 9.5 pts+reb,PR,16.1,8 of 10,17 of 20,Mid (12th),1.43,"big spread, game script risk",Defense 16 of 30,0.785,0.38,Isaiah Hartenstein,10,Balanced,LAC at OKC|PR|Balanced|A to C|6
 ALL|PR|Balanced|A to C|39,C,Josh Hart,NY vs ORL,Over 14.5 pts+reb,PR,19.5,8 of 10,15 of 20,Mid (21st),1.52,,Defense 4 of 30,0.775,0.23,Josh Hart,15,Balanced,
 ALL|PR|Balanced|A to C|40,C,Brice Sensabaugh,UTAH vs LAL,Over 14.5 pts+reb,PR,23.2,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 10 of 30,0.76,0.35,Brice Sensabaugh,15,Balanced,
+,C,LeBron James,PHI vs DET,Over 19.5 pts+reb,PR,28.4,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.755,0.29,LeBron James,20,Balanced,DET at PHI|PR|Balanced|A to C|4
 ALL|PRA|Balanced|A to C|1,A,Ivica Zubac,IND at BKN,Over 14.5 pts+reb+ast,PRA,24.4,10 of 10,20 of 20,Mid (17th),1.22,,Defense 19 of 30,1.0,0.39,Ivica Zubac,15,Balanced,IND at BKN|PRA|Balanced|A to C|1
 ALL|PRA|Balanced|A to C|2,B,Rui Hachimura,LAC at OKC,Over 14.5 pts+reb+ast,PRA,21.6,10 of 10,19 of 20,Soft (24th),1.22,"big spread, game script risk",Defense 9 of 30,0.985,0.3,Rui Hachimura,15,Balanced,LAC at OKC|PRA|Balanced|A to C|1
 ALL|PRA|Balanced|A to C|3,B,Austin Reaves,LAL at UTAH,Over 19.5 pts+reb+ast,PRA,31.8,9 of 10,19 of 20,Soft (30th),1.27,,Defense 30 of 30,0.975,0.37,Austin Reaves,20,Balanced,LAL at UTAH|PRA|Balanced|A to C|1
@@ -1144,15 +1161,16 @@ ALL|RA|Balanced|A to C|17,C,Cam Spencer,MEM at SAC,Over 4.5 reb+ast,RA,7.1,8 of 
 ALL|RA|Balanced|A to C|18,C,Killian Hayes,SAC vs MEM,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Soft (29th),1.52,"last season stats, check roster",Defense 28 of 30,0.785,0.15,Killian Hayes,5,Balanced,MEM at SAC|RA|Balanced|A to C|4
 ALL|RA|Balanced|A to C|19,C,Cedric Coward,MEM at SAC,Over 4.5 reb+ast,RA,7.3,8 of 10,17 of 20,Mid (19th),1.43,questionable,Defense 22 of 30,0.785,0.32,Cedric Coward,5,Balanced,MEM at SAC|RA|Balanced|A to C|5
 ALL|RA|Balanced|A to C|20,C,Javon Small,MEM at SAC,Over 4.5 reb+ast,RA,8.1,8 of 10,17 of 20,Mid (11th),1.43,"last season stats, check roster",Defense 22 of 30,0.785,0.38,Javon Small,5,Balanced,MEM at SAC|RA|Balanced|A to C|6
-ALL|RA|Balanced|A to C|21,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Balanced,TOR at MIN|RA|Balanced|A to C|4
-ALL|RA|Balanced|A to C|22,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Balanced,IND at BKN|RA|Balanced|A to C|5
-ALL|RA|Balanced|A to C|23,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Balanced,TOR at MIN|RA|Balanced|A to C|5
-ALL|RA|Balanced|A to C|24,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Balanced,TOR at MIN|RA|Balanced|A to C|6
-ALL|RA|Balanced|A to C|25,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Balanced,ORL at NY|RA|Balanced|A to C|5
-ALL|RA|Balanced|A to C|26,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Balanced,LAL at UTAH|RA|Balanced|A to C|3
-ALL|RA|Balanced|A to C|27,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Balanced,LAC at OKC|RA|Balanced|A to C|1
-ALL|RA|Balanced|A to C|28,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Balanced,LAC at OKC|RA|Balanced|A to C|2
-ALL|RA|Balanced|A to C|29,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Balanced,LAC at OKC|RA|Balanced|A to C|3
+ALL|RA|Balanced|A to C|21,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Balanced,DET at PHI|RA|Balanced|A to C|2
+ALL|RA|Balanced|A to C|22,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Balanced,TOR at MIN|RA|Balanced|A to C|4
+ALL|RA|Balanced|A to C|23,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Balanced,IND at BKN|RA|Balanced|A to C|5
+ALL|RA|Balanced|A to C|24,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Balanced,TOR at MIN|RA|Balanced|A to C|5
+ALL|RA|Balanced|A to C|25,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Balanced,TOR at MIN|RA|Balanced|A to C|6
+ALL|RA|Balanced|A to C|26,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Balanced,ORL at NY|RA|Balanced|A to C|5
+ALL|RA|Balanced|A to C|27,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Balanced,LAL at UTAH|RA|Balanced|A to C|3
+ALL|RA|Balanced|A to C|28,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Balanced,LAC at OKC|RA|Balanced|A to C|1
+ALL|RA|Balanced|A to C|29,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Balanced,LAC at OKC|RA|Balanced|A to C|2
+ALL|RA|Balanced|A to C|30,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Balanced,LAC at OKC|RA|Balanced|A to C|3
 ALL|REB|Balanced|A to C|1,B,Luka Doncic,LAL at UTAH,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (28th),1.27,,Defense 30 of 30,0.975,0.34,Luka Doncic,5,Balanced,LAL at UTAH|REB|Balanced|A to C|1
 ALL|REB|Balanced|A to C|2,B,Day'Ron Sharpe,BKN vs IND,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (23rd),1.27,B2B,Defense 21 of 30,0.935,0.34,Day'Ron Sharpe,5,Balanced,IND at BKN|REB|Balanced|A to C|1
 ALL|REB|Balanced|A to C|3,B,Brice Sensabaugh,UTAH vs LAL,Over 1.5 rebounds,REB,3.3,10 of 10,19 of 20,Tough (8th),1.22,tough matchup,Defense 10 of 30,0.935,0.39,Brice Sensabaugh,2,Balanced,LAL at UTAH|REB|Balanced|A to C|2
@@ -1384,6 +1402,7 @@ ALL|AST|Balanced|All|27,C,Kris Dunn,LAC at OKC,Over 2.5 assists,AST,3.9,8 of 10,
 ALL|AST|Balanced|All|28,C,Immanuel Quickley,TOR at MIN,Over 3.5 assists,AST,5.7,8 of 10,15 of 20,Tough (8th),1.52,tough matchup,Defense 15 of 30,0.735,0.29,Immanuel Quickley,4,Balanced,
 ALL|AST|Balanced|All|29,C,Brice Sensabaugh,UTAH vs LAL,Over 1.5 assists,AST,2.9,8 of 10,15 of 20,Tough (4th),1.52,tough matchup,Defense 10 of 30,0.735,0.31,Brice Sensabaugh,2,Balanced,LAL at UTAH|AST|Balanced|All|4
 ALL|AST|Balanced|All|30,C,Kam Jones,IND at BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (21st),1.52,"last season stats, check roster",Defense 19 of 30,0.735,0.39,Kam Jones,3,Balanced,IND at BKN|AST|Balanced|All|5
+ALL|AST|Balanced|All|31,C,LeBron James,PHI vs DET,Over 5.5 assists,AST,7.8,8 of 10,17 of 20,Tough (6th),1.43,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.705,0.24,LeBron James,6,Balanced,DET at PHI|AST|Balanced|All|6
 ALL|BLK|Balanced|All|1,C,Isaiah Jackson,LAC at OKC,Over 0.5 blocks,BLK,1.1,8 of 10,15 of 20,Soft (30th),1.52,"big spread, game script risk",Defense 9 of 30,0.785,0.09,Isaiah Jackson,1,Balanced,LAC at OKC|BLK|Balanced|All|1
 ALL|BLK|Balanced|All|2,C,Keegan Murray,SAC vs MEM,Over 0.5 blocks,BLK,1.6,8 of 10,15 of 20,Soft (27th),1.52,questionable,Defense 28 of 30,0.785,0.35,Keegan Murray,1,Balanced,MEM at SAC|BLK|Balanced|All|1
 ALL|PA|Balanced|All|1,A,Scotty Pippen Jr.,MEM at SAC,Over 9.5 pts+ast,PA,15.5,10 of 10,12 of 12,Soft (23rd),1.22,,Defense 22 of 30,1.05,0.35,Scotty Pippen Jr.,10,Balanced,MEM at SAC|PA|Balanced|All|1
@@ -1424,11 +1443,10 @@ ALL|PA|Balanced|All|35,C,Obi Toppin,IND at BKN,Over 9.5 pts+ast,PA,15.4,8 of 10,
 ALL|PA|Balanced|All|36,C,Franz Wagner,ORL at NY,Over 14.5 pts+ast,PA,19.6,9 of 10,15 of 20,Tough (8th),1.43,tough matchup,Defense 1 of 30,0.785,0.23,Franz Wagner,15,Balanced,ORL at NY|PA|Balanced|All|5
 ALL|PA|Balanced|All|37,C,Wendell Carter Jr.,ORL at NY,Over 9.5 pts+ast,PA,13.9,9 of 10,15 of 20,Tough (2nd),1.43,tough matchup,Defense 1 of 30,0.785,0.28,Wendell Carter Jr.,10,Balanced,ORL at NY|PA|Balanced|All|6
 ALL|PA|Balanced|All|38,C,Aaron Nesmith,IND at BKN,Over 9.5 pts+ast,PA,15.4,9 of 10,15 of 20,Mid (14th),1.43,questionable,Defense 19 of 30,0.785,0.35,Aaron Nesmith,10,Balanced,IND at BKN|PA|Balanced|All|6
-ALL|PA|Balanced|All|39,C,Ben Saraf,BKN vs IND,Over 9.5 pts+ast,PA,14.4,9 of 10,16 of 20,Mid (20th),1.38,"B2B; last season stats, check roster",Defense 21 of 30,0.77,0.31,Ben Saraf,10,Balanced,
-ALL|PA|Balanced|All|40,C,Blake Hinson,UTAH vs LAL,Over 9.5 pts+ast,PA,13.1,9 of 10,11 of 14,Tough (3rd),1.4,"tough matchup; last season stats, check roster",Defense 10 of 30,0.763,0.23,Blake Hinson,10,Balanced,
+ALL|PA|Balanced|All|39,C,LeBron James,PHI vs DET,Over 19.5 pts+ast,PA,29.2,9 of 10,18 of 20,Tough (7th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.32,LeBron James,20,Balanced,DET at PHI|PA|Balanced|All|5
+ALL|PA|Balanced|All|40,C,Ben Saraf,BKN vs IND,Over 9.5 pts+ast,PA,14.4,9 of 10,16 of 20,Mid (20th),1.38,"B2B; last season stats, check roster",Defense 21 of 30,0.77,0.31,Ben Saraf,10,Balanced,
 ,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 24.5 pts+ast,PA,34.0,8 of 10,16 of 20,Mid (10th),1.47,"big spread, game script risk",Defense 16 of 30,0.76,0.26,Shai Gilgeous-Alexander,25,Balanced,LAC at OKC|PA|Balanced|All|3
-,C,Jaylen Brown,PHI vs DET,Over 24.5 pts+ast,PA,31.9,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.22,Jaylen Brown,25,Balanced,DET at PHI|PA|Balanced|All|5
-,C,John Collins,DET at PHI,Over 9.5 pts+ast,PA,13.9,8 of 10,15 of 20,Tough (4th),1.52,tough matchup,Defense 11 of 30,0.735,0.28,John Collins,10,Balanced,DET at PHI|PA|Balanced|All|6
+,C,Jaylen Brown,PHI vs DET,Over 24.5 pts+ast,PA,31.9,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.22,Jaylen Brown,25,Balanced,DET at PHI|PA|Balanced|All|6
 ALL|PR|Balanced|All|1,A,Kawhi Leonard,TOR at MIN,Over 24.5 pts+reb,PR,33.0,10 of 10,20 of 20,Mid (13th),1.22,,Defense 15 of 30,1.0,0.24,Kawhi Leonard,25,Balanced,TOR at MIN|PR|Balanced|All|1
 ALL|PR|Balanced|All|2,A,OG Anunoby,NY vs ORL,Over 14.5 pts+reb,PR,24.5,10 of 10,19 of 20,Mid (12th),1.22,,Defense 4 of 30,0.975,0.39,OG Anunoby,15,Balanced,ORL at NY|PR|Balanced|All|1
 ALL|PR|Balanced|All|3,B,Ty Jerome,MEM at SAC,Over 14.5 pts+reb,PR,24.6,10 of 10,16 of 17,Mid (20th),1.22,,Defense 22 of 30,0.971,0.39,Ty Jerome,15,Balanced,MEM at SAC|PR|Balanced|All|1
@@ -1469,6 +1487,7 @@ ALL|PR|Balanced|All|37,C,Danny Wolf,BKN vs IND,Over 9.5 pts+reb,PR,15.9,9 of 10,
 ALL|PR|Balanced|All|38,C,Isaiah Hartenstein,OKC vs LAC,Over 9.5 pts+reb,PR,16.1,8 of 10,17 of 20,Mid (12th),1.43,"big spread, game script risk",Defense 16 of 30,0.785,0.38,Isaiah Hartenstein,10,Balanced,LAC at OKC|PR|Balanced|All|6
 ALL|PR|Balanced|All|39,C,Josh Hart,NY vs ORL,Over 14.5 pts+reb,PR,19.5,8 of 10,15 of 20,Mid (21st),1.52,,Defense 4 of 30,0.775,0.23,Josh Hart,15,Balanced,
 ALL|PR|Balanced|All|40,C,Brice Sensabaugh,UTAH vs LAL,Over 14.5 pts+reb,PR,23.2,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 10 of 30,0.76,0.35,Brice Sensabaugh,15,Balanced,
+,C,LeBron James,PHI vs DET,Over 19.5 pts+reb,PR,28.4,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.755,0.29,LeBron James,20,Balanced,DET at PHI|PR|Balanced|All|4
 ALL|PRA|Balanced|All|1,A,Ivica Zubac,IND at BKN,Over 14.5 pts+reb+ast,PRA,24.4,10 of 10,20 of 20,Mid (17th),1.22,,Defense 19 of 30,1.0,0.39,Ivica Zubac,15,Balanced,IND at BKN|PRA|Balanced|All|1
 ALL|PRA|Balanced|All|2,B,Rui Hachimura,LAC at OKC,Over 14.5 pts+reb+ast,PRA,21.6,10 of 10,19 of 20,Soft (24th),1.22,"big spread, game script risk",Defense 9 of 30,0.985,0.3,Rui Hachimura,15,Balanced,LAC at OKC|PRA|Balanced|All|1
 ALL|PRA|Balanced|All|3,B,Austin Reaves,LAL at UTAH,Over 19.5 pts+reb+ast,PRA,31.8,9 of 10,19 of 20,Soft (30th),1.27,,Defense 30 of 30,0.975,0.37,Austin Reaves,20,Balanced,LAL at UTAH|PRA|Balanced|All|1
@@ -1586,15 +1605,16 @@ ALL|RA|Balanced|All|17,C,Cam Spencer,MEM at SAC,Over 4.5 reb+ast,RA,7.1,8 of 10,
 ALL|RA|Balanced|All|18,C,Killian Hayes,SAC vs MEM,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Soft (29th),1.52,"last season stats, check roster",Defense 28 of 30,0.785,0.15,Killian Hayes,5,Balanced,MEM at SAC|RA|Balanced|All|4
 ALL|RA|Balanced|All|19,C,Cedric Coward,MEM at SAC,Over 4.5 reb+ast,RA,7.3,8 of 10,17 of 20,Mid (19th),1.43,questionable,Defense 22 of 30,0.785,0.32,Cedric Coward,5,Balanced,MEM at SAC|RA|Balanced|All|5
 ALL|RA|Balanced|All|20,C,Javon Small,MEM at SAC,Over 4.5 reb+ast,RA,8.1,8 of 10,17 of 20,Mid (11th),1.43,"last season stats, check roster",Defense 22 of 30,0.785,0.38,Javon Small,5,Balanced,MEM at SAC|RA|Balanced|All|6
-ALL|RA|Balanced|All|21,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Balanced,TOR at MIN|RA|Balanced|All|4
-ALL|RA|Balanced|All|22,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Balanced,IND at BKN|RA|Balanced|All|5
-ALL|RA|Balanced|All|23,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Balanced,TOR at MIN|RA|Balanced|All|5
-ALL|RA|Balanced|All|24,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Balanced,TOR at MIN|RA|Balanced|All|6
-ALL|RA|Balanced|All|25,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Balanced,ORL at NY|RA|Balanced|All|5
-ALL|RA|Balanced|All|26,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Balanced,LAL at UTAH|RA|Balanced|All|3
-ALL|RA|Balanced|All|27,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Balanced,LAC at OKC|RA|Balanced|All|1
-ALL|RA|Balanced|All|28,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Balanced,LAC at OKC|RA|Balanced|All|2
-ALL|RA|Balanced|All|29,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Balanced,LAC at OKC|RA|Balanced|All|3
+ALL|RA|Balanced|All|21,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Balanced,DET at PHI|RA|Balanced|All|2
+ALL|RA|Balanced|All|22,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Balanced,TOR at MIN|RA|Balanced|All|4
+ALL|RA|Balanced|All|23,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Balanced,IND at BKN|RA|Balanced|All|5
+ALL|RA|Balanced|All|24,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Balanced,TOR at MIN|RA|Balanced|All|5
+ALL|RA|Balanced|All|25,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Balanced,TOR at MIN|RA|Balanced|All|6
+ALL|RA|Balanced|All|26,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Balanced,ORL at NY|RA|Balanced|All|5
+ALL|RA|Balanced|All|27,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Balanced,LAL at UTAH|RA|Balanced|All|3
+ALL|RA|Balanced|All|28,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Balanced,LAC at OKC|RA|Balanced|All|1
+ALL|RA|Balanced|All|29,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Balanced,LAC at OKC|RA|Balanced|All|2
+ALL|RA|Balanced|All|30,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Balanced,LAC at OKC|RA|Balanced|All|3
 ALL|REB|Balanced|All|1,B,Luka Doncic,LAL at UTAH,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (28th),1.27,,Defense 30 of 30,0.975,0.34,Luka Doncic,5,Balanced,LAL at UTAH|REB|Balanced|All|1
 ALL|REB|Balanced|All|2,B,Day'Ron Sharpe,BKN vs IND,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (23rd),1.27,B2B,Defense 21 of 30,0.935,0.34,Day'Ron Sharpe,5,Balanced,IND at BKN|REB|Balanced|All|1
 ALL|REB|Balanced|All|3,B,Brice Sensabaugh,UTAH vs LAL,Over 1.5 rebounds,REB,3.3,10 of 10,19 of 20,Tough (8th),1.22,tough matchup,Defense 10 of 30,0.935,0.39,Brice Sensabaugh,2,Balanced,LAL at UTAH|REB|Balanced|All|2
@@ -1905,11 +1925,11 @@ ALL|ALL|Reach|A to C|117,C,Cedric Coward,MEM at SAC,Over 0.5 threes,THREES,1.2,8
 ALL|ALL|Reach|A to C|118,C,Wendell Carter Jr.,ORL at NY,Over 9.5 pts+ast,PA,13.9,9 of 10,15 of 20,Tough (2nd),1.43,tough matchup,Defense 1 of 30,0.785,0.28,Wendell Carter Jr.,10,Reach,ORL at NY|ALL|Reach|A to C|12
 ALL|ALL|Reach|A to C|119,C,Olivier-Maxence Prosper,MEM at SAC,Over 2.5 rebounds,REB,4.5,9 of 10,15 of 20,Mid (12th),1.43,"last season stats, check roster",Defense 22 of 30,0.785,0.34,Olivier-Maxence Prosper,3,Reach,
 ALL|ALL|Reach|A to C|120,C,Aaron Nesmith,IND at BKN,Over 9.5 pts+ast,PA,15.4,9 of 10,15 of 20,Mid (14th),1.43,questionable,Defense 19 of 30,0.785,0.35,Aaron Nesmith,10,Reach,
-,C,Kevin Huerter,DET at PHI,Over 0.5 threes,THREES,1.3,8 of 10,15 of 20,Mid (19th),1.52,,Defense 11 of 30,0.775,0.23,Kevin Huerter,1,Reach,DET at PHI|ALL|Reach|A to C|8
-,C,Cade Cunningham,DET at PHI,Over 2.5 rebounds,REB,4.8,7 of 10,15 of 20,Soft (29th),1.62,,Defense 11 of 30,0.775,0.38,Cade Cunningham,3,Reach,DET at PHI|ALL|Reach|A to C|9
-,C,Duncan Robinson,DET at PHI,Over 2.5 threes,THREES,3.2,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 11 of 30,0.76,0.08,Duncan Robinson,3,Reach,DET at PHI|ALL|Reach|A to C|10
-,C,Dean Wade,PHI vs DET,Over 0.5 threes,THREES,1.1,8 of 10,17 of 20,Tough (5th),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.09,Dean Wade,1,Reach,DET at PHI|ALL|Reach|A to C|11
-,C,Kentavious Caldwell-Pope,PHI vs DET,Over 9.5 pts+reb+ast,PRA,12.8,9 of 10,15 of 20,Tough (3rd),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.22,Kentavious Caldwell-Pope,10,Reach,DET at PHI|ALL|Reach|A to C|12
+,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Reach,DET at PHI|ALL|Reach|A to C|8
+,C,Kevin Huerter,DET at PHI,Over 0.5 threes,THREES,1.3,8 of 10,15 of 20,Mid (19th),1.52,,Defense 11 of 30,0.775,0.23,Kevin Huerter,1,Reach,DET at PHI|ALL|Reach|A to C|9
+,C,Cade Cunningham,DET at PHI,Over 2.5 rebounds,REB,4.8,7 of 10,15 of 20,Soft (29th),1.62,,Defense 11 of 30,0.775,0.38,Cade Cunningham,3,Reach,DET at PHI|ALL|Reach|A to C|10
+,C,Duncan Robinson,DET at PHI,Over 2.5 threes,THREES,3.2,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 11 of 30,0.76,0.08,Duncan Robinson,3,Reach,DET at PHI|ALL|Reach|A to C|11
+,C,Dean Wade,PHI vs DET,Over 0.5 threes,THREES,1.1,8 of 10,17 of 20,Tough (5th),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.09,Dean Wade,1,Reach,DET at PHI|ALL|Reach|A to C|12
 ALL|AST|Reach|A to C|1,A,Scotty Pippen Jr.,MEM at SAC,Over 2.5 assists,AST,4.6,10 of 10,12 of 12,Mid (22nd),1.22,,Defense 22 of 30,1.0,0.35,Scotty Pippen Jr.,3,Reach,MEM at SAC|AST|Reach|A to C|1
 ALL|AST|Reach|A to C|2,B,Domantas Sabonis,SAC vs MEM,Over 2.5 assists,AST,4.8,9 of 10,18 of 20,Mid (21st),1.31,,Defense 28 of 30,0.9,0.37,Domantas Sabonis,3,Reach,MEM at SAC|AST|Reach|A to C|2
 ALL|AST|Reach|A to C|3,B,Darius Garland,LAC at OKC,Over 3.5 assists,AST,6.5,9 of 10,19 of 20,Mid (13th),1.27,"big spread, game script risk",Defense 9 of 30,0.885,0.38,Darius Garland,4,Reach,LAC at OKC|AST|Reach|A to C|1
@@ -1937,12 +1957,13 @@ ALL|AST|Reach|A to C|24,C,Cade Cunningham,DET at PHI,Over 5.5 assists,AST,7.8,7 
 ALL|AST|Reach|A to C|25,C,Jaden McDaniels,MIN vs TOR,Over 1.5 assists,AST,2.4,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 7 of 30,0.71,0.17,Jaden McDaniels,2,Reach,TOR at MIN|AST|Reach|A to C|6
 ALL|AST|Reach|A to C|26,C,Kyle Filipowski,UTAH vs LAL,Over 2.5 assists,AST,3.8,7 of 10,16 of 20,Tough (4th),1.57,tough matchup,Defense 10 of 30,0.71,0.2,Kyle Filipowski,3,Reach,LAL at UTAH|AST|Reach|A to C|5
 ALL|AST|Reach|A to C|27,C,Javon Small,MEM at SAC,Over 2.5 assists,AST,4.1,7 of 10,16 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 22 of 30,0.71,0.27,Javon Small,3,Reach,MEM at SAC|AST|Reach|A to C|4
-ALL|AST|Reach|A to C|28,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 6.5 assists,AST,7.6,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.08,Shai Gilgeous-Alexander,7,Reach,LAC at OKC|AST|Reach|A to C|4
-ALL|AST|Reach|A to C|29,C,Duncan Robinson,DET at PHI,Over 1.5 assists,AST,2.2,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 11 of 30,0.685,0.09,Duncan Robinson,2,Reach,DET at PHI|AST|Reach|A to C|4
-ALL|AST|Reach|A to C|30,C,Jalen Williams,OKC vs LAC,Over 2.5 assists,AST,4.2,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.29,Jalen Williams,3,Reach,LAC at OKC|AST|Reach|A to C|5
-ALL|AST|Reach|A to C|31,C,Jalen Brunson,NY vs ORL,Over 3.5 assists,AST,5.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 4 of 30,0.685,0.31,Jalen Brunson,4,Reach,ORL at NY|AST|Reach|A to C|2
-ALL|AST|Reach|A to C|32,C,Tyrese Maxey,PHI vs DET,Over 4.5 assists,AST,5.3,7 of 10,15 of 20,Tough (1st),1.62,tough matchup; B2B 3in4,Defense 4 of 30,0.645,0.06,Tyrese Maxey,5,Reach,DET at PHI|AST|Reach|A to C|5
-ALL|AST|Reach|A to C|33,C,Ben Saraf,BKN vs IND,Over 2.5 assists,AST,4.0,7 of 10,15 of 20,Mid (15th),1.62,"B2B; last season stats, check roster",Defense 21 of 30,0.645,0.25,Ben Saraf,3,Reach,IND at BKN|AST|Reach|A to C|6
+ALL|AST|Reach|A to C|28,C,LeBron James,PHI vs DET,Over 5.5 assists,AST,7.8,8 of 10,17 of 20,Tough (6th),1.43,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.705,0.24,LeBron James,6,Reach,DET at PHI|AST|Reach|A to C|4
+ALL|AST|Reach|A to C|29,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 6.5 assists,AST,7.6,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.08,Shai Gilgeous-Alexander,7,Reach,LAC at OKC|AST|Reach|A to C|4
+ALL|AST|Reach|A to C|30,C,Duncan Robinson,DET at PHI,Over 1.5 assists,AST,2.2,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 11 of 30,0.685,0.09,Duncan Robinson,2,Reach,DET at PHI|AST|Reach|A to C|5
+ALL|AST|Reach|A to C|31,C,Jalen Williams,OKC vs LAC,Over 2.5 assists,AST,4.2,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.29,Jalen Williams,3,Reach,LAC at OKC|AST|Reach|A to C|5
+ALL|AST|Reach|A to C|32,C,Jalen Brunson,NY vs ORL,Over 3.5 assists,AST,5.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 4 of 30,0.685,0.31,Jalen Brunson,4,Reach,ORL at NY|AST|Reach|A to C|2
+ALL|AST|Reach|A to C|33,C,Tyrese Maxey,PHI vs DET,Over 4.5 assists,AST,5.3,7 of 10,15 of 20,Tough (1st),1.62,tough matchup; B2B 3in4,Defense 4 of 30,0.645,0.06,Tyrese Maxey,5,Reach,DET at PHI|AST|Reach|A to C|6
+ALL|AST|Reach|A to C|34,C,Ben Saraf,BKN vs IND,Over 2.5 assists,AST,4.0,7 of 10,15 of 20,Mid (15th),1.62,"B2B; last season stats, check roster",Defense 21 of 30,0.645,0.25,Ben Saraf,3,Reach,IND at BKN|AST|Reach|A to C|6
 ALL|BLK|Reach|A to C|1,C,Isaiah Jackson,LAC at OKC,Over 0.5 blocks,BLK,1.1,8 of 10,15 of 20,Soft (30th),1.52,"big spread, game script risk",Defense 9 of 30,0.785,0.09,Isaiah Jackson,1,Reach,LAC at OKC|BLK|Reach|A to C|1
 ALL|BLK|Reach|A to C|2,C,Keegan Murray,SAC vs MEM,Over 0.5 blocks,BLK,1.6,8 of 10,15 of 20,Soft (27th),1.52,questionable,Defense 28 of 30,0.785,0.35,Keegan Murray,1,Reach,MEM at SAC|BLK|Reach|A to C|1
 ALL|BLK|Reach|A to C|3,C,Karl-Anthony Towns,NY vs ORL,Over 0.5 blocks,BLK,1.2,7 of 10,15 of 20,Soft (25th),1.62,,Defense 4 of 30,0.775,0.2,Karl-Anthony Towns,1,Reach,ORL at NY|BLK|Reach|A to C|1
@@ -2140,21 +2161,22 @@ ALL|RA|Reach|A to C|17,C,Cam Spencer,MEM at SAC,Over 4.5 reb+ast,RA,7.1,8 of 10,
 ALL|RA|Reach|A to C|18,C,Killian Hayes,SAC vs MEM,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Soft (29th),1.52,"last season stats, check roster",Defense 28 of 30,0.785,0.15,Killian Hayes,5,Reach,MEM at SAC|RA|Reach|A to C|4
 ALL|RA|Reach|A to C|19,C,Cedric Coward,MEM at SAC,Over 4.5 reb+ast,RA,7.3,8 of 10,17 of 20,Mid (19th),1.43,questionable,Defense 22 of 30,0.785,0.32,Cedric Coward,5,Reach,MEM at SAC|RA|Reach|A to C|5
 ALL|RA|Reach|A to C|20,C,Javon Small,MEM at SAC,Over 4.5 reb+ast,RA,8.1,8 of 10,17 of 20,Mid (11th),1.43,"last season stats, check roster",Defense 22 of 30,0.785,0.38,Javon Small,5,Reach,MEM at SAC|RA|Reach|A to C|6
-ALL|RA|Reach|A to C|21,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Reach,TOR at MIN|RA|Reach|A to C|4
-ALL|RA|Reach|A to C|22,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Reach,IND at BKN|RA|Reach|A to C|5
-ALL|RA|Reach|A to C|23,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Reach,TOR at MIN|RA|Reach|A to C|5
-ALL|RA|Reach|A to C|24,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Reach,TOR at MIN|RA|Reach|A to C|6
-ALL|RA|Reach|A to C|25,C,Sandro Mamukelashvili,LAL at UTAH,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Mid (15th),1.57,,Defense 30 of 30,0.75,0.29,Sandro Mamukelashvili,5,Reach,LAL at UTAH|RA|Reach|A to C|3
-ALL|RA|Reach|A to C|26,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Reach,ORL at NY|RA|Reach|A to C|5
-ALL|RA|Reach|A to C|27,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Reach,LAL at UTAH|RA|Reach|A to C|4
-ALL|RA|Reach|A to C|28,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Reach,LAC at OKC|RA|Reach|A to C|1
-ALL|RA|Reach|A to C|29,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Reach,LAC at OKC|RA|Reach|A to C|2
-ALL|RA|Reach|A to C|30,C,Nikola Vucevic,ORL at NY,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 1 of 30,0.71,0.29,Nikola Vucevic,5,Reach,ORL at NY|RA|Reach|A to C|6
-ALL|RA|Reach|A to C|31,C,Keyonte George,UTAH vs LAL,Over 4.5 reb+ast,RA,7.4,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 10 of 30,0.71,0.32,Keyonte George,5,Reach,LAL at UTAH|RA|Reach|A to C|5
-ALL|RA|Reach|A to C|32,C,Cody Williams,MIN vs TOR,Over 4.5 reb+ast,RA,8.0,7 of 10,16 of 20,Tough (3rd),1.57,tough matchup,Defense 7 of 30,0.71,0.37,Cody Williams,5,Reach,
-ALL|RA|Reach|A to C|33,C,Joel Embiid,PHI vs DET,Over 9.5 reb+ast,RA,12.9,7 of 10,15 of 20,Soft (25th),1.62,B2B 3in4; questionable,Defense 4 of 30,0.695,0.23,Joel Embiid,10,Reach,DET at PHI|RA|Reach|A to C|2
-ALL|RA|Reach|A to C|34,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Reach,LAC at OKC|RA|Reach|A to C|3
-ALL|RA|Reach|A to C|35,C,Kyle Filipowski,UTAH vs LAL,Over 9.5 reb+ast,RA,11.9,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 10 of 30,0.685,0.16,Kyle Filipowski,10,Reach,LAL at UTAH|RA|Reach|A to C|6
+ALL|RA|Reach|A to C|21,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Reach,DET at PHI|RA|Reach|A to C|2
+ALL|RA|Reach|A to C|22,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Reach,TOR at MIN|RA|Reach|A to C|4
+ALL|RA|Reach|A to C|23,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Reach,IND at BKN|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|24,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Reach,TOR at MIN|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|25,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Reach,TOR at MIN|RA|Reach|A to C|6
+ALL|RA|Reach|A to C|26,C,Sandro Mamukelashvili,LAL at UTAH,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Mid (15th),1.57,,Defense 30 of 30,0.75,0.29,Sandro Mamukelashvili,5,Reach,LAL at UTAH|RA|Reach|A to C|3
+ALL|RA|Reach|A to C|27,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Reach,ORL at NY|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|28,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Reach,LAL at UTAH|RA|Reach|A to C|4
+ALL|RA|Reach|A to C|29,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Reach,LAC at OKC|RA|Reach|A to C|1
+ALL|RA|Reach|A to C|30,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Reach,LAC at OKC|RA|Reach|A to C|2
+ALL|RA|Reach|A to C|31,C,Nikola Vucevic,ORL at NY,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 1 of 30,0.71,0.29,Nikola Vucevic,5,Reach,ORL at NY|RA|Reach|A to C|6
+ALL|RA|Reach|A to C|32,C,Keyonte George,UTAH vs LAL,Over 4.5 reb+ast,RA,7.4,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 10 of 30,0.71,0.32,Keyonte George,5,Reach,LAL at UTAH|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|33,C,Cody Williams,MIN vs TOR,Over 4.5 reb+ast,RA,8.0,7 of 10,16 of 20,Tough (3rd),1.57,tough matchup,Defense 7 of 30,0.71,0.37,Cody Williams,5,Reach,
+ALL|RA|Reach|A to C|34,C,Joel Embiid,PHI vs DET,Over 9.5 reb+ast,RA,12.9,7 of 10,15 of 20,Soft (25th),1.62,B2B 3in4; questionable,Defense 4 of 30,0.695,0.23,Joel Embiid,10,Reach,DET at PHI|RA|Reach|A to C|3
+ALL|RA|Reach|A to C|35,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Reach,LAC at OKC|RA|Reach|A to C|3
+ALL|RA|Reach|A to C|36,C,Kyle Filipowski,UTAH vs LAL,Over 9.5 reb+ast,RA,11.9,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 10 of 30,0.685,0.16,Kyle Filipowski,10,Reach,LAL at UTAH|RA|Reach|A to C|6
 ALL|REB|Reach|A to C|1,B,Day'Ron Sharpe,BKN vs IND,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (23rd),1.27,B2B,Defense 21 of 30,0.935,0.34,Day'Ron Sharpe,5,Reach,IND at BKN|REB|Reach|A to C|1
 ALL|REB|Reach|A to C|2,B,Rudy Gobert,MIN vs TOR,Over 6.5 rebounds,REB,10.2,8 of 10,18 of 20,Soft (27th),1.38,,Defense 7 of 30,0.9,0.31,Rudy Gobert,7,Reach,TOR at MIN|REB|Reach|A to C|1
 ALL|REB|Reach|A to C|3,B,Precious Achiuwa,SAC vs MEM,Over 5.5 rebounds,REB,8.8,8 of 10,18 of 20,Soft (30th),1.38,,Defense 28 of 30,0.9,0.32,Precious Achiuwa,6,Reach,MEM at SAC|REB|Reach|A to C|1
@@ -2222,7 +2244,8 @@ ALL|STL|Reach|A to C|18,C,Jakob Poeltl,TOR at MIN,Over 0.5 steals,STL,1.0,7 of 1
 ALL|STL|Reach|A to C|19,C,Scottie Barnes,TOR at MIN,Over 0.5 steals,STL,1.4,7 of 10,15 of 20,Mid (11th),1.62,,Defense 15 of 30,0.725,0.31,Scottie Barnes,1,Reach,
 ALL|STL|Reach|A to C|20,C,Javon Small,MEM at SAC,Over 0.5 steals,STL,1.1,7 of 10,15 of 20,Mid (22nd),1.62,"last season stats, check roster",Defense 22 of 30,0.685,0.13,Javon Small,1,Reach,MEM at SAC|STL|Reach|A to C|2
 ALL|STL|Reach|A to C|21,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 0.5 steals,STL,1.3,7 of 10,15 of 20,Mid (15th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.23,Shai Gilgeous-Alexander,1,Reach,LAC at OKC|STL|Reach|A to C|2
-ALL|STL|Reach|A to C|22,C,Kris Dunn,LAC at OKC,Over 1.5 steals,STL,1.9,7 of 10,15 of 20,Tough (4th),1.62,"tough matchup; big spread, game script risk",Defense 9 of 30,0.645,-0.03,Kris Dunn,2,Reach,LAC at OKC|STL|Reach|A to C|3
+ALL|STL|Reach|A to C|22,C,LeBron James,PHI vs DET,Over 0.5 steals,STL,1.5,7 of 10,16 of 20,Mid (14th),1.57,B2B 3in4; questionable,Defense 4 of 30,0.67,0.33,LeBron James,1,Reach,DET at PHI|STL|Reach|A to C|3
+ALL|STL|Reach|A to C|23,C,Kris Dunn,LAC at OKC,Over 1.5 steals,STL,1.9,7 of 10,15 of 20,Tough (4th),1.62,"tough matchup; big spread, game script risk",Defense 9 of 30,0.645,-0.03,Kris Dunn,2,Reach,LAC at OKC|STL|Reach|A to C|3
 ALL|THREES|Reach|A to C|1,A,Ty Jerome,MEM at SAC,Over 1.5 threes,THREES,2.9,10 of 10,17 of 17,Soft (30th),1.22,,Defense 22 of 30,1.05,0.32,Ty Jerome,2,Reach,MEM at SAC|THREES|Reach|A to C|1
 ALL|THREES|Reach|A to C|2,B,Luka Doncic,LAL at UTAH,Over 2.5 threes,THREES,4.6,8 of 10,18 of 20,Soft (29th),1.38,,Defense 30 of 30,0.9,0.35,Luka Doncic,3,Reach,LAL at UTAH|THREES|Reach|A to C|1
 ALL|THREES|Reach|A to C|3,C,Blake Hinson,UTAH vs LAL,Over 1.5 threes,THREES,2.6,10 of 10,13 of 14,Tough (3rd),1.22,"tough matchup; last season stats, check roster",Defense 10 of 30,0.884,0.24,Blake Hinson,2,Reach,LAL at UTAH|THREES|Reach|A to C|2
@@ -2252,6 +2275,7 @@ ALL|THREES|Reach|A to C|26,C,Karl-Anthony Towns,NY vs ORL,Over 0.5 threes,THREES
 ALL|THREES|Reach|A to C|27,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Mid (14th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.33,Shai Gilgeous-Alexander,1,Reach,LAC at OKC|THREES|Reach|A to C|3
 ALL|THREES|Reach|A to C|28,C,Danny Wolf,BKN vs IND,Over 0.5 threes,THREES,1.4,7 of 10,16 of 20,Mid (21st),1.57,"B2B; last season stats, check roster",Defense 21 of 30,0.67,0.26,Danny Wolf,1,Reach,IND at BKN|THREES|Reach|A to C|4
 ALL|THREES|Reach|A to C|29,C,Jaylin Williams,OKC vs LAC,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Tough (8th),1.62,"tough matchup; big spread, game script risk",Defense 16 of 30,0.645,0.13,Jaylin Williams,1,Reach,LAC at OKC|THREES|Reach|A to C|4
+ALL|THREES|Reach|A to C|30,C,LeBron James,PHI vs DET,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Tough (5th),1.62,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.605,0.26,LeBron James,1,Reach,DET at PHI|THREES|Reach|A to C|4
 ALL|ALL|Reach|All|1,A,Ty Jerome,MEM at SAC,Over 1.5 threes,THREES,2.9,10 of 10,17 of 17,Soft (30th),1.22,,Defense 22 of 30,1.05,0.32,Ty Jerome,2,Reach,MEM at SAC|ALL|Reach|All|1
 ALL|ALL|Reach|All|2,A,Luka Doncic,LAL at UTAH,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Soft (30th),1.22,,Defense 30 of 30,1.05,0.33,Luka Doncic,10,Reach,LAL at UTAH|ALL|Reach|All|1
 ALL|ALL|Reach|All|3,A,Scotty Pippen Jr.,MEM at SAC,Over 9.5 pts+ast,PA,15.5,10 of 10,12 of 12,Soft (23rd),1.22,,Defense 22 of 30,1.05,0.35,Scotty Pippen Jr.,10,Reach,MEM at SAC|ALL|Reach|All|2
@@ -2372,11 +2396,11 @@ ALL|ALL|Reach|All|117,C,Cedric Coward,MEM at SAC,Over 0.5 threes,THREES,1.2,8 of
 ALL|ALL|Reach|All|118,C,Wendell Carter Jr.,ORL at NY,Over 9.5 pts+ast,PA,13.9,9 of 10,15 of 20,Tough (2nd),1.43,tough matchup,Defense 1 of 30,0.785,0.28,Wendell Carter Jr.,10,Reach,ORL at NY|ALL|Reach|All|12
 ALL|ALL|Reach|All|119,C,Olivier-Maxence Prosper,MEM at SAC,Over 2.5 rebounds,REB,4.5,9 of 10,15 of 20,Mid (12th),1.43,"last season stats, check roster",Defense 22 of 30,0.785,0.34,Olivier-Maxence Prosper,3,Reach,
 ALL|ALL|Reach|All|120,C,Aaron Nesmith,IND at BKN,Over 9.5 pts+ast,PA,15.4,9 of 10,15 of 20,Mid (14th),1.43,questionable,Defense 19 of 30,0.785,0.35,Aaron Nesmith,10,Reach,
-,C,Kevin Huerter,DET at PHI,Over 0.5 threes,THREES,1.3,8 of 10,15 of 20,Mid (19th),1.52,,Defense 11 of 30,0.775,0.23,Kevin Huerter,1,Reach,DET at PHI|ALL|Reach|All|8
-,C,Cade Cunningham,DET at PHI,Over 2.5 rebounds,REB,4.8,7 of 10,15 of 20,Soft (29th),1.62,,Defense 11 of 30,0.775,0.38,Cade Cunningham,3,Reach,DET at PHI|ALL|Reach|All|9
-,C,Duncan Robinson,DET at PHI,Over 2.5 threes,THREES,3.2,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 11 of 30,0.76,0.08,Duncan Robinson,3,Reach,DET at PHI|ALL|Reach|All|10
-,C,Dean Wade,PHI vs DET,Over 0.5 threes,THREES,1.1,8 of 10,17 of 20,Tough (5th),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.09,Dean Wade,1,Reach,DET at PHI|ALL|Reach|All|11
-,C,Kentavious Caldwell-Pope,PHI vs DET,Over 9.5 pts+reb+ast,PRA,12.8,9 of 10,15 of 20,Tough (3rd),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.22,Kentavious Caldwell-Pope,10,Reach,DET at PHI|ALL|Reach|All|12
+,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Reach,DET at PHI|ALL|Reach|All|8
+,C,Kevin Huerter,DET at PHI,Over 0.5 threes,THREES,1.3,8 of 10,15 of 20,Mid (19th),1.52,,Defense 11 of 30,0.775,0.23,Kevin Huerter,1,Reach,DET at PHI|ALL|Reach|All|9
+,C,Cade Cunningham,DET at PHI,Over 2.5 rebounds,REB,4.8,7 of 10,15 of 20,Soft (29th),1.62,,Defense 11 of 30,0.775,0.38,Cade Cunningham,3,Reach,DET at PHI|ALL|Reach|All|10
+,C,Duncan Robinson,DET at PHI,Over 2.5 threes,THREES,3.2,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 11 of 30,0.76,0.08,Duncan Robinson,3,Reach,DET at PHI|ALL|Reach|All|11
+,C,Dean Wade,PHI vs DET,Over 0.5 threes,THREES,1.1,8 of 10,17 of 20,Tough (5th),1.43,tough matchup; B2B 3in4,Defense 4 of 30,0.745,0.09,Dean Wade,1,Reach,DET at PHI|ALL|Reach|All|12
 ALL|AST|Reach|All|1,A,Scotty Pippen Jr.,MEM at SAC,Over 2.5 assists,AST,4.6,10 of 10,12 of 12,Mid (22nd),1.22,,Defense 22 of 30,1.0,0.35,Scotty Pippen Jr.,3,Reach,MEM at SAC|AST|Reach|All|1
 ALL|AST|Reach|All|2,B,Domantas Sabonis,SAC vs MEM,Over 2.5 assists,AST,4.8,9 of 10,18 of 20,Mid (21st),1.31,,Defense 28 of 30,0.9,0.37,Domantas Sabonis,3,Reach,MEM at SAC|AST|Reach|All|2
 ALL|AST|Reach|All|3,B,Darius Garland,LAC at OKC,Over 3.5 assists,AST,6.5,9 of 10,19 of 20,Mid (13th),1.27,"big spread, game script risk",Defense 9 of 30,0.885,0.38,Darius Garland,4,Reach,LAC at OKC|AST|Reach|All|1
@@ -2404,23 +2428,22 @@ ALL|AST|Reach|All|24,C,Cade Cunningham,DET at PHI,Over 5.5 assists,AST,7.8,7 of 
 ALL|AST|Reach|All|25,C,Jaden McDaniels,MIN vs TOR,Over 1.5 assists,AST,2.4,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 7 of 30,0.71,0.17,Jaden McDaniels,2,Reach,TOR at MIN|AST|Reach|All|6
 ALL|AST|Reach|All|26,C,Kyle Filipowski,UTAH vs LAL,Over 2.5 assists,AST,3.8,7 of 10,16 of 20,Tough (4th),1.57,tough matchup,Defense 10 of 30,0.71,0.2,Kyle Filipowski,3,Reach,LAL at UTAH|AST|Reach|All|5
 ALL|AST|Reach|All|27,C,Javon Small,MEM at SAC,Over 2.5 assists,AST,4.1,7 of 10,16 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 22 of 30,0.71,0.27,Javon Small,3,Reach,MEM at SAC|AST|Reach|All|4
-ALL|AST|Reach|All|28,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 6.5 assists,AST,7.6,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.08,Shai Gilgeous-Alexander,7,Reach,LAC at OKC|AST|Reach|All|4
-ALL|AST|Reach|All|29,C,Duncan Robinson,DET at PHI,Over 1.5 assists,AST,2.2,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 11 of 30,0.685,0.09,Duncan Robinson,2,Reach,DET at PHI|AST|Reach|All|4
-ALL|AST|Reach|All|30,C,Jalen Williams,OKC vs LAC,Over 2.5 assists,AST,4.2,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.29,Jalen Williams,3,Reach,LAC at OKC|AST|Reach|All|5
-ALL|AST|Reach|All|31,C,Jalen Brunson,NY vs ORL,Over 3.5 assists,AST,5.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 4 of 30,0.685,0.31,Jalen Brunson,4,Reach,ORL at NY|AST|Reach|All|2
-ALL|AST|Reach|All|32,C,Tyrese Maxey,PHI vs DET,Over 4.5 assists,AST,5.3,7 of 10,15 of 20,Tough (1st),1.62,tough matchup; B2B 3in4,Defense 4 of 30,0.645,0.06,Tyrese Maxey,5,Reach,DET at PHI|AST|Reach|All|5
-ALL|AST|Reach|All|33,C,Ben Saraf,BKN vs IND,Over 2.5 assists,AST,4.0,7 of 10,15 of 20,Mid (15th),1.62,"B2B; last season stats, check roster",Defense 21 of 30,0.645,0.25,Ben Saraf,3,Reach,IND at BKN|AST|Reach|All|6
-ALL|AST|Reach|All|34,D,John Konchar,UTAH vs LAL,Over 1.5 assists,AST,3.2,10 of 10,14 of 20,Mid (14th),1.38,"last season stats, check roster",Defense 10 of 30,0.81,0.38,John Konchar,2,Reach,LAL at UTAH|AST|Reach|All|6
-ALL|AST|Reach|All|35,D,Russell Westbrook,SAC vs MEM,Over 4.5 assists,AST,6.0,9 of 10,13 of 20,Soft (26th),1.52,"last season stats, check roster",Defense 28 of 30,0.785,0.17,Russell Westbrook,5,Reach,MEM at SAC|AST|Reach|All|5
-ALL|AST|Reach|All|36,D,Jaren Jackson Jr.,UTAH vs LAL,Over 1.5 assists,AST,2.0,9 of 10,14 of 20,Tough (4th),1.47,tough matchup,Defense 10 of 30,0.76,0.0,Jaren Jackson Jr.,2,Reach,
-ALL|AST|Reach|All|37,D,Jalen Slawson,IND at BKN,Over 1.5 assists,AST,2.7,7 of 10,10 of 14,Soft (23rd),1.66,,Defense 19 of 30,0.757,0.26,Jalen Slawson,2,Reach,
-ALL|AST|Reach|All|38,D,Luka Doncic,LAL at UTAH,Over 6.5 assists,AST,7.3,7 of 10,14 of 20,Soft (30th),1.68,,Defense 30 of 30,0.75,0.05,Luka Doncic,7,Reach,
-ALL|AST|Reach|All|39,D,Andrew Nembhard,IND at BKN,Over 6.5 assists,AST,7.9,8 of 10,14 of 20,Mid (21st),1.57,,Defense 19 of 30,0.75,0.11,Andrew Nembhard,7,Reach,
-ALL|AST|Reach|All|40,D,Quenton Jackson,IND at BKN,Over 2.5 assists,AST,3.9,8 of 10,14 of 20,Mid (21st),1.57,,Defense 19 of 30,0.75,0.22,Quenton Jackson,3,Reach,
+ALL|AST|Reach|All|28,C,LeBron James,PHI vs DET,Over 5.5 assists,AST,7.8,8 of 10,17 of 20,Tough (6th),1.43,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.705,0.24,LeBron James,6,Reach,DET at PHI|AST|Reach|All|4
+ALL|AST|Reach|All|29,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 6.5 assists,AST,7.6,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.08,Shai Gilgeous-Alexander,7,Reach,LAC at OKC|AST|Reach|All|4
+ALL|AST|Reach|All|30,C,Duncan Robinson,DET at PHI,Over 1.5 assists,AST,2.2,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 11 of 30,0.685,0.09,Duncan Robinson,2,Reach,DET at PHI|AST|Reach|All|5
+ALL|AST|Reach|All|31,C,Jalen Williams,OKC vs LAC,Over 2.5 assists,AST,4.2,7 of 10,15 of 20,Mid (9th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.29,Jalen Williams,3,Reach,LAC at OKC|AST|Reach|All|5
+ALL|AST|Reach|All|32,C,Jalen Brunson,NY vs ORL,Over 3.5 assists,AST,5.8,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 4 of 30,0.685,0.31,Jalen Brunson,4,Reach,ORL at NY|AST|Reach|All|2
+ALL|AST|Reach|All|33,C,Tyrese Maxey,PHI vs DET,Over 4.5 assists,AST,5.3,7 of 10,15 of 20,Tough (1st),1.62,tough matchup; B2B 3in4,Defense 4 of 30,0.645,0.06,Tyrese Maxey,5,Reach,DET at PHI|AST|Reach|All|6
+ALL|AST|Reach|All|34,C,Ben Saraf,BKN vs IND,Over 2.5 assists,AST,4.0,7 of 10,15 of 20,Mid (15th),1.62,"B2B; last season stats, check roster",Defense 21 of 30,0.645,0.25,Ben Saraf,3,Reach,IND at BKN|AST|Reach|All|6
+ALL|AST|Reach|All|35,D,John Konchar,UTAH vs LAL,Over 1.5 assists,AST,3.2,10 of 10,14 of 20,Mid (14th),1.38,"last season stats, check roster",Defense 10 of 30,0.81,0.38,John Konchar,2,Reach,LAL at UTAH|AST|Reach|All|6
+ALL|AST|Reach|All|36,D,Russell Westbrook,SAC vs MEM,Over 4.5 assists,AST,6.0,9 of 10,13 of 20,Soft (26th),1.52,"last season stats, check roster",Defense 28 of 30,0.785,0.17,Russell Westbrook,5,Reach,MEM at SAC|AST|Reach|All|5
+ALL|AST|Reach|All|37,D,Jaren Jackson Jr.,UTAH vs LAL,Over 1.5 assists,AST,2.0,9 of 10,14 of 20,Tough (4th),1.47,tough matchup,Defense 10 of 30,0.76,0.0,Jaren Jackson Jr.,2,Reach,
+ALL|AST|Reach|All|38,D,Jalen Slawson,IND at BKN,Over 1.5 assists,AST,2.7,7 of 10,10 of 14,Soft (23rd),1.66,,Defense 19 of 30,0.757,0.26,Jalen Slawson,2,Reach,
+ALL|AST|Reach|All|39,D,Luka Doncic,LAL at UTAH,Over 6.5 assists,AST,7.3,7 of 10,14 of 20,Soft (30th),1.68,,Defense 30 of 30,0.75,0.05,Luka Doncic,7,Reach,
+ALL|AST|Reach|All|40,D,Andrew Nembhard,IND at BKN,Over 6.5 assists,AST,7.9,8 of 10,14 of 20,Mid (21st),1.57,,Defense 19 of 30,0.75,0.11,Andrew Nembhard,7,Reach,
 ,D,Josh Hart,NY vs ORL,Over 3.5 assists,AST,4.5,8 of 10,14 of 20,Tough (7th),1.57,tough matchup,Defense 4 of 30,0.71,0.11,Josh Hart,4,Reach,ORL at NY|AST|Reach|All|3
 ,D,Mikal Bridges,NY vs ORL,Over 1.5 assists,AST,2.8,8 of 10,14 of 20,Tough (7th),1.57,tough matchup,Defense 4 of 30,0.71,0.27,Mikal Bridges,2,Reach,ORL at NY|AST|Reach|All|4
 ,D,Ty Jerome,MEM at SAC,Over 4.5 assists,AST,5.6,7 of 10,12 of 17,Mid (22nd),1.67,,Defense 22 of 30,0.703,0.11,Ty Jerome,5,Reach,MEM at SAC|AST|Reach|All|6
-,D,Joel Embiid,PHI vs DET,Over 3.5 assists,AST,4.8,8 of 10,13 of 20,Soft (28th),1.62,B2B 3in4; questionable,Defense 4 of 30,0.695,0.18,Joel Embiid,4,Reach,DET at PHI|AST|Reach|All|6
 ,D,Franz Wagner,ORL at NY,Over 2.5 assists,AST,3.1,8 of 10,12 of 20,Tough (8th),1.68,tough matchup,Defense 1 of 30,0.66,0.03,Franz Wagner,3,Reach,ORL at NY|AST|Reach|All|5
 ,D,Ajay Mitchell,OKC vs LAC,Over 2.5 assists,AST,4.0,7 of 10,14 of 20,Mid (9th),1.68,"big spread, game script risk",Defense 16 of 30,0.66,0.25,Ajay Mitchell,3,Reach,LAC at OKC|AST|Reach|All|6
 ALL|BLK|Reach|All|1,C,Isaiah Jackson,LAC at OKC,Over 0.5 blocks,BLK,1.1,8 of 10,15 of 20,Soft (30th),1.52,"big spread, game script risk",Defense 9 of 30,0.785,0.09,Isaiah Jackson,1,Reach,LAC at OKC|BLK|Reach|All|1
@@ -2649,32 +2672,31 @@ ALL|RA|Reach|All|17,C,Cam Spencer,MEM at SAC,Over 4.5 reb+ast,RA,7.1,8 of 10,16 
 ALL|RA|Reach|All|18,C,Killian Hayes,SAC vs MEM,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Soft (29th),1.52,"last season stats, check roster",Defense 28 of 30,0.785,0.15,Killian Hayes,5,Reach,MEM at SAC|RA|Reach|All|4
 ALL|RA|Reach|All|19,C,Cedric Coward,MEM at SAC,Over 4.5 reb+ast,RA,7.3,8 of 10,17 of 20,Mid (19th),1.43,questionable,Defense 22 of 30,0.785,0.32,Cedric Coward,5,Reach,MEM at SAC|RA|Reach|All|5
 ALL|RA|Reach|All|20,C,Javon Small,MEM at SAC,Over 4.5 reb+ast,RA,8.1,8 of 10,17 of 20,Mid (11th),1.43,"last season stats, check roster",Defense 22 of 30,0.785,0.38,Javon Small,5,Reach,MEM at SAC|RA|Reach|All|6
-ALL|RA|Reach|All|21,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Reach,TOR at MIN|RA|Reach|All|4
-ALL|RA|Reach|All|22,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Reach,IND at BKN|RA|Reach|All|5
-ALL|RA|Reach|All|23,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Reach,TOR at MIN|RA|Reach|All|5
-ALL|RA|Reach|All|24,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Reach,TOR at MIN|RA|Reach|All|6
-ALL|RA|Reach|All|25,C,Sandro Mamukelashvili,LAL at UTAH,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Mid (15th),1.57,,Defense 30 of 30,0.75,0.29,Sandro Mamukelashvili,5,Reach,LAL at UTAH|RA|Reach|All|3
-ALL|RA|Reach|All|26,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Reach,ORL at NY|RA|Reach|All|5
-ALL|RA|Reach|All|27,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Reach,LAL at UTAH|RA|Reach|All|4
-ALL|RA|Reach|All|28,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Reach,LAC at OKC|RA|Reach|All|1
-ALL|RA|Reach|All|29,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Reach,LAC at OKC|RA|Reach|All|2
-ALL|RA|Reach|All|30,C,Nikola Vucevic,ORL at NY,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 1 of 30,0.71,0.29,Nikola Vucevic,5,Reach,ORL at NY|RA|Reach|All|6
-ALL|RA|Reach|All|31,C,Keyonte George,UTAH vs LAL,Over 4.5 reb+ast,RA,7.4,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 10 of 30,0.71,0.32,Keyonte George,5,Reach,LAL at UTAH|RA|Reach|All|5
-ALL|RA|Reach|All|32,C,Cody Williams,MIN vs TOR,Over 4.5 reb+ast,RA,8.0,7 of 10,16 of 20,Tough (3rd),1.57,tough matchup,Defense 7 of 30,0.71,0.37,Cody Williams,5,Reach,
-ALL|RA|Reach|All|33,C,Joel Embiid,PHI vs DET,Over 9.5 reb+ast,RA,12.9,7 of 10,15 of 20,Soft (25th),1.62,B2B 3in4; questionable,Defense 4 of 30,0.695,0.23,Joel Embiid,10,Reach,DET at PHI|RA|Reach|All|2
-ALL|RA|Reach|All|34,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Reach,LAC at OKC|RA|Reach|All|3
-ALL|RA|Reach|All|35,C,Kyle Filipowski,UTAH vs LAL,Over 9.5 reb+ast,RA,11.9,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 10 of 30,0.685,0.16,Kyle Filipowski,10,Reach,LAL at UTAH|RA|Reach|All|6
-ALL|RA|Reach|All|36,D,Jay Huff,IND at BKN,Over 4.5 reb+ast,RA,6.0,9 of 10,14 of 20,Mid (15th),1.47,,Defense 19 of 30,0.8,0.16,Jay Huff,5,Reach,IND at BKN|RA|Reach|All|6
-ALL|RA|Reach|All|37,D,Isaiah Jackson,LAC at OKC,Over 4.5 reb+ast,RA,6.2,8 of 10,14 of 20,Soft (24th),1.57,"big spread, game script risk",Defense 9 of 30,0.76,0.2,Isaiah Jackson,5,Reach,LAC at OKC|RA|Reach|All|4
-ALL|RA|Reach|All|38,D,Rayan Rupert,MEM at SAC,Over 4.5 reb+ast,RA,7.2,9 of 10,14 of 20,Mid (11th),1.47,"last season stats, check roster",Defense 22 of 30,0.76,0.31,Rayan Rupert,5,Reach,
-ALL|RA|Reach|All|39,D,Jalen Slawson,IND at BKN,Over 4.5 reb+ast,RA,7.1,8 of 10,10 of 14,Mid (21st),1.55,,Defense 19 of 30,0.757,0.3,Jalen Slawson,5,Reach,
-ALL|RA|Reach|All|40,D,Zach LaVine,SAC vs MEM,Over 4.5 reb+ast,RA,4.8,7 of 10,14 of 20,Soft (29th),1.68,,Defense 28 of 30,0.75,-0.03,Zach LaVine,5,Reach,
-,D,Cade Cunningham,DET at PHI,Over 9.5 reb+ast,RA,12.7,7 of 10,14 of 20,Soft (24th),1.68,,Defense 11 of 30,0.75,0.21,Cade Cunningham,10,Reach,DET at PHI|RA|Reach|All|3
-,D,Kevin Huerter,DET at PHI,Over 4.5 reb+ast,RA,5.5,7 of 10,13 of 20,Soft (24th),1.74,,Defense 11 of 30,0.725,0.08,Kevin Huerter,5,Reach,DET at PHI|RA|Reach|All|4
-,D,Daniss Jenkins,DET at PHI,Over 4.5 reb+ast,RA,7.2,7 of 10,13 of 20,Soft (24th),1.74,,Defense 11 of 30,0.725,0.3,Daniss Jenkins,5,Reach,DET at PHI|RA|Reach|All|5
+ALL|RA|Reach|All|21,C,LeBron James,PHI vs DET,Over 9.5 reb+ast,RA,14.8,9 of 10,18 of 20,Tough (6th),1.31,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.78,0.33,LeBron James,10,Reach,DET at PHI|RA|Reach|All|2
+ALL|RA|Reach|All|22,C,LaMelo Ball,MIN vs TOR,Over 9.5 reb+ast,RA,11.4,8 of 10,15 of 20,Mid (16th),1.52,,Defense 7 of 30,0.775,0.13,LaMelo Ball,10,Reach,TOR at MIN|RA|Reach|All|4
+ALL|RA|Reach|All|23,C,Quenton Jackson,IND at BKN,Over 4.5 reb+ast,RA,6.3,8 of 10,15 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.21,Quenton Jackson,5,Reach,IND at BKN|RA|Reach|All|5
+ALL|RA|Reach|All|24,C,Scottie Barnes,TOR at MIN,Over 9.5 reb+ast,RA,14.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 15 of 30,0.775,0.32,Scottie Barnes,10,Reach,TOR at MIN|RA|Reach|All|5
+ALL|RA|Reach|All|25,C,Jaden McDaniels,MIN vs TOR,Over 4.5 reb+ast,RA,7.7,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup,Defense 7 of 30,0.76,0.35,Jaden McDaniels,5,Reach,TOR at MIN|RA|Reach|All|6
+ALL|RA|Reach|All|26,C,Sandro Mamukelashvili,LAL at UTAH,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Mid (15th),1.57,,Defense 30 of 30,0.75,0.29,Sandro Mamukelashvili,5,Reach,LAL at UTAH|RA|Reach|All|3
+ALL|RA|Reach|All|27,C,Desmond Bane,ORL at NY,Over 4.5 reb+ast,RA,6.6,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 1 of 30,0.735,0.24,Desmond Bane,5,Reach,ORL at NY|RA|Reach|All|5
+ALL|RA|Reach|All|28,C,Ace Bailey,UTAH vs LAL,Over 4.5 reb+ast,RA,7.0,8 of 10,15 of 20,Tough (7th),1.52,tough matchup,Defense 10 of 30,0.735,0.29,Ace Bailey,5,Reach,LAL at UTAH|RA|Reach|All|4
+ALL|RA|Reach|All|29,C,Ajay Mitchell,OKC vs LAC,Over 4.5 reb+ast,RA,7.2,8 of 10,16 of 20,Tough (6th),1.47,"tough matchup; big spread, game script risk",Defense 16 of 30,0.72,0.3,Ajay Mitchell,5,Reach,LAC at OKC|RA|Reach|All|1
+ALL|RA|Reach|All|30,C,Brook Lopez,LAC at OKC,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (1st),1.47,"tough matchup; big spread, game script risk",Defense 9 of 30,0.72,0.33,Brook Lopez,5,Reach,LAC at OKC|RA|Reach|All|2
+ALL|RA|Reach|All|31,C,Nikola Vucevic,ORL at NY,Over 4.5 reb+ast,RA,7.0,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 1 of 30,0.71,0.29,Nikola Vucevic,5,Reach,ORL at NY|RA|Reach|All|6
+ALL|RA|Reach|All|32,C,Keyonte George,UTAH vs LAL,Over 4.5 reb+ast,RA,7.4,7 of 10,16 of 20,Tough (7th),1.57,tough matchup,Defense 10 of 30,0.71,0.32,Keyonte George,5,Reach,LAL at UTAH|RA|Reach|All|5
+ALL|RA|Reach|All|33,C,Cody Williams,MIN vs TOR,Over 4.5 reb+ast,RA,8.0,7 of 10,16 of 20,Tough (3rd),1.57,tough matchup,Defense 7 of 30,0.71,0.37,Cody Williams,5,Reach,
+ALL|RA|Reach|All|34,C,Joel Embiid,PHI vs DET,Over 9.5 reb+ast,RA,12.9,7 of 10,15 of 20,Soft (25th),1.62,B2B 3in4; questionable,Defense 4 of 30,0.695,0.23,Joel Embiid,10,Reach,DET at PHI|RA|Reach|All|3
+ALL|RA|Reach|All|35,C,Jalen Williams,OKC vs LAC,Over 4.5 reb+ast,RA,8.2,8 of 10,15 of 20,Tough (6th),1.52,"tough matchup; big spread, game script risk",Defense 16 of 30,0.695,0.39,Jalen Williams,5,Reach,LAC at OKC|RA|Reach|All|3
+ALL|RA|Reach|All|36,C,Kyle Filipowski,UTAH vs LAL,Over 9.5 reb+ast,RA,11.9,7 of 10,15 of 20,Tough (5th),1.62,tough matchup,Defense 10 of 30,0.685,0.16,Kyle Filipowski,10,Reach,LAL at UTAH|RA|Reach|All|6
+ALL|RA|Reach|All|37,D,Jay Huff,IND at BKN,Over 4.5 reb+ast,RA,6.0,9 of 10,14 of 20,Mid (15th),1.47,,Defense 19 of 30,0.8,0.16,Jay Huff,5,Reach,IND at BKN|RA|Reach|All|6
+ALL|RA|Reach|All|38,D,Isaiah Jackson,LAC at OKC,Over 4.5 reb+ast,RA,6.2,8 of 10,14 of 20,Soft (24th),1.57,"big spread, game script risk",Defense 9 of 30,0.76,0.2,Isaiah Jackson,5,Reach,LAC at OKC|RA|Reach|All|4
+ALL|RA|Reach|All|39,D,Rayan Rupert,MEM at SAC,Over 4.5 reb+ast,RA,7.2,9 of 10,14 of 20,Mid (11th),1.47,"last season stats, check roster",Defense 22 of 30,0.76,0.31,Rayan Rupert,5,Reach,
+ALL|RA|Reach|All|40,D,Jalen Slawson,IND at BKN,Over 4.5 reb+ast,RA,7.1,8 of 10,10 of 14,Mid (21st),1.55,,Defense 19 of 30,0.757,0.3,Jalen Slawson,5,Reach,
+,D,Cade Cunningham,DET at PHI,Over 9.5 reb+ast,RA,12.7,7 of 10,14 of 20,Soft (24th),1.68,,Defense 11 of 30,0.75,0.21,Cade Cunningham,10,Reach,DET at PHI|RA|Reach|All|4
+,D,Kevin Huerter,DET at PHI,Over 4.5 reb+ast,RA,5.5,7 of 10,13 of 20,Soft (24th),1.74,,Defense 11 of 30,0.725,0.08,Kevin Huerter,5,Reach,DET at PHI|RA|Reach|All|5
+,D,Daniss Jenkins,DET at PHI,Over 4.5 reb+ast,RA,7.2,7 of 10,13 of 20,Soft (24th),1.74,,Defense 11 of 30,0.725,0.3,Daniss Jenkins,5,Reach,DET at PHI|RA|Reach|All|6
 ,D,Jaylin Williams,OKC vs LAC,Over 4.5 reb+ast,RA,5.9,7 of 10,14 of 20,Soft (26th),1.68,"big spread, game script risk",Defense 16 of 30,0.71,0.15,Jaylin Williams,5,Reach,LAC at OKC|RA|Reach|All|5
 ,D,Kris Dunn,LAC at OKC,Over 4.5 reb+ast,RA,7.3,8 of 10,14 of 20,Mid (14th),1.57,"big spread, game script risk",Defense 9 of 30,0.71,0.32,Kris Dunn,5,Reach,LAC at OKC|RA|Reach|All|6
-,D,VJ Edgecombe,PHI vs DET,Over 9.5 reb+ast,RA,10.7,7 of 10,14 of 20,Tough (2nd),1.68,tough matchup; B2B 3in4,Defense 4 of 30,0.62,0.06,VJ Edgecombe,10,Reach,DET at PHI|RA|Reach|All|6
 ALL|REB|Reach|All|1,B,Day'Ron Sharpe,BKN vs IND,Over 4.5 rebounds,REB,7.6,9 of 10,19 of 20,Soft (23rd),1.27,B2B,Defense 21 of 30,0.935,0.34,Day'Ron Sharpe,5,Reach,IND at BKN|REB|Reach|All|1
 ALL|REB|Reach|All|2,B,Rudy Gobert,MIN vs TOR,Over 6.5 rebounds,REB,10.2,8 of 10,18 of 20,Soft (27th),1.38,,Defense 7 of 30,0.9,0.31,Rudy Gobert,7,Reach,TOR at MIN|REB|Reach|All|1
 ALL|REB|Reach|All|3,B,Precious Achiuwa,SAC vs MEM,Over 5.5 rebounds,REB,8.8,8 of 10,18 of 20,Soft (30th),1.38,,Defense 28 of 30,0.9,0.32,Precious Achiuwa,6,Reach,MEM at SAC|REB|Reach|All|1
@@ -2742,25 +2764,25 @@ ALL|STL|Reach|All|18,C,Jakob Poeltl,TOR at MIN,Over 0.5 steals,STL,1.0,7 of 10,1
 ALL|STL|Reach|All|19,C,Scottie Barnes,TOR at MIN,Over 0.5 steals,STL,1.4,7 of 10,15 of 20,Mid (11th),1.62,,Defense 15 of 30,0.725,0.31,Scottie Barnes,1,Reach,
 ALL|STL|Reach|All|20,C,Javon Small,MEM at SAC,Over 0.5 steals,STL,1.1,7 of 10,15 of 20,Mid (22nd),1.62,"last season stats, check roster",Defense 22 of 30,0.685,0.13,Javon Small,1,Reach,MEM at SAC|STL|Reach|All|2
 ALL|STL|Reach|All|21,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 0.5 steals,STL,1.3,7 of 10,15 of 20,Mid (15th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.23,Shai Gilgeous-Alexander,1,Reach,LAC at OKC|STL|Reach|All|2
-ALL|STL|Reach|All|22,C,Kris Dunn,LAC at OKC,Over 1.5 steals,STL,1.9,7 of 10,15 of 20,Tough (4th),1.62,"tough matchup; big spread, game script risk",Defense 9 of 30,0.645,-0.03,Kris Dunn,2,Reach,LAC at OKC|STL|Reach|All|3
-ALL|STL|Reach|All|23,D,Elijah Harkless,UTAH vs LAL,Over 0.5 steals,STL,1.4,8 of 10,14 of 20,Soft (30th),1.57,"last season stats, check roster",Defense 10 of 30,0.76,0.29,Elijah Harkless,1,Reach,LAL at UTAH|STL|Reach|All|4
-ALL|STL|Reach|All|24,D,Daeqwon Plowden,SAC vs MEM,Over 0.5 steals,STL,0.9,7 of 10,14 of 20,Soft (28th),1.68,,Defense 28 of 30,0.75,-0.05,Daeqwon Plowden,1,Reach,MEM at SAC|STL|Reach|All|3
-ALL|STL|Reach|All|25,D,Cade Cunningham,DET at PHI,Over 0.5 steals,STL,1.1,8 of 10,14 of 20,Mid (17th),1.57,,Defense 11 of 30,0.75,0.09,Cade Cunningham,1,Reach,DET at PHI|STL|Reach|All|3
-ALL|STL|Reach|All|26,D,Pascal Siakam,IND at BKN,Over 0.5 steals,STL,1.0,8 of 10,13 of 20,Mid (17th),1.62,,Defense 19 of 30,0.725,0.0,Pascal Siakam,1,Reach,IND at BKN|STL|Reach|All|3
-ALL|STL|Reach|All|27,D,Cason Wallace,OKC vs LAC,Over 1.5 steals,STL,2.1,8 of 10,14 of 20,Mid (15th),1.57,"big spread, game script risk",Defense 16 of 30,0.71,0.05,Cason Wallace,2,Reach,LAC at OKC|STL|Reach|All|4
-ALL|STL|Reach|All|28,D,Alex Caruso,OKC vs LAC,Over 0.5 steals,STL,1.2,8 of 10,14 of 20,Mid (15th),1.57,"big spread, game script risk",Defense 16 of 30,0.71,0.17,Alex Caruso,1,Reach,LAC at OKC|STL|Reach|All|5
-ALL|STL|Reach|All|29,D,Olivier-Maxence Prosper,MEM at SAC,Over 0.5 steals,STL,1.3,8 of 10,14 of 20,Mid (9th),1.57,"last season stats, check roster",Defense 22 of 30,0.71,0.23,Olivier-Maxence Prosper,1,Reach,MEM at SAC|STL|Reach|All|4
-ALL|STL|Reach|All|30,D,Bez Mbeng,UTAH vs LAL,Over 1.5 steals,STL,2.3,7 of 10,10 of 15,Soft (30th),1.72,"last season stats, check roster",Defense 10 of 30,0.693,0.12,Bez Mbeng,2,Reach,LAL at UTAH|STL|Reach|All|5
-ALL|STL|Reach|All|31,D,Rui Hachimura,LAC at OKC,Over 0.5 steals,STL,0.9,8 of 10,13 of 20,Mid (20th),1.62,"big spread, game script risk",Defense 9 of 30,0.685,-0.11,Rui Hachimura,1,Reach,LAC at OKC|STL|Reach|All|6
-ALL|STL|Reach|All|32,D,Franz Wagner,ORL at NY,Over 0.5 steals,STL,1.0,8 of 10,12 of 20,Tough (8th),1.68,tough matchup,Defense 1 of 30,0.66,0.0,Franz Wagner,1,Reach,ORL at NY|STL|Reach|All|4
-ALL|STL|Reach|All|33,D,Josh Minott,BKN vs IND,Over 0.5 steals,STL,1.0,8 of 10,12 of 20,Mid (17th),1.68,B2B,Defense 21 of 30,0.66,0.0,Josh Minott,1,Reach,IND at BKN|STL|Reach|All|4
-ALL|STL|Reach|All|34,D,Taelon Peter,IND at BKN,Over 0.5 steals,STL,1.2,7 of 10,14 of 20,Mid (20th),1.68,"last season stats, check roster",Defense 19 of 30,0.66,0.17,Taelon Peter,1,Reach,IND at BKN|STL|Reach|All|5
-ALL|STL|Reach|All|35,D,Taylor Hendricks,MEM at SAC,Over 0.5 steals,STL,1.5,7 of 10,14 of 20,Mid (9th),1.68,"last season stats, check roster",Defense 22 of 30,0.66,0.33,Taylor Hendricks,1,Reach,MEM at SAC|STL|Reach|All|5
-ALL|STL|Reach|All|36,D,Tyler Burton,MEM at SAC,Over 0.5 steals,STL,0.9,7 of 10,8 of 12,Mid (9th),1.72,"last season stats, check roster",Defense 22 of 30,0.643,-0.09,Tyler Burton,1,Reach,MEM at SAC|STL|Reach|All|6
-ALL|STL|Reach|All|37,D,Jahmai Mashack,MEM at SAC,Over 0.5 steals,STL,1.1,7 of 10,13 of 20,Mid (22nd),1.74,"last season stats, check roster",Defense 22 of 30,0.635,0.09,Jahmai Mashack,1,Reach,
-ALL|STL|Reach|All|38,D,Michael Porter Jr.,BKN vs IND,Over 0.5 steals,STL,1.4,7 of 10,13 of 20,Mid (17th),1.74,B2B,Defense 21 of 30,0.635,0.26,Michael Porter Jr.,1,Reach,IND at BKN|STL|Reach|All|6
-ALL|STL|Reach|All|39,D,Chaney Johnson,BKN vs IND,Over 0.5 steals,STL,0.9,7 of 10,12 of 19,Mid (17th),1.77,B2B,Defense 21 of 30,0.626,-0.12,Chaney Johnson,1,Reach,
-ALL|STL|Reach|All|40,D,Isaiah Jackson,LAC at OKC,Over 0.5 steals,STL,0.8,7 of 10,12 of 20,Mid (20th),1.81,"big spread, game script risk",Defense 9 of 30,0.61,-0.33,Isaiah Jackson,1,Reach,
+ALL|STL|Reach|All|22,C,LeBron James,PHI vs DET,Over 0.5 steals,STL,1.5,7 of 10,16 of 20,Mid (14th),1.57,B2B 3in4; questionable,Defense 4 of 30,0.67,0.33,LeBron James,1,Reach,DET at PHI|STL|Reach|All|3
+ALL|STL|Reach|All|23,C,Kris Dunn,LAC at OKC,Over 1.5 steals,STL,1.9,7 of 10,15 of 20,Tough (4th),1.62,"tough matchup; big spread, game script risk",Defense 9 of 30,0.645,-0.03,Kris Dunn,2,Reach,LAC at OKC|STL|Reach|All|3
+ALL|STL|Reach|All|24,D,Elijah Harkless,UTAH vs LAL,Over 0.5 steals,STL,1.4,8 of 10,14 of 20,Soft (30th),1.57,"last season stats, check roster",Defense 10 of 30,0.76,0.29,Elijah Harkless,1,Reach,LAL at UTAH|STL|Reach|All|4
+ALL|STL|Reach|All|25,D,Daeqwon Plowden,SAC vs MEM,Over 0.5 steals,STL,0.9,7 of 10,14 of 20,Soft (28th),1.68,,Defense 28 of 30,0.75,-0.05,Daeqwon Plowden,1,Reach,MEM at SAC|STL|Reach|All|3
+ALL|STL|Reach|All|26,D,Cade Cunningham,DET at PHI,Over 0.5 steals,STL,1.1,8 of 10,14 of 20,Mid (17th),1.57,,Defense 11 of 30,0.75,0.09,Cade Cunningham,1,Reach,DET at PHI|STL|Reach|All|4
+ALL|STL|Reach|All|27,D,Pascal Siakam,IND at BKN,Over 0.5 steals,STL,1.0,8 of 10,13 of 20,Mid (17th),1.62,,Defense 19 of 30,0.725,0.0,Pascal Siakam,1,Reach,IND at BKN|STL|Reach|All|3
+ALL|STL|Reach|All|28,D,Cason Wallace,OKC vs LAC,Over 1.5 steals,STL,2.1,8 of 10,14 of 20,Mid (15th),1.57,"big spread, game script risk",Defense 16 of 30,0.71,0.05,Cason Wallace,2,Reach,LAC at OKC|STL|Reach|All|4
+ALL|STL|Reach|All|29,D,Alex Caruso,OKC vs LAC,Over 0.5 steals,STL,1.2,8 of 10,14 of 20,Mid (15th),1.57,"big spread, game script risk",Defense 16 of 30,0.71,0.17,Alex Caruso,1,Reach,LAC at OKC|STL|Reach|All|5
+ALL|STL|Reach|All|30,D,Olivier-Maxence Prosper,MEM at SAC,Over 0.5 steals,STL,1.3,8 of 10,14 of 20,Mid (9th),1.57,"last season stats, check roster",Defense 22 of 30,0.71,0.23,Olivier-Maxence Prosper,1,Reach,MEM at SAC|STL|Reach|All|4
+ALL|STL|Reach|All|31,D,Bez Mbeng,UTAH vs LAL,Over 1.5 steals,STL,2.3,7 of 10,10 of 15,Soft (30th),1.72,"last season stats, check roster",Defense 10 of 30,0.693,0.12,Bez Mbeng,2,Reach,LAL at UTAH|STL|Reach|All|5
+ALL|STL|Reach|All|32,D,Rui Hachimura,LAC at OKC,Over 0.5 steals,STL,0.9,8 of 10,13 of 20,Mid (20th),1.62,"big spread, game script risk",Defense 9 of 30,0.685,-0.11,Rui Hachimura,1,Reach,LAC at OKC|STL|Reach|All|6
+ALL|STL|Reach|All|33,D,Franz Wagner,ORL at NY,Over 0.5 steals,STL,1.0,8 of 10,12 of 20,Tough (8th),1.68,tough matchup,Defense 1 of 30,0.66,0.0,Franz Wagner,1,Reach,ORL at NY|STL|Reach|All|4
+ALL|STL|Reach|All|34,D,Josh Minott,BKN vs IND,Over 0.5 steals,STL,1.0,8 of 10,12 of 20,Mid (17th),1.68,B2B,Defense 21 of 30,0.66,0.0,Josh Minott,1,Reach,IND at BKN|STL|Reach|All|4
+ALL|STL|Reach|All|35,D,Taelon Peter,IND at BKN,Over 0.5 steals,STL,1.2,7 of 10,14 of 20,Mid (20th),1.68,"last season stats, check roster",Defense 19 of 30,0.66,0.17,Taelon Peter,1,Reach,IND at BKN|STL|Reach|All|5
+ALL|STL|Reach|All|36,D,Taylor Hendricks,MEM at SAC,Over 0.5 steals,STL,1.5,7 of 10,14 of 20,Mid (9th),1.68,"last season stats, check roster",Defense 22 of 30,0.66,0.33,Taylor Hendricks,1,Reach,MEM at SAC|STL|Reach|All|5
+ALL|STL|Reach|All|37,D,Tyler Burton,MEM at SAC,Over 0.5 steals,STL,0.9,7 of 10,8 of 12,Mid (9th),1.72,"last season stats, check roster",Defense 22 of 30,0.643,-0.09,Tyler Burton,1,Reach,MEM at SAC|STL|Reach|All|6
+ALL|STL|Reach|All|38,D,Jahmai Mashack,MEM at SAC,Over 0.5 steals,STL,1.1,7 of 10,13 of 20,Mid (22nd),1.74,"last season stats, check roster",Defense 22 of 30,0.635,0.09,Jahmai Mashack,1,Reach,
+ALL|STL|Reach|All|39,D,Michael Porter Jr.,BKN vs IND,Over 0.5 steals,STL,1.4,7 of 10,13 of 20,Mid (17th),1.74,B2B,Defense 21 of 30,0.635,0.26,Michael Porter Jr.,1,Reach,IND at BKN|STL|Reach|All|6
+ALL|STL|Reach|All|40,D,Chaney Johnson,BKN vs IND,Over 0.5 steals,STL,0.9,7 of 10,12 of 19,Mid (17th),1.77,B2B,Defense 21 of 30,0.626,-0.12,Chaney Johnson,1,Reach,
 ALL|THREES|Reach|All|1,A,Ty Jerome,MEM at SAC,Over 1.5 threes,THREES,2.9,10 of 10,17 of 17,Soft (30th),1.22,,Defense 22 of 30,1.05,0.32,Ty Jerome,2,Reach,MEM at SAC|THREES|Reach|All|1
 ALL|THREES|Reach|All|2,B,Luka Doncic,LAL at UTAH,Over 2.5 threes,THREES,4.6,8 of 10,18 of 20,Soft (29th),1.38,,Defense 30 of 30,0.9,0.35,Luka Doncic,3,Reach,LAL at UTAH|THREES|Reach|All|1
 ALL|THREES|Reach|All|3,C,Blake Hinson,UTAH vs LAL,Over 1.5 threes,THREES,2.6,10 of 10,13 of 14,Tough (3rd),1.22,"tough matchup; last season stats, check roster",Defense 10 of 30,0.884,0.24,Blake Hinson,2,Reach,LAL at UTAH|THREES|Reach|All|2
@@ -2790,20 +2812,20 @@ ALL|THREES|Reach|All|26,C,Karl-Anthony Towns,NY vs ORL,Over 0.5 threes,THREES,1.
 ALL|THREES|Reach|All|27,C,Shai Gilgeous-Alexander,OKC vs LAC,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Mid (14th),1.62,"big spread, game script risk",Defense 16 of 30,0.685,0.33,Shai Gilgeous-Alexander,1,Reach,LAC at OKC|THREES|Reach|All|3
 ALL|THREES|Reach|All|28,C,Danny Wolf,BKN vs IND,Over 0.5 threes,THREES,1.4,7 of 10,16 of 20,Mid (21st),1.57,"B2B; last season stats, check roster",Defense 21 of 30,0.67,0.26,Danny Wolf,1,Reach,IND at BKN|THREES|Reach|All|4
 ALL|THREES|Reach|All|29,C,Jaylin Williams,OKC vs LAC,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Tough (8th),1.62,"tough matchup; big spread, game script risk",Defense 16 of 30,0.645,0.13,Jaylin Williams,1,Reach,LAC at OKC|THREES|Reach|All|4
-ALL|THREES|Reach|All|30,D,Javon Small,MEM at SAC,Over 1.5 threes,THREES,2.0,9 of 10,14 of 20,Soft (30th),1.47,"last season stats, check roster",Defense 22 of 30,0.81,0.0,Javon Small,2,Reach,
-ALL|THREES|Reach|All|31,D,De'Andre Hunter,SAC vs MEM,Over 0.5 threes,THREES,1.3,8 of 10,13 of 20,Soft (27th),1.62,,Defense 28 of 30,0.775,0.23,De'Andre Hunter,1,Reach,
-ALL|THREES|Reach|All|32,D,Rayan Rupert,MEM at SAC,Over 0.5 threes,THREES,1.1,8 of 10,14 of 20,Soft (30th),1.57,"last season stats, check roster",Defense 22 of 30,0.76,0.13,Rayan Rupert,1,Reach,
-ALL|THREES|Reach|All|33,D,Josh Minott,BKN vs IND,Over 0.5 threes,THREES,1.6,9 of 10,14 of 20,Mid (21st),1.47,B2B,Defense 21 of 30,0.76,0.35,Josh Minott,1,Reach,IND at BKN|THREES|Reach|All|5
-ALL|THREES|Reach|All|34,D,Landry Shamet,NY vs ORL,Over 0.5 threes,THREES,1.4,8 of 10,14 of 20,Mid (12th),1.57,,Defense 4 of 30,0.75,0.29,Landry Shamet,1,Reach,ORL at NY|THREES|Reach|All|3
-ALL|THREES|Reach|All|35,D,Cade Cunningham,DET at PHI,Over 1.5 threes,THREES,2.0,8 of 10,13 of 20,Mid (19th),1.62,,Defense 11 of 30,0.725,0.02,Cade Cunningham,2,Reach,DET at PHI|THREES|Reach|All|4
-ALL|THREES|Reach|All|36,D,Jaren Jackson Jr.,UTAH vs LAL,Over 1.5 threes,THREES,1.9,8 of 10,14 of 20,Tough (3rd),1.57,tough matchup,Defense 10 of 30,0.71,-0.05,Jaren Jackson Jr.,2,Reach,LAL at UTAH|THREES|Reach|All|6
-ALL|THREES|Reach|All|37,D,Svi Mykhailiuk,UTAH vs LAL,Over 1.5 threes,THREES,2.0,8 of 10,12 of 20,Mid (16th),1.68,,Defense 10 of 30,0.7,0.0,Svi Mykhailiuk,2,Reach,
-ALL|THREES|Reach|All|38,D,Quentin Grimes,LAL at UTAH,Over 0.5 threes,THREES,1.1,7 of 10,12 of 20,Soft (29th),1.81,,Defense 30 of 30,0.7,0.13,Quentin Grimes,1,Reach,
-ALL|THREES|Reach|All|39,D,Jaden Hardy,LAL at UTAH,Over 1.5 threes,THREES,2.4,7 of 10,12 of 20,Soft (29th),1.81,,Defense 30 of 30,0.7,0.15,Jaden Hardy,2,Reach,
-ALL|THREES|Reach|All|40,D,Jalen Brunson,NY vs ORL,Over 1.5 threes,THREES,2.4,7 of 10,14 of 20,Mid (12th),1.68,,Defense 4 of 30,0.7,0.17,Jalen Brunson,2,Reach,ORL at NY|THREES|Reach|All|4
+ALL|THREES|Reach|All|30,C,LeBron James,PHI vs DET,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Tough (5th),1.62,tough matchup; B2B 3in4; questionable,Defense 4 of 30,0.605,0.26,LeBron James,1,Reach,DET at PHI|THREES|Reach|All|4
+ALL|THREES|Reach|All|31,D,Javon Small,MEM at SAC,Over 1.5 threes,THREES,2.0,9 of 10,14 of 20,Soft (30th),1.47,"last season stats, check roster",Defense 22 of 30,0.81,0.0,Javon Small,2,Reach,
+ALL|THREES|Reach|All|32,D,De'Andre Hunter,SAC vs MEM,Over 0.5 threes,THREES,1.3,8 of 10,13 of 20,Soft (27th),1.62,,Defense 28 of 30,0.775,0.23,De'Andre Hunter,1,Reach,
+ALL|THREES|Reach|All|33,D,Rayan Rupert,MEM at SAC,Over 0.5 threes,THREES,1.1,8 of 10,14 of 20,Soft (30th),1.57,"last season stats, check roster",Defense 22 of 30,0.76,0.13,Rayan Rupert,1,Reach,
+ALL|THREES|Reach|All|34,D,Josh Minott,BKN vs IND,Over 0.5 threes,THREES,1.6,9 of 10,14 of 20,Mid (21st),1.47,B2B,Defense 21 of 30,0.76,0.35,Josh Minott,1,Reach,IND at BKN|THREES|Reach|All|5
+ALL|THREES|Reach|All|35,D,Landry Shamet,NY vs ORL,Over 0.5 threes,THREES,1.4,8 of 10,14 of 20,Mid (12th),1.57,,Defense 4 of 30,0.75,0.29,Landry Shamet,1,Reach,ORL at NY|THREES|Reach|All|3
+ALL|THREES|Reach|All|36,D,Cade Cunningham,DET at PHI,Over 1.5 threes,THREES,2.0,8 of 10,13 of 20,Mid (19th),1.62,,Defense 11 of 30,0.725,0.02,Cade Cunningham,2,Reach,DET at PHI|THREES|Reach|All|5
+ALL|THREES|Reach|All|37,D,Jaren Jackson Jr.,UTAH vs LAL,Over 1.5 threes,THREES,1.9,8 of 10,14 of 20,Tough (3rd),1.57,tough matchup,Defense 10 of 30,0.71,-0.05,Jaren Jackson Jr.,2,Reach,LAL at UTAH|THREES|Reach|All|6
+ALL|THREES|Reach|All|38,D,Svi Mykhailiuk,UTAH vs LAL,Over 1.5 threes,THREES,2.0,8 of 10,12 of 20,Mid (16th),1.68,,Defense 10 of 30,0.7,0.0,Svi Mykhailiuk,2,Reach,
+ALL|THREES|Reach|All|39,D,Quentin Grimes,LAL at UTAH,Over 0.5 threes,THREES,1.1,7 of 10,12 of 20,Soft (29th),1.81,,Defense 30 of 30,0.7,0.13,Quentin Grimes,1,Reach,
+ALL|THREES|Reach|All|40,D,Jaden Hardy,LAL at UTAH,Over 1.5 threes,THREES,2.4,7 of 10,12 of 20,Soft (29th),1.81,,Defense 30 of 30,0.7,0.15,Jaden Hardy,2,Reach,
+,D,Jalen Brunson,NY vs ORL,Over 1.5 threes,THREES,2.4,7 of 10,14 of 20,Mid (12th),1.68,,Defense 4 of 30,0.7,0.17,Jalen Brunson,2,Reach,ORL at NY|THREES|Reach|All|4
 ,D,Michael Porter Jr.,BKN vs IND,Over 1.5 threes,THREES,2.9,8 of 10,13 of 20,Mid (21st),1.62,B2B,Defense 21 of 30,0.685,0.3,Michael Porter Jr.,2,Reach,IND at BKN|THREES|Reach|All|6
 ,D,Franz Wagner,ORL at NY,Over 0.5 threes,THREES,1.1,7 of 10,13 of 20,Mid (13th),1.74,,Defense 1 of 30,0.675,0.13,Franz Wagner,1,Reach,ORL at NY|THREES|Reach|All|5
-,D,Jaylen Brown,PHI vs DET,Over 1.5 threes,THREES,2.2,7 of 10,14 of 20,Mid (19th),1.68,B2B 3in4,Defense 4 of 30,0.66,0.09,Jaylen Brown,2,Reach,DET at PHI|THREES|Reach|All|5
+,D,Jaylen Brown,PHI vs DET,Over 1.5 threes,THREES,2.2,7 of 10,14 of 20,Mid (19th),1.68,B2B 3in4,Defense 4 of 30,0.66,0.09,Jaylen Brown,2,Reach,DET at PHI|THREES|Reach|All|6
 ,D,Desmond Bane,ORL at NY,Over 1.5 threes,THREES,2.5,7 of 10,14 of 20,Tough (5th),1.68,tough matchup,Defense 1 of 30,0.66,0.22,Desmond Bane,2,Reach,ORL at NY|THREES|Reach|All|6
-,D,Kentavious Caldwell-Pope,PHI vs DET,Over 0.5 threes,THREES,0.9,7 of 10,12 of 20,Mid (19th),1.81,B2B 3in4,Defense 4 of 30,0.61,-0.11,Kentavious Caldwell-Pope,1,Reach,DET at PHI|THREES|Reach|All|6
 ,D,Jonathan Kuminga,MIN vs TOR,Over 0.5 threes,THREES,1.1,7 of 10,12 of 20,Tough (1st),1.81,tough matchup,Defense 7 of 30,0.61,0.09,Jonathan Kuminga,1,Reach,TOR at MIN|THREES|Reach|All|5

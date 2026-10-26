@@ -150,7 +150,7 @@ Sam Hauser,F,BOS,CHI,,PTS,5+,19,0.95,9.6
 Sam Hauser,F,BOS,CHI,,THREES,1+,19,0.95,2.6
 Brice Sensabaugh,F,UTAH,MEM,,REB,2+,18,0.95,3.7
 Bub Carrington,G,WSH,CHA,,THREES,1+,18,0.9,2.7
-Cason Wallace,G,OKC,PHX,Questionable,STL,1+,18,0.95,2.2
+Cason Wallace,G,OKC,PHX,Out,STL,1+,18,0.95,2.2
 Deandre Ayton,C,WSH,CHA,,REB,3+,18,0.95,7.7
 Jaren Jackson Jr.,F,UTAH,MEM,,PRA,20+,18,0.95,29.1
 Tre Jones,G,CHI,BOS,,REB,2+,18,0.95,3.8
@@ -195,7 +195,7 @@ Kon Knueppel,G,CHA,WSH,Out,REB,3+,15,0.9,5.3
 Naz Reid,C,CHA,WSH,Questionable,RA,5+,15,0.95,9.6
 T.J. McConnell,G,IND,MIL,Out,AST,3+,15,0.9,6.2
 T.J. McConnell,G,IND,MIL,Out,RA,5+,15,0.85,8.5
-Anthony Edwards,G,MIN,CLE,,THREES,1+,14,0.95,2.6
+Anthony Edwards,G,MIN,CLE,Questionable,THREES,1+,14,0.95,2.6
 Brandin Podziemski,G,GS,DEN,,PTS,10+,14,0.95,19.9
 Brandin Podziemski,G,GS,DEN,,PRA,15+,14,0.95,28.1
 Brandin Podziemski,G,GS,DEN,,PR,10+,14,0.95,25.0
@@ -212,8 +212,8 @@ Steven Adams,C,HOU,ATL,Out,REB,2+,14,0.95,8.2
 Ty Jerome,G,MEM,UTAH,,PRA,20+,14,0.94,31.8
 Ty Jerome,G,MEM,UTAH,,PR,15+,14,0.94,26.1
 AJ Green,G,MIL,IND,,THREES,2+,13,0.9,4.2
-Aaron Nesmith,G,IND,MIL,,PTS,5+,13,0.9,15.7
-Aaron Nesmith,G,IND,MIL,,THREES,1+,13,0.9,2.5
+Aaron Nesmith,G,IND,MIL,Questionable,PTS,5+,13,0.9,15.7
+Aaron Nesmith,G,IND,MIL,Questionable,THREES,1+,13,0.9,2.5
 Dillon Brooks,F,PHX,OKC,,PTS,10+,13,0.9,18.5
 Dillon Brooks,F,PHX,OKC,,PA,10+,13,0.9,20.7
 Evan Mobley,C,CLE,MIN,,PTS,10+,13,0.95,17.5
@@ -237,9 +237,9 @@ Sion James,G,CHA,WSH,,REB,2+,13,0.85,3.9
 Trae Young,G,WSH,CHA,,AST,5+,13,0.94,8.8
 Trae Young,G,WSH,CHA,,PA,15+,13,0.94,27.8
 Trae Young,G,WSH,CHA,,RA,5+,13,0.94,10.8
-Andrew Nembhard,G,IND,MIL,,PRA,15+,12,0.9,26.8
-Andrew Nembhard,G,IND,MIL,,PR,10+,12,0.9,18.2
-Andrew Nembhard,G,IND,MIL,,PA,15+,12,0.85,24.4
+Andrew Nembhard,G,IND,MIL,Questionable,PRA,15+,12,0.9,26.8
+Andrew Nembhard,G,IND,MIL,Questionable,PR,10+,12,0.9,18.2
+Andrew Nembhard,G,IND,MIL,Questionable,PA,15+,12,0.85,24.4
 Bobby Portis,F,MIA,DAL,,REB,4+,12,0.85,6.7
 Evan Mobley,C,CLE,MIN,,AST,2+,12,0.9,3.8
 Guerschon Yabusele,F,CHI,BOS,Check roster,PTS,5+,12,0.9,9.8
@@ -315,8 +315,8 @@ Tristan Vukcevic,F,WSH,CHA,Out,PR,10+,10,0.95,17.3
 Tyler Burton,F,MEM,UTAH,Check roster,PTS,5+,10,0.83,12.2
 Tyler Herro,G,MIL,IND,,PRA,20+,10,0.95,30.6
 Tyler Herro,G,MIL,IND,,PR,15+,10,0.95,25.2
-Andrew Nembhard,G,IND,MIL,,AST,3+,9,0.9,9.3
-Anthony Edwards,G,MIN,CLE,,PR,15+,9,0.9,30.3
+Andrew Nembhard,G,IND,MIL,Questionable,AST,3+,9,0.9,9.3
+Anthony Edwards,G,MIN,CLE,Questionable,PR,15+,9,0.9,30.3
 Draymond Green,F,GS,DEN,,AST,6+,9,0.75,7.7
 Draymond Green,F,GS,DEN,,RA,5+,9,0.95,12.9
 Elijah Harkless,G,UTAH,MEM,Check roster,AST,2+,9,0.8,4.6
@@ -352,14 +352,14 @@ Obi Toppin,F,IND,MIL,,PR,10+,9,0.9,21.8
 Olivier-Maxence Prosper,F,MEM,UTAH,Check roster,REB,3+,9,0.75,4.8
 Onyeka Okongwu,F,ATL,HOU,,PRA,15+,9,0.9,20.0
 Onyeka Okongwu,F,ATL,HOU,,PR,10+,9,0.95,17.3
-Oso Ighodaro,F,PHX,OKC,Questionable,PRA,10+,9,0.95,16.4
-Oso Ighodaro,F,PHX,OKC,Questionable,RA,5+,9,0.95,9.7
+Oso Ighodaro,F,PHX,OKC,Out,PRA,10+,9,0.95,16.4
+Oso Ighodaro,F,PHX,OKC,Out,RA,5+,9,0.95,9.7
 Pascal Siakam,F,IND,MIL,,REB,3+,9,0.95,6.7
 Ty Jerome,G,MEM,UTAH,,PTS,15+,9,0.89,25.3
 Ty Jerome,G,MEM,UTAH,,PA,20+,9,0.89,31.4
 Zaccharie Risacher,F,DAL,MIA,,REB,2+,9,0.95,4.4
 Adama Bal,G,MEM,UTAH,Check roster,REB,2+,8,1.0,3.1
-Andrew Nembhard,G,IND,MIL,,PTS,10+,8,0.85,16.0
+Andrew Nembhard,G,IND,MIL,Questionable,PTS,10+,8,0.85,16.0
 Collin Gillespie,G,PHX,OKC,,STL,1+,8,0.8,1.6
 Cormac Ryan,G,MIL,IND,Check roster,PTS,10+,8,0.73,18.8
 Dillon Brooks,F,PHX,OKC,,THREES,1+,8,0.95,2.6
@@ -372,7 +372,7 @@ Jalen Green,G,PHX,OKC,,PRA,15+,8,0.9,30.0
 Jalen Green,G,PHX,OKC,,PR,10+,8,0.9,27.0
 Jalen Green,G,PHX,OKC,,PA,10+,8,0.95,25.5
 Jamal Murray,G,DEN,GS,,REB,3+,8,0.85,5.5
-Jaxson Hayes,C,UTAH,MEM,,REB,2+,8,0.85,4.4
+Jaxson Hayes,C,UTAH,MEM,Questionable,REB,2+,8,0.85,4.4
 Jonathan Kuminga,F,MIN,CLE,,PTS,10+,8,0.75,13.8
 Jonathan Kuminga,F,MIN,CLE,,PA,10+,8,0.75,15.5
 Justin Champagnie,F,WSH,CHA,,REB,6+,8,0.5,8.4
@@ -387,11 +387,11 @@ Trae Young,G,WSH,CHA,,PTS,10+,8,0.83,17.9
 Trae Young,G,WSH,CHA,,PRA,20+,8,0.83,28.5
 Tyler Burton,F,MEM,UTAH,Check roster,THREES,1+,8,0.92,2.4
 Zach Collins,F,CHI,BOS,,REB,3+,8,0.92,5.5
-Zach Edey,C,MEM,UTAH,Questionable,PTS,5+,8,0.92,14.1
-Zach Edey,C,MEM,UTAH,Questionable,REB,8+,8,0.77,12.9
-Zach Edey,C,MEM,UTAH,Questionable,PRA,15+,8,0.92,28.2
-Zach Edey,C,MEM,UTAH,Questionable,PR,15+,8,0.92,27.0
-Zach Edey,C,MEM,UTAH,Questionable,RA,5+,8,0.85,14.1
+Zach Edey,C,MEM,UTAH,,PTS,5+,8,0.92,14.1
+Zach Edey,C,MEM,UTAH,,REB,8+,8,0.77,12.9
+Zach Edey,C,MEM,UTAH,,PRA,15+,8,0.92,28.2
+Zach Edey,C,MEM,UTAH,,PR,15+,8,0.92,27.0
+Zach Edey,C,MEM,UTAH,,RA,5+,8,0.85,14.1
 Ace Bailey,G,UTAH,MEM,,REB,3+,7,0.75,6.7
 Alex Sarr,C,WSH,CHA,,RA,5+,7,0.95,8.6
 Anthony Davis,F,WSH,CHA,,PTS,5+,7,0.85,20.1

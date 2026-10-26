@@ -1,19 +1,4 @@
 Team,Pos,Player,Status,Injury,Practice
-KC,RB,Brashard Smith,Out,Hamstring,Did Not Participate In Practice
-KC,T,Jaylon Moore,Out,Concussion,Did Not Participate In Practice
-KC,WR,Rashee Rice,Out,Hamstring,Did Not Participate In Practice
-KC,CB,L'Jarius Sneed,Questionable,Knee,Limited Participation in Practice
-KC,LB,Cooper McDonald,Questionable,Knee,Limited Participation in Practice
-KC,T,Josh Simmons,DNP,,Did Not Participate In Practice
-KC,TE,Travis Kelce,Limited,,Limited Participation in Practice
-SEA,LB,Chazz Surratt,Out,Calf,Did Not Participate In Practice
-SEA,LB,Drake Thomas,Out,Ankle,Did Not Participate In Practice
-SEA,RB,Zach Charbonnet,Out,Knee,Full Participation in Practice
-SEA,LB,Connor O'Toole,Questionable,Hamstring,Limited Participation in Practice
-SEA,LB,DeMarcus Lawrence,Questionable,Knee,Limited Participation in Practice
-SEA,LB,Uchenna Nwosu,Questionable,Hip,Limited Participation in Practice
-SEA,QB,Drew Lock,Questionable,Elbow,Limited Participation in Practice
-SEA,S,Nick Emmanwori,Questionable,Hip,Limited Participation in Practice
 DAL,LB,Dee Winters,Out,Calf,Did Not Participate In Practice
 DAL,T,Drew Shelton,Out,Hamstring,Did Not Participate In Practice
 DAL,WR,KaVontae Turpin,Out,Ribs,Did Not Participate In Practice
@@ -115,6 +100,13 @@ IND,LB,Bryce Boettcher,Questionable,Groin,Did Not Participate In Practice
 IND,DT,DeForest Buckner,DNP,,Did Not Participate In Practice
 IND,P,Rigoberto Sanchez,DNP,,Did Not Participate In Practice
 IND,LB,Austin Ajiake,Limited,,Limited Participation in Practice
+KC,RB,Brashard Smith,Out,Hamstring,Did Not Participate In Practice
+KC,T,Jaylon Moore,Out,Concussion,Did Not Participate In Practice
+KC,WR,Rashee Rice,Out,Hamstring,Did Not Participate In Practice
+KC,CB,L'Jarius Sneed,Questionable,Knee,Limited Participation in Practice
+KC,LB,Cooper McDonald,Questionable,Knee,Limited Participation in Practice
+KC,T,Josh Simmons,DNP,,Did Not Participate In Practice
+KC,TE,Travis Kelce,Limited,,Limited Participation in Practice
 LA,LB,Nate Landman,Out,Concussion,Did Not Participate In Practice
 LA,CB,Trent McDuffie,Questionable,Groin,Did Not Participate In Practice
 LA,WR,Puka Nacua,Questionable,Calf,Did Not Participate In Practice
@@ -166,6 +158,14 @@ PIT,WR,Ben Skowronek,Out,Calf,Did Not Participate In Practice
 PIT,RB,Rico Dowdle,Questionable,Knee,Limited Participation in Practice
 PIT,S,DeShon Elliott,Questionable,Knee,Full Participation in Practice
 PIT,DE,Sebastian Joseph-Day,DNP,,Did Not Participate In Practice
+SEA,LB,Chazz Surratt,Out,Calf,Did Not Participate In Practice
+SEA,LB,Drake Thomas,Out,Ankle,Did Not Participate In Practice
+SEA,RB,Zach Charbonnet,Out,Knee,Full Participation in Practice
+SEA,LB,Connor O'Toole,Questionable,Hamstring,Limited Participation in Practice
+SEA,LB,DeMarcus Lawrence,Questionable,Knee,Limited Participation in Practice
+SEA,LB,Uchenna Nwosu,Questionable,Hip,Limited Participation in Practice
+SEA,QB,Drew Lock,Questionable,Elbow,Limited Participation in Practice
+SEA,S,Nick Emmanwori,Questionable,Hip,Limited Participation in Practice
 SF,DE,Nick Bosa,Out,Knee,Did Not Participate In Practice
 SF,LB,Garret Wallow,Out,Hamstring,Did Not Participate In Practice
 SF,LB,Luke Gifford,Out,Groin,Did Not Participate In Practice

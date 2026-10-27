@@ -7,7 +7,7 @@ Victor Wembanyama,F,SA,SAC,,RA,5+,90,1.0,14.2
 Devin Vassell,G,SA,SAC,,PTS,5+,84,1.0,13.5
 Jalen Duren,C,DET,NY,Out,REB,2+,84,1.0,10.2
 Mitchell Robinson,C,BOS,BKN,,REB,3+,81,1.0,8.0
-Derrick White,G,BOS,BKN,,PRA,10+,80,1.0,25.6
+Derrick White,G,BOS,BKN,Questionable,PRA,10+,80,1.0,25.6
 De'Aaron Fox,G,SA,SAC,,PA,10+,78,1.0,22.9
 Donovan Clingan,C,POR,LAL,,RA,5+,78,1.0,13.6
 Stephon Castle,G,SA,SAC,,RA,5+,74,1.0,12.3
@@ -22,7 +22,7 @@ Paul George,F,BOS,BKN,,PTS,5+,52,1.0,17.4
 Paul George,F,BOS,BKN,,PRA,10+,52,1.0,25.9
 Stephon Castle,G,SA,SAC,,PRA,15+,51,1.0,29.8
 Stephon Castle,G,SA,SAC,,PA,10+,51,1.0,24.4
-Derrick White,G,BOS,BKN,,PTS,5+,46,1.0,14.2
+Derrick White,G,BOS,BKN,Questionable,PTS,5+,46,1.0,14.2
 Jalen Brunson,G,NY,DET,,PA,20+,45,1.0,32.7
 Russell Westbrook,G,SAC,SA,Check roster,PTS,5+,43,1.0,16.0
 Danny Wolf,F,BKN,BOS,,REB,2+,42,1.0,5.3
@@ -212,8 +212,8 @@ Deni Avdija,F,POR,LAL,,PTS,15+,5,0.95,22.2
 Deni Avdija,F,POR,LAL,,PRA,25+,5,0.95,33.6
 Deni Avdija,F,POR,LAL,,PR,25+,5,0.85,28.6
 Deni Avdija,F,POR,LAL,,PA,20+,5,0.95,27.2
-Derrick White,G,BOS,BKN,,THREES,1+,5,0.8,2.8
-Derrick White,G,BOS,BKN,,PR,10+,5,0.95,17.8
+Derrick White,G,BOS,BKN,Questionable,THREES,1+,5,0.8,2.8
+Derrick White,G,BOS,BKN,Questionable,PR,10+,5,0.95,17.8
 Duncan Robinson,F,DET,NY,,PTS,10+,5,0.8,17.2
 Duncan Robinson,F,DET,NY,,THREES,3+,5,0.8,4.4
 Duncan Robinson,F,DET,NY,,PRA,15+,5,0.75,21.0

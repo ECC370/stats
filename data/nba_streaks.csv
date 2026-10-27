@@ -1,401 +1,264 @@
 Player,Pos,Team,Opp,Status,Stat,Line,Streak,L20 hit,Avg in streak
-Rudy Gobert,C,MIN,CLE,,REB,3+,90,1.0,11.2
-James Harden,G,CLE,MIN,,PRA,15+,87,1.0,34.9
-James Harden,G,CLE,MIN,,PA,10+,87,1.0,30.1
-Nickeil Alexander-Walker,G,ATL,HOU,,PRA,10+,87,1.0,27.3
-Nickeil Alexander-Walker,G,ATL,HOU,,PR,10+,87,1.0,23.7
-Nickeil Alexander-Walker,G,ATL,HOU,,PA,10+,87,1.0,23.9
-Jabari Smith Jr.,F,HOU,ATL,,PRA,10+,86,1.0,24.7
-Jabari Smith Jr.,F,HOU,ATL,,PR,10+,86,1.0,22.9
-Shai Gilgeous-Alexander,G,OKC,PHX,,PTS,15+,86,1.0,30.4
-Shai Gilgeous-Alexander,G,OKC,PHX,,PRA,20+,86,1.0,41.2
-Shai Gilgeous-Alexander,G,OKC,PHX,,PR,15+,86,1.0,34.5
-Shai Gilgeous-Alexander,G,OKC,PHX,,PA,15+,86,1.0,37.1
-James Harden,G,CLE,MIN,,AST,2+,83,1.0,7.5
-Kon Knueppel,G,CHA,WSH,Out,PTS,5+,83,1.0,18.3
-Mitchell Robinson,C,BOS,CHI,,REB,3+,80,1.0,8.0
-Derrick White,G,BOS,CHI,,PRA,10+,79,1.0,25.7
-Kon Knueppel,G,CHA,WSH,Out,PRA,10+,78,1.0,27.3
-Kon Knueppel,G,CHA,WSH,Out,PR,10+,78,1.0,23.9
-CJ McCollum,G,ATL,HOU,,PTS,5+,77,1.0,19.4
-CJ McCollum,G,ATL,HOU,,PRA,10+,77,1.0,26.4
-Jarrett Allen,C,CLE,MIN,,REB,3+,73,1.0,8.2
-Draymond Green,F,GS,DEN,,REB,2+,72,1.0,5.4
-Nikola Jokic,C,DEN,GS,,PRA,25+,72,1.0,50.8
-Nikola Jokic,C,DEN,GS,,PA,15+,72,1.0,38.0
-Bam Adebayo,C,MIA,DAL,,REB,3+,69,1.0,10.0
-Bam Adebayo,C,MIA,DAL,,PRA,10+,69,1.0,32.8
-Brandon Miller,F,CHA,WSH,,PTS,5+,68,1.0,20.2
-Brandon Miller,F,CHA,WSH,,THREES,1+,64,1.0,3.2
-LaMelo Ball,G,MIN,CLE,,RA,5+,51,1.0,11.2
-Moussa Diabate,F,CHA,WSH,,RA,5+,51,1.0,11.8
-Paul George,F,BOS,CHI,,PTS,5+,51,1.0,17.5
-Paul George,F,BOS,CHI,,PRA,10+,51,1.0,25.9
-Miles Bridges,F,PHX,OKC,,PTS,5+,49,1.0,15.2
-Miles Bridges,F,PHX,OKC,,PRA,10+,49,1.0,23.5
-Isaiah Collier,G,UTAH,MEM,,PRA,10+,47,1.0,23.2
-Isaiah Collier,G,UTAH,MEM,,PA,10+,47,1.0,20.5
-Kelly Oubre Jr.,G,IND,MIL,,REB,2+,46,1.0,5.2
-Derrick White,G,BOS,CHI,,PTS,5+,45,1.0,14.4
-Jaime Jaquez Jr.,F,MIL,IND,,RA,5+,43,1.0,10.0
-LaMelo Ball,G,MIN,CLE,,PTS,10+,43,1.0,20.6
-LaMelo Ball,G,MIN,CLE,,PRA,20+,43,1.0,31.8
-LaMelo Ball,G,MIN,CLE,,PA,15+,43,1.0,27.4
-Isaiah Collier,G,UTAH,MEM,,PTS,5+,42,1.0,13.0
-LaMelo Ball,G,MIN,CLE,,PR,15+,40,1.0,25.5
-Nikola Jokic,C,DEN,GS,,REB,7+,40,1.0,13.5
-Evan Mobley,C,CLE,MIN,,RA,5+,38,1.0,12.6
-Gui Santos,F,GS,DEN,Questionable,PRA,10+,38,1.0,23.5
-Kevin Porter Jr.,G,MIL,IND,Check roster,AST,2+,38,1.0,7.4
-Ryan Rollins,G,MIL,IND,,PTS,5+,38,1.0,17.6
-Grayson Allen,G,CHA,WSH,,PTS,5+,37,1.0,16.7
-Tyler Herro,G,MIL,IND,,PTS,5+,37,1.0,20.8
-Tyler Herro,G,MIL,IND,,REB,2+,37,1.0,4.7
-Tyler Herro,G,MIL,IND,,PA,10+,37,1.0,25.1
-GG Jackson,F,MEM,UTAH,,REB,3+,36,1.0,5.2
-Lauri Markkanen,F,UTAH,MEM,,PTS,15+,36,1.0,25.8
-Lauri Markkanen,F,UTAH,MEM,,REB,3+,36,1.0,7.1
-Lauri Markkanen,F,UTAH,MEM,,THREES,1+,36,1.0,2.7
-Lauri Markkanen,F,UTAH,MEM,,PR,20+,36,1.0,32.9
-Lauri Markkanen,F,UTAH,MEM,,PA,15+,36,1.0,28.0
-Lauri Markkanen,F,UTAH,MEM,,RA,5+,36,1.0,9.3
-Nickeil Alexander-Walker,G,ATL,HOU,,THREES,1+,36,1.0,3.4
-Kevin Durant,F,HOU,ATL,,RA,5+,35,1.0,10.7
-Stephen Curry,G,GS,DEN,,THREES,2+,35,1.0,4.4
-Jaime Jaquez Jr.,F,MIL,IND,,AST,2+,33,1.0,4.7
-Amen Thompson,G,HOU,ATL,,PRA,25+,32,1.0,33.8
-Amen Thompson,G,HOU,ATL,,PR,20+,32,1.0,28.4
-Amen Thompson,G,HOU,ATL,,PA,15+,32,1.0,25.5
-Cooper Flagg,F,DAL,MIA,Questionable,PTS,10+,32,1.0,24.0
-Cooper Flagg,F,DAL,MIA,Questionable,PRA,15+,32,1.0,35.9
-Cooper Flagg,F,DAL,MIA,Questionable,PR,10+,32,1.0,31.0
-Cooper Flagg,F,DAL,MIA,Questionable,PA,10+,32,1.0,28.9
-Cooper Flagg,F,DAL,MIA,Questionable,RA,5+,32,1.0,12.0
-Pascal Siakam,F,IND,MIL,,RA,5+,32,1.0,10.4
-Tyler Herro,G,MIL,IND,,RA,5+,32,1.0,9.3
-LaMelo Ball,G,MIN,CLE,,THREES,2+,31,1.0,4.3
-Tyler Herro,G,MIL,IND,,THREES,1+,31,1.0,2.6
-Matas Buzelis,F,CHI,BOS,,PR,10+,30,1.0,25.1
-Bilal Coulibaly,G,WSH,CHA,,PRA,10+,29,1.0,20.1
-Jabari Smith Jr.,F,HOU,ATL,,RA,5+,29,1.0,9.0
-Peyton Watson,G,CLE,MIN,,PTS,5+,29,1.0,18.0
-Daniel Gafford,F,DAL,MIA,,REB,3+,28,1.0,7.2
-Devin Booker,G,PHX,OKC,,PRA,25+,28,1.0,37.1
-Devin Booker,G,PHX,OKC,,PA,20+,28,1.0,33.2
-Jabari Smith Jr.,F,HOU,ATL,,PTS,5+,28,1.0,17.3
-Jabari Smith Jr.,F,HOU,ATL,,THREES,1+,28,1.0,2.7
-Jamal Murray,G,DEN,GS,,PTS,5+,28,1.0,26.0
-Jamal Murray,G,DEN,GS,,AST,3+,28,1.0,6.3
-Jamal Murray,G,DEN,GS,,PRA,15+,28,1.0,37.1
-Isaiah Collier,G,UTAH,MEM,,AST,3+,27,1.0,7.8
-Max Strus,G,CLE,MIN,Out,REB,2+,27,1.0,5.0
-Obi Toppin,F,IND,MIL,,REB,2+,27,1.0,4.4
-Klay Thompson,G,MIA,DAL,,PTS,5+,26,1.0,11.8
-P.J. Washington,F,DAL,MIA,,PTS,5+,26,1.0,14.2
-P.J. Washington,F,DAL,MIA,,PRA,10+,26,1.0,22.6
-P.J. Washington,F,DAL,MIA,,PR,10+,26,1.0,21.0
-P.J. Washington,F,DAL,MIA,,RA,5+,26,1.0,8.4
-Tre Jones,G,CHI,BOS,,PTS,5+,26,1.0,17.2
-Tre Jones,G,CHI,BOS,,PRA,10+,26,1.0,25.5
-Draymond Green,F,GS,DEN,,PRA,10+,25,1.0,19.3
-Kevin Durant,F,HOU,ATL,,AST,2+,25,1.0,5.2
-Ace Bailey,G,UTAH,MEM,,PTS,5+,24,1.0,18.0
-Ace Bailey,G,UTAH,MEM,,THREES,1+,24,1.0,2.8
-Jaren Jackson Jr.,F,UTAH,MEM,,PA,15+,24,1.0,23.2
-Jayson Tatum,F,BOS,CHI,,PTS,10+,24,1.0,22.4
-Jayson Tatum,F,BOS,CHI,,PR,15+,24,1.0,32.2
-Matas Buzelis,F,CHI,BOS,,PTS,5+,24,1.0,19.1
-Matas Buzelis,F,CHI,BOS,,PRA,15+,24,1.0,27.9
-Matas Buzelis,F,CHI,BOS,,PA,10+,24,1.0,21.1
-Cameron Johnson,F,DEN,GS,Questionable,PTS,5+,23,1.0,13.3
-Jamal Murray,G,DEN,GS,,RA,5+,23,1.0,11.3
-Giannis Antetokounmpo,F,MIA,DAL,,PTS,10+,22,1.0,26.6
-Giannis Antetokounmpo,F,MIA,DAL,,PRA,20+,22,1.0,40.5
-Giannis Antetokounmpo,F,MIA,DAL,,PR,20+,22,1.0,35.9
-Giannis Antetokounmpo,F,MIA,DAL,,PA,15+,22,1.0,31.2
-Giannis Antetokounmpo,F,MIA,DAL,,RA,5+,22,1.0,13.9
-Jayson Tatum,F,BOS,CHI,,REB,4+,22,1.0,10.1
-Matas Buzelis,F,CHI,BOS,,RA,5+,22,1.0,9.0
-Moses Moody,G,GS,DEN,Out,PRA,10+,22,1.0,21.0
-Moses Moody,G,GS,DEN,Out,PR,10+,22,1.0,19.2
-Alex Sarr,C,WSH,CHA,,REB,2+,21,1.0,6.8
-Devin Booker,G,PHX,OKC,,AST,2+,21,1.0,5.8
-Devin Booker,G,PHX,OKC,,RA,5+,21,1.0,9.6
-Evan Mobley,C,CLE,MIN,,REB,6+,21,1.0,9.0
-Jaden McDaniels,F,MIN,CLE,,PTS,10+,21,1.0,16.0
-Jaden McDaniels,F,MIN,CLE,,PRA,15+,21,1.0,23.8
-Jaden McDaniels,F,MIN,CLE,,PR,10+,21,1.0,21.3
-James Harden,G,CLE,MIN,,RA,5+,21,1.0,10.1
-Leonard Miller,F,CHI,BOS,,REB,3+,21,1.0,6.9
-Moussa Diabate,F,CHA,WSH,,REB,5+,21,1.0,8.7
-Sam Hauser,F,BOS,CHI,,REB,2+,21,1.0,3.8
-Bobby Portis,F,MIA,DAL,,PTS,5+,20,1.0,14.5
-Bobby Portis,F,MIA,DAL,,PRA,10+,20,1.0,22.1
-Bobby Portis,F,MIA,DAL,,PR,10+,20,1.0,20.8
-Jerami Grant,F,MEM,UTAH,,PTS,5+,20,1.0,15.1
-Kevin Durant,F,HOU,ATL,,PRA,25+,20,1.0,36.8
-Kevin Durant,F,HOU,ATL,,PA,20+,20,1.0,31.4
-Amen Thompson,G,HOU,ATL,,AST,3+,19,0.95,5.8
-Bilal Coulibaly,G,WSH,CHA,,REB,2+,19,0.95,4.4
-Christian Braun,G,DEN,GS,,REB,2+,19,0.95,4.7
-Jamal Murray,G,DEN,GS,,PR,15+,19,0.95,30.5
-Jaren Jackson Jr.,F,UTAH,MEM,,REB,2+,19,0.95,5.8
-Kristaps Porzingis,C,GS,DEN,Out,PTS,5+,19,0.95,15.5
-Nikola Jokic,C,DEN,GS,,PTS,10+,19,0.95,25.2
-Nikola Jokic,C,DEN,GS,,PR,20+,19,0.95,38.8
-Obi Toppin,F,IND,MIL,,PTS,5+,19,0.95,14.4
-Ryan Rollins,G,MIL,IND,,PRA,15+,19,0.95,28.5
-Ryan Rollins,G,MIL,IND,,PA,10+,19,0.95,23.9
-Sam Hauser,F,BOS,CHI,,PTS,5+,19,0.95,9.6
-Sam Hauser,F,BOS,CHI,,THREES,1+,19,0.95,2.6
-Brice Sensabaugh,F,UTAH,MEM,,REB,2+,18,0.95,3.7
-Bub Carrington,G,WSH,CHA,,THREES,1+,18,0.9,2.7
-Cason Wallace,G,OKC,PHX,Out,STL,1+,18,0.95,2.2
-Deandre Ayton,C,WSH,CHA,,REB,3+,18,0.95,7.7
-Jaren Jackson Jr.,F,UTAH,MEM,,PRA,20+,18,0.95,29.1
-Tre Jones,G,CHI,BOS,,REB,2+,18,0.95,3.8
-Ty Jerome,G,MEM,UTAH,,THREES,1+,18,1.0,2.8
-Bruce Brown,G,DEN,GS,Check roster,PTS,5+,17,0.95,9.3
-Devin Booker,G,PHX,OKC,,PTS,15+,17,0.95,26.8
-Devin Booker,G,PHX,OKC,,PR,20+,17,0.95,30.7
-Evan Mobley,C,CLE,MIN,,PRA,20+,17,0.95,29.5
-Jayson Tatum,F,BOS,CHI,,PRA,25+,17,0.95,41.0
-AJ Green,G,MIL,IND,,PTS,5+,16,0.95,13.6
-Ace Bailey,G,UTAH,MEM,,PRA,15+,16,0.95,26.8
-Ace Bailey,G,UTAH,MEM,,PR,10+,16,0.95,24.2
-Amen Thompson,G,HOU,ATL,,PTS,15+,16,0.9,20.2
-Cedric Coward,F,MEM,UTAH,,PTS,5+,16,0.95,14.1
-Cedric Coward,F,MEM,UTAH,,PR,10+,16,0.95,19.3
-Deandre Ayton,C,WSH,CHA,,PRA,10+,16,0.9,19.8
-Jabari Smith Jr.,F,HOU,ATL,,REB,5+,16,0.95,6.9
-Jarrett Allen,C,CLE,MIN,,BLK,1+,16,0.85,1.9
-Jayson Tatum,F,BOS,CHI,,AST,3+,16,0.85,7.4
-Jayson Tatum,F,BOS,CHI,,PA,20+,16,0.9,31.4
-Kevin Porter Jr.,G,MIL,IND,Check roster,PTS,5+,16,0.95,17.8
-Kevin Porter Jr.,G,MIL,IND,Check roster,PRA,10+,16,0.95,30.5
-Kevin Porter Jr.,G,MIL,IND,Check roster,PR,10+,16,0.95,23.2
-Kevin Porter Jr.,G,MIL,IND,Check roster,PA,10+,16,0.95,25.0
-Kevin Porter Jr.,G,MIL,IND,Check roster,RA,5+,16,0.95,12.8
-Moussa Diabate,F,CHA,WSH,,PRA,10+,16,0.95,18.2
-Naji Marshall,F,DAL,MIA,Out,REB,2+,16,0.9,4.2
-Onyeka Okongwu,F,ATL,HOU,,REB,4+,16,0.95,6.6
-Onyeka Okongwu,F,ATL,HOU,,RA,5+,16,0.95,9.1
-Oscar Tshiebwe,C,UTAH,MEM,Check roster,REB,4+,16,0.9,8.4
-Paul George,F,BOS,CHI,,THREES,1+,16,0.95,3.1
-Ryan Rollins,G,MIL,IND,,AST,3+,16,0.9,5.8
-Ryan Rollins,G,MIL,IND,,RA,5+,16,0.95,10.1
-Aaron Gordon,F,DEN,GS,,PTS,5+,15,0.9,14.1
-Aaron Gordon,F,DEN,GS,,PRA,10+,15,0.9,22.1
-Alperen Sengun,C,HOU,ATL,,PR,20+,15,0.95,29.3
-Jay Huff,C,IND,MIL,,REB,2+,15,0.9,4.3
-Jonathan Kuminga,F,MIN,CLE,,PR,10+,15,0.9,16.9
-Kel'el Ware,C,MIL,IND,,PTS,5+,15,0.95,11.0
-Kel'el Ware,C,MIL,IND,,PRA,10+,15,0.95,20.8
-Kon Knueppel,G,CHA,WSH,Out,REB,3+,15,0.9,5.3
-Naz Reid,C,CHA,WSH,Questionable,RA,5+,15,0.95,9.6
-T.J. McConnell,G,IND,MIL,Out,AST,3+,15,0.9,6.2
-T.J. McConnell,G,IND,MIL,Out,RA,5+,15,0.85,8.5
-Anthony Edwards,G,MIN,CLE,Questionable,THREES,1+,14,0.95,2.6
-Brandin Podziemski,G,GS,DEN,,PTS,10+,14,0.95,19.9
-Brandin Podziemski,G,GS,DEN,,PRA,15+,14,0.95,28.1
-Brandin Podziemski,G,GS,DEN,,PR,10+,14,0.95,25.0
-Brandin Podziemski,G,GS,DEN,,PA,10+,14,0.95,23.1
-Dillon Brooks,F,PHX,OKC,,PRA,10+,14,0.95,24.0
-Dillon Brooks,F,PHX,OKC,,PR,10+,14,0.95,21.9
-Donovan Mitchell,G,CLE,MIN,,THREES,2+,14,0.9,2.9
-Jaren Jackson Jr.,F,UTAH,MEM,,PTS,15+,14,0.9,21.8
-Jaren Jackson Jr.,F,UTAH,MEM,,THREES,1+,14,0.85,2.0
-Jaren Jackson Jr.,F,UTAH,MEM,,PR,20+,14,0.9,27.6
-Marcus Smart,G,HOU,ATL,Out,PTS,5+,14,0.95,11.1
-Marcus Smart,G,HOU,ATL,Out,REB,2+,14,0.9,3.4
-Steven Adams,C,HOU,ATL,Out,REB,2+,14,0.95,8.2
-Ty Jerome,G,MEM,UTAH,,PRA,20+,14,0.94,31.8
-Ty Jerome,G,MEM,UTAH,,PR,15+,14,0.94,26.1
-AJ Green,G,MIL,IND,,THREES,2+,13,0.9,4.2
-Aaron Nesmith,G,IND,MIL,Questionable,PTS,5+,13,0.9,15.7
-Aaron Nesmith,G,IND,MIL,Questionable,THREES,1+,13,0.9,2.5
-Dillon Brooks,F,PHX,OKC,,PTS,10+,13,0.9,18.5
-Dillon Brooks,F,PHX,OKC,,PA,10+,13,0.9,20.7
-Evan Mobley,C,CLE,MIN,,PTS,10+,13,0.95,17.5
-Evan Mobley,C,CLE,MIN,,PR,20+,13,0.9,26.5
-Evan Mobley,C,CLE,MIN,,PA,15+,13,0.9,21.0
-Gui Santos,F,GS,DEN,Questionable,PTS,5+,13,0.95,14.6
-Javon Small,G,MEM,UTAH,Check roster,PTS,5+,13,0.95,14.2
-Javon Small,G,MEM,UTAH,Check roster,PRA,10+,13,0.95,22.0
-Javon Small,G,MEM,UTAH,Check roster,PA,10+,13,0.95,18.2
-Julian Reese,F,WSH,CHA,Check roster,REB,3+,13,1.0,10.5
-Kevin Durant,F,HOU,ATL,,REB,4+,13,0.85,5.8
-Klay Thompson,G,MIA,DAL,,THREES,1+,13,0.95,3.0
-Naz Reid,C,CHA,WSH,Questionable,REB,5+,13,0.9,8.0
-Oscar Tshiebwe,C,UTAH,MEM,Check roster,PRA,10+,13,0.85,21.8
-Oscar Tshiebwe,C,UTAH,MEM,Check roster,RA,5+,13,0.85,10.6
-Pete Nance,F,MIL,IND,Check roster,REB,2+,13,0.85,4.5
-Scotty Pippen Jr.,G,MEM,UTAH,,PTS,5+,13,1.0,10.5
-Scotty Pippen Jr.,G,MEM,UTAH,,AST,2+,13,1.0,4.4
-Scotty Pippen Jr.,G,MEM,UTAH,,PRA,10+,13,1.0,17.4
-Sion James,G,CHA,WSH,,REB,2+,13,0.85,3.9
-Trae Young,G,WSH,CHA,,AST,5+,13,0.94,8.8
-Trae Young,G,WSH,CHA,,PA,15+,13,0.94,27.8
-Trae Young,G,WSH,CHA,,RA,5+,13,0.94,10.8
-Andrew Nembhard,G,IND,MIL,Questionable,PRA,15+,12,0.9,26.8
-Andrew Nembhard,G,IND,MIL,Questionable,PR,10+,12,0.9,18.2
-Andrew Nembhard,G,IND,MIL,Questionable,PA,15+,12,0.85,24.4
-Bobby Portis,F,MIA,DAL,,REB,4+,12,0.85,6.7
-Evan Mobley,C,CLE,MIN,,AST,2+,12,0.9,3.8
-Guerschon Yabusele,F,CHI,BOS,Check roster,PTS,5+,12,0.9,9.8
-Guerschon Yabusele,F,CHI,BOS,Check roster,THREES,1+,12,0.9,1.7
-Guerschon Yabusele,F,CHI,BOS,Check roster,PRA,10+,12,0.95,15.9
-Isaiah Collier,G,UTAH,MEM,,RA,5+,12,0.95,8.8
-John Konchar,G,UTAH,MEM,Check roster,PRA,10+,12,0.7,21.0
-LaMelo Ball,G,MIN,CLE,,AST,5+,12,0.85,7.6
-Payton Pritchard,G,BOS,CHI,,RA,5+,12,0.8,8.4
-Quenton Jackson,G,IND,MIL,,PTS,5+,12,0.85,11.1
-Ryan Kalkbrenner,C,CHA,WSH,,REB,3+,12,0.85,5.0
-Shai Gilgeous-Alexander,G,OKC,PHX,,AST,3+,12,0.95,7.6
-Shai Gilgeous-Alexander,G,OKC,PHX,,RA,5+,12,0.95,10.8
-Tyler Herro,G,MIL,IND,,AST,3+,12,0.95,5.2
-Bam Adebayo,C,MIA,DAL,,STL,1+,11,0.95,1.5
-Blake Hinson,F,UTAH,MEM,Check roster,THREES,2+,11,0.93,2.8
-Blake Hinson,F,UTAH,MEM,Check roster,PRA,10+,11,0.93,16.6
-Davion Mitchell,G,MIA,DAL,,PRA,15+,11,0.85,24.6
-Davion Mitchell,G,MIA,DAL,,PR,10+,11,0.85,17.7
-Davion Mitchell,G,MIA,DAL,,PA,10+,11,0.85,22.3
-DeJon Jarreau,G,MEM,UTAH,Check roster,REB,2+,11,1.0,4.6
-Gui Santos,F,GS,DEN,Questionable,RA,5+,11,0.95,8.3
-Justin Champagnie,F,WSH,CHA,,PTS,5+,11,0.95,10.8
-Justin Champagnie,F,WSH,CHA,,PRA,10+,11,0.95,19.5
-Kel'el Ware,C,MIL,IND,,PR,10+,11,0.9,19.9
-Kennedy Chandler,G,UTAH,MEM,Check roster,AST,4+,11,1.0,6.7
-Kennedy Chandler,G,UTAH,MEM,Check roster,RA,5+,11,1.0,10.1
-Leonard Miller,F,CHI,BOS,,PRA,10+,11,0.95,23.4
-Leonard Miller,F,CHI,BOS,,PR,10+,11,0.95,21.6
-Mark Williams,C,PHX,OKC,Out,REB,4+,11,0.95,7.0
-Mark Williams,C,PHX,OKC,Out,RA,5+,11,0.95,7.5
-Max Strus,G,CLE,MIN,Out,PTS,5+,11,0.85,8.2
-Naz Reid,C,CHA,WSH,Questionable,PTS,10+,11,0.85,15.9
-Naz Reid,C,CHA,WSH,Questionable,PRA,15+,11,0.85,26.3
-Naz Reid,C,CHA,WSH,Questionable,PR,15+,11,0.85,24.0
-Naz Reid,C,CHA,WSH,Questionable,PA,10+,11,0.85,18.2
-Tre Johnson,G,WSH,CHA,,PTS,5+,11,0.95,11.4
-Tyler Burton,F,MEM,UTAH,Check roster,REB,2+,11,0.92,4.5
-Alperen Sengun,C,HOU,ATL,,PTS,10+,10,0.95,21.3
-Alperen Sengun,C,HOU,ATL,,PRA,25+,10,0.95,36.2
-Alperen Sengun,C,HOU,ATL,,PA,15+,10,0.95,26.8
-Amen Thompson,G,HOU,ATL,,RA,10+,10,0.9,13.7
-Bez Mbeng,G,UTAH,MEM,Check roster,STL,1+,10,0.93,2.6
-Bobby Portis,F,MIA,DAL,,RA,5+,10,0.8,8.9
-Bobby Portis,F,MIA,DAL,,STL,1+,10,0.6,1.3
-Cooper Flagg,F,DAL,MIA,Questionable,REB,4+,10,0.95,6.8
-DeMar DeRozan,G,DEN,GS,,PTS,5+,10,0.95,16.1
-Donovan Mitchell,G,CLE,MIN,,REB,4+,10,0.9,5.7
-Donovan Mitchell,G,CLE,MIN,,RA,5+,10,0.95,8.8
-Dwight Powell,F,DAL,MIA,Check roster,REB,2+,10,0.85,6.1
-John Konchar,G,UTAH,MEM,Check roster,AST,2+,10,0.7,4.8
-John Konchar,G,UTAH,MEM,Check roster,RA,5+,10,0.8,12.9
-Josh Giddey,G,CHI,BOS,,REB,4+,10,0.9,7.3
-Josh Giddey,G,CHI,BOS,,AST,5+,10,0.95,10.5
-Josh Giddey,G,CHI,BOS,,PRA,15+,10,0.95,28.0
-Josh Giddey,G,CHI,BOS,,RA,10+,10,0.9,17.8
-Justin Champagnie,F,WSH,CHA,,PR,10+,10,0.9,18.6
-Khaman Maluach,C,PHX,OKC,,REB,2+,10,0.8,5.7
-Kristaps Porzingis,C,GS,DEN,Out,PRA,10+,10,0.95,25.2
-Kristaps Porzingis,C,GS,DEN,Out,PR,10+,10,0.95,22.8
-Kristaps Porzingis,C,GS,DEN,Out,PA,10+,10,0.9,19.3
-Matas Buzelis,F,CHI,BOS,,REB,5+,10,0.95,7.2
-Max Strus,G,CLE,MIN,Out,THREES,1+,10,0.85,1.7
-Moses Moody,G,GS,DEN,Out,PTS,10+,10,0.95,17.4
-Moses Moody,G,GS,DEN,Out,PA,10+,10,0.95,20.1
-Myles Turner,C,MIL,IND,,BLK,1+,10,0.85,2.5
-Naji Marshall,F,DAL,MIA,Out,PTS,5+,10,0.9,15.4
-Scotty Pippen Jr.,G,MEM,UTAH,,REB,2+,10,0.85,2.9
-Taurean Prince,F,MIL,IND,Check roster,AST,2+,10,0.55,3.2
-Tristan Vukcevic,F,WSH,CHA,Out,PTS,5+,10,0.95,13.4
-Tristan Vukcevic,F,WSH,CHA,Out,PRA,10+,10,0.95,18.2
-Tristan Vukcevic,F,WSH,CHA,Out,PR,10+,10,0.95,17.3
-Tyler Burton,F,MEM,UTAH,Check roster,PTS,5+,10,0.83,12.2
-Tyler Herro,G,MIL,IND,,PRA,20+,10,0.95,30.6
-Tyler Herro,G,MIL,IND,,PR,15+,10,0.95,25.2
-Andrew Nembhard,G,IND,MIL,Questionable,AST,3+,9,0.9,9.3
-Anthony Edwards,G,MIN,CLE,Questionable,PR,15+,9,0.9,30.3
-Draymond Green,F,GS,DEN,,AST,6+,9,0.75,7.7
-Draymond Green,F,GS,DEN,,RA,5+,9,0.95,12.9
-Elijah Harkless,G,UTAH,MEM,Check roster,AST,2+,9,0.8,4.6
-Elijah Harkless,G,UTAH,MEM,Check roster,PRA,10+,9,0.6,19.4
-Elijah Harkless,G,UTAH,MEM,Check roster,RA,5+,9,0.6,8.0
-Grant Williams,F,CHA,WSH,Out,REB,2+,9,0.9,4.1
-Guerschon Yabusele,F,CHI,BOS,Check roster,REB,4+,9,0.85,6.0
-Isaiah Hartenstein,C,OKC,PHX,,REB,3+,9,0.95,8.2
-Isaiah Hartenstein,C,OKC,PHX,,PRA,10+,9,0.9,19.4
-Isaiah Hartenstein,C,OKC,PHX,,RA,5+,9,0.9,10.8
-Jalen Slawson,F,IND,MIL,,REB,2+,9,0.87,4.6
-Jamir Watkins,G,WSH,CHA,Out,PTS,5+,9,0.9,12.2
-Jamir Watkins,G,WSH,CHA,Out,PRA,10+,9,0.85,19.2
-Jamir Watkins,G,WSH,CHA,Out,PR,10+,9,0.8,17.2
-Jarrett Allen,C,CLE,MIN,,PTS,5+,9,0.9,14.1
-Jarrett Allen,C,CLE,MIN,,PRA,10+,9,0.95,21.6
-Jayson Tatum,F,BOS,CHI,,RA,10+,9,0.9,17.4
-Justin Champagnie,F,WSH,CHA,,RA,5+,9,0.8,9.7
-Kel'el Ware,C,MIL,IND,,REB,3+,9,0.9,9.4
-Kevin Durant,F,HOU,ATL,,PTS,20+,9,0.85,26.3
-Kevin Durant,F,HOU,ATL,,PR,25+,9,0.8,32.3
-Keyonte George,G,UTAH,MEM,,PTS,10+,9,0.95,22.1
-Keyonte George,G,UTAH,MEM,,AST,2+,9,0.95,4.9
-Keyonte George,G,UTAH,MEM,,THREES,1+,9,0.85,2.6
-Keyonte George,G,UTAH,MEM,,PRA,15+,9,0.95,29.8
-Keyonte George,G,UTAH,MEM,,PR,15+,9,0.95,24.9
-Keyonte George,G,UTAH,MEM,,PA,15+,9,0.95,27.0
-Kyle Kuzma,F,MIL,IND,,PRA,10+,9,0.9,21.2
-Max Christie,G,DAL,MIA,,PTS,5+,9,0.9,11.8
-Max Christie,G,DAL,MIA,,PRA,10+,9,0.9,16.8
-Obi Toppin,F,IND,MIL,,PRA,15+,9,0.8,23.8
-Obi Toppin,F,IND,MIL,,PR,10+,9,0.9,21.8
-Olivier-Maxence Prosper,F,MEM,UTAH,Check roster,REB,3+,9,0.75,4.8
-Onyeka Okongwu,F,ATL,HOU,,PRA,15+,9,0.9,20.0
-Onyeka Okongwu,F,ATL,HOU,,PR,10+,9,0.95,17.3
-Oso Ighodaro,F,PHX,OKC,Out,PRA,10+,9,0.95,16.4
-Oso Ighodaro,F,PHX,OKC,Out,RA,5+,9,0.95,9.7
-Pascal Siakam,F,IND,MIL,,REB,3+,9,0.95,6.7
-Ty Jerome,G,MEM,UTAH,,PTS,15+,9,0.89,25.3
-Ty Jerome,G,MEM,UTAH,,PA,20+,9,0.89,31.4
-Zaccharie Risacher,F,DAL,MIA,,REB,2+,9,0.95,4.4
-Adama Bal,G,MEM,UTAH,Check roster,REB,2+,8,1.0,3.1
-Andrew Nembhard,G,IND,MIL,Questionable,PTS,10+,8,0.85,16.0
-Collin Gillespie,G,PHX,OKC,,STL,1+,8,0.8,1.6
-Cormac Ryan,G,MIL,IND,Check roster,PTS,10+,8,0.73,18.8
-Dillon Brooks,F,PHX,OKC,,THREES,1+,8,0.95,2.6
-Evan Mobley,C,CLE,MIN,,THREES,1+,8,0.75,1.5
-Isaiah Collier,G,UTAH,MEM,,REB,2+,8,0.8,3.0
-Jalen Green,G,PHX,OKC,,PTS,10+,8,0.85,22.5
-Jalen Green,G,PHX,OKC,,REB,2+,8,0.85,4.5
-Jalen Green,G,PHX,OKC,,THREES,1+,8,0.85,2.5
-Jalen Green,G,PHX,OKC,,PRA,15+,8,0.9,30.0
-Jalen Green,G,PHX,OKC,,PR,10+,8,0.9,27.0
-Jalen Green,G,PHX,OKC,,PA,10+,8,0.95,25.5
-Jamal Murray,G,DEN,GS,,REB,3+,8,0.85,5.5
-Jaxson Hayes,C,UTAH,MEM,Questionable,REB,2+,8,0.85,4.4
-Jonathan Kuminga,F,MIN,CLE,,PTS,10+,8,0.75,13.8
-Jonathan Kuminga,F,MIN,CLE,,PA,10+,8,0.75,15.5
-Justin Champagnie,F,WSH,CHA,,REB,6+,8,0.5,8.4
-Kevin Porter Jr.,G,MIL,IND,Check roster,REB,3+,8,0.85,6.0
-Moses Moody,G,GS,DEN,Out,REB,2+,8,0.9,3.8
-Moses Moody,G,GS,DEN,Out,THREES,2+,8,0.9,3.4
-Neemias Queta,C,BOS,CHI,,REB,4+,8,0.95,8.5
-Neemias Queta,C,BOS,CHI,,RA,5+,8,0.95,9.2
-Rayan Rupert,G,MEM,UTAH,Check roster,REB,4+,8,0.75,7.2
-Rayan Rupert,G,MEM,UTAH,Check roster,RA,5+,8,0.7,10.6
-Trae Young,G,WSH,CHA,,PTS,10+,8,0.83,17.9
-Trae Young,G,WSH,CHA,,PRA,20+,8,0.83,28.5
-Tyler Burton,F,MEM,UTAH,Check roster,THREES,1+,8,0.92,2.4
-Zach Collins,F,CHI,BOS,,REB,3+,8,0.92,5.5
-Zach Edey,C,MEM,UTAH,,PTS,5+,8,0.92,14.1
-Zach Edey,C,MEM,UTAH,,REB,8+,8,0.77,12.9
-Zach Edey,C,MEM,UTAH,,PRA,15+,8,0.92,28.2
-Zach Edey,C,MEM,UTAH,,PR,15+,8,0.92,27.0
-Zach Edey,C,MEM,UTAH,,RA,5+,8,0.85,14.1
-Ace Bailey,G,UTAH,MEM,,REB,3+,7,0.75,6.7
-Alex Sarr,C,WSH,CHA,,RA,5+,7,0.95,8.6
-Anthony Davis,F,WSH,CHA,,PTS,5+,7,0.85,20.1
-Anthony Davis,F,WSH,CHA,,REB,6+,7,0.85,10.6
-Anthony Davis,F,WSH,CHA,,PRA,15+,7,0.9,33.4
-Anthony Davis,F,WSH,CHA,,PR,15+,7,0.85,30.7
-Anthony Davis,F,WSH,CHA,,RA,5+,7,0.9,13.3
+De'Aaron Fox,G,SA,SAC,,PTS,5+,97,1.0,17.8
+De'Aaron Fox,G,SA,SAC,,PRA,10+,97,1.0,27.8
+Julius Randle,F,BKN,BOS,,PRA,10+,93,1.0,32.2
+Julius Randle,F,BKN,BOS,,RA,5+,93,1.0,11.7
+Victor Wembanyama,F,SA,SAC,,RA,5+,90,1.0,14.2
+Devin Vassell,G,SA,SAC,,PTS,5+,84,1.0,13.5
+Jalen Duren,C,DET,NY,Out,REB,2+,84,1.0,10.2
+Mitchell Robinson,C,BOS,BKN,,REB,3+,81,1.0,8.0
+Derrick White,G,BOS,BKN,,PRA,10+,80,1.0,25.6
+De'Aaron Fox,G,SA,SAC,,PA,10+,78,1.0,22.9
+Donovan Clingan,C,POR,LAL,,RA,5+,78,1.0,13.6
+Stephon Castle,G,SA,SAC,,RA,5+,74,1.0,12.3
+Luka Doncic,G,LAL,POR,,PTS,10+,67,1.0,33.5
+Karl-Anthony Towns,C,NY,DET,,PRA,10+,63,1.0,33.6
+Karl-Anthony Towns,C,NY,DET,,PR,10+,63,1.0,30.0
+Jrue Holiday,G,POR,LAL,,PRA,10+,61,1.0,26.9
+Michael Porter Jr.,F,BKN,BOS,,PRA,10+,55,1.0,33.9
+Michael Porter Jr.,F,BKN,BOS,,PR,10+,55,1.0,31.0
+Michael Porter Jr.,F,BKN,BOS,,PA,10+,55,1.0,27.0
+Paul George,F,BOS,BKN,,PTS,5+,52,1.0,17.4
+Paul George,F,BOS,BKN,,PRA,10+,52,1.0,25.9
+Stephon Castle,G,SA,SAC,,PRA,15+,51,1.0,29.8
+Stephon Castle,G,SA,SAC,,PA,10+,51,1.0,24.4
+Derrick White,G,BOS,BKN,,PTS,5+,46,1.0,14.2
+Jalen Brunson,G,NY,DET,,PA,20+,45,1.0,32.7
+Russell Westbrook,G,SAC,SA,Check roster,PTS,5+,43,1.0,16.0
+Danny Wolf,F,BKN,BOS,,REB,2+,42,1.0,5.3
+Jalen Duren,C,DET,NY,Out,PRA,10+,41,1.0,30.5
+Jalen Duren,C,DET,NY,Out,PR,10+,41,1.0,28.2
+Stephon Castle,G,SA,SAC,,PTS,5+,35,1.0,18.2
+Stephon Castle,G,SA,SAC,,PR,10+,35,1.0,23.9
+Luka Doncic,G,LAL,POR,,REB,4+,34,1.0,7.9
+Maxime Raynaud,C,SAC,SA,Out,RA,5+,34,1.0,10.6
+Julius Randle,F,BKN,BOS,,PR,10+,33,1.0,25.4
+Precious Achiuwa,F,SAC,SA,,PTS,5+,30,1.0,14.9
+Precious Achiuwa,F,SAC,SA,,PR,10+,30,1.0,23.6
+Ausar Thompson,G,DET,NY,Questionable,REB,3+,29,1.0,6.7
+Nic Claxton,C,BKN,BOS,Out,PRA,10+,29,1.0,19.8
+Precious Achiuwa,F,SAC,SA,,RA,5+,29,1.0,10.6
+Robert Williams III,C,POR,LAL,,RA,5+,28,1.0,9.2
+Austin Reaves,G,LAL,POR,,RA,5+,27,1.0,9.8
+Devin Vassell,G,SA,SAC,,PRA,10+,27,1.0,20.6
+Devin Vassell,G,SA,SAC,,PR,10+,27,1.0,17.9
+Deni Avdija,F,POR,LAL,,REB,3+,26,1.0,6.5
+Deni Avdija,F,POR,LAL,,RA,5+,26,1.0,13.0
+Precious Achiuwa,F,SAC,SA,,REB,5+,26,1.0,9.2
+Jalen Brunson,G,NY,DET,,PTS,15+,25,1.0,27.1
+Jayson Tatum,F,BOS,BKN,,PTS,10+,25,1.0,22.4
+Jayson Tatum,F,BOS,BKN,,PR,15+,25,1.0,32.2
+Luka Doncic,G,LAL,POR,,THREES,1+,25,1.0,4.8
+Luka Doncic,G,LAL,POR,,PRA,20+,25,1.0,50.0
+Luka Doncic,G,LAL,POR,,PR,15+,25,1.0,42.2
+Luka Doncic,G,LAL,POR,,PA,15+,25,1.0,42.4
+OG Anunoby,F,NY,DET,,REB,3+,25,1.0,6.4
+Jrue Holiday,G,POR,LAL,,PTS,5+,24,1.0,15.8
+Jrue Holiday,G,POR,LAL,,PR,10+,24,1.0,20.7
+Ausar Thompson,G,DET,NY,Questionable,RA,5+,23,1.0,10.8
+Collin Sexton,G,LAL,POR,,PTS,5+,23,1.0,17.7
+Jayson Tatum,F,BOS,BKN,,REB,4+,23,1.0,10.0
+Luka Doncic,G,LAL,POR,,RA,10+,23,1.0,15.5
+Nic Claxton,C,BKN,BOS,Out,REB,4+,23,1.0,6.0
+Nic Claxton,C,BKN,BOS,Out,RA,5+,23,1.0,9.0
+Sam Hauser,F,BOS,BKN,,REB,2+,22,1.0,3.8
+Zach LaVine,G,SAC,SA,,PTS,5+,22,1.0,20.0
+Zach LaVine,G,SAC,SA,,PRA,10+,22,1.0,25.0
+Zach LaVine,G,SAC,SA,,PA,10+,22,1.0,22.3
+Devin Vassell,G,SA,SAC,,THREES,1+,21,1.0,2.5
+Dylan Harper,G,SA,SAC,,RA,5+,21,1.0,8.9
+Sam Hauser,F,BOS,BKN,,PTS,5+,20,1.0,9.7
+Sam Hauser,F,BOS,BKN,,THREES,1+,20,1.0,2.6
+OG Anunoby,F,NY,DET,,PTS,10+,19,0.95,19.6
+OG Anunoby,F,NY,DET,,THREES,1+,19,0.95,2.5
+OG Anunoby,F,NY,DET,,PRA,15+,19,0.95,27.6
+OG Anunoby,F,NY,DET,,PR,15+,19,0.95,25.8
+OG Anunoby,F,NY,DET,,PA,10+,19,0.95,21.4
+Ziaire Williams,F,LAL,POR,,STL,1+,19,0.95,1.7
+Cade Cunningham,G,DET,NY,,PRA,20+,18,0.95,36.7
+Cade Cunningham,G,DET,NY,,PR,15+,18,0.95,28.8
+Cade Cunningham,G,DET,NY,,PA,15+,18,0.95,31.6
+Cade Cunningham,G,DET,NY,,RA,5+,18,0.95,12.9
+Jalen Brunson,G,NY,DET,,THREES,1+,18,0.95,2.3
+Jayson Tatum,F,BOS,BKN,,PRA,25+,18,0.95,40.7
+De'Aaron Fox,G,SA,SAC,,RA,5+,17,0.95,10.5
+Deni Avdija,F,POR,LAL,,AST,3+,17,0.95,6.2
+Jayson Tatum,F,BOS,BKN,,AST,3+,17,0.85,7.3
+Jayson Tatum,F,BOS,BKN,,PA,20+,17,0.9,31.2
+Paul George,F,BOS,BKN,,THREES,1+,17,0.95,3.1
+Victor Wembanyama,F,SA,SAC,,PTS,10+,17,0.95,25.1
+Victor Wembanyama,F,SA,SAC,,PRA,25+,17,0.95,39.1
+Victor Wembanyama,F,SA,SAC,,PR,25+,17,0.95,36.2
+Victor Wembanyama,F,SA,SAC,,PA,15+,17,0.95,28.0
+Ziaire Williams,F,LAL,POR,,PTS,5+,17,0.9,13.2
+Tobias Harris,F,DET,NY,Out,PTS,5+,16,0.95,17.5
+Tobias Harris,F,DET,NY,Out,PRA,10+,16,0.95,25.8
+Tobias Harris,F,DET,NY,Out,PR,10+,16,0.95,24.2
+Tobias Harris,F,DET,NY,Out,RA,5+,16,0.95,8.3
+Tyson Etienne,G,BKN,BOS,Check roster,THREES,1+,16,0.9,2.4
+Cade Cunningham,G,DET,NY,,PTS,10+,15,0.9,26.3
+De'Aaron Fox,G,SA,SAC,,AST,5+,15,0.9,6.7
+Deni Avdija,F,POR,LAL,,THREES,1+,15,0.9,1.7
+Josh Hart,G,NY,DET,,RA,10+,15,0.9,13.3
+Robert Williams III,C,POR,LAL,,REB,6+,15,0.9,7.7
+Robert Williams III,C,POR,LAL,,PRA,10+,15,0.95,16.5
+Tyson Etienne,G,BKN,BOS,Check roster,PTS,5+,15,0.8,11.6
+Jalen Brunson,G,NY,DET,,RA,5+,14,0.9,9.4
+Jrue Holiday,G,POR,LAL,,REB,2+,14,0.95,5.3
+Jrue Holiday,G,POR,LAL,,RA,5+,14,0.95,11.3
+Domantas Sabonis,F,SAC,SA,,RA,10+,13,0.95,17.2
+Donovan Clingan,C,POR,LAL,,REB,5+,13,0.95,9.4
+Donovan Clingan,C,POR,LAL,,PRA,10+,13,0.95,20.9
+Donovan Clingan,C,POR,LAL,,PR,10+,13,0.95,18.6
+Dylan Harper,G,SA,SAC,,REB,3+,13,0.95,5.7
+Jalen Brunson,G,NY,DET,,REB,2+,13,0.85,3.8
+Payton Pritchard,G,BOS,BKN,,RA,5+,13,0.85,8.2
+Jaden Hardy,G,LAL,POR,,THREES,1+,12,0.9,3.1
+Tobias Harris,F,DET,NY,Out,REB,5+,12,0.8,7.3
+Josh Hart,G,NY,DET,,AST,2+,11,0.95,4.5
+Julian Champagnie,F,SA,SAC,,PTS,5+,11,0.95,12.1
+Julian Champagnie,F,SA,SAC,,THREES,1+,11,0.9,3.1
+Maxime Raynaud,C,SAC,SA,Out,REB,7+,11,0.8,9.0
+Stephon Castle,G,SA,SAC,,REB,4+,11,0.95,5.5
+Daniss Jenkins,G,DET,NY,,AST,3+,10,0.8,3.9
+Danny Wolf,F,BKN,BOS,,PTS,5+,10,0.9,9.5
+Day'Ron Sharpe,C,BKN,BOS,,REB,4+,10,0.95,6.9
+Day'Ron Sharpe,C,BKN,BOS,,RA,5+,10,0.95,9.5
+Domantas Sabonis,F,SAC,SA,,REB,7+,10,0.9,12.7
+Ja Morant,G,POR,LAL,,PTS,10+,10,0.9,20.0
+Ja Morant,G,POR,LAL,,PR,15+,10,0.85,23.1
+Ja Morant,G,POR,LAL,,PA,15+,10,0.95,28.5
+Jayson Tatum,F,BOS,BKN,,RA,10+,10,0.9,17.0
+Russell Westbrook,G,SAC,SA,Check roster,PRA,15+,10,0.85,29.3
+Russell Westbrook,G,SAC,SA,Check roster,PA,15+,10,0.8,24.4
+Victor Wembanyama,F,SA,SAC,,REB,7+,10,0.8,10.6
+Ziaire Williams,F,LAL,POR,,THREES,1+,10,0.85,1.4
+Ziaire Williams,F,LAL,POR,,PRA,10+,10,0.75,18.1
+Ziaire Williams,F,LAL,POR,,PR,10+,10,0.75,16.4
+Ziaire Williams,F,LAL,POR,,PA,10+,10,0.75,15.5
+Cade Cunningham,G,DET,NY,,AST,5+,9,0.85,8.0
+De'Aaron Fox,G,SA,SAC,,STL,1+,9,0.85,1.8
+Devin Vassell,G,SA,SAC,,REB,3+,9,0.9,5.7
+Domantas Sabonis,F,SAC,SA,,AST,3+,9,0.9,5.7
+Neemias Queta,C,BOS,BKN,,REB,4+,9,0.95,8.1
+Neemias Queta,C,BOS,BKN,,RA,5+,9,0.95,8.9
+Toumani Camara,F,POR,LAL,,REB,2+,9,0.95,4.4
+Cade Cunningham,G,DET,NY,,REB,2+,8,0.95,4.5
+Day'Ron Sharpe,C,BKN,BOS,,PTS,5+,8,0.85,10.2
+Domantas Sabonis,F,SAC,SA,,PTS,10+,8,0.9,17.6
+Domantas Sabonis,F,SAC,SA,,PRA,20+,8,0.85,37.2
+Domantas Sabonis,F,SAC,SA,,PA,15+,8,0.8,23.6
+Dylan Harper,G,SA,SAC,,PR,20+,8,0.65,24.6
+Ja Morant,G,POR,LAL,,PRA,20+,8,0.85,32.8
+Jalen Brunson,G,NY,DET,,PRA,25+,8,0.9,37.0
+Jalen Brunson,G,NY,DET,,PR,20+,8,0.85,32.8
+Killian Hayes,G,SAC,SA,Check roster,AST,2+,8,0.9,4.0
+Payton Pritchard,G,BOS,BKN,,THREES,1+,8,0.95,3.1
+Victor Wembanyama,F,SA,SAC,,BLK,2+,8,0.9,3.8
+Walker Kessler,C,LAL,POR,,REB,7+,8,1.0,9.8
+Walker Kessler,C,LAL,POR,,RA,5+,8,1.0,12.1
+Austin Reaves,G,LAL,POR,,AST,4+,7,0.9,6.6
+Devin Carter,G,SAC,SA,Out,PTS,5+,7,0.8,15.1
+Devin Carter,G,SAC,SA,Out,REB,3+,7,0.8,6.0
+Devin Carter,G,SAC,SA,Out,AST,3+,7,0.85,4.7
+Devin Carter,G,SAC,SA,Out,PRA,10+,7,0.85,25.9
+Devin Carter,G,SAC,SA,Out,PA,10+,7,0.75,19.9
+Devin Carter,G,SAC,SA,Out,RA,5+,7,0.85,10.7
+Devin Carter,G,SAC,SA,Out,STL,1+,7,0.8,1.3
+Dylan Cardwell,C,SAC,SA,Out,BLK,1+,7,0.65,2.6
+Dylan Harper,G,SA,SAC,,AST,2+,7,0.85,3.3
+Jalen Brunson,G,NY,DET,,AST,3+,7,0.95,4.6
+Julius Randle,F,BKN,BOS,,REB,6+,7,0.85,7.4
+Noah Clowney,F,BKN,BOS,,REB,3+,7,0.85,4.1
+OG Anunoby,F,NY,DET,,RA,5+,7,0.9,7.7
+Paul George,F,BOS,BKN,,AST,2+,7,0.8,2.7
+Robert Williams III,C,POR,LAL,,PR,10+,7,0.9,16.6
+Sam Hauser,F,BOS,BKN,,PRA,10+,7,0.95,13.0
+Austin Reaves,G,LAL,POR,,PTS,15+,6,0.9,25.8
+Austin Reaves,G,LAL,POR,,THREES,1+,6,0.8,2.5
+Austin Reaves,G,LAL,POR,,PRA,25+,6,0.8,35.7
+Austin Reaves,G,LAL,POR,,PR,20+,6,0.75,29.0
+Austin Reaves,G,LAL,POR,,PA,25+,6,0.65,32.5
+Daniss Jenkins,G,DET,NY,,REB,2+,6,0.8,4.0
+Daniss Jenkins,G,DET,NY,,RA,5+,6,0.65,8.2
+Domantas Sabonis,F,SAC,SA,,PR,20+,6,0.75,31.8
+Donovan Clingan,C,POR,LAL,,PTS,5+,6,0.8,8.3
+Dylan Cardwell,C,SAC,SA,Out,PRA,10+,6,0.85,16.5
+Dylan Cardwell,C,SAC,SA,Out,RA,5+,6,0.95,9.2
+Dylan Harper,G,SA,SAC,,PRA,25+,6,0.5,28.7
+Ja Morant,G,POR,LAL,,REB,2+,6,0.85,3.3
+Ja Morant,G,POR,LAL,,STL,1+,6,0.8,1.7
+Josh Hart,G,NY,DET,,PTS,5+,6,0.85,12.0
+Josh Hart,G,NY,DET,,REB,7+,6,0.8,9.2
+Josh Hart,G,NY,DET,,THREES,1+,6,0.8,2.5
+Josh Hart,G,NY,DET,,PRA,20+,6,0.8,25.0
+Josh Hart,G,NY,DET,,PR,10+,6,0.95,21.2
+Josh Hart,G,NY,DET,,PA,10+,6,0.85,15.8
+Julian Champagnie,F,SA,SAC,,STL,1+,6,0.85,2.0
+Matisse Thybulle,G,LAL,POR,,BLK,1+,6,0.65,1.0
+Micah Potter,C,POR,LAL,,REB,3+,6,0.75,8.8
+Michael Porter Jr.,F,BKN,BOS,,PTS,10+,6,0.85,23.3
+Michael Porter Jr.,F,BKN,BOS,,STL,1+,6,0.7,2.3
+Nic Claxton,C,BKN,BOS,Out,AST,2+,6,0.8,2.5
+Precious Achiuwa,F,SAC,SA,,PRA,15+,6,0.9,24.2
+Russell Westbrook,G,SAC,SA,Check roster,AST,8+,6,0.35,9.8
+Russell Westbrook,G,SAC,SA,Check roster,RA,10+,6,0.35,15.8
+Terance Mann,G,BKN,BOS,Check roster,REB,2+,6,0.7,3.5
+Caris LeVert,G,DET,NY,Check roster,REB,2+,5,0.75,2.6
+Daniss Jenkins,G,DET,NY,,THREES,1+,5,0.6,2.0
+Day'Ron Sharpe,C,BKN,BOS,,PRA,15+,5,0.7,20.2
+Day'Ron Sharpe,C,BKN,BOS,,PR,15+,5,0.7,18.0
+Deni Avdija,F,POR,LAL,,PTS,15+,5,0.95,22.2
+Deni Avdija,F,POR,LAL,,PRA,25+,5,0.95,33.6
+Deni Avdija,F,POR,LAL,,PR,25+,5,0.85,28.6
+Deni Avdija,F,POR,LAL,,PA,20+,5,0.95,27.2
+Derrick White,G,BOS,BKN,,THREES,1+,5,0.8,2.8
+Derrick White,G,BOS,BKN,,PR,10+,5,0.95,17.8
+Duncan Robinson,F,DET,NY,,PTS,10+,5,0.8,17.2
+Duncan Robinson,F,DET,NY,,THREES,3+,5,0.8,4.4
+Duncan Robinson,F,DET,NY,,PRA,15+,5,0.75,21.0
+Duncan Robinson,F,DET,NY,,PR,10+,5,0.85,19.0
+Duncan Robinson,F,DET,NY,,PA,10+,5,0.9,19.2
+Dylan Cardwell,C,SAC,SA,Out,PTS,5+,5,0.7,8.4
+Dylan Cardwell,C,SAC,SA,Out,REB,7+,5,0.75,8.0
+Dylan Cardwell,C,SAC,SA,Out,PR,10+,5,0.7,16.4
+Dylan Harper,G,SA,SAC,,PTS,15+,5,0.55,21.2
+Dylan Harper,G,SA,SAC,,PA,20+,5,0.4,24.4
+E.J. Liddell,F,BKN,BOS,Check roster,PTS,10+,5,0.3,18.4
+E.J. Liddell,F,BKN,BOS,Check roster,REB,4+,5,0.4,5.8
+E.J. Liddell,F,BKN,BOS,Check roster,THREES,1+,5,0.45,2.2
+E.J. Liddell,F,BKN,BOS,Check roster,PRA,20+,5,0.25,26.0
+E.J. Liddell,F,BKN,BOS,Check roster,PR,15+,5,0.25,24.2
+E.J. Liddell,F,BKN,BOS,Check roster,PA,15+,5,0.25,20.2
+E.J. Liddell,F,BKN,BOS,Check roster,RA,5+,5,0.55,7.6
+Ja Morant,G,POR,LAL,,AST,7+,5,0.85,10.2
+Ja Morant,G,POR,LAL,,RA,10+,5,0.75,13.8
+Jalen Duren,C,DET,NY,Out,BLK,1+,5,0.65,1.6
+Jalen Wilson,F,BKN,BOS,Check roster,PTS,5+,5,0.7,11.8
+Jalen Wilson,F,BKN,BOS,Check roster,AST,2+,5,0.4,3.6
+Jalen Wilson,F,BKN,BOS,Check roster,PRA,10+,5,0.55,20.6
+John Collins,F,DET,NY,,PTS,5+,5,0.9,14.8
+John Collins,F,DET,NY,,REB,5+,5,0.75,8.2
+John Collins,F,DET,NY,,PRA,10+,5,0.9,23.4
+John Collins,F,DET,NY,,PR,10+,5,0.9,23.0
+John Collins,F,DET,NY,,RA,5+,5,0.85,8.6
+Karl-Anthony Towns,C,NY,DET,,REB,10+,5,0.8,11.2
+Karl-Anthony Towns,C,NY,DET,,RA,10+,5,0.95,13.4
+Keldon Johnson,F,SA,SAC,,REB,4+,5,0.45,5.0
+Keldon Johnson,F,SA,SAC,,RA,5+,5,0.45,6.2
+Luka Doncic,G,LAL,POR,,AST,7+,5,0.7,8.6
+Malachi Smith,G,BKN,BOS,Check roster,REB,4+,5,0.4,6.0
+Malachi Smith,G,BKN,BOS,Check roster,AST,3+,5,0.6,5.8
+Malachi Smith,G,BKN,BOS,Check roster,RA,5+,5,0.6,11.8
+Maxime Raynaud,C,SAC,SA,Out,PTS,10+,5,0.85,20.0
+Maxime Raynaud,C,SAC,SA,Out,PRA,25+,5,0.65,32.4
+Maxime Raynaud,C,SAC,SA,Out,PR,20+,5,0.8,29.8
+Maxime Raynaud,C,SAC,SA,Out,PA,10+,5,0.85,22.6
+Terance Mann,G,BKN,BOS,Check roster,PRA,10+,5,0.7,11.0
+Trevon Scott,F,BKN,BOS,Check roster,REB,3+,5,0.83,5.8
+Trevon Scott,F,BKN,BOS,Check roster,PRA,10+,5,0.83,16.0
+Trevon Scott,F,BKN,BOS,Check roster,PR,10+,5,0.83,14.2
+Trevon Scott,F,BKN,BOS,Check roster,STL,1+,5,0.83,1.6
+Tyson Etienne,G,BKN,BOS,Check roster,AST,2+,5,0.55,3.4
+Tyson Etienne,G,BKN,BOS,Check roster,PRA,10+,5,0.65,21.4
+Tyson Etienne,G,BKN,BOS,Check roster,PA,10+,5,0.55,18.4

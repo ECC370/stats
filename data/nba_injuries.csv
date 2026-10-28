@@ -1,7 +1,7 @@
 Team,Player,Status,Detail
 ATL,Mouhamed Gueye,Out,"Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On P"
 ATL,Henri Veesaar,Out,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
-ATL,Aaron Wiggins,Questionable,Wiggins is questionable for Wednesday's game against the Heat due to a left knee contusion.
+ATL,Aaron Wiggins,Questionable,Wiggins (knee) is probable for Wednesday against Miami.
 BKN,Tyler Bilodeau,Out,Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.
 BKN,Egor Demin,Questionable,"Demin (leg) stated he isn't sure if he will be able to play in Friday's game against Detroit, Erik Slater of ClutchPoints.com reports."
 BOS,Devin Carter,Out,"Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports."
@@ -25,7 +25,7 @@ DEN,Julian Strawther,Out,"Strawther (knee) was diagnosed with a left knee sprain
 DEN,Cameron Johnson,Questionable,Johnson (ankle) is doubtful to face the Pelicans on Wednesday.
 DET,Jalen Duren,Out,"Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports."
 DET,Isaiah Joe,Questionable,Joe (hip) has been ruled out for Tuesday's game against the Knicks.
-GS,Kristaps Porzingis,Out,Porzingis is contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as postural ort
+GS,Kristaps Porzingis,Out,"The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with o"
 GS,Moses Moody,Out,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthon"
 GS,Jimmy Butler III,Out,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN re"
 GS,Yaxel Lendeborg,Questionable,Lendeborg (foot) is questionable for Wednesday's game against Minnesota.
@@ -48,8 +48,7 @@ LAC,Brandon Ingram,Out,"Ingram won't be ready for the start of the season due to
 LAC,Jordan Miller,Out,"Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic"
 LAL,Cameron Carr,Out,"The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports."
 LAL,Adou Thiero,Out,Thiero (knee) is out for Tuesday's game against Portland.
-MIA,Pelle Larsson,Questionable,Larsson is listed as probable for Wednesday's game at Atlanta due to a right ankle sprain.
-MIA,Simone Fontecchio,Questionable,"Fontecchio is doubtful for Wednesday's game in Atlanta due to an illness, per Tim Reynolds of Associated Press."
+MIA,Simone Fontecchio,Out,Fontecchio (illness) is out for Wednesday's game against the Hawks.
 MIN,Anthony Edwards,Out,"Edwards will undergo arthroscopic right knee surgery and is expected to miss up to two months, Shams Charania of ESPN reports."
 MIN,Donte DiVincenzo,Out,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports."
 NO,Yves Missi,Out,"Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports."
@@ -68,6 +67,7 @@ ORL,Jalen Suggs,Out,"Suggs has been diagnosed with a mild bone bruise in his rig
 ORL,Paolo Banchero,Out,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
 ORL,Noah Penda,Out,"Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports."
 ORL,Izaiyah Nelson,Out,"Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, "
+ORL,Anthony Black,Questionable,"Black (personal) was not present at Wednesday's morning shootaround, Jason Beede of the Orlando Sentinel reports."
 PHI,Tacko Fall,Out,Fall (quadriceps) is out for Wednesday's game in Indiana.
 PHI,Jabari Walker,Out,Walker (knee) has been ruled out for Wednesday's game against the Pacers.
 PHI,Dominick Barlow,Out,"Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports."
@@ -90,6 +90,5 @@ UTAH,Jusuf Nurkic,Out,"Nurkic will miss at least the next four weeks due to a pa
 UTAH,Jaxson Hayes,Questionable,Hayes (shoulder) is listed as questionable for Wednesday's game against the Spurs.
 UTAH,Lauri Markkanen,Questionable,Markkanen (wrist) is questionable for Wednesday's game against the Spurs.
 WSH,Justin Champagnie,Out,Champagnie (foot) is out for Wednesday's game versus Cleveland.
-WSH,AJ Dybantsa,Out,Dybantsa (ankle) is questionable for Wednesday's game versus Cleveland.
 WSH,Tristan Vukcevic,Out,The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks.
 WSH,Jamir Watkins,Out,The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.

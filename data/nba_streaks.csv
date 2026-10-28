@@ -100,7 +100,7 @@ Jeremiah Fears,G,NO,DEN,,PTS,5+,31,1.0,15.7
 LeBron James,F,PHI,IND,,REB,2+,31,1.0,7.0
 Matas Buzelis,F,CHI,NY,,PRA,10+,31,1.0,26.7
 Matas Buzelis,F,CHI,NY,,PR,10+,31,1.0,24.7
-Ausar Thompson,G,DET,CHA,,REB,3+,30,1.0,6.6
+Ausar Thompson,G,DET,CHA,Questionable,REB,3+,30,1.0,6.6
 Jabari Smith Jr.,F,HOU,MIL,,RA,5+,30,1.0,9.3
 Peyton Watson,G,CLE,WSH,,PTS,5+,30,1.0,17.9
 Daniel Gafford,F,DAL,OKC,,REB,3+,29,1.0,7.3
@@ -133,7 +133,7 @@ Ace Bailey,G,UTAH,SA,,PTS,5+,25,1.0,17.9
 Ace Bailey,G,UTAH,SA,,THREES,1+,25,1.0,2.8
 Matas Buzelis,F,CHI,NY,,PTS,5+,25,1.0,18.8
 Matas Buzelis,F,CHI,NY,,PA,10+,25,1.0,20.8
-Ausar Thompson,G,DET,CHA,,RA,5+,24,1.0,10.7
+Ausar Thompson,G,DET,CHA,Questionable,RA,5+,24,1.0,10.7
 Collin Sexton,G,LAL,LAC,,PTS,5+,24,1.0,17.3
 Jamal Murray,G,DEN,NO,,RA,5+,24,1.0,11.5
 Jaylen Brown,G,PHI,IND,,PTS,15+,24,1.0,27.4
@@ -275,8 +275,8 @@ Evan Mobley,C,CLE,WSH,,PA,15+,14,0.9,21.0
 Gui Santos,F,GS,MIN,,PTS,5+,14,0.95,14.5
 Gui Santos,F,GS,MIN,,REB,3+,14,0.95,4.9
 Kevin Durant,F,HOU,MIL,,REB,4+,14,0.85,6.0
-Marcus Smart,G,HOU,MIL,Questionable,PTS,5+,14,0.95,11.1
-Marcus Smart,G,HOU,MIL,Questionable,REB,2+,14,0.9,3.4
+Marcus Smart,G,HOU,MIL,Out,PTS,5+,14,0.95,11.1
+Marcus Smart,G,HOU,MIL,Out,REB,2+,14,0.9,3.4
 Saddiq Bey,G,NO,DEN,,PTS,10+,14,0.9,19.5
 Saddiq Bey,G,NO,DEN,,THREES,1+,14,0.9,2.9
 Saddiq Bey,G,NO,DEN,,PRA,15+,14,0.95,26.4

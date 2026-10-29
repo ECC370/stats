@@ -1,22 +1,20 @@
 key,grade,who,game,pick,stat,avg,recent,long,matchup,fair,flags,team_def,score,cushion,player,line,risk,gkey
-ALL|ALL|Safest|A only|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|ALL|Safest|A only|1
-ALL|PRA|Safest|A only|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|PRA|Safest|A only|1
-ALL|ALL|Safest|A and B|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|ALL|Safest|A and B|1
-ALL|ALL|Safest|A and B|2,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|ALL|Safest|A and B|1
-ALL|ALL|Safest|A and B|3,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|A and B|1
-ALL|ALL|Safest|A and B|4,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|ALL|Safest|A and B|2
-ALL|ALL|Safest|A and B|5,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Safest,SAC at NO|ALL|Safest|A and B|2
-ALL|ALL|Safest|A and B|6,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|ALL|Safest|A and B|2
-ALL|ALL|Safest|A and B|7,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|ALL|Safest|A and B|3
-ALL|ALL|Safest|A and B|8,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|ALL|Safest|A and B|4
-ALL|ALL|Safest|A and B|9,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,10 of 10,20 of 20,Mid (10th),1.22,B2B 3in4,Defense 18 of 30,0.96,0.37,Donovan Mitchell,20,Safest,CLE at ATL|ALL|Safest|A and B|5
-ALL|ALL|Safest|A and B|10,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Safest,MEM at POR|ALL|Safest|A and B|3
-ALL|ALL|Safest|A and B|11,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|ALL|Safest|A and B|4
-ALL|ALL|Safest|A and B|12,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|ALL|Safest|A and B|6
-ALL|ALL|Safest|A and B|13,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|ALL|Safest|A and B|5
-ALL|ALL|Safest|A and B|14,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|ALL|Safest|A and B|3
-ALL|ALL|Safest|A and B|15,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|ALL|Safest|A and B|6
-ALL|ALL|Safest|A and B|16,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|ALL|Safest|A and B|7
+ALL|ALL|Safest|A and B|1,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|ALL|Safest|A and B|1
+ALL|ALL|Safest|A and B|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|A and B|1
+ALL|ALL|Safest|A and B|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|ALL|Safest|A and B|1
+ALL|ALL|Safest|A and B|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Safest,SAC at NO|ALL|Safest|A and B|2
+ALL|ALL|Safest|A and B|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|ALL|Safest|A and B|2
+ALL|ALL|Safest|A and B|6,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|ALL|Safest|A and B|3
+ALL|ALL|Safest|A and B|7,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|ALL|Safest|A and B|4
+ALL|ALL|Safest|A and B|8,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,10 of 10,20 of 20,Mid (10th),1.22,B2B 3in4,Defense 18 of 30,0.96,0.37,Donovan Mitchell,20,Safest,CLE at ATL|ALL|Safest|A and B|5
+ALL|ALL|Safest|A and B|9,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|ALL|Safest|A and B|2
+ALL|ALL|Safest|A and B|10,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|ALL|Safest|A and B|6
+ALL|ALL|Safest|A and B|11,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Safest,MEM at POR|ALL|Safest|A and B|3
+ALL|ALL|Safest|A and B|12,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|ALL|Safest|A and B|4
+ALL|ALL|Safest|A and B|13,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|ALL|Safest|A and B|3
+ALL|ALL|Safest|A and B|14,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|ALL|Safest|A and B|5
+ALL|ALL|Safest|A and B|15,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|ALL|Safest|A and B|6
+ALL|ALL|Safest|A and B|16,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Safest,MEM at POR|ALL|Safest|A and B|7
 ALL|ALL|Safest|A and B|17,B,Zion Williamson,NO vs SAC,Over 14.5 points,PTS,19.9,9 of 10,18 of 20,Soft (25th),1.31,B2B,Defense 24 of 30,0.91,0.25,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|A and B|4
 ALL|ALL|Safest|A and B|18,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Safest,CLE at ATL|ALL|Safest|A and B|7
 ALL|ALL|Safest|A and B|19,B,Jalen Johnson,ATL vs CLE,Over 13.5 points,PTS,20.2,9 of 10,18 of 20,Soft (30th),1.31,B2B 3in4,Defense 15 of 30,0.91,0.31,Jalen Johnson,14,Safest,CLE at ATL|ALL|Safest|A and B|8
@@ -42,16 +40,16 @@ ALL|PR|Safest|A and B|2,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,
 ALL|PR|Safest|A and B|3,B,Zion Williamson,NO vs SAC,Over 14.5 pts+reb,PR,24.9,10 of 10,20 of 20,Mid (22nd),1.22,B2B,Defense 24 of 30,0.96,0.4,Zion Williamson,15,Safest,SAC at NO|PR|Safest|A and B|1
 ALL|PR|Safest|A and B|4,B,Jalen Johnson,ATL vs CLE,Over 19.5 pts+reb,PR,29.2,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.32,Jalen Johnson,20,Safest,CLE at ATL|PR|Safest|A and B|3
 ALL|PR|Safest|A and B|5,B,Ty Jerome,MEM at POR,Over 14.5 pts+reb,PR,24.7,10 of 10,18 of 19,Tough (6th),1.22,tough matchup,Defense 9 of 30,0.934,0.39,Ty Jerome,15,Safest,MEM at POR|PR|Safest|A and B|1
-ALL|PR|Safest|A and B|6,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Safest,MEM at POR|PR|Safest|A and B|2
-ALL|PR|Safest|A and B|7,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Safest,CLE at ATL|PR|Safest|A and B|4
-ALL|PR|Safest|A and B|8,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Safest,SAC at NO|PR|Safest|A and B|2
-ALL|PR|Safest|A and B|9,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Safest,SAC at NO|PR|Safest|A and B|3
-ALL|PRA|Safest|A and B|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|PRA|Safest|A and B|1
-ALL|PRA|Safest|A and B|2,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|PRA|Safest|A and B|1
-ALL|PRA|Safest|A and B|3,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|PRA|Safest|A and B|2
-ALL|PRA|Safest|A and B|4,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Safest,SAC at NO|PRA|Safest|A and B|1
-ALL|PRA|Safest|A and B|5,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Safest,CLE at ATL|PRA|Safest|A and B|3
-ALL|PRA|Safest|A and B|6,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|PRA|Safest|A and B|4
+ALL|PR|Safest|A and B|6,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Safest,CLE at ATL|PR|Safest|A and B|4
+ALL|PR|Safest|A and B|7,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Safest,SAC at NO|PR|Safest|A and B|2
+ALL|PR|Safest|A and B|8,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Safest,SAC at NO|PR|Safest|A and B|3
+ALL|PR|Safest|A and B|9,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Safest,MEM at POR|PR|Safest|A and B|2
+ALL|PRA|Safest|A and B|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|PRA|Safest|A and B|1
+ALL|PRA|Safest|A and B|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|PRA|Safest|A and B|2
+ALL|PRA|Safest|A and B|3,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Safest,SAC at NO|PRA|Safest|A and B|1
+ALL|PRA|Safest|A and B|4,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Safest,CLE at ATL|PRA|Safest|A and B|3
+ALL|PRA|Safest|A and B|5,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|PRA|Safest|A and B|4
+ALL|PRA|Safest|A and B|6,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Safest,MEM at POR|PRA|Safest|A and B|1
 ALL|PRA|Safest|A and B|7,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|PRA|Safest|A and B|2
 ALL|PRA|Safest|A and B|8,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|PRA|Safest|A and B|2
 ALL|PRA|Safest|A and B|9,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|PRA|Safest|A and B|3
@@ -70,29 +68,29 @@ ALL|RA|Safest|A and B|1,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of
 ALL|REB|Safest|A and B|1,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|REB|Safest|A and B|1
 ALL|REB|Safest|A and B|2,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|REB|Safest|A and B|2
 ALL|REB|Safest|A and B|3,B,Deni Avdija,POR vs MEM,Over 3.5 rebounds,REB,6.3,9 of 10,19 of 20,Soft (26th),1.27,,Defense 27 of 30,0.975,0.37,Deni Avdija,4,Safest,MEM at POR|REB|Safest|A and B|1
-ALL|REB|Safest|A and B|4,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Safest,MEM at POR|REB|Safest|A and B|2
-ALL|REB|Safest|A and B|5,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|REB|Safest|A and B|3
-ALL|REB|Safest|A and B|6,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|REB|Safest|A and B|4
+ALL|REB|Safest|A and B|4,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|REB|Safest|A and B|2
+ALL|REB|Safest|A and B|5,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|REB|Safest|A and B|3
+ALL|REB|Safest|A and B|6,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Safest,MEM at POR|REB|Safest|A and B|4
 ALL|REB|Safest|A and B|7,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Safest,CLE at ATL|REB|Safest|A and B|3
 ALL|REB|Safest|A and B|8,B,DeAndre Jordan,NO vs SAC,Over 3.5 rebounds,REB,6.4,9 of 10,13 of 14,Mid (9th),1.29,B2B,Defense 24 of 30,0.874,0.37,DeAndre Jordan,4,Safest,SAC at NO|REB|Safest|A and B|1
 ALL|REB|Safest|A and B|9,B,Peyton Watson,CLE at ATL,Over 2.5 rebounds,REB,4.5,9 of 10,18 of 20,Mid (13th),1.31,B2B 3in4,Defense 18 of 30,0.86,0.34,Peyton Watson,3,Safest,CLE at ATL|REB|Safest|A and B|4
 ALL|THREES|Safest|A and B|1,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|THREES|Safest|A and B|1
-ALL|ALL|Safest|A to C|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|ALL|Safest|A to C|1
-ALL|ALL|Safest|A to C|2,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|ALL|Safest|A to C|1
-ALL|ALL|Safest|A to C|3,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|A to C|1
-ALL|ALL|Safest|A to C|4,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|ALL|Safest|A to C|2
-ALL|ALL|Safest|A to C|5,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Safest,SAC at NO|ALL|Safest|A to C|2
-ALL|ALL|Safest|A to C|6,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|ALL|Safest|A to C|2
-ALL|ALL|Safest|A to C|7,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|ALL|Safest|A to C|3
-ALL|ALL|Safest|A to C|8,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|ALL|Safest|A to C|4
-ALL|ALL|Safest|A to C|9,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,10 of 10,20 of 20,Mid (10th),1.22,B2B 3in4,Defense 18 of 30,0.96,0.37,Donovan Mitchell,20,Safest,CLE at ATL|ALL|Safest|A to C|5
-ALL|ALL|Safest|A to C|10,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Safest,MEM at POR|ALL|Safest|A to C|3
-ALL|ALL|Safest|A to C|11,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|ALL|Safest|A to C|4
-ALL|ALL|Safest|A to C|12,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|ALL|Safest|A to C|6
-ALL|ALL|Safest|A to C|13,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|ALL|Safest|A to C|5
-ALL|ALL|Safest|A to C|14,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|ALL|Safest|A to C|3
-ALL|ALL|Safest|A to C|15,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|ALL|Safest|A to C|6
-ALL|ALL|Safest|A to C|16,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|ALL|Safest|A to C|7
+ALL|ALL|Safest|A to C|1,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|ALL|Safest|A to C|1
+ALL|ALL|Safest|A to C|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|A to C|1
+ALL|ALL|Safest|A to C|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|ALL|Safest|A to C|1
+ALL|ALL|Safest|A to C|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Safest,SAC at NO|ALL|Safest|A to C|2
+ALL|ALL|Safest|A to C|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|ALL|Safest|A to C|2
+ALL|ALL|Safest|A to C|6,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|ALL|Safest|A to C|3
+ALL|ALL|Safest|A to C|7,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|ALL|Safest|A to C|4
+ALL|ALL|Safest|A to C|8,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,10 of 10,20 of 20,Mid (10th),1.22,B2B 3in4,Defense 18 of 30,0.96,0.37,Donovan Mitchell,20,Safest,CLE at ATL|ALL|Safest|A to C|5
+ALL|ALL|Safest|A to C|9,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|ALL|Safest|A to C|2
+ALL|ALL|Safest|A to C|10,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|ALL|Safest|A to C|6
+ALL|ALL|Safest|A to C|11,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Safest,MEM at POR|ALL|Safest|A to C|3
+ALL|ALL|Safest|A to C|12,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|ALL|Safest|A to C|4
+ALL|ALL|Safest|A to C|13,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|ALL|Safest|A to C|3
+ALL|ALL|Safest|A to C|14,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|ALL|Safest|A to C|5
+ALL|ALL|Safest|A to C|15,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|ALL|Safest|A to C|6
+ALL|ALL|Safest|A to C|16,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Safest,MEM at POR|ALL|Safest|A to C|7
 ALL|ALL|Safest|A to C|17,B,Zion Williamson,NO vs SAC,Over 14.5 points,PTS,19.9,9 of 10,18 of 20,Soft (25th),1.31,B2B,Defense 24 of 30,0.91,0.25,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|A to C|4
 ALL|ALL|Safest|A to C|18,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Safest,CLE at ATL|ALL|Safest|A to C|7
 ALL|ALL|Safest|A to C|19,B,Jalen Johnson,ATL vs CLE,Over 13.5 points,PTS,20.2,9 of 10,18 of 20,Soft (30th),1.31,B2B 3in4,Defense 15 of 30,0.91,0.31,Jalen Johnson,14,Safest,CLE at ATL|ALL|Safest|A to C|8
@@ -139,20 +137,20 @@ ALL|PR|Safest|A to C|2,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,1
 ALL|PR|Safest|A to C|3,B,Zion Williamson,NO vs SAC,Over 14.5 pts+reb,PR,24.9,10 of 10,20 of 20,Mid (22nd),1.22,B2B,Defense 24 of 30,0.96,0.4,Zion Williamson,15,Safest,SAC at NO|PR|Safest|A to C|1
 ALL|PR|Safest|A to C|4,B,Jalen Johnson,ATL vs CLE,Over 19.5 pts+reb,PR,29.2,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.32,Jalen Johnson,20,Safest,CLE at ATL|PR|Safest|A to C|3
 ALL|PR|Safest|A to C|5,B,Ty Jerome,MEM at POR,Over 14.5 pts+reb,PR,24.7,10 of 10,18 of 19,Tough (6th),1.22,tough matchup,Defense 9 of 30,0.934,0.39,Ty Jerome,15,Safest,MEM at POR|PR|Safest|A to C|1
-ALL|PR|Safest|A to C|6,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Safest,MEM at POR|PR|Safest|A to C|2
-ALL|PR|Safest|A to C|7,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Safest,CLE at ATL|PR|Safest|A to C|4
-ALL|PR|Safest|A to C|8,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Safest,SAC at NO|PR|Safest|A to C|2
-ALL|PR|Safest|A to C|9,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Safest,SAC at NO|PR|Safest|A to C|3
+ALL|PR|Safest|A to C|6,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Safest,CLE at ATL|PR|Safest|A to C|4
+ALL|PR|Safest|A to C|7,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Safest,SAC at NO|PR|Safest|A to C|2
+ALL|PR|Safest|A to C|8,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Safest,SAC at NO|PR|Safest|A to C|3
+ALL|PR|Safest|A to C|9,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Safest,MEM at POR|PR|Safest|A to C|2
 ALL|PR|Safest|A to C|10,C,Ja Morant,POR vs MEM,Over 14.5 pts+reb,PR,21.9,10 of 10,17 of 20,Soft (27th),1.27,,Defense 27 of 30,0.975,0.31,Ja Morant,15,Safest,MEM at POR|PR|Safest|A to C|3
 ALL|PR|Safest|A to C|11,C,Deni Avdija,POR vs MEM,Over 24.5 pts+reb,PR,30.7,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 27 of 30,0.925,0.19,Deni Avdija,25,Safest,MEM at POR|PR|Safest|A to C|4
 ALL|PR|Safest|A to C|12,C,Olivier-Maxence Prosper,MEM at POR,Over 14.5 pts+reb,PR,19.2,9 of 10,17 of 20,Mid (16th),1.34,"last season stats, check roster",Defense 9 of 30,0.835,0.22,Olivier-Maxence Prosper,15,Safest,MEM at POR|PR|Safest|A to C|5
 ALL|PR|Safest|A to C|13,C,Saddiq Bey,NO vs SAC,Over 14.5 pts+reb,PR,22.3,9 of 10,17 of 20,Mid (19th),1.34,B2B,Defense 24 of 30,0.835,0.33,Saddiq Bey,15,Safest,SAC at NO|PR|Safest|A to C|4
-ALL|PRA|Safest|A to C|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|PRA|Safest|A to C|1
-ALL|PRA|Safest|A to C|2,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|PRA|Safest|A to C|1
-ALL|PRA|Safest|A to C|3,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|PRA|Safest|A to C|2
-ALL|PRA|Safest|A to C|4,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Safest,SAC at NO|PRA|Safest|A to C|1
-ALL|PRA|Safest|A to C|5,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Safest,CLE at ATL|PRA|Safest|A to C|3
-ALL|PRA|Safest|A to C|6,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|PRA|Safest|A to C|4
+ALL|PRA|Safest|A to C|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|PRA|Safest|A to C|1
+ALL|PRA|Safest|A to C|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|PRA|Safest|A to C|2
+ALL|PRA|Safest|A to C|3,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Safest,SAC at NO|PRA|Safest|A to C|1
+ALL|PRA|Safest|A to C|4,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Safest,CLE at ATL|PRA|Safest|A to C|3
+ALL|PRA|Safest|A to C|5,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|PRA|Safest|A to C|4
+ALL|PRA|Safest|A to C|6,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Safest,MEM at POR|PRA|Safest|A to C|1
 ALL|PRA|Safest|A to C|7,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|PRA|Safest|A to C|2
 ALL|PRA|Safest|A to C|8,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|PRA|Safest|A to C|2
 ALL|PRA|Safest|A to C|9,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|PRA|Safest|A to C|3
@@ -182,9 +180,9 @@ ALL|RA|Safest|A to C|2,C,Dejounte Murray,NO vs SAC,Over 9.5 reb+ast,RA,11.7,10 o
 ALL|REB|Safest|A to C|1,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|REB|Safest|A to C|1
 ALL|REB|Safest|A to C|2,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|REB|Safest|A to C|2
 ALL|REB|Safest|A to C|3,B,Deni Avdija,POR vs MEM,Over 3.5 rebounds,REB,6.3,9 of 10,19 of 20,Soft (26th),1.27,,Defense 27 of 30,0.975,0.37,Deni Avdija,4,Safest,MEM at POR|REB|Safest|A to C|1
-ALL|REB|Safest|A to C|4,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Safest,MEM at POR|REB|Safest|A to C|2
-ALL|REB|Safest|A to C|5,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|REB|Safest|A to C|3
-ALL|REB|Safest|A to C|6,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|REB|Safest|A to C|4
+ALL|REB|Safest|A to C|4,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|REB|Safest|A to C|2
+ALL|REB|Safest|A to C|5,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|REB|Safest|A to C|3
+ALL|REB|Safest|A to C|6,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Safest,MEM at POR|REB|Safest|A to C|4
 ALL|REB|Safest|A to C|7,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Safest,CLE at ATL|REB|Safest|A to C|3
 ALL|REB|Safest|A to C|8,B,DeAndre Jordan,NO vs SAC,Over 3.5 rebounds,REB,6.4,9 of 10,13 of 14,Mid (9th),1.29,B2B,Defense 24 of 30,0.874,0.37,DeAndre Jordan,4,Safest,SAC at NO|REB|Safest|A to C|1
 ALL|REB|Safest|A to C|9,B,Peyton Watson,CLE at ATL,Over 2.5 rebounds,REB,4.5,9 of 10,18 of 20,Mid (13th),1.31,B2B 3in4,Defense 18 of 30,0.86,0.34,Peyton Watson,3,Safest,CLE at ATL|REB|Safest|A to C|4
@@ -193,22 +191,22 @@ ALL|REB|Safest|A to C|11,C,Jalen Johnson,ATL vs CLE,Over 6.5 rebounds,REB,9.1,9 
 ALL|THREES|Safest|A to C|1,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|THREES|Safest|A to C|1
 ALL|THREES|Safest|A to C|2,C,Donovan Mitchell,CLE at ATL,Over 1.5 threes,THREES,2.9,10 of 10,18 of 20,Tough (7th),1.24,tough matchup; B2B 3in4,Defense 18 of 30,0.87,0.3,Donovan Mitchell,2,Safest,CLE at ATL|THREES|Safest|A to C|1
 ALL|THREES|Safest|A to C|3,C,Sam Merrill,CLE at ATL,Over 0.5 threes,THREES,1.6,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4,Defense 18 of 30,0.795,0.38,Sam Merrill,1,Safest,CLE at ATL|THREES|Safest|A to C|2
-ALL|ALL|Safest|All|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|ALL|Safest|All|1
-ALL|ALL|Safest|All|2,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|ALL|Safest|All|1
-ALL|ALL|Safest|All|3,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|All|1
-ALL|ALL|Safest|All|4,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|ALL|Safest|All|2
-ALL|ALL|Safest|All|5,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Safest,SAC at NO|ALL|Safest|All|2
-ALL|ALL|Safest|All|6,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|ALL|Safest|All|2
-ALL|ALL|Safest|All|7,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|ALL|Safest|All|3
-ALL|ALL|Safest|All|8,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|ALL|Safest|All|4
-ALL|ALL|Safest|All|9,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,10 of 10,20 of 20,Mid (10th),1.22,B2B 3in4,Defense 18 of 30,0.96,0.37,Donovan Mitchell,20,Safest,CLE at ATL|ALL|Safest|All|5
-ALL|ALL|Safest|All|10,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Safest,MEM at POR|ALL|Safest|All|3
-ALL|ALL|Safest|All|11,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|ALL|Safest|All|4
-ALL|ALL|Safest|All|12,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|ALL|Safest|All|6
-ALL|ALL|Safest|All|13,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|ALL|Safest|All|5
-ALL|ALL|Safest|All|14,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|ALL|Safest|All|3
-ALL|ALL|Safest|All|15,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|ALL|Safest|All|6
-ALL|ALL|Safest|All|16,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|ALL|Safest|All|7
+ALL|ALL|Safest|All|1,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|ALL|Safest|All|1
+ALL|ALL|Safest|All|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|All|1
+ALL|ALL|Safest|All|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|ALL|Safest|All|1
+ALL|ALL|Safest|All|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Safest,SAC at NO|ALL|Safest|All|2
+ALL|ALL|Safest|All|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|ALL|Safest|All|2
+ALL|ALL|Safest|All|6,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|ALL|Safest|All|3
+ALL|ALL|Safest|All|7,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|ALL|Safest|All|4
+ALL|ALL|Safest|All|8,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,10 of 10,20 of 20,Mid (10th),1.22,B2B 3in4,Defense 18 of 30,0.96,0.37,Donovan Mitchell,20,Safest,CLE at ATL|ALL|Safest|All|5
+ALL|ALL|Safest|All|9,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|ALL|Safest|All|2
+ALL|ALL|Safest|All|10,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|ALL|Safest|All|6
+ALL|ALL|Safest|All|11,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Safest,MEM at POR|ALL|Safest|All|3
+ALL|ALL|Safest|All|12,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|ALL|Safest|All|4
+ALL|ALL|Safest|All|13,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|ALL|Safest|All|3
+ALL|ALL|Safest|All|14,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|ALL|Safest|All|5
+ALL|ALL|Safest|All|15,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|ALL|Safest|All|6
+ALL|ALL|Safest|All|16,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Safest,MEM at POR|ALL|Safest|All|7
 ALL|ALL|Safest|All|17,B,Zion Williamson,NO vs SAC,Over 14.5 points,PTS,19.9,9 of 10,18 of 20,Soft (25th),1.31,B2B,Defense 24 of 30,0.91,0.25,Zion Williamson,15,Safest,SAC at NO|ALL|Safest|All|4
 ALL|ALL|Safest|All|18,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Safest,CLE at ATL|ALL|Safest|All|7
 ALL|ALL|Safest|All|19,B,Jalen Johnson,ATL vs CLE,Over 13.5 points,PTS,20.2,9 of 10,18 of 20,Soft (30th),1.31,B2B 3in4,Defense 15 of 30,0.91,0.31,Jalen Johnson,14,Safest,CLE at ATL|ALL|Safest|All|8
@@ -255,20 +253,20 @@ ALL|PR|Safest|All|2,B,Donovan Mitchell,CLE at ATL,Over 19.5 pts+reb,PR,31.6,10 o
 ALL|PR|Safest|All|3,B,Zion Williamson,NO vs SAC,Over 14.5 pts+reb,PR,24.9,10 of 10,20 of 20,Mid (22nd),1.22,B2B,Defense 24 of 30,0.96,0.4,Zion Williamson,15,Safest,SAC at NO|PR|Safest|All|1
 ALL|PR|Safest|All|4,B,Jalen Johnson,ATL vs CLE,Over 19.5 pts+reb,PR,29.2,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.32,Jalen Johnson,20,Safest,CLE at ATL|PR|Safest|All|3
 ALL|PR|Safest|All|5,B,Ty Jerome,MEM at POR,Over 14.5 pts+reb,PR,24.7,10 of 10,18 of 19,Tough (6th),1.22,tough matchup,Defense 9 of 30,0.934,0.39,Ty Jerome,15,Safest,MEM at POR|PR|Safest|All|1
-ALL|PR|Safest|All|6,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Safest,MEM at POR|PR|Safest|All|2
-ALL|PR|Safest|All|7,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Safest,CLE at ATL|PR|Safest|All|4
-ALL|PR|Safest|All|8,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Safest,SAC at NO|PR|Safest|All|2
-ALL|PR|Safest|All|9,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Safest,SAC at NO|PR|Safest|All|3
+ALL|PR|Safest|All|6,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Safest,CLE at ATL|PR|Safest|All|4
+ALL|PR|Safest|All|7,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Safest,SAC at NO|PR|Safest|All|2
+ALL|PR|Safest|All|8,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Safest,SAC at NO|PR|Safest|All|3
+ALL|PR|Safest|All|9,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Safest,MEM at POR|PR|Safest|All|2
 ALL|PR|Safest|All|10,C,Ja Morant,POR vs MEM,Over 14.5 pts+reb,PR,21.9,10 of 10,17 of 20,Soft (27th),1.27,,Defense 27 of 30,0.975,0.31,Ja Morant,15,Safest,MEM at POR|PR|Safest|All|3
 ALL|PR|Safest|All|11,C,Deni Avdija,POR vs MEM,Over 24.5 pts+reb,PR,30.7,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 27 of 30,0.925,0.19,Deni Avdija,25,Safest,MEM at POR|PR|Safest|All|4
 ALL|PR|Safest|All|12,C,Olivier-Maxence Prosper,MEM at POR,Over 14.5 pts+reb,PR,19.2,9 of 10,17 of 20,Mid (16th),1.34,"last season stats, check roster",Defense 9 of 30,0.835,0.22,Olivier-Maxence Prosper,15,Safest,MEM at POR|PR|Safest|All|5
 ALL|PR|Safest|All|13,C,Saddiq Bey,NO vs SAC,Over 14.5 pts+reb,PR,22.3,9 of 10,17 of 20,Mid (19th),1.34,B2B,Defense 24 of 30,0.835,0.33,Saddiq Bey,15,Safest,SAC at NO|PR|Safest|All|4
-ALL|PRA|Safest|All|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Safest,MEM at POR|PRA|Safest|All|1
-ALL|PRA|Safest|All|2,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|PRA|Safest|All|1
-ALL|PRA|Safest|All|3,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|PRA|Safest|All|2
-ALL|PRA|Safest|All|4,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Safest,SAC at NO|PRA|Safest|All|1
-ALL|PRA|Safest|All|5,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Safest,CLE at ATL|PRA|Safest|All|3
-ALL|PRA|Safest|All|6,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|PRA|Safest|All|4
+ALL|PRA|Safest|All|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb+ast,PRA,29.4,10 of 10,19 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,0.985,0.32,Evan Mobley,20,Safest,CLE at ATL|PRA|Safest|All|1
+ALL|PRA|Safest|All|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Safest,CLE at ATL|PRA|Safest|All|2
+ALL|PRA|Safest|All|3,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Safest,SAC at NO|PRA|Safest|All|1
+ALL|PRA|Safest|All|4,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Safest,CLE at ATL|PRA|Safest|All|3
+ALL|PRA|Safest|All|5,B,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb+ast,PRA,36.0,9 of 10,19 of 20,Soft (30th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.31,Jalen Johnson,25,Safest,CLE at ATL|PRA|Safest|All|4
+ALL|PRA|Safest|All|6,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Safest,MEM at POR|PRA|Safest|All|1
 ALL|PRA|Safest|All|7,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Safest,MEM at POR|PRA|Safest|All|2
 ALL|PRA|Safest|All|8,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Safest,SAC at NO|PRA|Safest|All|2
 ALL|PRA|Safest|All|9,B,Deni Avdija,POR vs MEM,Over 24.5 pts+reb+ast,PRA,37.2,9 of 10,19 of 20,Mid (21st),1.27,,Defense 27 of 30,0.925,0.33,Deni Avdija,25,Safest,MEM at POR|PRA|Safest|All|3
@@ -298,9 +296,9 @@ ALL|RA|Safest|All|2,C,Dejounte Murray,NO vs SAC,Over 9.5 reb+ast,RA,11.7,10 of 1
 ALL|REB|Safest|All|1,B,Evan Mobley,CLE at ATL,Over 5.5 rebounds,REB,8.8,10 of 10,20 of 20,Soft (30th),1.22,B2B 3in4,Defense 18 of 30,1.01,0.32,Evan Mobley,6,Safest,CLE at ATL|REB|Safest|All|1
 ALL|REB|Safest|All|2,B,Onyeka Okongwu,ATL vs CLE,Over 3.5 rebounds,REB,6.2,10 of 10,19 of 20,Soft (24th),1.22,B2B 3in4,Defense 15 of 30,0.985,0.36,Onyeka Okongwu,4,Safest,CLE at ATL|REB|Safest|All|2
 ALL|REB|Safest|All|3,B,Deni Avdija,POR vs MEM,Over 3.5 rebounds,REB,6.3,9 of 10,19 of 20,Soft (26th),1.27,,Defense 27 of 30,0.975,0.37,Deni Avdija,4,Safest,MEM at POR|REB|Safest|All|1
-ALL|REB|Safest|All|4,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Safest,MEM at POR|REB|Safest|All|2
-ALL|REB|Safest|All|5,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|REB|Safest|All|3
-ALL|REB|Safest|All|6,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|REB|Safest|All|4
+ALL|REB|Safest|All|4,B,Jrue Holiday,POR vs MEM,Over 2.5 rebounds,REB,4.9,9 of 10,18 of 20,Soft (28th),1.31,,Defense 27 of 30,0.95,0.39,Jrue Holiday,3,Safest,MEM at POR|REB|Safest|All|2
+ALL|REB|Safest|All|5,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Safest,MEM at POR|REB|Safest|All|3
+ALL|REB|Safest|All|6,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Safest,MEM at POR|REB|Safest|All|4
 ALL|REB|Safest|All|7,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Safest,CLE at ATL|REB|Safest|All|3
 ALL|REB|Safest|All|8,B,DeAndre Jordan,NO vs SAC,Over 3.5 rebounds,REB,6.4,9 of 10,13 of 14,Mid (9th),1.29,B2B,Defense 24 of 30,0.874,0.37,DeAndre Jordan,4,Safest,SAC at NO|REB|Safest|All|1
 ALL|REB|Safest|All|9,B,Peyton Watson,CLE at ATL,Over 2.5 rebounds,REB,4.5,9 of 10,18 of 20,Mid (13th),1.31,B2B 3in4,Defense 18 of 30,0.86,0.34,Peyton Watson,3,Safest,CLE at ATL|REB|Safest|All|4
@@ -309,20 +307,18 @@ ALL|REB|Safest|All|11,C,Jalen Johnson,ATL vs CLE,Over 6.5 rebounds,REB,9.1,9 of 
 ALL|THREES|Safest|All|1,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Safest,MEM at POR|THREES|Safest|All|1
 ALL|THREES|Safest|All|2,C,Donovan Mitchell,CLE at ATL,Over 1.5 threes,THREES,2.9,10 of 10,18 of 20,Tough (7th),1.24,tough matchup; B2B 3in4,Defense 18 of 30,0.87,0.3,Donovan Mitchell,2,Safest,CLE at ATL|THREES|Safest|All|1
 ALL|THREES|Safest|All|3,C,Sam Merrill,CLE at ATL,Over 0.5 threes,THREES,1.6,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4,Defense 18 of 30,0.795,0.38,Sam Merrill,1,Safest,CLE at ATL|THREES|Safest|All|2
-ALL|ALL|Balanced|A only|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|ALL|Balanced|A only|1
-ALL|PRA|Balanced|A only|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|PRA|Balanced|A only|1
-ALL|ALL|Balanced|A and B|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|ALL|Balanced|A and B|1
-ALL|ALL|Balanced|A and B|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Balanced,SAC at NO|ALL|Balanced|A and B|1
-ALL|ALL|Balanced|A and B|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Balanced,MEM at POR|ALL|Balanced|A and B|2
-ALL|ALL|Balanced|A and B|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Balanced,SAC at NO|ALL|Balanced|A and B|2
-ALL|ALL|Balanced|A and B|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|ALL|Balanced|A and B|1
-ALL|ALL|Balanced|A and B|6,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|ALL|Balanced|A and B|2
-ALL|ALL|Balanced|A and B|7,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Balanced,MEM at POR|ALL|Balanced|A and B|3
-ALL|ALL|Balanced|A and B|8,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|ALL|Balanced|A and B|3
-ALL|ALL|Balanced|A and B|9,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Balanced,CLE at ATL|ALL|Balanced|A and B|4
-ALL|ALL|Balanced|A and B|10,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|ALL|Balanced|A and B|4
-ALL|ALL|Balanced|A and B|11,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|ALL|Balanced|A and B|3
-ALL|ALL|Balanced|A and B|12,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|ALL|Balanced|A and B|5
+ALL|ALL|Balanced|A and B|1,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Balanced,SAC at NO|ALL|Balanced|A and B|1
+ALL|ALL|Balanced|A and B|2,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Balanced,MEM at POR|ALL|Balanced|A and B|1
+ALL|ALL|Balanced|A and B|3,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Balanced,SAC at NO|ALL|Balanced|A and B|2
+ALL|ALL|Balanced|A and B|4,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|ALL|Balanced|A and B|1
+ALL|ALL|Balanced|A and B|5,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|ALL|Balanced|A and B|2
+ALL|ALL|Balanced|A and B|6,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|ALL|Balanced|A and B|3
+ALL|ALL|Balanced|A and B|7,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Balanced,CLE at ATL|ALL|Balanced|A and B|4
+ALL|ALL|Balanced|A and B|8,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Balanced,MEM at POR|ALL|Balanced|A and B|2
+ALL|ALL|Balanced|A and B|9,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|ALL|Balanced|A and B|3
+ALL|ALL|Balanced|A and B|10,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|ALL|Balanced|A and B|3
+ALL|ALL|Balanced|A and B|11,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|ALL|Balanced|A and B|4
+ALL|ALL|Balanced|A and B|12,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Balanced,MEM at POR|ALL|Balanced|A and B|5
 ALL|ALL|Balanced|A and B|13,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Balanced,CLE at ATL|ALL|Balanced|A and B|5
 ALL|ALL|Balanced|A and B|14,B,Onyeka Okongwu,ATL vs CLE,Over 7.5 points,PTS,12.1,9 of 10,18 of 20,Soft (30th),1.31,B2B 3in4,Defense 15 of 30,0.91,0.34,Onyeka Okongwu,8,Balanced,CLE at ATL|ALL|Balanced|A and B|6
 ALL|ALL|Balanced|A and B|15,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Balanced,CLE at ATL|ALL|Balanced|A and B|7
@@ -344,14 +340,14 @@ ALL|PA|Balanced|A and B|7,B,Olivier-Maxence Prosper,MEM at POR,Over 9.5 pts+ast,
 ALL|PR|Balanced|A and B|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|PR|Balanced|A and B|1
 ALL|PR|Balanced|A and B|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+reb,PR,24.9,10 of 10,20 of 20,Mid (22nd),1.22,B2B,Defense 24 of 30,0.96,0.4,Zion Williamson,15,Balanced,SAC at NO|PR|Balanced|A and B|1
 ALL|PR|Balanced|A and B|3,B,Ty Jerome,MEM at POR,Over 14.5 pts+reb,PR,24.7,10 of 10,18 of 19,Tough (6th),1.22,tough matchup,Defense 9 of 30,0.934,0.39,Ty Jerome,15,Balanced,MEM at POR|PR|Balanced|A and B|1
-ALL|PR|Balanced|A and B|4,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Balanced,MEM at POR|PR|Balanced|A and B|2
-ALL|PR|Balanced|A and B|5,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Balanced,CLE at ATL|PR|Balanced|A and B|2
-ALL|PR|Balanced|A and B|6,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Balanced,SAC at NO|PR|Balanced|A and B|2
-ALL|PR|Balanced|A and B|7,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Balanced,SAC at NO|PR|Balanced|A and B|3
-ALL|PRA|Balanced|A and B|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|PRA|Balanced|A and B|1
-ALL|PRA|Balanced|A and B|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|PRA|Balanced|A and B|1
-ALL|PRA|Balanced|A and B|3,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Balanced,SAC at NO|PRA|Balanced|A and B|1
-ALL|PRA|Balanced|A and B|4,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|PRA|Balanced|A and B|2
+ALL|PR|Balanced|A and B|4,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Balanced,CLE at ATL|PR|Balanced|A and B|2
+ALL|PR|Balanced|A and B|5,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Balanced,SAC at NO|PR|Balanced|A and B|2
+ALL|PR|Balanced|A and B|6,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Balanced,SAC at NO|PR|Balanced|A and B|3
+ALL|PR|Balanced|A and B|7,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Balanced,MEM at POR|PR|Balanced|A and B|2
+ALL|PRA|Balanced|A and B|1,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|PRA|Balanced|A and B|1
+ALL|PRA|Balanced|A and B|2,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Balanced,SAC at NO|PRA|Balanced|A and B|1
+ALL|PRA|Balanced|A and B|3,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|PRA|Balanced|A and B|2
+ALL|PRA|Balanced|A and B|4,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Balanced,MEM at POR|PRA|Balanced|A and B|1
 ALL|PRA|Balanced|A and B|5,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|PRA|Balanced|A and B|2
 ALL|PRA|Balanced|A and B|6,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|PRA|Balanced|A and B|2
 ALL|PRA|Balanced|A and B|7,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Balanced,CLE at ATL|PRA|Balanced|A and B|3
@@ -362,24 +358,24 @@ ALL|PTS|Balanced|A and B|1,B,Onyeka Okongwu,ATL vs CLE,Over 7.5 points,PTS,12.1,
 ALL|PTS|Balanced|A and B|2,B,James Harden,CLE at ATL,Over 11.5 points,PTS,18.4,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,12,Balanced,CLE at ATL|PTS|Balanced|A and B|2
 ALL|RA|Balanced|A and B|1,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Balanced,CLE at ATL|RA|Balanced|A and B|1
 ALL|REB|Balanced|A and B|1,B,Deni Avdija,POR vs MEM,Over 3.5 rebounds,REB,6.3,9 of 10,19 of 20,Soft (26th),1.27,,Defense 27 of 30,0.975,0.37,Deni Avdija,4,Balanced,MEM at POR|REB|Balanced|A and B|1
-ALL|REB|Balanced|A and B|2,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Balanced,MEM at POR|REB|Balanced|A and B|2
-ALL|REB|Balanced|A and B|3,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|REB|Balanced|A and B|3
+ALL|REB|Balanced|A and B|2,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|REB|Balanced|A and B|2
+ALL|REB|Balanced|A and B|3,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Balanced,MEM at POR|REB|Balanced|A and B|3
 ALL|REB|Balanced|A and B|4,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Balanced,CLE at ATL|REB|Balanced|A and B|1
 ALL|REB|Balanced|A and B|5,B,DeAndre Jordan,NO vs SAC,Over 3.5 rebounds,REB,6.4,9 of 10,13 of 14,Mid (9th),1.29,B2B,Defense 24 of 30,0.874,0.37,DeAndre Jordan,4,Balanced,SAC at NO|REB|Balanced|A and B|1
 ALL|REB|Balanced|A and B|6,B,Peyton Watson,CLE at ATL,Over 2.5 rebounds,REB,4.5,9 of 10,18 of 20,Mid (13th),1.31,B2B 3in4,Defense 18 of 30,0.86,0.34,Peyton Watson,3,Balanced,CLE at ATL|REB|Balanced|A and B|2
 ALL|THREES|Balanced|A and B|1,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Balanced,MEM at POR|THREES|Balanced|A and B|1
-ALL|ALL|Balanced|A to C|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|ALL|Balanced|A to C|1
-ALL|ALL|Balanced|A to C|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Balanced,SAC at NO|ALL|Balanced|A to C|1
-ALL|ALL|Balanced|A to C|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Balanced,MEM at POR|ALL|Balanced|A to C|2
-ALL|ALL|Balanced|A to C|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Balanced,SAC at NO|ALL|Balanced|A to C|2
-ALL|ALL|Balanced|A to C|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|ALL|Balanced|A to C|1
-ALL|ALL|Balanced|A to C|6,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|ALL|Balanced|A to C|2
-ALL|ALL|Balanced|A to C|7,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Balanced,MEM at POR|ALL|Balanced|A to C|3
-ALL|ALL|Balanced|A to C|8,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|ALL|Balanced|A to C|3
-ALL|ALL|Balanced|A to C|9,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Balanced,CLE at ATL|ALL|Balanced|A to C|4
-ALL|ALL|Balanced|A to C|10,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|ALL|Balanced|A to C|4
-ALL|ALL|Balanced|A to C|11,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|ALL|Balanced|A to C|3
-ALL|ALL|Balanced|A to C|12,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|ALL|Balanced|A to C|5
+ALL|ALL|Balanced|A to C|1,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Balanced,SAC at NO|ALL|Balanced|A to C|1
+ALL|ALL|Balanced|A to C|2,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Balanced,MEM at POR|ALL|Balanced|A to C|1
+ALL|ALL|Balanced|A to C|3,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Balanced,SAC at NO|ALL|Balanced|A to C|2
+ALL|ALL|Balanced|A to C|4,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|ALL|Balanced|A to C|1
+ALL|ALL|Balanced|A to C|5,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|ALL|Balanced|A to C|2
+ALL|ALL|Balanced|A to C|6,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|ALL|Balanced|A to C|3
+ALL|ALL|Balanced|A to C|7,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Balanced,CLE at ATL|ALL|Balanced|A to C|4
+ALL|ALL|Balanced|A to C|8,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Balanced,MEM at POR|ALL|Balanced|A to C|2
+ALL|ALL|Balanced|A to C|9,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|ALL|Balanced|A to C|3
+ALL|ALL|Balanced|A to C|10,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|ALL|Balanced|A to C|3
+ALL|ALL|Balanced|A to C|11,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|ALL|Balanced|A to C|4
+ALL|ALL|Balanced|A to C|12,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Balanced,MEM at POR|ALL|Balanced|A to C|5
 ALL|ALL|Balanced|A to C|13,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Balanced,CLE at ATL|ALL|Balanced|A to C|5
 ALL|ALL|Balanced|A to C|14,B,Onyeka Okongwu,ATL vs CLE,Over 7.5 points,PTS,12.1,9 of 10,18 of 20,Soft (30th),1.31,B2B 3in4,Defense 15 of 30,0.91,0.34,Onyeka Okongwu,8,Balanced,CLE at ATL|ALL|Balanced|A to C|6
 ALL|ALL|Balanced|A to C|15,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Balanced,CLE at ATL|ALL|Balanced|A to C|7
@@ -475,10 +471,10 @@ ALL|PA|Balanced|A to C|21,C,Derik Queen,NO vs SAC,Over 9.5 pts+ast,PA,13.8,9 of 
 ALL|PR|Balanced|A to C|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|PR|Balanced|A to C|1
 ALL|PR|Balanced|A to C|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+reb,PR,24.9,10 of 10,20 of 20,Mid (22nd),1.22,B2B,Defense 24 of 30,0.96,0.4,Zion Williamson,15,Balanced,SAC at NO|PR|Balanced|A to C|1
 ALL|PR|Balanced|A to C|3,B,Ty Jerome,MEM at POR,Over 14.5 pts+reb,PR,24.7,10 of 10,18 of 19,Tough (6th),1.22,tough matchup,Defense 9 of 30,0.934,0.39,Ty Jerome,15,Balanced,MEM at POR|PR|Balanced|A to C|1
-ALL|PR|Balanced|A to C|4,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Balanced,MEM at POR|PR|Balanced|A to C|2
-ALL|PR|Balanced|A to C|5,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Balanced,CLE at ATL|PR|Balanced|A to C|2
-ALL|PR|Balanced|A to C|6,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Balanced,SAC at NO|PR|Balanced|A to C|2
-ALL|PR|Balanced|A to C|7,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Balanced,SAC at NO|PR|Balanced|A to C|3
+ALL|PR|Balanced|A to C|4,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Balanced,CLE at ATL|PR|Balanced|A to C|2
+ALL|PR|Balanced|A to C|5,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Balanced,SAC at NO|PR|Balanced|A to C|2
+ALL|PR|Balanced|A to C|6,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Balanced,SAC at NO|PR|Balanced|A to C|3
+ALL|PR|Balanced|A to C|7,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Balanced,MEM at POR|PR|Balanced|A to C|2
 ALL|PR|Balanced|A to C|8,C,Ja Morant,POR vs MEM,Over 14.5 pts+reb,PR,21.9,10 of 10,17 of 20,Soft (27th),1.27,,Defense 27 of 30,0.975,0.31,Ja Morant,15,Balanced,MEM at POR|PR|Balanced|A to C|3
 ALL|PR|Balanced|A to C|9,C,Deni Avdija,POR vs MEM,Over 24.5 pts+reb,PR,30.7,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 27 of 30,0.925,0.19,Deni Avdija,25,Balanced,MEM at POR|PR|Balanced|A to C|4
 ALL|PR|Balanced|A to C|10,C,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb,PR,29.2,8 of 10,17 of 20,Soft (30th),1.43,B2B 3in4,Defense 15 of 30,0.835,0.15,Jalen Johnson,25,Balanced,CLE at ATL|PR|Balanced|A to C|3
@@ -490,10 +486,10 @@ ALL|PR|Balanced|A to C|15,C,Zach Edey,MEM at POR,Over 14.5 pts+reb,PR,22.3,8 of 
 ALL|PR|Balanced|A to C|16,C,Jarrett Allen,CLE at ATL,Over 14.5 pts+reb,PR,19.6,8 of 10,15 of 20,Soft (30th),1.52,B2B 3in4,Defense 18 of 30,0.785,0.23,Jarrett Allen,15,Balanced,CLE at ATL|PR|Balanced|A to C|4
 ALL|PR|Balanced|A to C|17,C,Micah Potter,POR vs MEM,Over 9.5 pts+reb,PR,15.5,8 of 10,15 of 20,Mid (14th),1.52,,Defense 27 of 30,0.775,0.35,Micah Potter,10,Balanced,
 ALL|PR|Balanced|A to C|18,C,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb,PR,31.6,8 of 10,16 of 20,Mid (10th),1.47,B2B 3in4,Defense 18 of 30,0.76,0.21,Donovan Mitchell,25,Balanced,CLE at ATL|PR|Balanced|A to C|5
-ALL|PRA|Balanced|A to C|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|PRA|Balanced|A to C|1
-ALL|PRA|Balanced|A to C|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|PRA|Balanced|A to C|1
-ALL|PRA|Balanced|A to C|3,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Balanced,SAC at NO|PRA|Balanced|A to C|1
-ALL|PRA|Balanced|A to C|4,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|PRA|Balanced|A to C|2
+ALL|PRA|Balanced|A to C|1,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|PRA|Balanced|A to C|1
+ALL|PRA|Balanced|A to C|2,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Balanced,SAC at NO|PRA|Balanced|A to C|1
+ALL|PRA|Balanced|A to C|3,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|PRA|Balanced|A to C|2
+ALL|PRA|Balanced|A to C|4,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Balanced,MEM at POR|PRA|Balanced|A to C|1
 ALL|PRA|Balanced|A to C|5,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|PRA|Balanced|A to C|2
 ALL|PRA|Balanced|A to C|6,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|PRA|Balanced|A to C|2
 ALL|PRA|Balanced|A to C|7,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Balanced,CLE at ATL|PRA|Balanced|A to C|3
@@ -554,8 +550,8 @@ ALL|RA|Balanced|A to C|9,C,DeAndre Jordan,NO vs SAC,Over 4.5 reb+ast,RA,7.3,8 of
 ALL|RA|Balanced|A to C|10,C,Javon Small,MEM at POR,Over 4.5 reb+ast,RA,8.1,8 of 10,17 of 20,Tough (4th),1.43,"tough matchup; last season stats, check roster",Defense 9 of 30,0.745,0.38,Javon Small,5,Balanced,MEM at POR|RA|Balanced|A to C|4
 ALL|RA|Balanced|A to C|11,C,Killian Hayes,SAC at NO,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (9th),1.52,"last season stats, check roster",Defense 28 of 30,0.735,0.15,Killian Hayes,5,Balanced,SAC at NO|RA|Balanced|A to C|4
 ALL|REB|Balanced|A to C|1,B,Deni Avdija,POR vs MEM,Over 3.5 rebounds,REB,6.3,9 of 10,19 of 20,Soft (26th),1.27,,Defense 27 of 30,0.975,0.37,Deni Avdija,4,Balanced,MEM at POR|REB|Balanced|A to C|1
-ALL|REB|Balanced|A to C|2,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Balanced,MEM at POR|REB|Balanced|A to C|2
-ALL|REB|Balanced|A to C|3,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|REB|Balanced|A to C|3
+ALL|REB|Balanced|A to C|2,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|REB|Balanced|A to C|2
+ALL|REB|Balanced|A to C|3,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Balanced,MEM at POR|REB|Balanced|A to C|3
 ALL|REB|Balanced|A to C|4,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Balanced,CLE at ATL|REB|Balanced|A to C|1
 ALL|REB|Balanced|A to C|5,B,DeAndre Jordan,NO vs SAC,Over 3.5 rebounds,REB,6.4,9 of 10,13 of 14,Mid (9th),1.29,B2B,Defense 24 of 30,0.874,0.37,DeAndre Jordan,4,Balanced,SAC at NO|REB|Balanced|A to C|1
 ALL|REB|Balanced|A to C|6,B,Peyton Watson,CLE at ATL,Over 2.5 rebounds,REB,4.5,9 of 10,18 of 20,Mid (13th),1.31,B2B 3in4,Defense 18 of 30,0.86,0.34,Peyton Watson,3,Balanced,CLE at ATL|REB|Balanced|A to C|2
@@ -594,18 +590,18 @@ ALL|THREES|Balanced|A to C|4,C,Cedric Coward,MEM at POR,Over 0.5 threes,THREES,1
 ALL|THREES|Balanced|A to C|5,C,Jeremiah Fears,NO vs SAC,Over 0.5 threes,THREES,1.6,8 of 10,16 of 20,Soft (29th),1.47,B2B,Defense 24 of 30,0.81,0.35,Jeremiah Fears,1,Balanced,SAC at NO|THREES|Balanced|A to C|1
 ALL|THREES|Balanced|A to C|6,C,Ty Jerome,MEM at POR,Over 1.5 threes,THREES,2.7,8 of 10,17 of 19,Tough (2nd),1.39,tough matchup,Defense 9 of 30,0.807,0.27,Ty Jerome,2,Balanced,MEM at POR|THREES|Balanced|A to C|3
 ALL|THREES|Balanced|A to C|7,C,Sam Merrill,CLE at ATL,Over 0.5 threes,THREES,1.6,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4,Defense 18 of 30,0.795,0.38,Sam Merrill,1,Balanced,CLE at ATL|THREES|Balanced|A to C|3
-ALL|ALL|Balanced|All|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|ALL|Balanced|All|1
-ALL|ALL|Balanced|All|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Balanced,SAC at NO|ALL|Balanced|All|1
-ALL|ALL|Balanced|All|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Balanced,MEM at POR|ALL|Balanced|All|2
-ALL|ALL|Balanced|All|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Balanced,SAC at NO|ALL|Balanced|All|2
-ALL|ALL|Balanced|All|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|ALL|Balanced|All|1
-ALL|ALL|Balanced|All|6,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|ALL|Balanced|All|2
-ALL|ALL|Balanced|All|7,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Balanced,MEM at POR|ALL|Balanced|All|3
-ALL|ALL|Balanced|All|8,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|ALL|Balanced|All|3
-ALL|ALL|Balanced|All|9,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Balanced,CLE at ATL|ALL|Balanced|All|4
-ALL|ALL|Balanced|All|10,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|ALL|Balanced|All|4
-ALL|ALL|Balanced|All|11,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|ALL|Balanced|All|3
-ALL|ALL|Balanced|All|12,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|ALL|Balanced|All|5
+ALL|ALL|Balanced|All|1,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Balanced,SAC at NO|ALL|Balanced|All|1
+ALL|ALL|Balanced|All|2,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Balanced,MEM at POR|ALL|Balanced|All|1
+ALL|ALL|Balanced|All|3,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Balanced,SAC at NO|ALL|Balanced|All|2
+ALL|ALL|Balanced|All|4,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|ALL|Balanced|All|1
+ALL|ALL|Balanced|All|5,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|ALL|Balanced|All|2
+ALL|ALL|Balanced|All|6,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|ALL|Balanced|All|3
+ALL|ALL|Balanced|All|7,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Balanced,CLE at ATL|ALL|Balanced|All|4
+ALL|ALL|Balanced|All|8,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Balanced,MEM at POR|ALL|Balanced|All|2
+ALL|ALL|Balanced|All|9,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|ALL|Balanced|All|3
+ALL|ALL|Balanced|All|10,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|ALL|Balanced|All|3
+ALL|ALL|Balanced|All|11,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|ALL|Balanced|All|4
+ALL|ALL|Balanced|All|12,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Balanced,MEM at POR|ALL|Balanced|All|5
 ALL|ALL|Balanced|All|13,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Balanced,CLE at ATL|ALL|Balanced|All|5
 ALL|ALL|Balanced|All|14,B,Onyeka Okongwu,ATL vs CLE,Over 7.5 points,PTS,12.1,9 of 10,18 of 20,Soft (30th),1.31,B2B 3in4,Defense 15 of 30,0.91,0.34,Onyeka Okongwu,8,Balanced,CLE at ATL|ALL|Balanced|All|6
 ALL|ALL|Balanced|All|15,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Balanced,CLE at ATL|ALL|Balanced|All|7
@@ -701,10 +697,10 @@ ALL|PA|Balanced|All|21,C,Derik Queen,NO vs SAC,Over 9.5 pts+ast,PA,13.8,9 of 10,
 ALL|PR|Balanced|All|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Balanced,CLE at ATL|PR|Balanced|All|1
 ALL|PR|Balanced|All|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+reb,PR,24.9,10 of 10,20 of 20,Mid (22nd),1.22,B2B,Defense 24 of 30,0.96,0.4,Zion Williamson,15,Balanced,SAC at NO|PR|Balanced|All|1
 ALL|PR|Balanced|All|3,B,Ty Jerome,MEM at POR,Over 14.5 pts+reb,PR,24.7,10 of 10,18 of 19,Tough (6th),1.22,tough matchup,Defense 9 of 30,0.934,0.39,Ty Jerome,15,Balanced,MEM at POR|PR|Balanced|All|1
-ALL|PR|Balanced|All|4,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Balanced,MEM at POR|PR|Balanced|All|2
-ALL|PR|Balanced|All|5,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Balanced,CLE at ATL|PR|Balanced|All|2
-ALL|PR|Balanced|All|6,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Balanced,SAC at NO|PR|Balanced|All|2
-ALL|PR|Balanced|All|7,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Balanced,SAC at NO|PR|Balanced|All|3
+ALL|PR|Balanced|All|4,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Balanced,CLE at ATL|PR|Balanced|All|2
+ALL|PR|Balanced|All|5,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Balanced,SAC at NO|PR|Balanced|All|2
+ALL|PR|Balanced|All|6,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Balanced,SAC at NO|PR|Balanced|All|3
+ALL|PR|Balanced|All|7,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Balanced,MEM at POR|PR|Balanced|All|2
 ALL|PR|Balanced|All|8,C,Ja Morant,POR vs MEM,Over 14.5 pts+reb,PR,21.9,10 of 10,17 of 20,Soft (27th),1.27,,Defense 27 of 30,0.975,0.31,Ja Morant,15,Balanced,MEM at POR|PR|Balanced|All|3
 ALL|PR|Balanced|All|9,C,Deni Avdija,POR vs MEM,Over 24.5 pts+reb,PR,30.7,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 27 of 30,0.925,0.19,Deni Avdija,25,Balanced,MEM at POR|PR|Balanced|All|4
 ALL|PR|Balanced|All|10,C,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb,PR,29.2,8 of 10,17 of 20,Soft (30th),1.43,B2B 3in4,Defense 15 of 30,0.835,0.15,Jalen Johnson,25,Balanced,CLE at ATL|PR|Balanced|All|3
@@ -716,10 +712,10 @@ ALL|PR|Balanced|All|15,C,Zach Edey,MEM at POR,Over 14.5 pts+reb,PR,22.3,8 of 10,
 ALL|PR|Balanced|All|16,C,Jarrett Allen,CLE at ATL,Over 14.5 pts+reb,PR,19.6,8 of 10,15 of 20,Soft (30th),1.52,B2B 3in4,Defense 18 of 30,0.785,0.23,Jarrett Allen,15,Balanced,CLE at ATL|PR|Balanced|All|4
 ALL|PR|Balanced|All|17,C,Micah Potter,POR vs MEM,Over 9.5 pts+reb,PR,15.5,8 of 10,15 of 20,Mid (14th),1.52,,Defense 27 of 30,0.775,0.35,Micah Potter,10,Balanced,
 ALL|PR|Balanced|All|18,C,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb,PR,31.6,8 of 10,16 of 20,Mid (10th),1.47,B2B 3in4,Defense 18 of 30,0.76,0.21,Donovan Mitchell,25,Balanced,CLE at ATL|PR|Balanced|All|5
-ALL|PRA|Balanced|All|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Balanced,MEM at POR|PRA|Balanced|All|1
-ALL|PRA|Balanced|All|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|PRA|Balanced|All|1
-ALL|PRA|Balanced|All|3,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Balanced,SAC at NO|PRA|Balanced|All|1
-ALL|PRA|Balanced|All|4,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|PRA|Balanced|All|2
+ALL|PRA|Balanced|All|1,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Balanced,CLE at ATL|PRA|Balanced|All|1
+ALL|PRA|Balanced|All|2,B,Zion Williamson,NO vs SAC,Over 19.5 pts+reb+ast,PRA,27.5,9 of 10,19 of 20,Soft (25th),1.27,B2B,Defense 24 of 30,0.935,0.27,Zion Williamson,20,Balanced,SAC at NO|PRA|Balanced|All|1
+ALL|PRA|Balanced|All|3,B,Donovan Mitchell,CLE at ATL,Over 24.5 pts+reb+ast,PRA,35.0,10 of 10,19 of 20,Mid (11th),1.22,B2B 3in4,Defense 18 of 30,0.935,0.29,Donovan Mitchell,25,Balanced,CLE at ATL|PRA|Balanced|All|2
+ALL|PRA|Balanced|All|4,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Balanced,MEM at POR|PRA|Balanced|All|1
 ALL|PRA|Balanced|All|5,B,Ty Jerome,MEM at POR,Over 19.5 pts+reb+ast,PRA,30.5,10 of 10,18 of 19,Tough (4th),1.22,tough matchup,Defense 9 of 30,0.934,0.34,Ty Jerome,20,Balanced,MEM at POR|PRA|Balanced|All|2
 ALL|PRA|Balanced|All|6,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Balanced,SAC at NO|PRA|Balanced|All|2
 ALL|PRA|Balanced|All|7,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Balanced,CLE at ATL|PRA|Balanced|All|3
@@ -780,8 +776,8 @@ ALL|RA|Balanced|All|9,C,DeAndre Jordan,NO vs SAC,Over 4.5 reb+ast,RA,7.3,8 of 10
 ALL|RA|Balanced|All|10,C,Javon Small,MEM at POR,Over 4.5 reb+ast,RA,8.1,8 of 10,17 of 20,Tough (4th),1.43,"tough matchup; last season stats, check roster",Defense 9 of 30,0.745,0.38,Javon Small,5,Balanced,MEM at POR|RA|Balanced|All|4
 ALL|RA|Balanced|All|11,C,Killian Hayes,SAC at NO,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (9th),1.52,"last season stats, check roster",Defense 28 of 30,0.735,0.15,Killian Hayes,5,Balanced,SAC at NO|RA|Balanced|All|4
 ALL|REB|Balanced|All|1,B,Deni Avdija,POR vs MEM,Over 3.5 rebounds,REB,6.3,9 of 10,19 of 20,Soft (26th),1.27,,Defense 27 of 30,0.975,0.37,Deni Avdija,4,Balanced,MEM at POR|REB|Balanced|All|1
-ALL|REB|Balanced|All|2,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,,Defense 27 of 30,0.95,0.22,Robert Williams III,6,Balanced,MEM at POR|REB|Balanced|All|2
-ALL|REB|Balanced|All|3,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|REB|Balanced|All|3
+ALL|REB|Balanced|All|2,B,GG Jackson,MEM at POR,Over 2.5 rebounds,REB,4.7,9 of 10,19 of 20,Mid (21st),1.27,,Defense 9 of 30,0.925,0.35,GG Jackson,3,Balanced,MEM at POR|REB|Balanced|All|2
+ALL|REB|Balanced|All|3,B,Robert Williams III,POR vs MEM,Over 5.5 rebounds,REB,7.7,10 of 10,18 of 20,Mid (17th),1.24,questionable,Defense 27 of 30,0.91,0.22,Robert Williams III,6,Balanced,MEM at POR|REB|Balanced|All|3
 ALL|REB|Balanced|All|4,B,Donovan Mitchell,CLE at ATL,Over 3.5 rebounds,REB,5.4,10 of 10,18 of 20,Mid (13th),1.24,B2B 3in4,Defense 18 of 30,0.91,0.26,Donovan Mitchell,4,Balanced,CLE at ATL|REB|Balanced|All|1
 ALL|REB|Balanced|All|5,B,DeAndre Jordan,NO vs SAC,Over 3.5 rebounds,REB,6.4,9 of 10,13 of 14,Mid (9th),1.29,B2B,Defense 24 of 30,0.874,0.37,DeAndre Jordan,4,Balanced,SAC at NO|REB|Balanced|All|1
 ALL|REB|Balanced|All|6,B,Peyton Watson,CLE at ATL,Over 2.5 rebounds,REB,4.5,9 of 10,18 of 20,Mid (13th),1.31,B2B 3in4,Defense 18 of 30,0.86,0.34,Peyton Watson,3,Balanced,CLE at ATL|REB|Balanced|All|2
@@ -820,15 +816,13 @@ ALL|THREES|Balanced|All|4,C,Cedric Coward,MEM at POR,Over 0.5 threes,THREES,1.6,
 ALL|THREES|Balanced|All|5,C,Jeremiah Fears,NO vs SAC,Over 0.5 threes,THREES,1.6,8 of 10,16 of 20,Soft (29th),1.47,B2B,Defense 24 of 30,0.81,0.35,Jeremiah Fears,1,Balanced,SAC at NO|THREES|Balanced|All|1
 ALL|THREES|Balanced|All|6,C,Ty Jerome,MEM at POR,Over 1.5 threes,THREES,2.7,8 of 10,17 of 19,Tough (2nd),1.39,tough matchup,Defense 9 of 30,0.807,0.27,Ty Jerome,2,Balanced,MEM at POR|THREES|Balanced|All|3
 ALL|THREES|Balanced|All|7,C,Sam Merrill,CLE at ATL,Over 0.5 threes,THREES,1.6,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; B2B 3in4,Defense 18 of 30,0.795,0.38,Sam Merrill,1,Balanced,CLE at ATL|THREES|Balanced|All|3
-ALL|ALL|Reach|A only|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|ALL|Reach|A only|1
-ALL|PRA|Reach|A only|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|PRA|Reach|A only|1
-ALL|ALL|Reach|A and B|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|ALL|Reach|A and B|1
-ALL|ALL|Reach|A and B|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Reach,SAC at NO|ALL|Reach|A and B|1
-ALL|ALL|Reach|A and B|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Reach,MEM at POR|ALL|Reach|A and B|2
-ALL|ALL|Reach|A and B|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Reach,SAC at NO|ALL|Reach|A and B|2
-ALL|ALL|Reach|A and B|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|ALL|Reach|A and B|1
-ALL|ALL|Reach|A and B|6,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|ALL|Reach|A and B|2
-ALL|ALL|Reach|A and B|7,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Reach,CLE at ATL|ALL|Reach|A and B|3
+ALL|ALL|Reach|A and B|1,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Reach,SAC at NO|ALL|Reach|A and B|1
+ALL|ALL|Reach|A and B|2,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Reach,MEM at POR|ALL|Reach|A and B|1
+ALL|ALL|Reach|A and B|3,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Reach,SAC at NO|ALL|Reach|A and B|2
+ALL|ALL|Reach|A and B|4,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|ALL|Reach|A and B|1
+ALL|ALL|Reach|A and B|5,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|ALL|Reach|A and B|2
+ALL|ALL|Reach|A and B|6,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Reach,CLE at ATL|ALL|Reach|A and B|3
+ALL|ALL|Reach|A and B|7,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Reach,MEM at POR|ALL|Reach|A and B|2
 ALL|ALL|Reach|A and B|8,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Reach,SAC at NO|ALL|Reach|A and B|3
 ALL|ALL|Reach|A and B|9,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Reach,CLE at ATL|ALL|Reach|A and B|4
 ALL|ALL|Reach|A and B|10,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|ALL|Reach|A and B|4
@@ -842,12 +836,12 @@ ALL|PA|Reach|A and B|3,B,Onyeka Okongwu,ATL vs CLE,Over 9.5 pts+ast,PA,14.4,9 of
 ALL|PA|Reach|A and B|4,B,James Harden,CLE at ATL,Over 14.5 pts+ast,PA,24.3,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.38,James Harden,15,Reach,CLE at ATL|PA|Reach|A and B|3
 ALL|PA|Reach|A and B|5,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+ast,PA,23.2,9 of 10,17 of 18,Mid (22nd),1.28,B2B,Defense 24 of 30,0.882,0.35,Dejounte Murray,15,Reach,SAC at NO|PA|Reach|A and B|2
 ALL|PR|Reach|A and B|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|PR|Reach|A and B|1
-ALL|PR|Reach|A and B|2,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Reach,MEM at POR|PR|Reach|A and B|1
-ALL|PR|Reach|A and B|3,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Reach,CLE at ATL|PR|Reach|A and B|2
-ALL|PR|Reach|A and B|4,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|PR|Reach|A and B|1
-ALL|PR|Reach|A and B|5,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Reach,SAC at NO|PR|Reach|A and B|2
-ALL|PRA|Reach|A and B|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|PRA|Reach|A and B|1
-ALL|PRA|Reach|A and B|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|PRA|Reach|A and B|1
+ALL|PR|Reach|A and B|2,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Reach,CLE at ATL|PR|Reach|A and B|2
+ALL|PR|Reach|A and B|3,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|PR|Reach|A and B|1
+ALL|PR|Reach|A and B|4,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Reach,SAC at NO|PR|Reach|A and B|2
+ALL|PR|Reach|A and B|5,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Reach,MEM at POR|PR|Reach|A and B|1
+ALL|PRA|Reach|A and B|1,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|PRA|Reach|A and B|1
+ALL|PRA|Reach|A and B|2,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Reach,MEM at POR|PRA|Reach|A and B|1
 ALL|PRA|Reach|A and B|3,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Reach,SAC at NO|PRA|Reach|A and B|1
 ALL|PRA|Reach|A and B|4,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Reach,CLE at ATL|PRA|Reach|A and B|2
 ALL|PRA|Reach|A and B|5,B,Olivier-Maxence Prosper,MEM at POR,Over 14.5 pts+reb+ast,PRA,20.4,9 of 10,18 of 20,Mid (16th),1.31,"last season stats, check roster",Defense 9 of 30,0.86,0.26,Olivier-Maxence Prosper,15,Reach,MEM at POR|PRA|Reach|A and B|2
@@ -855,13 +849,13 @@ ALL|PRA|Reach|A and B|6,B,Taylor Hendricks,MEM at POR,Over 9.5 pts+reb+ast,PRA,1
 ALL|PRA|Reach|A and B|7,B,Peyton Watson,CLE at ATL,Over 14.5 pts+reb+ast,PRA,23.4,8 of 10,18 of 20,Mid (11th),1.38,B2B 3in4,Defense 18 of 30,0.81,0.36,Peyton Watson,15,Reach,CLE at ATL|PRA|Reach|A and B|3
 ALL|RA|Reach|A and B|1,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Reach,CLE at ATL|RA|Reach|A and B|1
 ALL|THREES|Reach|A and B|1,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Reach,MEM at POR|THREES|Reach|A and B|1
-ALL|ALL|Reach|A to C|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|ALL|Reach|A to C|1
-ALL|ALL|Reach|A to C|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Reach,SAC at NO|ALL|Reach|A to C|1
-ALL|ALL|Reach|A to C|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Reach,MEM at POR|ALL|Reach|A to C|2
-ALL|ALL|Reach|A to C|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Reach,SAC at NO|ALL|Reach|A to C|2
-ALL|ALL|Reach|A to C|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|ALL|Reach|A to C|1
-ALL|ALL|Reach|A to C|6,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|ALL|Reach|A to C|2
-ALL|ALL|Reach|A to C|7,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Reach,CLE at ATL|ALL|Reach|A to C|3
+ALL|ALL|Reach|A to C|1,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Reach,SAC at NO|ALL|Reach|A to C|1
+ALL|ALL|Reach|A to C|2,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Reach,MEM at POR|ALL|Reach|A to C|1
+ALL|ALL|Reach|A to C|3,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Reach,SAC at NO|ALL|Reach|A to C|2
+ALL|ALL|Reach|A to C|4,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|ALL|Reach|A to C|1
+ALL|ALL|Reach|A to C|5,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|ALL|Reach|A to C|2
+ALL|ALL|Reach|A to C|6,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Reach,CLE at ATL|ALL|Reach|A to C|3
+ALL|ALL|Reach|A to C|7,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Reach,MEM at POR|ALL|Reach|A to C|2
 ALL|ALL|Reach|A to C|8,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Reach,SAC at NO|ALL|Reach|A to C|3
 ALL|ALL|Reach|A to C|9,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Reach,CLE at ATL|ALL|Reach|A to C|4
 ALL|ALL|Reach|A to C|10,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|ALL|Reach|A to C|4
@@ -978,10 +972,10 @@ ALL|PA|Reach|A to C|21,C,Nique Clifford,SAC at NO,Over 9.5 pts+ast,PA,15.3,7 of 
 ALL|PA|Reach|A to C|22,C,Dyson Daniels,ATL vs CLE,Over 9.5 pts+ast,PA,15.9,7 of 10,17 of 20,Tough (1st),1.52,tough matchup; B2B 3in4,Defense 15 of 30,0.695,0.37,Dyson Daniels,10,Reach,
 ALL|PA|Reach|A to C|23,C,CJ McCollum,ATL vs CLE,Over 14.5 pts+ast,PA,21.9,7 of 10,16 of 20,Tough (1st),1.57,tough matchup; B2B 3in4,Defense 15 of 30,0.67,0.31,CJ McCollum,15,Reach,
 ALL|PR|Reach|A to C|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|PR|Reach|A to C|1
-ALL|PR|Reach|A to C|2,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Reach,MEM at POR|PR|Reach|A to C|1
-ALL|PR|Reach|A to C|3,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Reach,CLE at ATL|PR|Reach|A to C|2
-ALL|PR|Reach|A to C|4,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|PR|Reach|A to C|1
-ALL|PR|Reach|A to C|5,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Reach,SAC at NO|PR|Reach|A to C|2
+ALL|PR|Reach|A to C|2,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Reach,CLE at ATL|PR|Reach|A to C|2
+ALL|PR|Reach|A to C|3,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|PR|Reach|A to C|1
+ALL|PR|Reach|A to C|4,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Reach,SAC at NO|PR|Reach|A to C|2
+ALL|PR|Reach|A to C|5,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Reach,MEM at POR|PR|Reach|A to C|1
 ALL|PR|Reach|A to C|6,C,Ja Morant,POR vs MEM,Over 14.5 pts+reb,PR,21.9,10 of 10,17 of 20,Soft (27th),1.27,,Defense 27 of 30,0.975,0.31,Ja Morant,15,Reach,MEM at POR|PR|Reach|A to C|2
 ALL|PR|Reach|A to C|7,C,Deni Avdija,POR vs MEM,Over 24.5 pts+reb,PR,30.7,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 27 of 30,0.925,0.19,Deni Avdija,25,Reach,MEM at POR|PR|Reach|A to C|3
 ALL|PR|Reach|A to C|8,C,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb,PR,29.2,8 of 10,17 of 20,Soft (30th),1.43,B2B 3in4,Defense 15 of 30,0.835,0.15,Jalen Johnson,25,Reach,CLE at ATL|PR|Reach|A to C|3
@@ -1000,8 +994,8 @@ ALL|PR|Reach|A to C|20,C,Nique Clifford,SAC at NO,Over 9.5 pts+reb,PR,16.1,7 of 
 ALL|PR|Reach|A to C|21,C,Nickeil Alexander-Walker,ATL vs CLE,Over 14.5 pts+reb,PR,23.0,7 of 10,17 of 20,Tough (1st),1.52,tough matchup; B2B 3in4,Defense 15 of 30,0.695,0.35,Nickeil Alexander-Walker,15,Reach,CLE at ATL|PR|Reach|A to C|6
 ALL|PR|Reach|A to C|22,C,Cam Spencer,MEM at POR,Over 9.5 pts+reb,PR,12.1,7 of 10,15 of 20,Tough (6th),1.62,tough matchup,Defense 9 of 30,0.685,0.17,Cam Spencer,10,Reach,
 ALL|PR|Reach|A to C|23,C,CJ McCollum,ATL vs CLE,Over 14.5 pts+reb,PR,21.2,7 of 10,16 of 20,Tough (1st),1.57,tough matchup; B2B 3in4,Defense 15 of 30,0.67,0.29,CJ McCollum,15,Reach,
-ALL|PRA|Reach|A to C|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|PRA|Reach|A to C|1
-ALL|PRA|Reach|A to C|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|PRA|Reach|A to C|1
+ALL|PRA|Reach|A to C|1,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|PRA|Reach|A to C|1
+ALL|PRA|Reach|A to C|2,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Reach,MEM at POR|PRA|Reach|A to C|1
 ALL|PRA|Reach|A to C|3,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Reach,SAC at NO|PRA|Reach|A to C|1
 ALL|PRA|Reach|A to C|4,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Reach,CLE at ATL|PRA|Reach|A to C|2
 ALL|PRA|Reach|A to C|5,B,Olivier-Maxence Prosper,MEM at POR,Over 14.5 pts+reb+ast,PRA,20.4,9 of 10,18 of 20,Mid (16th),1.31,"last season stats, check roster",Defense 9 of 30,0.86,0.26,Olivier-Maxence Prosper,15,Reach,MEM at POR|PRA|Reach|A to C|2
@@ -1105,13 +1099,13 @@ ALL|THREES|Reach|A to C|12,C,Onyeka Okongwu,ATL vs CLE,Over 0.5 threes,THREES,1.
 ALL|THREES|Reach|A to C|13,C,Jalen Johnson,ATL vs CLE,Over 0.5 threes,THREES,1.6,7 of 10,15 of 20,Mid (16th),1.62,B2B 3in4,Defense 15 of 30,0.685,0.38,Jalen Johnson,1,Reach,CLE at ATL|THREES|Reach|A to C|5
 ALL|THREES|Reach|A to C|14,C,Luguentz Dort,ATL vs CLE,Over 0.5 threes,THREES,1.3,7 of 10,16 of 20,Tough (4th),1.57,tough matchup; B2B 3in4,Defense 15 of 30,0.67,0.23,Luguentz Dort,1,Reach,CLE at ATL|THREES|Reach|A to C|6
 ALL|THREES|Reach|A to C|15,C,Peyton Watson,CLE at ATL,Over 0.5 threes,THREES,1.6,7 of 10,15 of 20,Tough (7th),1.62,tough matchup; B2B 3in4,Defense 18 of 30,0.645,0.39,Peyton Watson,1,Reach,
-ALL|ALL|Reach|All|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|ALL|Reach|All|1
-ALL|ALL|Reach|All|2,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Reach,SAC at NO|ALL|Reach|All|1
-ALL|ALL|Reach|All|3,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Reach,MEM at POR|ALL|Reach|All|2
-ALL|ALL|Reach|All|4,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Reach,SAC at NO|ALL|Reach|All|2
-ALL|ALL|Reach|All|5,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|ALL|Reach|All|1
-ALL|ALL|Reach|All|6,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|ALL|Reach|All|2
-ALL|ALL|Reach|All|7,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Reach,CLE at ATL|ALL|Reach|All|3
+ALL|ALL|Reach|All|1,B,Zion Williamson,NO vs SAC,Over 14.5 pts+ast,PA,22.5,10 of 10,20 of 20,Soft (29th),1.22,B2B,Defense 24 of 30,1.01,0.33,Zion Williamson,15,Reach,SAC at NO|ALL|Reach|All|1
+ALL|ALL|Reach|All|2,B,Deni Avdija,POR vs MEM,Over 0.5 threes,THREES,1.6,10 of 10,18 of 20,Soft (25th),1.24,,Defense 27 of 30,1.0,0.38,Deni Avdija,1,Reach,MEM at POR|ALL|Reach|All|1
+ALL|ALL|Reach|All|3,B,Domantas Sabonis,SAC at NO,Over 2.5 assists,AST,5.0,10 of 10,18 of 20,Soft (26th),1.24,,Defense 28 of 30,1.0,0.4,Domantas Sabonis,3,Reach,SAC at NO|ALL|Reach|All|2
+ALL|ALL|Reach|All|4,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|ALL|Reach|All|1
+ALL|ALL|Reach|All|5,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|ALL|Reach|All|2
+ALL|ALL|Reach|All|6,B,Jalen Johnson,ATL vs CLE,Over 9.5 reb+ast,RA,15.8,9 of 10,19 of 20,Soft (27th),1.27,B2B 3in4,Defense 15 of 30,0.935,0.37,Jalen Johnson,10,Reach,CLE at ATL|ALL|Reach|All|3
+ALL|ALL|Reach|All|7,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Reach,MEM at POR|ALL|Reach|All|2
 ALL|ALL|Reach|All|8,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Reach,SAC at NO|ALL|Reach|All|3
 ALL|ALL|Reach|All|9,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Reach,CLE at ATL|ALL|Reach|All|4
 ALL|ALL|Reach|All|10,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|ALL|Reach|All|4
@@ -1189,8 +1183,8 @@ ALL|ALL|Reach|All|81,C,Nickeil Alexander-Walker,ATL vs CLE,Over 13.5 points,PTS,
 ALL|ALL|Reach|All|82,C,Dyson Daniels,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,22.8,7 of 10,17 of 20,Tough (1st),1.52,tough matchup; B2B 3in4,Defense 15 of 30,0.695,0.34,Dyson Daniels,15,Reach,
 ALL|ALL|Reach|All|83,C,Saddiq Bey,NO vs SAC,Over 14.5 points,PTS,17.9,7 of 10,15 of 20,Mid (21st),1.62,B2B,Defense 24 of 30,0.685,0.16,Saddiq Bey,15,Reach,
 ALL|ALL|Reach|All|84,C,Killian Hayes,SAC at NO,Over 1.5 rebounds,REB,2.5,7 of 10,15 of 20,Tough (3rd),1.62,"tough matchup; last season stats, check roster",Defense 28 of 30,0.645,0.18,Killian Hayes,2,Reach,
-ALL|ALL|Reach|All|85,D,Robert Williams III,POR vs MEM,Over 0.5 blocks,BLK,1.1,8 of 10,14 of 20,Soft (25th),1.57,,Defense 27 of 30,0.8,0.05,Robert Williams III,1,Reach,
-ALL|ALL|Reach|All|86,D,Leaky Black,SAC at NO,Over 0.5 steals,STL,1.2,8 of 10,11 of 16,Soft (27th),1.58,,Defense 28 of 30,0.794,0.16,Leaky Black,1,Reach,
+ALL|ALL|Reach|All|85,D,Leaky Black,SAC at NO,Over 0.5 steals,STL,1.2,8 of 10,11 of 16,Soft (27th),1.58,,Defense 28 of 30,0.794,0.16,Leaky Black,1,Reach,
+ALL|ALL|Reach|All|86,D,Robert Williams III,POR vs MEM,Over 0.5 blocks,BLK,1.1,8 of 10,14 of 20,Soft (25th),1.57,questionable,Defense 27 of 30,0.76,0.05,Robert Williams III,1,Reach,
 ALL|ALL|Reach|All|87,D,Micah Potter,POR vs MEM,Over 7.5 points,PTS,10.1,8 of 10,14 of 20,Mid (16th),1.57,,Defense 27 of 30,0.75,0.21,Micah Potter,8,Reach,
 ALL|ALL|Reach|All|88,D,Leaky Black,SAC at NO,Over 4.5 reb+ast,RA,6.2,7 of 10,11 of 16,Soft (30th),1.7,,Defense 28 of 30,0.744,0.19,Leaky Black,5,Reach,
 ALL|ALL|Reach|All|89,D,Russell Westbrook,SAC at NO,Over 4.5 assists,AST,6.0,9 of 10,13 of 20,Mid (17th),1.52,"last season stats, check roster",Defense 28 of 30,0.735,0.17,Russell Westbrook,5,Reach,
@@ -1232,7 +1226,7 @@ ALL|AST|Reach|All|23,D,Derik Queen,NO vs SAC,Over 1.5 assists,AST,2.5,7 of 10,13
 ALL|AST|Reach|All|24,D,Jock Landale,ATL vs CLE,Over 1.5 assists,AST,2.1,7 of 10,12 of 20,Tough (4th),1.81,tough matchup; B2B 3in4,Defense 15 of 30,0.57,0.05,Jock Landale,2,Reach,
 ALL|BLK|Reach|All|1,C,Evan Mobley,CLE at ATL,Over 0.5 blocks,BLK,1.6,7 of 10,15 of 20,Soft (27th),1.62,B2B 3in4,Defense 18 of 30,0.735,0.35,Evan Mobley,1,Reach,CLE at ATL|BLK|Reach|All|1
 ALL|BLK|Reach|All|2,C,Peyton Watson,CLE at ATL,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Mid (10th),1.62,B2B 3in4,Defense 18 of 30,0.685,0.31,Peyton Watson,1,Reach,CLE at ATL|BLK|Reach|All|2
-ALL|BLK|Reach|All|3,D,Robert Williams III,POR vs MEM,Over 0.5 blocks,BLK,1.1,8 of 10,14 of 20,Soft (25th),1.57,,Defense 27 of 30,0.8,0.05,Robert Williams III,1,Reach,MEM at POR|BLK|Reach|All|1
+ALL|BLK|Reach|All|3,D,Robert Williams III,POR vs MEM,Over 0.5 blocks,BLK,1.1,8 of 10,14 of 20,Soft (25th),1.57,questionable,Defense 27 of 30,0.76,0.05,Robert Williams III,1,Reach,MEM at POR|BLK|Reach|All|1
 ALL|BLK|Reach|All|4,D,Zach Edey,MEM at POR,Over 1.5 blocks,BLK,1.9,7 of 10,10 of 14,Tough (3rd),1.66,tough matchup,Defense 9 of 30,0.667,-0.04,Zach Edey,2,Reach,MEM at POR|BLK|Reach|All|2
 ALL|BLK|Reach|All|5,D,Derik Queen,NO vs SAC,Over 0.5 blocks,BLK,0.9,7 of 10,13 of 20,Mid (11th),1.74,B2B,Defense 24 of 30,0.635,-0.05,Derik Queen,1,Reach,SAC at NO|BLK|Reach|All|1
 ALL|DBL_DBL|Reach|All|1,D,Domantas Sabonis,SAC at NO,Double double,DBL_DBL,0.7,7 of 10,13 of 20,Mid (13th),1.74,,Defense 28 of 30,0.675,-0.54,Domantas Sabonis,1,Reach,SAC at NO|DBL_DBL|Reach|All|1
@@ -1267,10 +1261,10 @@ ALL|PA|Reach|All|28,D,Evan Mobley,CLE at ATL,Over 19.5 pts+ast,PA,20.6,7 of 10,1
 ALL|PA|Reach|All|29,D,Olivier-Maxence Prosper,MEM at POR,Over 14.5 pts+ast,PA,15.8,7 of 10,12 of 20,Mid (15th),1.81,"last season stats, check roster",Defense 9 of 30,0.61,0.05,Olivier-Maxence Prosper,15,Reach,
 ALL|PA|Reach|All|30,D,Javon Small,MEM at POR,Over 14.5 pts+ast,PA,17.1,7 of 10,13 of 20,Tough (6th),1.74,"tough matchup; last season stats, check roster",Defense 9 of 30,0.595,0.12,Javon Small,15,Reach,
 ALL|PR|Reach|All|1,B,Evan Mobley,CLE at ATL,Over 19.5 pts+reb,PR,26.0,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 18 of 30,0.96,0.23,Evan Mobley,20,Reach,CLE at ATL|PR|Reach|All|1
-ALL|PR|Reach|All|2,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,,Defense 27 of 30,0.9,0.34,Robert Williams III,10,Reach,MEM at POR|PR|Reach|All|1
-ALL|PR|Reach|All|3,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Reach,CLE at ATL|PR|Reach|All|2
-ALL|PR|Reach|All|4,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|PR|Reach|All|1
-ALL|PR|Reach|All|5,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Reach,SAC at NO|PR|Reach|All|2
+ALL|PR|Reach|All|2,B,James Harden,CLE at ATL,Over 14.5 pts+reb,PR,23.0,9 of 10,19 of 20,Mid (10th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.35,James Harden,15,Reach,CLE at ATL|PR|Reach|All|2
+ALL|PR|Reach|All|3,B,Trey Murphy III,NO vs SAC,Over 14.5 pts+reb,PR,23.3,9 of 10,19 of 20,Mid (22nd),1.27,B2B,Defense 24 of 30,0.885,0.36,Trey Murphy III,15,Reach,SAC at NO|PR|Reach|All|1
+ALL|PR|Reach|All|4,B,Dejounte Murray,NO vs SAC,Over 14.5 pts+reb,PR,22.4,9 of 10,17 of 18,Mid (19th),1.28,B2B,Defense 24 of 30,0.882,0.33,Dejounte Murray,15,Reach,SAC at NO|PR|Reach|All|2
+ALL|PR|Reach|All|5,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb,PR,15.2,9 of 10,18 of 20,Mid (14th),1.31,questionable,Defense 27 of 30,0.86,0.34,Robert Williams III,10,Reach,MEM at POR|PR|Reach|All|1
 ALL|PR|Reach|All|6,C,Ja Morant,POR vs MEM,Over 14.5 pts+reb,PR,21.9,10 of 10,17 of 20,Soft (27th),1.27,,Defense 27 of 30,0.975,0.31,Ja Morant,15,Reach,MEM at POR|PR|Reach|All|2
 ALL|PR|Reach|All|7,C,Deni Avdija,POR vs MEM,Over 24.5 pts+reb,PR,30.7,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 27 of 30,0.925,0.19,Deni Avdija,25,Reach,MEM at POR|PR|Reach|All|3
 ALL|PR|Reach|All|8,C,Jalen Johnson,ATL vs CLE,Over 24.5 pts+reb,PR,29.2,8 of 10,17 of 20,Soft (30th),1.43,B2B 3in4,Defense 15 of 30,0.835,0.15,Jalen Johnson,25,Reach,CLE at ATL|PR|Reach|All|3
@@ -1299,8 +1293,8 @@ ALL|PR|Reach|All|30,D,Derik Queen,NO vs SAC,Over 14.5 pts+reb,PR,18.8,8 of 10,13
 ALL|PR|Reach|All|31,D,Quinten Post,MEM at POR,Over 9.5 pts+reb,PR,10.3,7 of 10,12 of 20,Tough (3rd),1.81,tough matchup,Defense 9 of 30,0.61,0.03,Quinten Post,10,Reach,
 ALL|PR|Reach|All|32,D,Rayan Rupert,MEM at POR,Over 9.5 pts+reb,PR,15.5,7 of 10,13 of 20,Tough (6th),1.74,"tough matchup; last season stats, check roster",Defense 9 of 30,0.595,0.35,Rayan Rupert,10,Reach,
 ALL|PR|Reach|All|33,D,Jahmai Mashack,MEM at POR,Over 9.5 pts+reb,PR,11.1,7 of 10,12 of 20,Tough (6th),1.81,"tough matchup; last season stats, check roster",Defense 9 of 30,0.57,0.1,Jahmai Mashack,10,Reach,
-ALL|PRA|Reach|All|1,A,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,,Defense 27 of 30,0.975,0.39,Robert Williams III,10,Reach,MEM at POR|PRA|Reach|All|1
-ALL|PRA|Reach|All|2,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|PRA|Reach|All|1
+ALL|PRA|Reach|All|1,B,Onyeka Okongwu,ATL vs CLE,Over 14.5 pts+reb+ast,PRA,20.7,10 of 10,18 of 20,Soft (30th),1.24,B2B 3in4,Defense 15 of 30,0.96,0.28,Onyeka Okongwu,15,Reach,CLE at ATL|PRA|Reach|All|1
+ALL|PRA|Reach|All|2,B,Robert Williams III,POR vs MEM,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,19 of 20,Mid (16th),1.22,questionable,Defense 27 of 30,0.935,0.39,Robert Williams III,10,Reach,MEM at POR|PRA|Reach|All|1
 ALL|PRA|Reach|All|3,B,Dejounte Murray,NO vs SAC,Over 19.5 pts+reb+ast,PRA,28.7,10 of 10,17 of 18,Mid (19th),1.22,B2B,Defense 24 of 30,0.932,0.3,Dejounte Murray,20,Reach,SAC at NO|PRA|Reach|All|1
 ALL|PRA|Reach|All|4,B,James Harden,CLE at ATL,Over 19.5 pts+reb+ast,PRA,28.9,9 of 10,19 of 20,Mid (11th),1.27,B2B 3in4,Defense 18 of 30,0.885,0.31,James Harden,20,Reach,CLE at ATL|PRA|Reach|All|2
 ALL|PRA|Reach|All|5,B,Olivier-Maxence Prosper,MEM at POR,Over 14.5 pts+reb+ast,PRA,20.4,9 of 10,18 of 20,Mid (16th),1.31,"last season stats, check roster",Defense 9 of 30,0.86,0.26,Olivier-Maxence Prosper,15,Reach,MEM at POR|PRA|Reach|All|2
@@ -1363,11 +1357,11 @@ ALL|PTS|Reach|All|24,D,Jarrett Allen,CLE at ATL,Over 9.5 points,PTS,12.2,7 of 10
 ALL|PTS|Reach|All|25,D,Quinten Post,MEM at POR,Over 5.5 points,PTS,6.5,8 of 10,13 of 20,Tough (5th),1.62,tough matchup,Defense 9 of 30,0.685,0.08,Quinten Post,6,Reach,
 ALL|PTS|Reach|All|26,D,Cedric Coward,MEM at POR,Over 11.5 points,PTS,13.0,7 of 10,13 of 20,Mid (16th),1.74,,Defense 9 of 30,0.675,0.08,Cedric Coward,12,Reach,
 ALL|PTS|Reach|All|27,D,Deni Avdija,POR vs MEM,Over 21.5 points,PTS,24.4,7 of 10,13 of 20,Mid (21st),1.74,,Defense 27 of 30,0.675,0.1,Deni Avdija,22,Reach,
-ALL|PTS|Reach|All|28,D,Robert Williams III,POR vs MEM,Over 5.5 points,PTS,7.6,7 of 10,13 of 20,Mid (16th),1.74,,Defense 27 of 30,0.675,0.21,Robert Williams III,6,Reach,
-ALL|PTS|Reach|All|29,D,Donovan Clingan,POR vs MEM,Over 6.5 points,PTS,9.2,7 of 10,13 of 20,Mid (16th),1.74,,Defense 27 of 30,0.675,0.24,Donovan Clingan,7,Reach,
-ALL|PTS|Reach|All|30,D,Bryce McGowens,NO vs SAC,Over 5.5 points,PTS,8.2,7 of 10,14 of 20,Mid (21st),1.68,B2B,Defense 24 of 30,0.66,0.27,Bryce McGowens,6,Reach,
-ALL|PTS|Reach|All|31,D,Ty Jerome,MEM at POR,Over 18.5 points,PTS,21.8,7 of 10,13 of 19,Tough (8th),1.7,tough matchup,Defense 9 of 30,0.652,0.13,Ty Jerome,19,Reach,
-ALL|PTS|Reach|All|32,D,Olivier-Maxence Prosper,MEM at POR,Over 12.5 points,PTS,14.7,7 of 10,13 of 20,Mid (16th),1.74,"last season stats, check roster",Defense 9 of 30,0.635,0.11,Olivier-Maxence Prosper,13,Reach,
+ALL|PTS|Reach|All|28,D,Donovan Clingan,POR vs MEM,Over 6.5 points,PTS,9.2,7 of 10,13 of 20,Mid (16th),1.74,,Defense 27 of 30,0.675,0.24,Donovan Clingan,7,Reach,
+ALL|PTS|Reach|All|29,D,Bryce McGowens,NO vs SAC,Over 5.5 points,PTS,8.2,7 of 10,14 of 20,Mid (21st),1.68,B2B,Defense 24 of 30,0.66,0.27,Bryce McGowens,6,Reach,
+ALL|PTS|Reach|All|30,D,Ty Jerome,MEM at POR,Over 18.5 points,PTS,21.8,7 of 10,13 of 19,Tough (8th),1.7,tough matchup,Defense 9 of 30,0.652,0.13,Ty Jerome,19,Reach,
+ALL|PTS|Reach|All|31,D,Olivier-Maxence Prosper,MEM at POR,Over 12.5 points,PTS,14.7,7 of 10,13 of 20,Mid (16th),1.74,"last season stats, check roster",Defense 9 of 30,0.635,0.11,Olivier-Maxence Prosper,13,Reach,
+ALL|PTS|Reach|All|32,D,Robert Williams III,POR vs MEM,Over 5.5 points,PTS,7.6,7 of 10,13 of 20,Mid (16th),1.74,questionable,Defense 27 of 30,0.635,0.21,Robert Williams III,6,Reach,
 ALL|PTS|Reach|All|33,D,Nique Clifford,SAC at NO,Over 8.5 points,PTS,11.6,7 of 10,13 of 20,Tough (4th),1.74,tough matchup,Defense 28 of 30,0.635,0.22,Nique Clifford,9,Reach,
 ALL|PTS|Reach|All|34,D,Sam Merrill,CLE at ATL,Over 5.5 points,PTS,7.8,7 of 10,13 of 20,Mid (10th),1.74,B2B 3in4,Defense 18 of 30,0.635,0.23,Sam Merrill,6,Reach,
 ALL|PTS|Reach|All|35,D,Derik Queen,NO vs SAC,Over 9.5 points,PTS,11.3,8 of 10,12 of 20,Tough (4th),1.68,tough matchup; B2B,Defense 24 of 30,0.62,0.12,Derik Queen,10,Reach,
@@ -1437,9 +1431,9 @@ ALL|REB|Reach|All|34,D,Donovan Mitchell,CLE at ATL,Over 4.5 rebounds,REB,5.4,7 o
 ALL|REB|Reach|All|35,D,Peyton Watson,CLE at ATL,Over 3.5 rebounds,REB,4.5,7 of 10,14 of 20,Mid (13th),1.68,B2B 3in4,Defense 18 of 30,0.66,0.12,Peyton Watson,4,Reach,
 ALL|REB|Reach|All|36,D,Cam Spencer,MEM at POR,Over 1.5 rebounds,REB,2.4,7 of 10,14 of 20,Tough (6th),1.68,tough matchup,Defense 9 of 30,0.66,0.17,Cam Spencer,2,Reach,
 ALL|REB|Reach|All|37,D,Zach LaVine,SAC at NO,Over 1.5 rebounds,REB,2.6,7 of 10,14 of 20,Tough (3rd),1.68,tough matchup,Defense 28 of 30,0.66,0.25,Zach LaVine,2,Reach,
-ALL|REB|Reach|All|38,D,Robert Williams III,POR vs MEM,Over 6.5 rebounds,REB,7.7,7 of 10,12 of 20,Mid (17th),1.81,,Defense 27 of 30,0.65,0.08,Robert Williams III,7,Reach,
-ALL|REB|Reach|All|39,D,Cedric Coward,MEM at POR,Over 3.5 rebounds,REB,5.6,7 of 10,12 of 20,Mid (21st),1.81,,Defense 9 of 30,0.65,0.29,Cedric Coward,4,Reach,
-ALL|REB|Reach|All|40,D,Trey Murphy III,NO vs SAC,Over 4.5 rebounds,REB,5.2,7 of 10,13 of 20,Mid (16th),1.74,B2B,Defense 24 of 30,0.635,0.03,Trey Murphy III,5,Reach,
+ALL|REB|Reach|All|38,D,Cedric Coward,MEM at POR,Over 3.5 rebounds,REB,5.6,7 of 10,12 of 20,Mid (21st),1.81,,Defense 9 of 30,0.65,0.29,Cedric Coward,4,Reach,
+ALL|REB|Reach|All|39,D,Trey Murphy III,NO vs SAC,Over 4.5 rebounds,REB,5.2,7 of 10,13 of 20,Mid (16th),1.74,B2B,Defense 24 of 30,0.635,0.03,Trey Murphy III,5,Reach,
+ALL|REB|Reach|All|40,D,James Harden,CLE at ATL,Over 3.5 rebounds,REB,4.5,7 of 10,13 of 20,Mid (13th),1.74,B2B 3in4,Defense 18 of 30,0.635,0.12,James Harden,4,Reach,
 ALL|STL|Reach|All|1,C,Ja Morant,POR vs MEM,Over 0.5 steals,STL,1.1,8 of 10,15 of 20,Soft (25th),1.52,,Defense 27 of 30,0.825,0.09,Ja Morant,1,Reach,MEM at POR|STL|Reach|All|1
 ALL|STL|Reach|All|2,C,Jarrett Allen,CLE at ATL,Over 0.5 steals,STL,1.1,8 of 10,16 of 20,Soft (30th),1.47,B2B 3in4,Defense 18 of 30,0.81,0.09,Jarrett Allen,1,Reach,CLE at ATL|STL|Reach|All|1
 ALL|STL|Reach|All|3,C,Derik Queen,NO vs SAC,Over 0.5 steals,STL,1.3,8 of 10,15 of 20,Soft (26th),1.52,B2B,Defense 24 of 30,0.785,0.23,Derik Queen,1,Reach,SAC at NO|STL|Reach|All|1

@@ -304,11 +304,11 @@ ALL|ALL|Safest|A to C|103,C,Tre Johnson,WSH vs CHA,Over 6.5 points,PTS,11.2,10 o
 ALL|ALL|Safest|A to C|104,C,Jaylen Brown,PHI vs NY,Over 17.5 points,PTS,26.2,9 of 10,19 of 20,Tough (8th),1.27,tough matchup; questionable,Defense 2 of 30,0.845,0.31,Jaylen Brown,18,Safest,
 ALL|ALL|Safest|A to C|105,C,Julius Randle,BKN vs DET,Over 5.5 rebounds,REB,7.1,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.15,Julius Randle,6,Safest,DET at BKN|ALL|Safest|A to C|6
 ALL|ALL|Safest|A to C|106,C,Draymond Green,GS vs LAL,Over 9.5 reb+ast,RA,11.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 11 of 30,0.835,0.16,Draymond Green,10,Safest,LAL at GS|ALL|Safest|A to C|10
-ALL|ALL|Safest|A to C|107,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Safest,DET at BKN|ALL|Safest|A to C|7
-ALL|ALL|Safest|A to C|108,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Safest,
-ALL|ALL|Safest|A to C|109,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|ALL|Safest|A to C|11
-ALL|ALL|Safest|A to C|110,C,Tre Johnson,WSH vs CHA,Over 9.5 pts+reb+ast,PRA,15.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup; questionable,Defense 9 of 30,0.82,0.37,Tre Johnson,10,Safest,CHA at WSH|ALL|Safest|A to C|10
-ALL|ALL|Safest|A to C|111,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Safest,
+ALL|ALL|Safest|A to C|107,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Safest,
+ALL|ALL|Safest|A to C|108,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|ALL|Safest|A to C|11
+ALL|ALL|Safest|A to C|109,C,Tre Johnson,WSH vs CHA,Over 9.5 pts+reb+ast,PRA,15.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup; questionable,Defense 9 of 30,0.82,0.37,Tre Johnson,10,Safest,CHA at WSH|ALL|Safest|A to C|10
+ALL|ALL|Safest|A to C|110,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Safest,
+ALL|ALL|Safest|A to C|111,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Safest,DET at BKN|ALL|Safest|A to C|7
 ALL|ALL|Safest|A to C|112,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Safest,CHI at BOS|ALL|Safest|A to C|11
 ALL|ALL|Safest|A to C|113,C,Guerschon Yabusele,CHI at BOS,Over 4.5 reb+ast,RA,7.3,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.32,Guerschon Yabusele,5,Safest,CHI at BOS|ALL|Safest|A to C|12
 ALL|ALL|Safest|A to C|114,C,Terance Mann,BKN vs DET,Over 3.5 points,PTS,6.3,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; last season stats, check roster",Defense 3 of 30,0.795,0.37,Terance Mann,4,Safest,DET at BKN|ALL|Safest|A to C|8
@@ -476,9 +476,9 @@ ALL|REB|Safest|A to C|23,C,Karl-Anthony Towns,NY at PHI,Over 9.5 rebounds,REB,11
 ALL|REB|Safest|A to C|24,C,Sam Hauser,BOS vs CHI,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Soft (28th),1.34,"big spread, game script risk",Defense 29 of 30,0.885,0.22,Sam Hauser,3,Safest,CHI at BOS|REB|Safest|A to C|3
 ALL|REB|Safest|A to C|25,C,Kentavious Caldwell-Pope,PHI vs NY,Over 1.5 rebounds,REB,2.6,9 of 10,17 of 20,Mid (13th),1.34,,Defense 2 of 30,0.875,0.23,Kentavious Caldwell-Pope,2,Safest,NY at PHI|REB|Safest|A to C|3
 ALL|REB|Safest|A to C|26,C,Julius Randle,BKN vs DET,Over 5.5 rebounds,REB,7.1,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.15,Julius Randle,6,Safest,DET at BKN|REB|Safest|A to C|2
-ALL|REB|Safest|A to C|27,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Safest,DET at BKN|REB|Safest|A to C|3
-ALL|REB|Safest|A to C|28,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|REB|Safest|A to C|4
-ALL|REB|Safest|A to C|29,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Safest,LAL at GS|REB|Safest|A to C|5
+ALL|REB|Safest|A to C|27,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|REB|Safest|A to C|4
+ALL|REB|Safest|A to C|28,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Safest,LAL at GS|REB|Safest|A to C|5
+ALL|REB|Safest|A to C|29,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Safest,DET at BKN|REB|Safest|A to C|3
 ALL|REB|Safest|A to C|30,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Safest,CHI at BOS|REB|Safest|A to C|4
 ALL|STL|Safest|A to C|1,A,Bam Adebayo,MIA vs IND,Over 0.5 steals,STL,1.6,10 of 10,19 of 20,Mid (22nd),1.22,,Defense 15 of 30,0.975,0.39,Bam Adebayo,1,Safest,IND at MIA|STL|Safest|A to C|1
 ALL|STL|Safest|A to C|2,C,LaMelo Ball,MIN vs LAC,Over 0.5 steals,STL,1.4,9 of 10,17 of 20,Mid (22nd),1.34,,Defense 10 of 30,0.875,0.29,LaMelo Ball,1,Safest,LAC at MIN|STL|Safest|A to C|1
@@ -592,11 +592,11 @@ ALL|ALL|Safest|All|103,C,Tre Johnson,WSH vs CHA,Over 6.5 points,PTS,11.2,10 of 1
 ALL|ALL|Safest|All|104,C,Jaylen Brown,PHI vs NY,Over 17.5 points,PTS,26.2,9 of 10,19 of 20,Tough (8th),1.27,tough matchup; questionable,Defense 2 of 30,0.845,0.31,Jaylen Brown,18,Safest,
 ALL|ALL|Safest|All|105,C,Julius Randle,BKN vs DET,Over 5.5 rebounds,REB,7.1,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.15,Julius Randle,6,Safest,DET at BKN|ALL|Safest|All|6
 ALL|ALL|Safest|All|106,C,Draymond Green,GS vs LAL,Over 9.5 reb+ast,RA,11.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 11 of 30,0.835,0.16,Draymond Green,10,Safest,LAL at GS|ALL|Safest|All|10
-ALL|ALL|Safest|All|107,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Safest,DET at BKN|ALL|Safest|All|7
-ALL|ALL|Safest|All|108,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Safest,
-ALL|ALL|Safest|All|109,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|ALL|Safest|All|11
-ALL|ALL|Safest|All|110,C,Tre Johnson,WSH vs CHA,Over 9.5 pts+reb+ast,PRA,15.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup; questionable,Defense 9 of 30,0.82,0.37,Tre Johnson,10,Safest,CHA at WSH|ALL|Safest|All|10
-ALL|ALL|Safest|All|111,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Safest,
+ALL|ALL|Safest|All|107,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Safest,
+ALL|ALL|Safest|All|108,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|ALL|Safest|All|11
+ALL|ALL|Safest|All|109,C,Tre Johnson,WSH vs CHA,Over 9.5 pts+reb+ast,PRA,15.8,9 of 10,18 of 20,Tough (8th),1.31,tough matchup; questionable,Defense 9 of 30,0.82,0.37,Tre Johnson,10,Safest,CHA at WSH|ALL|Safest|All|10
+ALL|ALL|Safest|All|110,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Safest,
+ALL|ALL|Safest|All|111,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Safest,DET at BKN|ALL|Safest|All|7
 ALL|ALL|Safest|All|112,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Safest,CHI at BOS|ALL|Safest|All|11
 ALL|ALL|Safest|All|113,C,Guerschon Yabusele,CHI at BOS,Over 4.5 reb+ast,RA,7.3,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.32,Guerschon Yabusele,5,Safest,CHI at BOS|ALL|Safest|All|12
 ALL|ALL|Safest|All|114,C,Terance Mann,BKN vs DET,Over 3.5 points,PTS,6.3,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; last season stats, check roster",Defense 3 of 30,0.795,0.37,Terance Mann,4,Safest,DET at BKN|ALL|Safest|All|8
@@ -764,9 +764,9 @@ ALL|REB|Safest|All|23,C,Karl-Anthony Towns,NY at PHI,Over 9.5 rebounds,REB,11.4,
 ALL|REB|Safest|All|24,C,Sam Hauser,BOS vs CHI,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Soft (28th),1.34,"big spread, game script risk",Defense 29 of 30,0.885,0.22,Sam Hauser,3,Safest,CHI at BOS|REB|Safest|All|3
 ALL|REB|Safest|All|25,C,Kentavious Caldwell-Pope,PHI vs NY,Over 1.5 rebounds,REB,2.6,9 of 10,17 of 20,Mid (13th),1.34,,Defense 2 of 30,0.875,0.23,Kentavious Caldwell-Pope,2,Safest,NY at PHI|REB|Safest|All|3
 ALL|REB|Safest|All|26,C,Julius Randle,BKN vs DET,Over 5.5 rebounds,REB,7.1,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.15,Julius Randle,6,Safest,DET at BKN|REB|Safest|All|2
-ALL|REB|Safest|All|27,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Safest,DET at BKN|REB|Safest|All|3
-ALL|REB|Safest|All|28,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|REB|Safest|All|4
-ALL|REB|Safest|All|29,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Safest,LAL at GS|REB|Safest|All|5
+ALL|REB|Safest|All|27,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Safest,LAL at GS|REB|Safest|All|4
+ALL|REB|Safest|All|28,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Safest,LAL at GS|REB|Safest|All|5
+ALL|REB|Safest|All|29,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Safest,DET at BKN|REB|Safest|All|3
 ALL|REB|Safest|All|30,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Safest,CHI at BOS|REB|Safest|All|4
 ALL|STL|Safest|All|1,A,Bam Adebayo,MIA vs IND,Over 0.5 steals,STL,1.6,10 of 10,19 of 20,Mid (22nd),1.22,,Defense 15 of 30,0.975,0.39,Bam Adebayo,1,Safest,IND at MIA|STL|Safest|All|1
 ALL|STL|Safest|All|2,C,LaMelo Ball,MIN vs LAC,Over 0.5 steals,STL,1.4,9 of 10,17 of 20,Mid (22nd),1.34,,Defense 10 of 30,0.875,0.29,LaMelo Ball,1,Safest,LAC at MIN|STL|Safest|All|1
@@ -1045,17 +1045,17 @@ ALL|ALL|Balanced|A to C|116,C,Dillon Brooks,PHX vs DEN,Over 14.5 pts+reb+ast,PRA
 ALL|ALL|Balanced|A to C|117,C,Moussa Diabate,CHA at WSH,Over 9.5 pts+reb,PR,16.6,8 of 10,16 of 20,Soft (24th),1.47,,Defense 24 of 30,0.85,0.4,Moussa Diabate,10,Balanced,CHA at WSH|ALL|Balanced|A to C|11
 ALL|ALL|Balanced|A to C|118,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Balanced,
 ALL|ALL|Balanced|A to C|119,C,Draymond Green,GS vs LAL,Over 9.5 reb+ast,RA,11.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 11 of 30,0.835,0.16,Draymond Green,10,Balanced,LAL at GS|ALL|Balanced|A to C|9
-ALL|ALL|Balanced|A to C|120,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Balanced,DET at BKN|ALL|Balanced|A to C|7
-,C,Austin Reaves,LAL at GS,Over 3.5 assists,AST,5.5,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 21 of 30,0.835,0.28,Austin Reaves,4,Balanced,LAL at GS|ALL|Balanced|A to C|10
+ALL|ALL|Balanced|A to C|120,C,Austin Reaves,LAL at GS,Over 3.5 assists,AST,5.5,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 21 of 30,0.835,0.28,Austin Reaves,4,Balanced,LAL at GS|ALL|Balanced|A to C|10
 ,C,Dennis Schroder,CHA at WSH,Over 1.5 assists,AST,2.8,9 of 10,15 of 20,Soft (26th),1.43,questionable,Defense 24 of 30,0.835,0.29,Dennis Schroder,2,Balanced,CHA at WSH|ALL|Balanced|A to C|12
 ,C,Derrick White,BOS vs CHI,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Soft (29th),1.43,"big spread, game script risk",Defense 29 of 30,0.835,0.3,Derrick White,3,Balanced,CHI at BOS|ALL|Balanced|A to C|11
 ,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Balanced,LAL at GS|ALL|Balanced|A to C|11
 ,C,Collin Sexton,LAL at GS,Over 11.5 points,PTS,18.3,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 21 of 30,0.835,0.34,Collin Sexton,12,Balanced,LAL at GS|ALL|Balanced|A to C|12
-,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Balanced,DET at BKN|ALL|Balanced|A to C|8
-,C,Cade Cunningham,DET at BKN,Over 5.5 assists,AST,7.8,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.23,Cade Cunningham,6,Balanced,DET at BKN|ALL|Balanced|A to C|9
-,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Balanced,DET at BKN|ALL|Balanced|A to C|10
-,C,Duncan Robinson,DET at BKN,Over 9.5 points,PTS,13.4,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.26,Duncan Robinson,10,Balanced,DET at BKN|ALL|Balanced|A to C|11
-,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Balanced,DET at BKN|ALL|Balanced|A to C|12
+,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Balanced,DET at BKN|ALL|Balanced|A to C|7
+,C,Cade Cunningham,DET at BKN,Over 5.5 assists,AST,7.8,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.23,Cade Cunningham,6,Balanced,DET at BKN|ALL|Balanced|A to C|8
+,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Balanced,DET at BKN|ALL|Balanced|A to C|9
+,C,Duncan Robinson,DET at BKN,Over 9.5 points,PTS,13.4,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.26,Duncan Robinson,10,Balanced,DET at BKN|ALL|Balanced|A to C|10
+,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Balanced,DET at BKN|ALL|Balanced|A to C|11
+,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Balanced,DET at BKN|ALL|Balanced|A to C|12
 ,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Balanced,CHI at BOS|ALL|Balanced|A to C|12
 ALL|AST|Balanced|A to C|1,B,LeBron James,PHI vs NY,Over 4.5 assists,AST,7.6,9 of 10,18 of 20,Mid (11th),1.31,,Defense 2 of 30,0.9,0.34,LeBron James,5,Balanced,NY at PHI|AST|Balanced|A to C|1
 ALL|AST|Balanced|A to C|2,B,Darius Garland,LAC at MIN,Over 3.5 assists,AST,6.6,9 of 10,19 of 20,Tough (7th),1.27,tough matchup,Defense 17 of 30,0.885,0.39,Darius Garland,4,Balanced,LAC at MIN|AST|Balanced|A to C|1
@@ -1405,13 +1405,12 @@ ALL|REB|Balanced|A to C|31,C,Scottie Barnes,TOR vs ORL,Over 3.5 rebounds,REB,6.0
 ALL|REB|Balanced|A to C|32,C,Anthony Black,ORL at TOR,Over 1.5 rebounds,REB,3.0,9 of 10,16 of 20,Mid (20th),1.38,,Defense 4 of 30,0.85,0.34,Anthony Black,2,Balanced,ORL at TOR|REB|Balanced|A to C|6
 ALL|REB|Balanced|A to C|33,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Balanced,
 ALL|REB|Balanced|A to C|34,C,Julius Randle,BKN vs DET,Over 5.5 rebounds,REB,7.1,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.15,Julius Randle,6,Balanced,DET at BKN|REB|Balanced|A to C|3
-ALL|REB|Balanced|A to C|35,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Balanced,DET at BKN|REB|Balanced|A to C|4
-ALL|REB|Balanced|A to C|36,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Balanced,LAL at GS|REB|Balanced|A to C|3
-ALL|REB|Balanced|A to C|37,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Balanced,NY at PHI|REB|Balanced|A to C|3
-ALL|REB|Balanced|A to C|38,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Balanced,LAL at GS|REB|Balanced|A to C|4
-ALL|REB|Balanced|A to C|39,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Balanced,HOU at DAL|REB|Balanced|A to C|5
-ALL|REB|Balanced|A to C|40,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Balanced,DEN at PHX|REB|Balanced|A to C|3
-,C,Pascal Siakam,IND at MIA,Over 4.5 rebounds,REB,6.5,8 of 10,15 of 20,Soft (29th),1.52,,Defense 23 of 30,0.825,0.23,Pascal Siakam,5,Balanced,IND at MIA|REB|Balanced|A to C|6
+ALL|REB|Balanced|A to C|35,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Balanced,LAL at GS|REB|Balanced|A to C|3
+ALL|REB|Balanced|A to C|36,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Balanced,NY at PHI|REB|Balanced|A to C|3
+ALL|REB|Balanced|A to C|37,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Balanced,LAL at GS|REB|Balanced|A to C|4
+ALL|REB|Balanced|A to C|38,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Balanced,HOU at DAL|REB|Balanced|A to C|5
+ALL|REB|Balanced|A to C|39,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Balanced,DEN at PHX|REB|Balanced|A to C|3
+ALL|REB|Balanced|A to C|40,C,Pascal Siakam,IND at MIA,Over 4.5 rebounds,REB,6.5,8 of 10,15 of 20,Soft (29th),1.52,,Defense 23 of 30,0.825,0.23,Pascal Siakam,5,Balanced,IND at MIA|REB|Balanced|A to C|6
 ,C,Derrick Jones Jr.,LAC at MIN,Over 2.5 rebounds,REB,4.4,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.32,Derrick Jones Jr.,3,Balanced,LAC at MIN|REB|Balanced|A to C|2
 ,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Balanced,LAL at GS|REB|Balanced|A to C|5
 ,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Balanced,CHA at WSH|REB|Balanced|A to C|5
@@ -1420,6 +1419,7 @@ ALL|REB|Balanced|A to C|40,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,
 ,C,Miles Bridges,PHX vs DEN,Over 3.5 rebounds,REB,5.8,8 of 10,16 of 20,Mid (15th),1.47,,Defense 14 of 30,0.8,0.31,Miles Bridges,4,Balanced,DEN at PHX|REB|Balanced|A to C|4
 ,C,Amen Thompson,HOU at DAL,Over 4.5 rebounds,REB,7.3,8 of 10,16 of 20,Mid (12th),1.47,,Defense 20 of 30,0.8,0.32,Amen Thompson,5,Balanced,HOU at DAL|REB|Balanced|A to C|6
 ,C,Moussa Diabate,CHA at WSH,Over 5.5 rebounds,REB,9.2,8 of 10,16 of 20,Mid (19th),1.47,,Defense 24 of 30,0.8,0.35,Moussa Diabate,6,Balanced,CHA at WSH|REB|Balanced|A to C|6
+,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Balanced,DET at BKN|REB|Balanced|A to C|4
 ,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Balanced,CHI at BOS|REB|Balanced|A to C|5
 ,C,Josh Hart,NY at PHI,Over 6.5 rebounds,REB,8.2,8 of 10,15 of 20,Soft (29th),1.52,3in4,Defense 13 of 30,0.785,0.15,Josh Hart,7,Balanced,NY at PHI|REB|Balanced|A to C|6
 ,C,Ben Saraf,BKN vs DET,Over 1.5 rebounds,REB,2.8,9 of 10,15 of 20,Tough (6th),1.43,tough matchup,Defense 3 of 30,0.785,0.27,Ben Saraf,2,Balanced,DET at BKN|REB|Balanced|A to C|5
@@ -1576,17 +1576,17 @@ ALL|ALL|Balanced|All|116,C,Dillon Brooks,PHX vs DEN,Over 14.5 pts+reb+ast,PRA,24
 ALL|ALL|Balanced|All|117,C,Moussa Diabate,CHA at WSH,Over 9.5 pts+reb,PR,16.6,8 of 10,16 of 20,Soft (24th),1.47,,Defense 24 of 30,0.85,0.4,Moussa Diabate,10,Balanced,CHA at WSH|ALL|Balanced|All|11
 ALL|ALL|Balanced|All|118,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Balanced,
 ALL|ALL|Balanced|All|119,C,Draymond Green,GS vs LAL,Over 9.5 reb+ast,RA,11.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 11 of 30,0.835,0.16,Draymond Green,10,Balanced,LAL at GS|ALL|Balanced|All|9
-ALL|ALL|Balanced|All|120,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Balanced,DET at BKN|ALL|Balanced|All|7
-,C,Austin Reaves,LAL at GS,Over 3.5 assists,AST,5.5,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 21 of 30,0.835,0.28,Austin Reaves,4,Balanced,LAL at GS|ALL|Balanced|All|10
+ALL|ALL|Balanced|All|120,C,Austin Reaves,LAL at GS,Over 3.5 assists,AST,5.5,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 21 of 30,0.835,0.28,Austin Reaves,4,Balanced,LAL at GS|ALL|Balanced|All|10
 ,C,Dennis Schroder,CHA at WSH,Over 1.5 assists,AST,2.8,9 of 10,15 of 20,Soft (26th),1.43,questionable,Defense 24 of 30,0.835,0.29,Dennis Schroder,2,Balanced,CHA at WSH|ALL|Balanced|All|12
 ,C,Derrick White,BOS vs CHI,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Soft (29th),1.43,"big spread, game script risk",Defense 29 of 30,0.835,0.3,Derrick White,3,Balanced,CHI at BOS|ALL|Balanced|All|11
 ,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Balanced,LAL at GS|ALL|Balanced|All|11
 ,C,Collin Sexton,LAL at GS,Over 11.5 points,PTS,18.3,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 21 of 30,0.835,0.34,Collin Sexton,12,Balanced,LAL at GS|ALL|Balanced|All|12
-,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Balanced,DET at BKN|ALL|Balanced|All|8
-,C,Cade Cunningham,DET at BKN,Over 5.5 assists,AST,7.8,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.23,Cade Cunningham,6,Balanced,DET at BKN|ALL|Balanced|All|9
-,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Balanced,DET at BKN|ALL|Balanced|All|10
-,C,Duncan Robinson,DET at BKN,Over 9.5 points,PTS,13.4,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.26,Duncan Robinson,10,Balanced,DET at BKN|ALL|Balanced|All|11
-,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Balanced,DET at BKN|ALL|Balanced|All|12
+,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Balanced,DET at BKN|ALL|Balanced|All|7
+,C,Cade Cunningham,DET at BKN,Over 5.5 assists,AST,7.8,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.23,Cade Cunningham,6,Balanced,DET at BKN|ALL|Balanced|All|8
+,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Balanced,DET at BKN|ALL|Balanced|All|9
+,C,Duncan Robinson,DET at BKN,Over 9.5 points,PTS,13.4,9 of 10,16 of 20,Mid (19th),1.38,3in4,Defense 26 of 30,0.81,0.26,Duncan Robinson,10,Balanced,DET at BKN|ALL|Balanced|All|10
+,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Balanced,DET at BKN|ALL|Balanced|All|11
+,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Balanced,DET at BKN|ALL|Balanced|All|12
 ,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Balanced,CHI at BOS|ALL|Balanced|All|12
 ALL|AST|Balanced|All|1,B,LeBron James,PHI vs NY,Over 4.5 assists,AST,7.6,9 of 10,18 of 20,Mid (11th),1.31,,Defense 2 of 30,0.9,0.34,LeBron James,5,Balanced,NY at PHI|AST|Balanced|All|1
 ALL|AST|Balanced|All|2,B,Darius Garland,LAC at MIN,Over 3.5 assists,AST,6.6,9 of 10,19 of 20,Tough (7th),1.27,tough matchup,Defense 17 of 30,0.885,0.39,Darius Garland,4,Balanced,LAC at MIN|AST|Balanced|All|1
@@ -1936,13 +1936,12 @@ ALL|REB|Balanced|All|31,C,Scottie Barnes,TOR vs ORL,Over 3.5 rebounds,REB,6.0,9 
 ALL|REB|Balanced|All|32,C,Anthony Black,ORL at TOR,Over 1.5 rebounds,REB,3.0,9 of 10,16 of 20,Mid (20th),1.38,,Defense 4 of 30,0.85,0.34,Anthony Black,2,Balanced,ORL at TOR|REB|Balanced|All|6
 ALL|REB|Balanced|All|33,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Balanced,
 ALL|REB|Balanced|All|34,C,Julius Randle,BKN vs DET,Over 5.5 rebounds,REB,7.1,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.15,Julius Randle,6,Balanced,DET at BKN|REB|Balanced|All|3
-ALL|REB|Balanced|All|35,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Balanced,DET at BKN|REB|Balanced|All|4
-ALL|REB|Balanced|All|36,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Balanced,LAL at GS|REB|Balanced|All|3
-ALL|REB|Balanced|All|37,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Balanced,NY at PHI|REB|Balanced|All|3
-ALL|REB|Balanced|All|38,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Balanced,LAL at GS|REB|Balanced|All|4
-ALL|REB|Balanced|All|39,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Balanced,HOU at DAL|REB|Balanced|All|5
-ALL|REB|Balanced|All|40,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Balanced,DEN at PHX|REB|Balanced|All|3
-,C,Pascal Siakam,IND at MIA,Over 4.5 rebounds,REB,6.5,8 of 10,15 of 20,Soft (29th),1.52,,Defense 23 of 30,0.825,0.23,Pascal Siakam,5,Balanced,IND at MIA|REB|Balanced|All|6
+ALL|REB|Balanced|All|35,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Balanced,LAL at GS|REB|Balanced|All|3
+ALL|REB|Balanced|All|36,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Balanced,NY at PHI|REB|Balanced|All|3
+ALL|REB|Balanced|All|37,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Balanced,LAL at GS|REB|Balanced|All|4
+ALL|REB|Balanced|All|38,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Balanced,HOU at DAL|REB|Balanced|All|5
+ALL|REB|Balanced|All|39,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Balanced,DEN at PHX|REB|Balanced|All|3
+ALL|REB|Balanced|All|40,C,Pascal Siakam,IND at MIA,Over 4.5 rebounds,REB,6.5,8 of 10,15 of 20,Soft (29th),1.52,,Defense 23 of 30,0.825,0.23,Pascal Siakam,5,Balanced,IND at MIA|REB|Balanced|All|6
 ,C,Derrick Jones Jr.,LAC at MIN,Over 2.5 rebounds,REB,4.4,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.32,Derrick Jones Jr.,3,Balanced,LAC at MIN|REB|Balanced|All|2
 ,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Balanced,LAL at GS|REB|Balanced|All|5
 ,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Balanced,CHA at WSH|REB|Balanced|All|5
@@ -1951,6 +1950,7 @@ ALL|REB|Balanced|All|40,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 o
 ,C,Miles Bridges,PHX vs DEN,Over 3.5 rebounds,REB,5.8,8 of 10,16 of 20,Mid (15th),1.47,,Defense 14 of 30,0.8,0.31,Miles Bridges,4,Balanced,DEN at PHX|REB|Balanced|All|4
 ,C,Amen Thompson,HOU at DAL,Over 4.5 rebounds,REB,7.3,8 of 10,16 of 20,Mid (12th),1.47,,Defense 20 of 30,0.8,0.32,Amen Thompson,5,Balanced,HOU at DAL|REB|Balanced|All|6
 ,C,Moussa Diabate,CHA at WSH,Over 5.5 rebounds,REB,9.2,8 of 10,16 of 20,Mid (19th),1.47,,Defense 24 of 30,0.8,0.35,Moussa Diabate,6,Balanced,CHA at WSH|REB|Balanced|All|6
+,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Balanced,DET at BKN|REB|Balanced|All|4
 ,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Balanced,CHI at BOS|REB|Balanced|All|5
 ,C,Josh Hart,NY at PHI,Over 6.5 rebounds,REB,8.2,8 of 10,15 of 20,Soft (29th),1.52,3in4,Defense 13 of 30,0.785,0.15,Josh Hart,7,Balanced,NY at PHI|REB|Balanced|All|6
 ,C,Ben Saraf,BKN vs DET,Over 1.5 rebounds,REB,2.8,9 of 10,15 of 20,Tough (6th),1.43,tough matchup,Defense 3 of 30,0.785,0.27,Ben Saraf,2,Balanced,DET at BKN|REB|Balanced|All|5
@@ -2163,52 +2163,52 @@ ALL|ALL|Reach|A to C|77,C,Kyshawn George,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,21
 ALL|ALL|Reach|A to C|78,C,Moussa Diabate,CHA at WSH,Over 9.5 pts+reb,PR,16.6,8 of 10,16 of 20,Soft (24th),1.47,,Defense 24 of 30,0.85,0.4,Moussa Diabate,10,Reach,CHA at WSH|ALL|Reach|A to C|9
 ALL|ALL|Reach|A to C|79,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Reach,ORL at TOR|ALL|Reach|A to C|8
 ALL|ALL|Reach|A to C|80,C,Draymond Green,GS vs LAL,Over 9.5 reb+ast,RA,11.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 11 of 30,0.835,0.16,Draymond Green,10,Reach,LAL at GS|ALL|Reach|A to C|6
-ALL|ALL|Reach|A to C|81,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Reach,DET at BKN|ALL|Reach|A to C|6
-ALL|ALL|Reach|A to C|82,C,Rui Hachimura,LAC at MIN,Over 14.5 pts+reb,PR,19.6,9 of 10,17 of 20,Mid (12th),1.34,questionable,Defense 17 of 30,0.835,0.24,Rui Hachimura,15,Reach,LAC at MIN|ALL|Reach|A to C|7
-ALL|ALL|Reach|A to C|83,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Reach,HOU at DAL|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|84,C,Derrick White,BOS vs CHI,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Soft (29th),1.43,"big spread, game script risk",Defense 29 of 30,0.835,0.3,Derrick White,3,Reach,CHI at BOS|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|85,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|ALL|Reach|A to C|7
-ALL|ALL|Reach|A to C|86,C,Desmond Bane,ORL at TOR,Over 0.5 steals,STL,1.6,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 4 of 30,0.835,0.35,Desmond Bane,1,Reach,ORL at TOR|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|87,C,Stephen Curry,GS vs LAL,Over 4.5 reb+ast,RA,7.7,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 11 of 30,0.835,0.35,Stephen Curry,5,Reach,LAL at GS|ALL|Reach|A to C|8
-ALL|ALL|Reach|A to C|88,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|89,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|90,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Reach,DET at BKN|ALL|Reach|A to C|7
-ALL|ALL|Reach|A to C|91,C,Julian Reese,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,24.2,9 of 10,11 of 13,Mid (10th),1.35,"last season stats, check roster",Defense 9 of 30,0.833,0.38,Julian Reese,15,Reach,CHA at WSH|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|92,C,Darius Garland,LAC at MIN,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.13,Darius Garland,1,Reach,LAC at MIN|ALL|Reach|A to C|8
-ALL|ALL|Reach|A to C|93,C,Kevin Durant,HOU at DAL,Over 21.5 points,PTS,25.4,8 of 10,15 of 20,Soft (26th),1.52,,Defense 20 of 30,0.825,0.13,Kevin Durant,22,Reach,HOU at DAL|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|94,C,Amen Thompson,HOU at DAL,Over 15.5 points,PTS,19.7,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.19,Amen Thompson,16,Reach,HOU at DAL|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|95,C,Amen Thompson,HOU at DAL,Over 19.5 pts+ast,PA,24.9,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.2,Amen Thompson,20,Reach,HOU at DAL|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|96,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,
-ALL|ALL|Reach|A to C|97,C,Tari Eason,HOU at DAL,Over 14.5 pts+reb+ast,PRA,19.0,8 of 10,15 of 20,Soft (25th),1.52,,Defense 20 of 30,0.825,0.21,Tari Eason,15,Reach,
-ALL|ALL|Reach|A to C|98,C,Brandon Williams,GS vs LAL,Over 14.5 pts+reb+ast,PRA,19.1,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.22,Brandon Williams,15,Reach,LAL at GS|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|99,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|100,C,Isaiah Jackson,LAC at MIN,Over 4.5 reb+ast,RA,6.5,9 of 10,15 of 20,Mid (11th),1.43,,Defense 17 of 30,0.825,0.22,Isaiah Jackson,5,Reach,LAC at MIN|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|101,C,Anthony Black,ORL at TOR,Over 6.5 points,PTS,9.2,8 of 10,17 of 20,Mid (21st),1.43,,Defense 4 of 30,0.825,0.23,Anthony Black,7,Reach,ORL at TOR|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|102,C,Kris Dunn,LAC at MIN,Over 9.5 pts+reb+ast,PRA,13.2,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.24,Kris Dunn,10,Reach,LAC at MIN|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|103,C,Jamal Murray,DEN at PHX,Over 4.5 assists,AST,6.8,8 of 10,17 of 20,Mid (18th),1.43,,Defense 18 of 30,0.825,0.26,Jamal Murray,5,Reach,DEN at PHX|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|104,C,Pascal Siakam,IND at MIA,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Soft (28th),1.52,,Defense 23 of 30,0.825,0.26,Pascal Siakam,1,Reach,
-ALL|ALL|Reach|A to C|105,C,Darius Garland,LAC at MIN,Over 19.5 pts+ast,PA,27.4,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.27,Darius Garland,20,Reach,LAC at MIN|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|106,C,Anthony Black,ORL at TOR,Over 9.5 pts+reb+ast,PRA,14.2,8 of 10,17 of 20,Mid (20th),1.43,,Defense 4 of 30,0.825,0.29,Anthony Black,10,Reach,ORL at TOR|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|107,C,De'Anthony Melton,GS vs LAL,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.29,De'Anthony Melton,2,Reach,LAL at GS|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|108,C,Bub Carrington,WSH vs CHA,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.3,Bub Carrington,3,Reach,CHA at WSH|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|109,C,Miles Bridges,PHX vs DEN,Over 14.5 pts+reb,PR,21.4,8 of 10,17 of 20,Mid (19th),1.43,,Defense 14 of 30,0.825,0.3,Miles Bridges,15,Reach,DEN at PHX|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|110,C,Nick Richards,MIA vs IND,Over 4.5 reb+ast,RA,7.4,8 of 10,17 of 20,Mid (18th),1.43,,Defense 15 of 30,0.825,0.32,Nick Richards,5,Reach,
-ALL|ALL|Reach|A to C|111,C,Alex Sarr,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,22.7,8 of 10,17 of 20,Mid (11th),1.43,,Defense 9 of 30,0.825,0.34,Alex Sarr,15,Reach,CHA at WSH|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|112,C,Derrick Jones Jr.,LAC at MIN,Over 9.5 pts+reb+ast,PRA,15.2,9 of 10,15 of 20,Mid (12th),1.43,,Defense 17 of 30,0.825,0.34,Derrick Jones Jr.,10,Reach,LAC at MIN|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|113,C,Scottie Barnes,TOR vs ORL,Over 4.5 assists,AST,7.6,8 of 10,17 of 20,Mid (9th),1.43,,Defense 8 of 30,0.825,0.34,Scottie Barnes,5,Reach,ORL at TOR|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|114,C,Immanuel Quickley,TOR vs ORL,Over 14.5 pts+reb+ast,PRA,23.0,8 of 10,17 of 20,Mid (19th),1.43,,Defense 8 of 30,0.825,0.35,Immanuel Quickley,15,Reach,
-ALL|ALL|Reach|A to C|115,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|116,C,Jay Huff,IND at MIA,Over 5.5 points,PTS,9.3,8 of 10,17 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.36,Jay Huff,6,Reach,
-ALL|ALL|Reach|A to C|117,C,Andrew Wiggins,MIA vs IND,Over 7.5 points,PTS,12.7,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.37,Andrew Wiggins,8,Reach,
-ALL|ALL|Reach|A to C|118,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,
-ALL|ALL|Reach|A to C|119,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,
-ALL|ALL|Reach|A to C|120,C,Ziaire Williams,LAL at GS,Over 9.5 pts+ast,PA,14.1,10 of 10,16 of 20,Mid (16th),1.31,3in4; questionable,Defense 21 of 30,0.82,0.29,Ziaire Williams,10,Reach,
-,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Reach,NY at PHI|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|81,C,Rui Hachimura,LAC at MIN,Over 14.5 pts+reb,PR,19.6,9 of 10,17 of 20,Mid (12th),1.34,questionable,Defense 17 of 30,0.835,0.24,Rui Hachimura,15,Reach,LAC at MIN|ALL|Reach|A to C|7
+ALL|ALL|Reach|A to C|82,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Reach,HOU at DAL|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|83,C,Derrick White,BOS vs CHI,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Soft (29th),1.43,"big spread, game script risk",Defense 29 of 30,0.835,0.3,Derrick White,3,Reach,CHI at BOS|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|84,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|ALL|Reach|A to C|7
+ALL|ALL|Reach|A to C|85,C,Desmond Bane,ORL at TOR,Over 0.5 steals,STL,1.6,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 4 of 30,0.835,0.35,Desmond Bane,1,Reach,ORL at TOR|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|86,C,Stephen Curry,GS vs LAL,Over 4.5 reb+ast,RA,7.7,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 11 of 30,0.835,0.35,Stephen Curry,5,Reach,LAL at GS|ALL|Reach|A to C|8
+ALL|ALL|Reach|A to C|87,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|88,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|89,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Reach,DET at BKN|ALL|Reach|A to C|6
+ALL|ALL|Reach|A to C|90,C,Julian Reese,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,24.2,9 of 10,11 of 13,Mid (10th),1.35,"last season stats, check roster",Defense 9 of 30,0.833,0.38,Julian Reese,15,Reach,CHA at WSH|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|91,C,Darius Garland,LAC at MIN,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.13,Darius Garland,1,Reach,LAC at MIN|ALL|Reach|A to C|8
+ALL|ALL|Reach|A to C|92,C,Kevin Durant,HOU at DAL,Over 21.5 points,PTS,25.4,8 of 10,15 of 20,Soft (26th),1.52,,Defense 20 of 30,0.825,0.13,Kevin Durant,22,Reach,HOU at DAL|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|93,C,Amen Thompson,HOU at DAL,Over 15.5 points,PTS,19.7,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.19,Amen Thompson,16,Reach,HOU at DAL|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|94,C,Amen Thompson,HOU at DAL,Over 19.5 pts+ast,PA,24.9,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.2,Amen Thompson,20,Reach,HOU at DAL|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|95,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,
+ALL|ALL|Reach|A to C|96,C,Tari Eason,HOU at DAL,Over 14.5 pts+reb+ast,PRA,19.0,8 of 10,15 of 20,Soft (25th),1.52,,Defense 20 of 30,0.825,0.21,Tari Eason,15,Reach,
+ALL|ALL|Reach|A to C|97,C,Brandon Williams,GS vs LAL,Over 14.5 pts+reb+ast,PRA,19.1,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.22,Brandon Williams,15,Reach,LAL at GS|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|98,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|99,C,Isaiah Jackson,LAC at MIN,Over 4.5 reb+ast,RA,6.5,9 of 10,15 of 20,Mid (11th),1.43,,Defense 17 of 30,0.825,0.22,Isaiah Jackson,5,Reach,LAC at MIN|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|100,C,Anthony Black,ORL at TOR,Over 6.5 points,PTS,9.2,8 of 10,17 of 20,Mid (21st),1.43,,Defense 4 of 30,0.825,0.23,Anthony Black,7,Reach,ORL at TOR|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|101,C,Kris Dunn,LAC at MIN,Over 9.5 pts+reb+ast,PRA,13.2,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.24,Kris Dunn,10,Reach,LAC at MIN|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|102,C,Jamal Murray,DEN at PHX,Over 4.5 assists,AST,6.8,8 of 10,17 of 20,Mid (18th),1.43,,Defense 18 of 30,0.825,0.26,Jamal Murray,5,Reach,DEN at PHX|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|103,C,Pascal Siakam,IND at MIA,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Soft (28th),1.52,,Defense 23 of 30,0.825,0.26,Pascal Siakam,1,Reach,
+ALL|ALL|Reach|A to C|104,C,Darius Garland,LAC at MIN,Over 19.5 pts+ast,PA,27.4,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.27,Darius Garland,20,Reach,LAC at MIN|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|105,C,Anthony Black,ORL at TOR,Over 9.5 pts+reb+ast,PRA,14.2,8 of 10,17 of 20,Mid (20th),1.43,,Defense 4 of 30,0.825,0.29,Anthony Black,10,Reach,ORL at TOR|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|106,C,De'Anthony Melton,GS vs LAL,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.29,De'Anthony Melton,2,Reach,LAL at GS|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|107,C,Bub Carrington,WSH vs CHA,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.3,Bub Carrington,3,Reach,CHA at WSH|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|108,C,Miles Bridges,PHX vs DEN,Over 14.5 pts+reb,PR,21.4,8 of 10,17 of 20,Mid (19th),1.43,,Defense 14 of 30,0.825,0.3,Miles Bridges,15,Reach,DEN at PHX|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|109,C,Nick Richards,MIA vs IND,Over 4.5 reb+ast,RA,7.4,8 of 10,17 of 20,Mid (18th),1.43,,Defense 15 of 30,0.825,0.32,Nick Richards,5,Reach,
+ALL|ALL|Reach|A to C|110,C,Alex Sarr,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,22.7,8 of 10,17 of 20,Mid (11th),1.43,,Defense 9 of 30,0.825,0.34,Alex Sarr,15,Reach,CHA at WSH|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|111,C,Derrick Jones Jr.,LAC at MIN,Over 9.5 pts+reb+ast,PRA,15.2,9 of 10,15 of 20,Mid (12th),1.43,,Defense 17 of 30,0.825,0.34,Derrick Jones Jr.,10,Reach,LAC at MIN|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|112,C,Scottie Barnes,TOR vs ORL,Over 4.5 assists,AST,7.6,8 of 10,17 of 20,Mid (9th),1.43,,Defense 8 of 30,0.825,0.34,Scottie Barnes,5,Reach,ORL at TOR|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|113,C,Immanuel Quickley,TOR vs ORL,Over 14.5 pts+reb+ast,PRA,23.0,8 of 10,17 of 20,Mid (19th),1.43,,Defense 8 of 30,0.825,0.35,Immanuel Quickley,15,Reach,
+ALL|ALL|Reach|A to C|114,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|115,C,Jay Huff,IND at MIA,Over 5.5 points,PTS,9.3,8 of 10,17 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.36,Jay Huff,6,Reach,
+ALL|ALL|Reach|A to C|116,C,Andrew Wiggins,MIA vs IND,Over 7.5 points,PTS,12.7,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.37,Andrew Wiggins,8,Reach,
+ALL|ALL|Reach|A to C|117,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,
+ALL|ALL|Reach|A to C|118,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,
+ALL|ALL|Reach|A to C|119,C,Ziaire Williams,LAL at GS,Over 9.5 pts+ast,PA,14.1,10 of 10,16 of 20,Mid (16th),1.31,3in4; questionable,Defense 21 of 30,0.82,0.29,Ziaire Williams,10,Reach,
+ALL|ALL|Reach|A to C|120,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Reach,NY at PHI|ALL|Reach|A to C|10
 ,C,Paul George,BOS vs CHI,Over 14.5 points,PTS,17.0,8 of 10,16 of 20,Soft (28th),1.47,"big spread, game script risk",Defense 29 of 30,0.81,0.12,Paul George,15,Reach,CHI at BOS|ALL|Reach|A to C|11
-,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Reach,DET at BKN|ALL|Reach|A to C|8
-,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Reach,DET at BKN|ALL|Reach|A to C|9
+,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Reach,DET at BKN|ALL|Reach|A to C|7
+,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Reach,DET at BKN|ALL|Reach|A to C|8
 ,C,Anfernee Simons,PHI vs NY,Over 1.5 rebounds,REB,2.6,8 of 10,16 of 20,Mid (13th),1.47,,Defense 2 of 30,0.8,0.23,Anfernee Simons,2,Reach,NY at PHI|ALL|Reach|A to C|11
 ,C,Jalen Green,PHX vs DEN,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Mid (14th),1.47,,Defense 14 of 30,0.8,0.33,Jalen Green,5,Reach,DEN at PHX|ALL|Reach|A to C|12
+,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Reach,DET at BKN|ALL|Reach|A to C|9
 ,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Reach,CHI at BOS|ALL|Reach|A to C|12
 ,C,Duncan Robinson,DET at BKN,Over 1.5 assists,AST,2.2,8 of 10,15 of 20,Soft (24th),1.52,3in4,Defense 26 of 30,0.785,0.09,Duncan Robinson,2,Reach,DET at BKN|ALL|Reach|A to C|10
 ,C,Jalen Brunson,NY at PHI,Over 29.5 pts+reb+ast,PRA,36.5,8 of 10,15 of 20,Soft (23rd),1.52,3in4,Defense 13 of 30,0.785,0.18,Jalen Brunson,30,Reach,NY at PHI|ALL|Reach|A to C|12
@@ -2544,18 +2544,18 @@ ALL|REB|Reach|A to C|12,C,Kentavious Caldwell-Pope,PHI vs NY,Over 1.5 rebounds,R
 ALL|REB|Reach|A to C|13,C,Wendell Carter Jr.,ORL at TOR,Over 4.5 rebounds,REB,7.2,8 of 10,17 of 20,Soft (26th),1.43,,Defense 4 of 30,0.875,0.3,Wendell Carter Jr.,5,Reach,ORL at TOR|REB|Reach|A to C|2
 ALL|REB|Reach|A to C|14,C,Daniss Jenkins,DET at BKN,Over 1.5 rebounds,REB,3.0,9 of 10,16 of 20,Soft (23rd),1.38,3in4,Defense 26 of 30,0.86,0.33,Daniss Jenkins,2,Reach,DET at BKN|REB|Reach|A to C|2
 ALL|REB|Reach|A to C|15,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Reach,ORL at TOR|REB|Reach|A to C|3
-ALL|REB|Reach|A to C|16,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Reach,DET at BKN|REB|Reach|A to C|3
-ALL|REB|Reach|A to C|17,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|REB|Reach|A to C|3
-ALL|REB|Reach|A to C|18,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|REB|Reach|A to C|3
-ALL|REB|Reach|A to C|19,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|REB|Reach|A to C|4
-ALL|REB|Reach|A to C|20,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,HOU at DAL|REB|Reach|A to C|2
-ALL|REB|Reach|A to C|21,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|REB|Reach|A to C|1
-ALL|REB|Reach|A to C|22,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|REB|Reach|A to C|5
-ALL|REB|Reach|A to C|23,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,CHA at WSH|REB|Reach|A to C|3
-ALL|REB|Reach|A to C|24,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,IND at MIA|REB|Reach|A to C|2
-ALL|REB|Reach|A to C|25,C,Anfernee Simons,PHI vs NY,Over 1.5 rebounds,REB,2.6,8 of 10,16 of 20,Mid (13th),1.47,,Defense 2 of 30,0.8,0.23,Anfernee Simons,2,Reach,NY at PHI|REB|Reach|A to C|4
-ALL|REB|Reach|A to C|26,C,Nick Richards,MIA vs IND,Over 4.5 rebounds,REB,7.0,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 15 of 30,0.8,0.29,Nick Richards,5,Reach,IND at MIA|REB|Reach|A to C|3
-ALL|REB|Reach|A to C|27,C,Amen Thompson,HOU at DAL,Over 4.5 rebounds,REB,7.3,8 of 10,16 of 20,Mid (12th),1.47,,Defense 20 of 30,0.8,0.32,Amen Thompson,5,Reach,HOU at DAL|REB|Reach|A to C|3
+ALL|REB|Reach|A to C|16,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|REB|Reach|A to C|3
+ALL|REB|Reach|A to C|17,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|REB|Reach|A to C|3
+ALL|REB|Reach|A to C|18,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|REB|Reach|A to C|4
+ALL|REB|Reach|A to C|19,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,HOU at DAL|REB|Reach|A to C|2
+ALL|REB|Reach|A to C|20,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|REB|Reach|A to C|1
+ALL|REB|Reach|A to C|21,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|REB|Reach|A to C|5
+ALL|REB|Reach|A to C|22,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,CHA at WSH|REB|Reach|A to C|3
+ALL|REB|Reach|A to C|23,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,IND at MIA|REB|Reach|A to C|2
+ALL|REB|Reach|A to C|24,C,Anfernee Simons,PHI vs NY,Over 1.5 rebounds,REB,2.6,8 of 10,16 of 20,Mid (13th),1.47,,Defense 2 of 30,0.8,0.23,Anfernee Simons,2,Reach,NY at PHI|REB|Reach|A to C|4
+ALL|REB|Reach|A to C|25,C,Nick Richards,MIA vs IND,Over 4.5 rebounds,REB,7.0,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 15 of 30,0.8,0.29,Nick Richards,5,Reach,IND at MIA|REB|Reach|A to C|3
+ALL|REB|Reach|A to C|26,C,Amen Thompson,HOU at DAL,Over 4.5 rebounds,REB,7.3,8 of 10,16 of 20,Mid (12th),1.47,,Defense 20 of 30,0.8,0.32,Amen Thompson,5,Reach,HOU at DAL|REB|Reach|A to C|3
+ALL|REB|Reach|A to C|27,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Reach,DET at BKN|REB|Reach|A to C|3
 ALL|REB|Reach|A to C|28,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Reach,CHI at BOS|REB|Reach|A to C|3
 ALL|REB|Reach|A to C|29,C,Ben Saraf,BKN vs DET,Over 1.5 rebounds,REB,2.8,9 of 10,15 of 20,Tough (6th),1.43,tough matchup,Defense 3 of 30,0.785,0.27,Ben Saraf,2,Reach,DET at BKN|REB|Reach|A to C|4
 ALL|REB|Reach|A to C|30,C,Mitchell Robinson,BOS vs CHI,Over 3.5 rebounds,REB,5.5,8 of 10,17 of 20,Mid (13th),1.43,"big spread, game script risk",Defense 29 of 30,0.785,0.28,Mitchell Robinson,4,Reach,CHI at BOS|REB|Reach|A to C|4
@@ -2626,13 +2626,13 @@ ALL|THREES|Reach|A to C|22,C,Stephen Curry,GS vs LAL,Over 2.5 threes,THREES,3.8,
 ALL|THREES|Reach|A to C|23,C,Kobe Sanders,LAC at MIN,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Tough (2nd),1.52,tough matchup,Defense 17 of 30,0.735,0.26,Kobe Sanders,1,Reach,LAC at MIN|THREES|Reach|A to C|2
 ALL|THREES|Reach|A to C|24,C,Gui Santos,GS vs LAL,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Mid (9th),1.52,questionable,Defense 11 of 30,0.735,0.31,Gui Santos,1,Reach,LAL at GS|THREES|Reach|A to C|5
 ALL|THREES|Reach|A to C|25,C,Matisse Thybulle,LAL at GS,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Soft (24th),1.62,3in4,Defense 21 of 30,0.735,0.33,Matisse Thybulle,1,Reach,LAL at GS|THREES|Reach|A to C|6
-ALL|THREES|Reach|A to C|26,C,Noah Clowney,BKN vs DET,Over 0.5 threes,THREES,1.5,7 of 10,17 of 20,Tough (6th),1.52,tough matchup,Defense 3 of 30,0.735,0.33,Noah Clowney,1,Reach,DET at BKN|THREES|Reach|A to C|4
-ALL|THREES|Reach|A to C|27,C,Christian Braun,DEN at PHX,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Mid (21st),1.62,,Defense 18 of 30,0.725,0.13,Christian Braun,1,Reach,DEN at PHX|THREES|Reach|A to C|4
-ALL|THREES|Reach|A to C|28,C,LeBron James,PHI vs NY,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (14th),1.62,,Defense 2 of 30,0.725,0.29,LeBron James,1,Reach,NY at PHI|THREES|Reach|A to C|2
-ALL|THREES|Reach|A to C|29,C,Klay Thompson,MIA vs IND,Over 1.5 threes,THREES,3.0,7 of 10,15 of 20,Mid (14th),1.62,,Defense 15 of 30,0.725,0.33,Klay Thompson,2,Reach,IND at MIA|THREES|Reach|A to C|3
-ALL|THREES|Reach|A to C|30,C,Rui Hachimura,LAC at MIN,Over 1.5 threes,THREES,2.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup; questionable,Defense 17 of 30,0.72,0.23,Rui Hachimura,2,Reach,LAC at MIN|THREES|Reach|A to C|3
-ALL|THREES|Reach|A to C|31,C,Grayson Allen,CHA at WSH,Over 1.5 threes,THREES,2.5,7 of 10,16 of 20,Tough (5th),1.57,tough matchup,Defense 24 of 30,0.71,0.22,Grayson Allen,2,Reach,CHA at WSH|THREES|Reach|A to C|3
-ALL|THREES|Reach|A to C|32,C,Darius Garland,LAC at MIN,Over 1.5 threes,THREES,3.1,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 17 of 30,0.71,0.37,Darius Garland,2,Reach,LAC at MIN|THREES|Reach|A to C|4
+ALL|THREES|Reach|A to C|26,C,Christian Braun,DEN at PHX,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Mid (21st),1.62,,Defense 18 of 30,0.725,0.13,Christian Braun,1,Reach,DEN at PHX|THREES|Reach|A to C|4
+ALL|THREES|Reach|A to C|27,C,LeBron James,PHI vs NY,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (14th),1.62,,Defense 2 of 30,0.725,0.29,LeBron James,1,Reach,NY at PHI|THREES|Reach|A to C|2
+ALL|THREES|Reach|A to C|28,C,Klay Thompson,MIA vs IND,Over 1.5 threes,THREES,3.0,7 of 10,15 of 20,Mid (14th),1.62,,Defense 15 of 30,0.725,0.33,Klay Thompson,2,Reach,IND at MIA|THREES|Reach|A to C|3
+ALL|THREES|Reach|A to C|29,C,Rui Hachimura,LAC at MIN,Over 1.5 threes,THREES,2.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup; questionable,Defense 17 of 30,0.72,0.23,Rui Hachimura,2,Reach,LAC at MIN|THREES|Reach|A to C|3
+ALL|THREES|Reach|A to C|30,C,Grayson Allen,CHA at WSH,Over 1.5 threes,THREES,2.5,7 of 10,16 of 20,Tough (5th),1.57,tough matchup,Defense 24 of 30,0.71,0.22,Grayson Allen,2,Reach,CHA at WSH|THREES|Reach|A to C|3
+ALL|THREES|Reach|A to C|31,C,Darius Garland,LAC at MIN,Over 1.5 threes,THREES,3.1,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 17 of 30,0.71,0.37,Darius Garland,2,Reach,LAC at MIN|THREES|Reach|A to C|4
+ALL|THREES|Reach|A to C|32,C,Noah Clowney,BKN vs DET,Over 0.5 threes,THREES,1.5,7 of 10,17 of 20,Tough (6th),1.52,tough matchup; questionable,Defense 3 of 30,0.695,0.33,Noah Clowney,1,Reach,DET at BKN|THREES|Reach|A to C|4
 ALL|THREES|Reach|A to C|33,C,Rob Dillingham,CHI at BOS,Over 0.5 threes,THREES,1.4,7 of 10,16 of 20,Mid (19th),1.57,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.67,0.26,Rob Dillingham,1,Reach,CHI at BOS|THREES|Reach|A to C|5
 ALL|THREES|Reach|A to C|34,C,OG Anunoby,NY at PHI,Over 1.5 threes,THREES,2.4,7 of 10,15 of 20,Tough (7th),1.62,tough matchup; 3in4,Defense 13 of 30,0.645,0.17,OG Anunoby,2,Reach,NY at PHI|THREES|Reach|A to C|3
 ALL|ALL|Reach|All|1,A,Bam Adebayo,MIA vs IND,Over 0.5 steals,STL,1.6,10 of 10,19 of 20,Mid (22nd),1.22,,Defense 15 of 30,0.975,0.39,Bam Adebayo,1,Reach,IND at MIA|ALL|Reach|All|1
@@ -2715,52 +2715,52 @@ ALL|ALL|Reach|All|77,C,Kyshawn George,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,21.9,
 ALL|ALL|Reach|All|78,C,Moussa Diabate,CHA at WSH,Over 9.5 pts+reb,PR,16.6,8 of 10,16 of 20,Soft (24th),1.47,,Defense 24 of 30,0.85,0.4,Moussa Diabate,10,Reach,CHA at WSH|ALL|Reach|All|9
 ALL|ALL|Reach|All|79,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Reach,ORL at TOR|ALL|Reach|All|8
 ALL|ALL|Reach|All|80,C,Draymond Green,GS vs LAL,Over 9.5 reb+ast,RA,11.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 11 of 30,0.835,0.16,Draymond Green,10,Reach,LAL at GS|ALL|Reach|All|6
-ALL|ALL|Reach|All|81,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Reach,DET at BKN|ALL|Reach|All|6
-ALL|ALL|Reach|All|82,C,Rui Hachimura,LAC at MIN,Over 14.5 pts+reb,PR,19.6,9 of 10,17 of 20,Mid (12th),1.34,questionable,Defense 17 of 30,0.835,0.24,Rui Hachimura,15,Reach,LAC at MIN|ALL|Reach|All|7
-ALL|ALL|Reach|All|83,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Reach,HOU at DAL|ALL|Reach|All|9
-ALL|ALL|Reach|All|84,C,Derrick White,BOS vs CHI,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Soft (29th),1.43,"big spread, game script risk",Defense 29 of 30,0.835,0.3,Derrick White,3,Reach,CHI at BOS|ALL|Reach|All|10
-ALL|ALL|Reach|All|85,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|ALL|Reach|All|7
-ALL|ALL|Reach|All|86,C,Desmond Bane,ORL at TOR,Over 0.5 steals,STL,1.6,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 4 of 30,0.835,0.35,Desmond Bane,1,Reach,ORL at TOR|ALL|Reach|All|9
-ALL|ALL|Reach|All|87,C,Stephen Curry,GS vs LAL,Over 4.5 reb+ast,RA,7.7,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 11 of 30,0.835,0.35,Stephen Curry,5,Reach,LAL at GS|ALL|Reach|All|8
-ALL|ALL|Reach|All|88,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|ALL|Reach|All|9
-ALL|ALL|Reach|All|89,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|ALL|Reach|All|9
-ALL|ALL|Reach|All|90,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Reach,DET at BKN|ALL|Reach|All|7
-ALL|ALL|Reach|All|91,C,Julian Reese,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,24.2,9 of 10,11 of 13,Mid (10th),1.35,"last season stats, check roster",Defense 9 of 30,0.833,0.38,Julian Reese,15,Reach,CHA at WSH|ALL|Reach|All|10
-ALL|ALL|Reach|All|92,C,Darius Garland,LAC at MIN,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.13,Darius Garland,1,Reach,LAC at MIN|ALL|Reach|All|8
-ALL|ALL|Reach|All|93,C,Kevin Durant,HOU at DAL,Over 21.5 points,PTS,25.4,8 of 10,15 of 20,Soft (26th),1.52,,Defense 20 of 30,0.825,0.13,Kevin Durant,22,Reach,HOU at DAL|ALL|Reach|All|10
-ALL|ALL|Reach|All|94,C,Amen Thompson,HOU at DAL,Over 15.5 points,PTS,19.7,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.19,Amen Thompson,16,Reach,HOU at DAL|ALL|Reach|All|11
-ALL|ALL|Reach|All|95,C,Amen Thompson,HOU at DAL,Over 19.5 pts+ast,PA,24.9,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.2,Amen Thompson,20,Reach,HOU at DAL|ALL|Reach|All|12
-ALL|ALL|Reach|All|96,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,
-ALL|ALL|Reach|All|97,C,Tari Eason,HOU at DAL,Over 14.5 pts+reb+ast,PRA,19.0,8 of 10,15 of 20,Soft (25th),1.52,,Defense 20 of 30,0.825,0.21,Tari Eason,15,Reach,
-ALL|ALL|Reach|All|98,C,Brandon Williams,GS vs LAL,Over 14.5 pts+reb+ast,PRA,19.1,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.22,Brandon Williams,15,Reach,LAL at GS|ALL|Reach|All|10
-ALL|ALL|Reach|All|99,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|ALL|Reach|All|9
-ALL|ALL|Reach|All|100,C,Isaiah Jackson,LAC at MIN,Over 4.5 reb+ast,RA,6.5,9 of 10,15 of 20,Mid (11th),1.43,,Defense 17 of 30,0.825,0.22,Isaiah Jackson,5,Reach,LAC at MIN|ALL|Reach|All|9
-ALL|ALL|Reach|All|101,C,Anthony Black,ORL at TOR,Over 6.5 points,PTS,9.2,8 of 10,17 of 20,Mid (21st),1.43,,Defense 4 of 30,0.825,0.23,Anthony Black,7,Reach,ORL at TOR|ALL|Reach|All|10
-ALL|ALL|Reach|All|102,C,Kris Dunn,LAC at MIN,Over 9.5 pts+reb+ast,PRA,13.2,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.24,Kris Dunn,10,Reach,LAC at MIN|ALL|Reach|All|10
-ALL|ALL|Reach|All|103,C,Jamal Murray,DEN at PHX,Over 4.5 assists,AST,6.8,8 of 10,17 of 20,Mid (18th),1.43,,Defense 18 of 30,0.825,0.26,Jamal Murray,5,Reach,DEN at PHX|ALL|Reach|All|10
-ALL|ALL|Reach|All|104,C,Pascal Siakam,IND at MIA,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Soft (28th),1.52,,Defense 23 of 30,0.825,0.26,Pascal Siakam,1,Reach,
-ALL|ALL|Reach|All|105,C,Darius Garland,LAC at MIN,Over 19.5 pts+ast,PA,27.4,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.27,Darius Garland,20,Reach,LAC at MIN|ALL|Reach|All|11
-ALL|ALL|Reach|All|106,C,Anthony Black,ORL at TOR,Over 9.5 pts+reb+ast,PRA,14.2,8 of 10,17 of 20,Mid (20th),1.43,,Defense 4 of 30,0.825,0.29,Anthony Black,10,Reach,ORL at TOR|ALL|Reach|All|11
-ALL|ALL|Reach|All|107,C,De'Anthony Melton,GS vs LAL,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.29,De'Anthony Melton,2,Reach,LAL at GS|ALL|Reach|All|11
-ALL|ALL|Reach|All|108,C,Bub Carrington,WSH vs CHA,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.3,Bub Carrington,3,Reach,CHA at WSH|ALL|Reach|All|11
-ALL|ALL|Reach|All|109,C,Miles Bridges,PHX vs DEN,Over 14.5 pts+reb,PR,21.4,8 of 10,17 of 20,Mid (19th),1.43,,Defense 14 of 30,0.825,0.3,Miles Bridges,15,Reach,DEN at PHX|ALL|Reach|All|11
-ALL|ALL|Reach|All|110,C,Nick Richards,MIA vs IND,Over 4.5 reb+ast,RA,7.4,8 of 10,17 of 20,Mid (18th),1.43,,Defense 15 of 30,0.825,0.32,Nick Richards,5,Reach,
-ALL|ALL|Reach|All|111,C,Alex Sarr,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,22.7,8 of 10,17 of 20,Mid (11th),1.43,,Defense 9 of 30,0.825,0.34,Alex Sarr,15,Reach,CHA at WSH|ALL|Reach|All|12
-ALL|ALL|Reach|All|112,C,Derrick Jones Jr.,LAC at MIN,Over 9.5 pts+reb+ast,PRA,15.2,9 of 10,15 of 20,Mid (12th),1.43,,Defense 17 of 30,0.825,0.34,Derrick Jones Jr.,10,Reach,LAC at MIN|ALL|Reach|All|12
-ALL|ALL|Reach|All|113,C,Scottie Barnes,TOR vs ORL,Over 4.5 assists,AST,7.6,8 of 10,17 of 20,Mid (9th),1.43,,Defense 8 of 30,0.825,0.34,Scottie Barnes,5,Reach,ORL at TOR|ALL|Reach|All|12
-ALL|ALL|Reach|All|114,C,Immanuel Quickley,TOR vs ORL,Over 14.5 pts+reb+ast,PRA,23.0,8 of 10,17 of 20,Mid (19th),1.43,,Defense 8 of 30,0.825,0.35,Immanuel Quickley,15,Reach,
-ALL|ALL|Reach|All|115,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|ALL|Reach|All|12
-ALL|ALL|Reach|All|116,C,Jay Huff,IND at MIA,Over 5.5 points,PTS,9.3,8 of 10,17 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.36,Jay Huff,6,Reach,
-ALL|ALL|Reach|All|117,C,Andrew Wiggins,MIA vs IND,Over 7.5 points,PTS,12.7,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.37,Andrew Wiggins,8,Reach,
-ALL|ALL|Reach|All|118,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,
-ALL|ALL|Reach|All|119,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,
-ALL|ALL|Reach|All|120,C,Ziaire Williams,LAL at GS,Over 9.5 pts+ast,PA,14.1,10 of 10,16 of 20,Mid (16th),1.31,3in4; questionable,Defense 21 of 30,0.82,0.29,Ziaire Williams,10,Reach,
-,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Reach,NY at PHI|ALL|Reach|All|10
+ALL|ALL|Reach|All|81,C,Rui Hachimura,LAC at MIN,Over 14.5 pts+reb,PR,19.6,9 of 10,17 of 20,Mid (12th),1.34,questionable,Defense 17 of 30,0.835,0.24,Rui Hachimura,15,Reach,LAC at MIN|ALL|Reach|All|7
+ALL|ALL|Reach|All|82,C,Walter Clayton Jr.,DAL vs HOU,Over 4.5 reb+ast,RA,6.9,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 1 of 30,0.835,0.28,Walter Clayton Jr.,5,Reach,HOU at DAL|ALL|Reach|All|9
+ALL|ALL|Reach|All|83,C,Derrick White,BOS vs CHI,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Soft (29th),1.43,"big spread, game script risk",Defense 29 of 30,0.835,0.3,Derrick White,3,Reach,CHI at BOS|ALL|Reach|All|10
+ALL|ALL|Reach|All|84,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|ALL|Reach|All|7
+ALL|ALL|Reach|All|85,C,Desmond Bane,ORL at TOR,Over 0.5 steals,STL,1.6,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 4 of 30,0.835,0.35,Desmond Bane,1,Reach,ORL at TOR|ALL|Reach|All|9
+ALL|ALL|Reach|All|86,C,Stephen Curry,GS vs LAL,Over 4.5 reb+ast,RA,7.7,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 11 of 30,0.835,0.35,Stephen Curry,5,Reach,LAL at GS|ALL|Reach|All|8
+ALL|ALL|Reach|All|87,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|ALL|Reach|All|9
+ALL|ALL|Reach|All|88,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|ALL|Reach|All|9
+ALL|ALL|Reach|All|89,C,Ausar Thompson,DET at BKN,Over 0.5 blocks,BLK,1.6,8 of 10,17 of 20,Soft (23rd),1.43,3in4,Defense 26 of 30,0.835,0.38,Ausar Thompson,1,Reach,DET at BKN|ALL|Reach|All|6
+ALL|ALL|Reach|All|90,C,Julian Reese,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,24.2,9 of 10,11 of 13,Mid (10th),1.35,"last season stats, check roster",Defense 9 of 30,0.833,0.38,Julian Reese,15,Reach,CHA at WSH|ALL|Reach|All|10
+ALL|ALL|Reach|All|91,C,Darius Garland,LAC at MIN,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.13,Darius Garland,1,Reach,LAC at MIN|ALL|Reach|All|8
+ALL|ALL|Reach|All|92,C,Kevin Durant,HOU at DAL,Over 21.5 points,PTS,25.4,8 of 10,15 of 20,Soft (26th),1.52,,Defense 20 of 30,0.825,0.13,Kevin Durant,22,Reach,HOU at DAL|ALL|Reach|All|10
+ALL|ALL|Reach|All|93,C,Amen Thompson,HOU at DAL,Over 15.5 points,PTS,19.7,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.19,Amen Thompson,16,Reach,HOU at DAL|ALL|Reach|All|11
+ALL|ALL|Reach|All|94,C,Amen Thompson,HOU at DAL,Over 19.5 pts+ast,PA,24.9,8 of 10,17 of 20,Mid (18th),1.43,,Defense 20 of 30,0.825,0.2,Amen Thompson,20,Reach,HOU at DAL|ALL|Reach|All|12
+ALL|ALL|Reach|All|95,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,
+ALL|ALL|Reach|All|96,C,Tari Eason,HOU at DAL,Over 14.5 pts+reb+ast,PRA,19.0,8 of 10,15 of 20,Soft (25th),1.52,,Defense 20 of 30,0.825,0.21,Tari Eason,15,Reach,
+ALL|ALL|Reach|All|97,C,Brandon Williams,GS vs LAL,Over 14.5 pts+reb+ast,PRA,19.1,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.22,Brandon Williams,15,Reach,LAL at GS|ALL|Reach|All|10
+ALL|ALL|Reach|All|98,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|ALL|Reach|All|9
+ALL|ALL|Reach|All|99,C,Isaiah Jackson,LAC at MIN,Over 4.5 reb+ast,RA,6.5,9 of 10,15 of 20,Mid (11th),1.43,,Defense 17 of 30,0.825,0.22,Isaiah Jackson,5,Reach,LAC at MIN|ALL|Reach|All|9
+ALL|ALL|Reach|All|100,C,Anthony Black,ORL at TOR,Over 6.5 points,PTS,9.2,8 of 10,17 of 20,Mid (21st),1.43,,Defense 4 of 30,0.825,0.23,Anthony Black,7,Reach,ORL at TOR|ALL|Reach|All|10
+ALL|ALL|Reach|All|101,C,Kris Dunn,LAC at MIN,Over 9.5 pts+reb+ast,PRA,13.2,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.24,Kris Dunn,10,Reach,LAC at MIN|ALL|Reach|All|10
+ALL|ALL|Reach|All|102,C,Jamal Murray,DEN at PHX,Over 4.5 assists,AST,6.8,8 of 10,17 of 20,Mid (18th),1.43,,Defense 18 of 30,0.825,0.26,Jamal Murray,5,Reach,DEN at PHX|ALL|Reach|All|10
+ALL|ALL|Reach|All|103,C,Pascal Siakam,IND at MIA,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Soft (28th),1.52,,Defense 23 of 30,0.825,0.26,Pascal Siakam,1,Reach,
+ALL|ALL|Reach|All|104,C,Darius Garland,LAC at MIN,Over 19.5 pts+ast,PA,27.4,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.27,Darius Garland,20,Reach,LAC at MIN|ALL|Reach|All|11
+ALL|ALL|Reach|All|105,C,Anthony Black,ORL at TOR,Over 9.5 pts+reb+ast,PRA,14.2,8 of 10,17 of 20,Mid (20th),1.43,,Defense 4 of 30,0.825,0.29,Anthony Black,10,Reach,ORL at TOR|ALL|Reach|All|11
+ALL|ALL|Reach|All|106,C,De'Anthony Melton,GS vs LAL,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Mid (12th),1.43,,Defense 11 of 30,0.825,0.29,De'Anthony Melton,2,Reach,LAL at GS|ALL|Reach|All|11
+ALL|ALL|Reach|All|107,C,Bub Carrington,WSH vs CHA,Over 2.5 assists,AST,4.3,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.3,Bub Carrington,3,Reach,CHA at WSH|ALL|Reach|All|11
+ALL|ALL|Reach|All|108,C,Miles Bridges,PHX vs DEN,Over 14.5 pts+reb,PR,21.4,8 of 10,17 of 20,Mid (19th),1.43,,Defense 14 of 30,0.825,0.3,Miles Bridges,15,Reach,DEN at PHX|ALL|Reach|All|11
+ALL|ALL|Reach|All|109,C,Nick Richards,MIA vs IND,Over 4.5 reb+ast,RA,7.4,8 of 10,17 of 20,Mid (18th),1.43,,Defense 15 of 30,0.825,0.32,Nick Richards,5,Reach,
+ALL|ALL|Reach|All|110,C,Alex Sarr,WSH vs CHA,Over 14.5 pts+reb+ast,PRA,22.7,8 of 10,17 of 20,Mid (11th),1.43,,Defense 9 of 30,0.825,0.34,Alex Sarr,15,Reach,CHA at WSH|ALL|Reach|All|12
+ALL|ALL|Reach|All|111,C,Derrick Jones Jr.,LAC at MIN,Over 9.5 pts+reb+ast,PRA,15.2,9 of 10,15 of 20,Mid (12th),1.43,,Defense 17 of 30,0.825,0.34,Derrick Jones Jr.,10,Reach,LAC at MIN|ALL|Reach|All|12
+ALL|ALL|Reach|All|112,C,Scottie Barnes,TOR vs ORL,Over 4.5 assists,AST,7.6,8 of 10,17 of 20,Mid (9th),1.43,,Defense 8 of 30,0.825,0.34,Scottie Barnes,5,Reach,ORL at TOR|ALL|Reach|All|12
+ALL|ALL|Reach|All|113,C,Immanuel Quickley,TOR vs ORL,Over 14.5 pts+reb+ast,PRA,23.0,8 of 10,17 of 20,Mid (19th),1.43,,Defense 8 of 30,0.825,0.35,Immanuel Quickley,15,Reach,
+ALL|ALL|Reach|All|114,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|ALL|Reach|All|12
+ALL|ALL|Reach|All|115,C,Jay Huff,IND at MIA,Over 5.5 points,PTS,9.3,8 of 10,17 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.36,Jay Huff,6,Reach,
+ALL|ALL|Reach|All|116,C,Andrew Wiggins,MIA vs IND,Over 7.5 points,PTS,12.7,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.37,Andrew Wiggins,8,Reach,
+ALL|ALL|Reach|All|117,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,
+ALL|ALL|Reach|All|118,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,
+ALL|ALL|Reach|All|119,C,Ziaire Williams,LAL at GS,Over 9.5 pts+ast,PA,14.1,10 of 10,16 of 20,Mid (16th),1.31,3in4; questionable,Defense 21 of 30,0.82,0.29,Ziaire Williams,10,Reach,
+ALL|ALL|Reach|All|120,C,OG Anunoby,NY at PHI,Over 4.5 reb+ast,RA,8.0,9 of 10,18 of 20,Tough (5th),1.31,tough matchup; 3in4,Defense 13 of 30,0.82,0.38,OG Anunoby,5,Reach,NY at PHI|ALL|Reach|All|10
 ,C,Paul George,BOS vs CHI,Over 14.5 points,PTS,17.0,8 of 10,16 of 20,Soft (28th),1.47,"big spread, game script risk",Defense 29 of 30,0.81,0.12,Paul George,15,Reach,CHI at BOS|ALL|Reach|All|11
-,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Reach,DET at BKN|ALL|Reach|All|8
-,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Reach,DET at BKN|ALL|Reach|All|9
+,C,Ben Saraf,BKN vs DET,Over 4.5 reb+ast,RA,6.5,9 of 10,16 of 20,Tough (2nd),1.38,tough matchup,Defense 3 of 30,0.81,0.24,Ben Saraf,5,Reach,DET at BKN|ALL|Reach|All|7
+,C,Danny Wolf,BKN vs DET,Over 9.5 pts+reb,PR,15.4,9 of 10,16 of 20,Tough (6th),1.38,tough matchup,Defense 3 of 30,0.81,0.35,Danny Wolf,10,Reach,DET at BKN|ALL|Reach|All|8
 ,C,Anfernee Simons,PHI vs NY,Over 1.5 rebounds,REB,2.6,8 of 10,16 of 20,Mid (13th),1.47,,Defense 2 of 30,0.8,0.23,Anfernee Simons,2,Reach,NY at PHI|ALL|Reach|All|11
 ,C,Jalen Green,PHX vs DEN,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Mid (14th),1.47,,Defense 14 of 30,0.8,0.33,Jalen Green,5,Reach,DEN at PHX|ALL|Reach|All|12
+,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Reach,DET at BKN|ALL|Reach|All|9
 ,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Reach,CHI at BOS|ALL|Reach|All|12
 ,C,Duncan Robinson,DET at BKN,Over 1.5 assists,AST,2.2,8 of 10,15 of 20,Soft (24th),1.52,3in4,Defense 26 of 30,0.785,0.09,Duncan Robinson,2,Reach,DET at BKN|ALL|Reach|All|10
 ,C,Jalen Brunson,NY at PHI,Over 29.5 pts+reb+ast,PRA,36.5,8 of 10,15 of 20,Soft (23rd),1.52,3in4,Defense 13 of 30,0.785,0.18,Jalen Brunson,30,Reach,NY at PHI|ALL|Reach|All|12
@@ -3161,18 +3161,18 @@ ALL|REB|Reach|All|12,C,Kentavious Caldwell-Pope,PHI vs NY,Over 1.5 rebounds,REB,
 ALL|REB|Reach|All|13,C,Wendell Carter Jr.,ORL at TOR,Over 4.5 rebounds,REB,7.2,8 of 10,17 of 20,Soft (26th),1.43,,Defense 4 of 30,0.875,0.3,Wendell Carter Jr.,5,Reach,ORL at TOR|REB|Reach|All|2
 ALL|REB|Reach|All|14,C,Daniss Jenkins,DET at BKN,Over 1.5 rebounds,REB,3.0,9 of 10,16 of 20,Soft (23rd),1.38,3in4,Defense 26 of 30,0.86,0.33,Daniss Jenkins,2,Reach,DET at BKN|REB|Reach|All|2
 ALL|REB|Reach|All|15,C,Franz Wagner,ORL at TOR,Over 3.5 rebounds,REB,4.7,10 of 10,15 of 20,Tough (2nd),1.34,tough matchup,Defense 4 of 30,0.835,0.14,Franz Wagner,4,Reach,ORL at TOR|REB|Reach|All|3
-ALL|REB|Reach|All|16,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 3 of 30,0.835,0.23,Noah Clowney,3,Reach,DET at BKN|REB|Reach|All|3
-ALL|REB|Reach|All|17,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|REB|Reach|All|3
-ALL|REB|Reach|All|18,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|REB|Reach|All|3
-ALL|REB|Reach|All|19,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|REB|Reach|All|4
-ALL|REB|Reach|All|20,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,HOU at DAL|REB|Reach|All|2
-ALL|REB|Reach|All|21,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|REB|Reach|All|1
-ALL|REB|Reach|All|22,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|REB|Reach|All|5
-ALL|REB|Reach|All|23,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,CHA at WSH|REB|Reach|All|3
-ALL|REB|Reach|All|24,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,IND at MIA|REB|Reach|All|2
-ALL|REB|Reach|All|25,C,Anfernee Simons,PHI vs NY,Over 1.5 rebounds,REB,2.6,8 of 10,16 of 20,Mid (13th),1.47,,Defense 2 of 30,0.8,0.23,Anfernee Simons,2,Reach,NY at PHI|REB|Reach|All|4
-ALL|REB|Reach|All|26,C,Nick Richards,MIA vs IND,Over 4.5 rebounds,REB,7.0,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 15 of 30,0.8,0.29,Nick Richards,5,Reach,IND at MIA|REB|Reach|All|3
-ALL|REB|Reach|All|27,C,Amen Thompson,HOU at DAL,Over 4.5 rebounds,REB,7.3,8 of 10,16 of 20,Mid (12th),1.47,,Defense 20 of 30,0.8,0.32,Amen Thompson,5,Reach,HOU at DAL|REB|Reach|All|3
+ALL|REB|Reach|All|16,C,Brandon Williams,GS vs LAL,Over 1.5 rebounds,REB,3.0,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.32,Brandon Williams,2,Reach,LAL at GS|REB|Reach|All|3
+ALL|REB|Reach|All|17,C,Mikal Bridges,NY at PHI,Over 1.5 rebounds,REB,3.1,8 of 10,17 of 20,Soft (29th),1.43,3in4,Defense 13 of 30,0.835,0.37,Mikal Bridges,2,Reach,NY at PHI|REB|Reach|All|3
+ALL|REB|Reach|All|18,C,Stephen Curry,GS vs LAL,Over 1.5 rebounds,REB,3.1,9 of 10,17 of 20,Tough (4th),1.34,tough matchup,Defense 11 of 30,0.835,0.37,Stephen Curry,2,Reach,LAL at GS|REB|Reach|All|4
+ALL|REB|Reach|All|19,C,Cooper Flagg,DAL vs HOU,Over 4.5 rebounds,REB,6.3,9 of 10,15 of 20,Mid (12th),1.43,,Defense 1 of 30,0.825,0.21,Cooper Flagg,5,Reach,HOU at DAL|REB|Reach|All|2
+ALL|REB|Reach|All|20,C,DeMar DeRozan,DEN at PHX,Over 1.5 rebounds,REB,2.5,8 of 10,15 of 20,Soft (25th),1.52,,Defense 18 of 30,0.825,0.22,DeMar DeRozan,2,Reach,DEN at PHX|REB|Reach|All|1
+ALL|REB|Reach|All|21,C,Al Horford,GS vs LAL,Over 2.5 rebounds,REB,4.7,8 of 10,17 of 20,Mid (21st),1.43,,Defense 11 of 30,0.825,0.36,Al Horford,3,Reach,LAL at GS|REB|Reach|All|5
+ALL|REB|Reach|All|22,C,Brandon Miller,CHA at WSH,Over 2.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (19th),1.43,,Defense 24 of 30,0.825,0.37,Brandon Miller,3,Reach,CHA at WSH|REB|Reach|All|3
+ALL|REB|Reach|All|23,C,Kelly Oubre Jr.,IND at MIA,Over 2.5 rebounds,REB,4.8,7 of 10,17 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.37,Kelly Oubre Jr.,3,Reach,IND at MIA|REB|Reach|All|2
+ALL|REB|Reach|All|24,C,Anfernee Simons,PHI vs NY,Over 1.5 rebounds,REB,2.6,8 of 10,16 of 20,Mid (13th),1.47,,Defense 2 of 30,0.8,0.23,Anfernee Simons,2,Reach,NY at PHI|REB|Reach|All|4
+ALL|REB|Reach|All|25,C,Nick Richards,MIA vs IND,Over 4.5 rebounds,REB,7.0,7 of 10,16 of 20,Soft (23rd),1.57,,Defense 15 of 30,0.8,0.29,Nick Richards,5,Reach,IND at MIA|REB|Reach|All|3
+ALL|REB|Reach|All|26,C,Amen Thompson,HOU at DAL,Over 4.5 rebounds,REB,7.3,8 of 10,16 of 20,Mid (12th),1.47,,Defense 20 of 30,0.8,0.32,Amen Thompson,5,Reach,HOU at DAL|REB|Reach|All|3
+ALL|REB|Reach|All|27,C,Noah Clowney,BKN vs DET,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Tough (7th),1.34,tough matchup; questionable,Defense 3 of 30,0.795,0.23,Noah Clowney,3,Reach,DET at BKN|REB|Reach|All|3
 ALL|REB|Reach|All|28,C,Guerschon Yabusele,CHI at BOS,Over 3.5 rebounds,REB,5.8,9 of 10,17 of 20,Mid (10th),1.34,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.795,0.31,Guerschon Yabusele,4,Reach,CHI at BOS|REB|Reach|All|3
 ALL|REB|Reach|All|29,C,Ben Saraf,BKN vs DET,Over 1.5 rebounds,REB,2.8,9 of 10,15 of 20,Tough (6th),1.43,tough matchup,Defense 3 of 30,0.785,0.27,Ben Saraf,2,Reach,DET at BKN|REB|Reach|All|4
 ALL|REB|Reach|All|30,C,Mitchell Robinson,BOS vs CHI,Over 3.5 rebounds,REB,5.5,8 of 10,17 of 20,Mid (13th),1.43,"big spread, game script risk",Defense 29 of 30,0.785,0.28,Mitchell Robinson,4,Reach,CHI at BOS|REB|Reach|All|4
@@ -3280,13 +3280,13 @@ ALL|THREES|Reach|All|22,C,Stephen Curry,GS vs LAL,Over 2.5 threes,THREES,3.8,8 o
 ALL|THREES|Reach|All|23,C,Kobe Sanders,LAC at MIN,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Tough (2nd),1.52,tough matchup,Defense 17 of 30,0.735,0.26,Kobe Sanders,1,Reach,LAC at MIN|THREES|Reach|All|2
 ALL|THREES|Reach|All|24,C,Gui Santos,GS vs LAL,Over 0.5 threes,THREES,1.4,8 of 10,15 of 20,Mid (9th),1.52,questionable,Defense 11 of 30,0.735,0.31,Gui Santos,1,Reach,LAL at GS|THREES|Reach|All|5
 ALL|THREES|Reach|All|25,C,Matisse Thybulle,LAL at GS,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Soft (24th),1.62,3in4,Defense 21 of 30,0.735,0.33,Matisse Thybulle,1,Reach,LAL at GS|THREES|Reach|All|6
-ALL|THREES|Reach|All|26,C,Noah Clowney,BKN vs DET,Over 0.5 threes,THREES,1.5,7 of 10,17 of 20,Tough (6th),1.52,tough matchup,Defense 3 of 30,0.735,0.33,Noah Clowney,1,Reach,DET at BKN|THREES|Reach|All|4
-ALL|THREES|Reach|All|27,C,Christian Braun,DEN at PHX,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Mid (21st),1.62,,Defense 18 of 30,0.725,0.13,Christian Braun,1,Reach,DEN at PHX|THREES|Reach|All|4
-ALL|THREES|Reach|All|28,C,LeBron James,PHI vs NY,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (14th),1.62,,Defense 2 of 30,0.725,0.29,LeBron James,1,Reach,NY at PHI|THREES|Reach|All|2
-ALL|THREES|Reach|All|29,C,Klay Thompson,MIA vs IND,Over 1.5 threes,THREES,3.0,7 of 10,15 of 20,Mid (14th),1.62,,Defense 15 of 30,0.725,0.33,Klay Thompson,2,Reach,IND at MIA|THREES|Reach|All|3
-ALL|THREES|Reach|All|30,C,Rui Hachimura,LAC at MIN,Over 1.5 threes,THREES,2.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup; questionable,Defense 17 of 30,0.72,0.23,Rui Hachimura,2,Reach,LAC at MIN|THREES|Reach|All|3
-ALL|THREES|Reach|All|31,C,Grayson Allen,CHA at WSH,Over 1.5 threes,THREES,2.5,7 of 10,16 of 20,Tough (5th),1.57,tough matchup,Defense 24 of 30,0.71,0.22,Grayson Allen,2,Reach,CHA at WSH|THREES|Reach|All|3
-ALL|THREES|Reach|All|32,C,Darius Garland,LAC at MIN,Over 1.5 threes,THREES,3.1,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 17 of 30,0.71,0.37,Darius Garland,2,Reach,LAC at MIN|THREES|Reach|All|4
+ALL|THREES|Reach|All|26,C,Christian Braun,DEN at PHX,Over 0.5 threes,THREES,1.1,7 of 10,15 of 20,Mid (21st),1.62,,Defense 18 of 30,0.725,0.13,Christian Braun,1,Reach,DEN at PHX|THREES|Reach|All|4
+ALL|THREES|Reach|All|27,C,LeBron James,PHI vs NY,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (14th),1.62,,Defense 2 of 30,0.725,0.29,LeBron James,1,Reach,NY at PHI|THREES|Reach|All|2
+ALL|THREES|Reach|All|28,C,Klay Thompson,MIA vs IND,Over 1.5 threes,THREES,3.0,7 of 10,15 of 20,Mid (14th),1.62,,Defense 15 of 30,0.725,0.33,Klay Thompson,2,Reach,IND at MIA|THREES|Reach|All|3
+ALL|THREES|Reach|All|29,C,Rui Hachimura,LAC at MIN,Over 1.5 threes,THREES,2.6,8 of 10,16 of 20,Tough (8th),1.47,tough matchup; questionable,Defense 17 of 30,0.72,0.23,Rui Hachimura,2,Reach,LAC at MIN|THREES|Reach|All|3
+ALL|THREES|Reach|All|30,C,Grayson Allen,CHA at WSH,Over 1.5 threes,THREES,2.5,7 of 10,16 of 20,Tough (5th),1.57,tough matchup,Defense 24 of 30,0.71,0.22,Grayson Allen,2,Reach,CHA at WSH|THREES|Reach|All|3
+ALL|THREES|Reach|All|31,C,Darius Garland,LAC at MIN,Over 1.5 threes,THREES,3.1,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 17 of 30,0.71,0.37,Darius Garland,2,Reach,LAC at MIN|THREES|Reach|All|4
+ALL|THREES|Reach|All|32,C,Noah Clowney,BKN vs DET,Over 0.5 threes,THREES,1.5,7 of 10,17 of 20,Tough (6th),1.52,tough matchup; questionable,Defense 3 of 30,0.695,0.33,Noah Clowney,1,Reach,DET at BKN|THREES|Reach|All|4
 ALL|THREES|Reach|All|33,C,Rob Dillingham,CHI at BOS,Over 0.5 threes,THREES,1.4,7 of 10,16 of 20,Mid (19th),1.57,"last season stats, check roster; big spread, game script risk",Defense 7 of 30,0.67,0.26,Rob Dillingham,1,Reach,CHI at BOS|THREES|Reach|All|5
 ALL|THREES|Reach|All|34,C,OG Anunoby,NY at PHI,Over 1.5 threes,THREES,2.4,7 of 10,15 of 20,Tough (7th),1.62,tough matchup; 3in4,Defense 13 of 30,0.645,0.17,OG Anunoby,2,Reach,NY at PHI|THREES|Reach|All|3
 ALL|THREES|Reach|All|35,D,Desmond Bane,ORL at TOR,Over 1.5 threes,THREES,2.6,9 of 10,14 of 20,Mid (18th),1.47,,Defense 4 of 30,0.8,0.25,Desmond Bane,2,Reach,ORL at TOR|THREES|Reach|All|1

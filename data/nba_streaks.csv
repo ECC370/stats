@@ -21,8 +21,8 @@ Stephon Castle,G,SA,MIN,,RA,5+,76,1.0,12.3
 Brandon Miller,F,CHA,PHI,,PTS,5+,71,1.0,20.6
 Trey Murphy III,F,NO,ATL,,PTS,5+,71,1.0,21.0
 Trey Murphy III,F,NO,ATL,,PRA,10+,71,1.0,30.3
-LeBron James,F,PHI,CHA,,RA,5+,70,1.0,13.6
-LeBron James,F,PHI,CHA,,PTS,10+,69,1.0,21.5
+LeBron James,F,PHI,CHA,Questionable,RA,5+,70,1.0,13.6
+LeBron James,F,PHI,CHA,Questionable,PTS,10+,69,1.0,21.5
 Brandon Miller,F,CHA,PHI,,THREES,1+,67,1.0,3.3
 Jrue Holiday,G,POR,UTAH,,PRA,10+,63,1.0,26.8
 Saddiq Bey,G,NO,ATL,,PTS,5+,62,1.0,18.9
@@ -32,12 +32,12 @@ Moussa Diabate,F,CHA,PHI,,RA,5+,54,1.0,11.9
 Jaren Jackson Jr.,F,UTAH,POR,Out,PTS,5+,52,1.0,19.2
 Jaren Jackson Jr.,F,UTAH,POR,Out,PRA,10+,52,1.0,26.7
 Naz Reid,C,CHA,PHI,,PRA,10+,51,1.0,21.6
-Joel Embiid,C,PHI,CHA,,RA,5+,50,1.0,12.1
+Joel Embiid,C,PHI,CHA,Questionable,RA,5+,50,1.0,12.1
 Isaiah Collier,G,UTAH,POR,,PRA,10+,49,1.0,23.1
 Isaiah Collier,G,UTAH,POR,,PA,10+,49,1.0,20.2
-Joel Embiid,C,PHI,CHA,,PTS,10+,49,1.0,26.1
-Joel Embiid,C,PHI,CHA,,PR,15+,49,1.0,34.0
-Joel Embiid,C,PHI,CHA,,PA,15+,49,1.0,30.5
+Joel Embiid,C,PHI,CHA,Questionable,PTS,10+,49,1.0,26.1
+Joel Embiid,C,PHI,CHA,Questionable,PR,15+,49,1.0,34.0
+Joel Embiid,C,PHI,CHA,Questionable,PA,15+,49,1.0,30.5
 VJ Edgecombe,G,PHI,CHA,,PR,10+,47,1.0,22.6
 LaMelo Ball,G,MIN,SA,,PTS,5+,46,1.0,20.2
 LaMelo Ball,G,MIN,SA,,THREES,1+,46,1.0,4.0
@@ -58,7 +58,7 @@ Amen Thompson,G,HOU,OKC,,PR,15+,35,1.0,27.8
 Amen Thompson,G,HOU,OKC,,PA,15+,35,1.0,25.1
 Maxime Raynaud,C,SAC,MEM,Out,RA,5+,34,1.0,10.6
 Jeremiah Fears,G,NO,ATL,,PTS,5+,33,1.0,15.7
-LeBron James,F,PHI,CHA,,REB,2+,33,1.0,7.0
+LeBron James,F,PHI,CHA,Questionable,REB,2+,33,1.0,7.0
 Naz Reid,C,CHA,PHI,,PTS,5+,33,1.0,13.1
 Tyler Herro,G,MIL,CLE,,THREES,1+,33,1.0,2.7
 Jabari Smith Jr.,F,HOU,OKC,,REB,2+,32,1.0,6.9
@@ -212,9 +212,9 @@ Kel'el Ware,C,MIL,CLE,,REB,3+,11,0.9,9.7
 Kennedy Chandler,G,UTAH,POR,Check roster,AST,4+,11,1.0,6.7
 Kennedy Chandler,G,UTAH,POR,Check roster,RA,5+,11,1.0,10.1
 Kyle Kuzma,F,MIL,CLE,,PRA,10+,11,0.9,20.8
-LeBron James,F,PHI,CHA,,PRA,25+,11,0.9,33.6
-LeBron James,F,PHI,CHA,,PR,15+,11,0.95,27.0
-LeBron James,F,PHI,CHA,,PA,20+,11,0.9,27.4
+LeBron James,F,PHI,CHA,Questionable,PRA,25+,11,0.9,33.6
+LeBron James,F,PHI,CHA,Questionable,PR,15+,11,0.95,27.0
+LeBron James,F,PHI,CHA,Questionable,PA,20+,11,0.9,27.4
 Max Strus,G,CLE,MIL,Out,PTS,5+,11,0.85,8.2
 Maxime Raynaud,C,SAC,MEM,Out,REB,7+,11,0.8,9.0
 Reed Sheppard,G,HOU,OKC,Questionable,STL,1+,11,0.9,1.9
@@ -312,7 +312,7 @@ Dylan Cardwell,C,SAC,MEM,Out,BLK,1+,7,0.65,2.6
 Dyson Daniels,G,ATL,NO,,STL,1+,7,0.95,2.7
 Grayson Allen,G,CHA,PHI,,REB,2+,7,0.9,3.0
 Grayson Allen,G,CHA,PHI,,PRA,10+,7,0.95,19.1
-Joel Embiid,C,PHI,CHA,,PRA,20+,7,0.95,33.0
+Joel Embiid,C,PHI,CHA,Questionable,PRA,20+,7,0.95,33.0
 Kasparas Jakucionis,G,MIL,CLE,,REB,2+,7,0.7,3.1
 Kasparas Jakucionis,G,MIL,CLE,,AST,2+,7,0.8,4.3
 Kasparas Jakucionis,G,MIL,CLE,,PRA,10+,7,0.7,17.3

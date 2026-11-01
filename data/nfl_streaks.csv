@@ -162,8 +162,8 @@ Josh Allen,QB,BUF,BAL,,PASS_YDS,200+,9,0.75,258.0
 Michael Carter,RB,TEN,CIN,,RUSH_YDS,5+,9,0.86,26.6
 Michael Carter,RB,TEN,CIN,,RR_YDS,10+,9,0.86,48.4
 Michael Wilson,WR,ARI,DAL,Limited,TGT,7+,9,0.75,9.3
-Rashid Shaheed,WR,SEA,CHI,DNP,REC,1+,9,0.85,2.1
-Rashid Shaheed,WR,SEA,CHI,DNP,TGT,3+,9,0.7,4.2
+Rashid Shaheed,WR,SEA,CHI,Out,REC,1+,9,0.85,2.1
+Rashid Shaheed,WR,SEA,CHI,Out,TGT,3+,9,0.7,4.2
 Rome Odunze,WR,CHI,SEA,,REC_YDS,30+,9,0.9,52.1
 Rome Odunze,WR,CHI,SEA,,RR_YDS,30+,9,0.9,52.1
 Trey McBride,TE,ARI,DAL,,REC,7+,9,0.8,8.4
@@ -314,7 +314,7 @@ Kendrick Bourne,WR,ARI,DAL,,REC,2+,6,0.7,4.2
 Kendrick Bourne,WR,ARI,DAL,,REC_YDS,5+,6,0.85,39.0
 Kendrick Bourne,WR,ARI,DAL,,TGT,3+,6,0.65,6.0
 Kirk Cousins,QB,LV,NYJ,,PASS_YDS,225+,6,0.47,286.2
-Kyle Monangai,RB,CHI,SEA,DNP,RR_YDS,30+,6,0.8,80.7
+Kyle Monangai,RB,CHI,SEA,Out,RR_YDS,30+,6,0.8,80.7
 Kyle Pitts,TE,ATL,TB,,REC,1+,6,0.95,3.3
 Kyle Pitts,TE,ATL,TB,,REC_YDS,5+,6,0.95,31.8
 Laquon Treadwell,WR,IND,JAX,,REC,1+,6,0.46,2.5
@@ -368,10 +368,10 @@ Braelon Allen,RB,NYJ,LV,,RUSH_YDS,10+,5,0.82,74.2
 Brock Bowers,TE,LV,NYJ,,REC_YDS,70+,5,0.47,91.0
 Brock Bowers,TE,LV,NYJ,,TGT,8+,5,0.65,10.2
 Brock Bowers,TE,LV,NYJ,,RR_YDS,70+,5,0.47,91.0
-Colston Loveland,TE,CHI,SEA,Limited,REC,2+,5,0.9,5.0
-Colston Loveland,TE,CHI,SEA,Limited,REC_YDS,15+,5,0.9,48.2
-Colston Loveland,TE,CHI,SEA,Limited,TGT,4+,5,0.9,7.4
-Colston Loveland,TE,CHI,SEA,Limited,RR_YDS,15+,5,0.9,48.2
+Colston Loveland,TE,CHI,SEA,,REC,2+,5,0.9,5.0
+Colston Loveland,TE,CHI,SEA,,REC_YDS,15+,5,0.9,48.2
+Colston Loveland,TE,CHI,SEA,,TGT,4+,5,0.9,7.4
+Colston Loveland,TE,CHI,SEA,,RR_YDS,15+,5,0.9,48.2
 Davante Adams,WR,LA,LAC,,REC_YDS,30+,5,0.8,90.8
 Davante Adams,WR,LA,LAC,,RR_YDS,30+,5,0.8,90.8
 DeMario Douglas,WR,NE,MIA,,REC_YDS,15+,5,0.7,45.4

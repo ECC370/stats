@@ -1,5 +1,5 @@
 Player,Pos,Team,Opp,Status,Stat,Line,Streak,L20 hit,Avg in streak
-Mitchell Robinson,C,BOS,ORL,Questionable,REB,3+,83,1.0,7.9
+Mitchell Robinson,C,BOS,ORL,Out,REB,3+,83,1.0,7.9
 RJ Barrett,F,TOR,LAL,,PTS,5+,69,1.0,19.8
 RJ Barrett,F,TOR,LAL,,REB,2+,69,1.0,5.4
 RJ Barrett,F,TOR,LAL,,PRA,15+,69,1.0,28.7
@@ -185,8 +185,8 @@ Walker Kessler,C,LAL,TOR,,BLK,1+,6,0.82,2.8
 Wendell Carter Jr.,C,ORL,BOS,,PRA,15+,6,0.8,24.0
 Wendell Carter Jr.,C,ORL,BOS,,PR,10+,6,0.9,22.5
 Wendell Carter Jr.,C,ORL,BOS,,RA,5+,6,0.95,9.5
-Yanic Konan Niederhauser,C,LAC,GS,Out,PTS,5+,6,0.5,7.8
-Yanic Konan Niederhauser,C,LAC,GS,Out,PRA,10+,6,0.45,13.7
+Yanic Konan Niederhauser,C,LAC,GS,Check roster,PTS,5+,6,0.5,7.8
+Yanic Konan Niederhauser,C,LAC,GS,Check roster,PRA,10+,6,0.45,13.7
 Yaxel Lendeborg,F,GS,LAC,,PTS,5+,6,1.0,19.8
 Yaxel Lendeborg,F,GS,LAC,,THREES,1+,6,1.0,2.0
 De'Anthony Melton,G,GS,LAC,,THREES,1+,5,0.7,2.6
@@ -266,6 +266,6 @@ Tyson Etienne,G,BKN,IND,Check roster,AST,2+,5,0.55,3.4
 Tyson Etienne,G,BKN,IND,Check roster,PRA,10+,5,0.65,21.4
 Tyson Etienne,G,BKN,IND,Check roster,PA,10+,5,0.55,18.4
 Wendell Carter Jr.,C,ORL,BOS,,REB,7+,5,0.55,8.6
-Yanic Konan Niederhauser,C,LAC,GS,Out,REB,4+,5,0.55,6.2
-Yanic Konan Niederhauser,C,LAC,GS,Out,PR,10+,5,0.4,14.4
+Yanic Konan Niederhauser,C,LAC,GS,Check roster,REB,4+,5,0.55,6.2
+Yanic Konan Niederhauser,C,LAC,GS,Check roster,PR,10+,5,0.4,14.4
 Ziaire Williams,F,LAL,TOR,Questionable,REB,2+,5,0.6,3.0

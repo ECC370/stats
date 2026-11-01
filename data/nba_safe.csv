@@ -118,6 +118,7 @@ ALL|ALL|Safest|A to C|40,C,Brook Lopez,LAC at GS,Over 14.5 pts+reb+ast,PRA,20.4,
 ALL|ALL|Safest|A to C|41,C,Desmond Bane,ORL vs BOS,Over 14.5 pts+reb,PR,22.6,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 6 of 30,0.835,0.34,Desmond Bane,15,Safest,BOS at ORL|ALL|Safest|A to C|11
 ALL|ALL|Safest|A to C|42,C,Desmond Bane,ORL vs BOS,Over 11.5 points,PTS,18.4,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 6 of 30,0.835,0.35,Desmond Bane,12,Safest,BOS at ORL|ALL|Safest|A to C|12
 ALL|ALL|Safest|A to C|43,C,Obi Toppin,IND vs BKN,Over 2.5 rebounds,REB,4.6,9 of 10,17 of 20,Mid (17th),1.34,questionable,Defense 23 of 30,0.835,0.35,Obi Toppin,3,Safest,BKN at IND|ALL|Safest|A to C|11
+ALL|ALL|Safest|A to C|44,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Safest,TOR at LAL|ALL|Safest|A to C|10
 ALL|AST|Safest|A to C|1,A,Darius Garland,LAC at GS,Over 3.5 assists,AST,6.5,10 of 10,19 of 20,Mid (21st),1.22,,Defense 17 of 30,0.975,0.39,Darius Garland,4,Safest,LAC at GS|AST|Safest|A to C|1
 ALL|AST|Safest|A to C|2,C,Austin Reaves,LAL vs TOR,Over 3.5 assists,AST,5.4,9 of 10,17 of 20,Mid (11th),1.34,,Defense 4 of 30,0.875,0.26,Austin Reaves,4,Safest,TOR at LAL|AST|Safest|A to C|1
 ALL|AST|Safest|A to C|3,C,Kris Dunn,LAC at GS,Over 2.5 assists,AST,4.2,9 of 10,17 of 20,Mid (21st),1.34,,Defense 17 of 30,0.875,0.29,Kris Dunn,3,Safest,LAC at GS|AST|Safest|A to C|2
@@ -167,6 +168,7 @@ ALL|PTS|Safest|A to C|13,C,Obi Toppin,IND vs BKN,Over 8.5 points,PTS,14.2,9 of 1
 ALL|RA|Safest|A to C|1,A,Luka Doncic,LAL vs TOR,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.33,Luka Doncic,10,Safest,TOR at LAL|RA|Safest|A to C|1
 ALL|RA|Safest|A to C|2,B,Payton Pritchard,BOS at ORL,Over 4.5 reb+ast,RA,7.7,10 of 10,18 of 20,Mid (20th),1.24,,Defense 11 of 30,0.95,0.35,Payton Pritchard,5,Safest,BOS at ORL|RA|Safest|A to C|1
 ALL|RA|Safest|A to C|3,B,Gui Santos,GS vs LAC,Over 4.5 reb+ast,RA,8.1,9 of 10,18 of 20,Mid (19th),1.31,questionable,Defense 14 of 30,0.86,0.38,Gui Santos,5,Safest,LAC at GS|RA|Safest|A to C|1
+ALL|RA|Safest|A to C|4,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Safest,TOR at LAL|RA|Safest|A to C|2
 ALL|REB|Safest|A to C|1,B,Gui Santos,GS vs LAC,Over 2.5 rebounds,REB,4.8,10 of 10,19 of 20,Mid (21st),1.22,questionable,Defense 14 of 30,0.935,0.38,Gui Santos,3,Safest,LAC at GS|REB|Safest|A to C|1
 ALL|REB|Safest|A to C|2,B,Luka Doncic,LAL vs TOR,Over 4.5 rebounds,REB,7.5,9 of 10,19 of 20,Mid (19th),1.27,,Defense 4 of 30,0.925,0.34,Luka Doncic,5,Safest,TOR at LAL|REB|Safest|A to C|1
 ALL|REB|Safest|A to C|3,B,Julius Randle,BKN at IND,Over 5.5 rebounds,REB,7.3,9 of 10,18 of 20,Mid (22nd),1.31,,Defense 19 of 30,0.9,0.18,Julius Randle,6,Safest,BKN at IND|REB|Safest|A to C|1
@@ -224,6 +226,7 @@ ALL|ALL|Safest|All|40,C,Brook Lopez,LAC at GS,Over 14.5 pts+reb+ast,PRA,20.4,9 o
 ALL|ALL|Safest|All|41,C,Desmond Bane,ORL vs BOS,Over 14.5 pts+reb,PR,22.6,9 of 10,17 of 20,Tough (7th),1.34,tough matchup,Defense 6 of 30,0.835,0.34,Desmond Bane,15,Safest,BOS at ORL|ALL|Safest|All|11
 ALL|ALL|Safest|All|42,C,Desmond Bane,ORL vs BOS,Over 11.5 points,PTS,18.4,9 of 10,17 of 20,Tough (6th),1.34,tough matchup,Defense 6 of 30,0.835,0.35,Desmond Bane,12,Safest,BOS at ORL|ALL|Safest|All|12
 ALL|ALL|Safest|All|43,C,Obi Toppin,IND vs BKN,Over 2.5 rebounds,REB,4.6,9 of 10,17 of 20,Mid (17th),1.34,questionable,Defense 23 of 30,0.835,0.35,Obi Toppin,3,Safest,BKN at IND|ALL|Safest|All|11
+ALL|ALL|Safest|All|44,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Safest,TOR at LAL|ALL|Safest|All|10
 ALL|AST|Safest|All|1,A,Darius Garland,LAC at GS,Over 3.5 assists,AST,6.5,10 of 10,19 of 20,Mid (21st),1.22,,Defense 17 of 30,0.975,0.39,Darius Garland,4,Safest,LAC at GS|AST|Safest|All|1
 ALL|AST|Safest|All|2,C,Austin Reaves,LAL vs TOR,Over 3.5 assists,AST,5.4,9 of 10,17 of 20,Mid (11th),1.34,,Defense 4 of 30,0.875,0.26,Austin Reaves,4,Safest,TOR at LAL|AST|Safest|All|1
 ALL|AST|Safest|All|3,C,Kris Dunn,LAC at GS,Over 2.5 assists,AST,4.2,9 of 10,17 of 20,Mid (21st),1.34,,Defense 17 of 30,0.875,0.29,Kris Dunn,3,Safest,LAC at GS|AST|Safest|All|2
@@ -273,6 +276,7 @@ ALL|PTS|Safest|All|13,C,Obi Toppin,IND vs BKN,Over 8.5 points,PTS,14.2,9 of 10,1
 ALL|RA|Safest|All|1,A,Luka Doncic,LAL vs TOR,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.33,Luka Doncic,10,Safest,TOR at LAL|RA|Safest|All|1
 ALL|RA|Safest|All|2,B,Payton Pritchard,BOS at ORL,Over 4.5 reb+ast,RA,7.7,10 of 10,18 of 20,Mid (20th),1.24,,Defense 11 of 30,0.95,0.35,Payton Pritchard,5,Safest,BOS at ORL|RA|Safest|All|1
 ALL|RA|Safest|All|3,B,Gui Santos,GS vs LAC,Over 4.5 reb+ast,RA,8.1,9 of 10,18 of 20,Mid (19th),1.31,questionable,Defense 14 of 30,0.86,0.38,Gui Santos,5,Safest,LAC at GS|RA|Safest|All|1
+ALL|RA|Safest|All|4,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Safest,TOR at LAL|RA|Safest|All|2
 ALL|REB|Safest|All|1,B,Gui Santos,GS vs LAC,Over 2.5 rebounds,REB,4.8,10 of 10,19 of 20,Mid (21st),1.22,questionable,Defense 14 of 30,0.935,0.38,Gui Santos,3,Safest,LAC at GS|REB|Safest|All|1
 ALL|REB|Safest|All|2,B,Luka Doncic,LAL vs TOR,Over 4.5 rebounds,REB,7.5,9 of 10,19 of 20,Mid (19th),1.27,,Defense 4 of 30,0.925,0.34,Luka Doncic,5,Safest,TOR at LAL|REB|Safest|All|1
 ALL|REB|Safest|All|3,B,Julius Randle,BKN at IND,Over 5.5 rebounds,REB,7.3,9 of 10,18 of 20,Mid (22nd),1.31,,Defense 19 of 30,0.9,0.18,Julius Randle,6,Safest,BKN at IND|REB|Safest|All|1
@@ -413,22 +417,24 @@ ALL|ALL|Balanced|A to C|74,C,Kobe Brown,IND vs BKN,Over 6.5 points,PTS,9.1,8 of 
 ALL|ALL|Balanced|A to C|75,C,Pascal Siakam,IND vs BKN,Over 4.5 rebounds,REB,6.5,8 of 10,16 of 20,Mid (17th),1.47,,Defense 23 of 30,0.8,0.24,Pascal Siakam,5,Balanced,
 ALL|ALL|Balanced|A to C|76,C,Collin Sexton,LAL vs TOR,Over 1.5 rebounds,REB,3.0,8 of 10,16 of 20,Mid (19th),1.47,,Defense 4 of 30,0.8,0.34,Collin Sexton,2,Balanced,
 ALL|ALL|Balanced|A to C|77,C,Terance Mann,BKN at IND,Over 3.5 points,PTS,6.2,8 of 10,16 of 20,Mid (18th),1.47,,Defense 19 of 30,0.8,0.35,Terance Mann,4,Balanced,
-ALL|ALL|Balanced|A to C|78,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Balanced,
-ALL|ALL|Balanced|A to C|79,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Balanced,
-ALL|ALL|Balanced|A to C|80,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Balanced,
-ALL|ALL|Balanced|A to C|81,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Balanced,
-ALL|ALL|Balanced|A to C|82,C,Kelly Oubre Jr.,IND vs BKN,Over 8.5 points,PTS,11.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.21,Kelly Oubre Jr.,9,Balanced,
-ALL|ALL|Balanced|A to C|83,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Balanced,
-ALL|ALL|Balanced|A to C|84,C,Jakob Poeltl,TOR at LAL,Over 3.5 rebounds,REB,5.2,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.24,Jakob Poeltl,4,Balanced,
-ALL|ALL|Balanced|A to C|85,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,
-ALL|ALL|Balanced|A to C|86,C,Brook Lopez,LAC at GS,Over 8.5 points,PTS,12.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.3,Brook Lopez,9,Balanced,
-ALL|ALL|Balanced|A to C|87,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Balanced,
-ALL|ALL|Balanced|A to C|88,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Balanced,
-ALL|ALL|Balanced|A to C|89,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Balanced,
-ALL|ALL|Balanced|A to C|90,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Balanced,
-ALL|ALL|Balanced|A to C|91,C,Collin Murray-Boyles,TOR at LAL,Over 3.5 rebounds,REB,5.7,8 of 10,16 of 20,Tough (5th),1.47,tough matchup,Defense 16 of 30,0.76,0.29,Collin Murray-Boyles,4,Balanced,
-ALL|ALL|Balanced|A to C|92,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,
-ALL|ALL|Balanced|A to C|93,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,
+ALL|ALL|Balanced|A to C|78,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Balanced,
+ALL|ALL|Balanced|A to C|79,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Balanced,
+ALL|ALL|Balanced|A to C|80,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Balanced,
+ALL|ALL|Balanced|A to C|81,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Balanced,
+ALL|ALL|Balanced|A to C|82,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Balanced,
+ALL|ALL|Balanced|A to C|83,C,Kelly Oubre Jr.,IND vs BKN,Over 8.5 points,PTS,11.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.21,Kelly Oubre Jr.,9,Balanced,
+ALL|ALL|Balanced|A to C|84,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Balanced,
+ALL|ALL|Balanced|A to C|85,C,Jakob Poeltl,TOR at LAL,Over 3.5 rebounds,REB,5.2,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.24,Jakob Poeltl,4,Balanced,
+ALL|ALL|Balanced|A to C|86,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,
+ALL|ALL|Balanced|A to C|87,C,Brook Lopez,LAC at GS,Over 8.5 points,PTS,12.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.3,Brook Lopez,9,Balanced,
+ALL|ALL|Balanced|A to C|88,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Balanced,
+ALL|ALL|Balanced|A to C|89,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Balanced,
+ALL|ALL|Balanced|A to C|90,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Balanced,
+ALL|ALL|Balanced|A to C|91,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Balanced,
+ALL|ALL|Balanced|A to C|92,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Balanced,
+ALL|ALL|Balanced|A to C|93,C,Collin Murray-Boyles,TOR at LAL,Over 3.5 rebounds,REB,5.7,8 of 10,16 of 20,Tough (5th),1.47,tough matchup,Defense 16 of 30,0.76,0.29,Collin Murray-Boyles,4,Balanced,
+ALL|ALL|Balanced|A to C|94,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,
+ALL|ALL|Balanced|A to C|95,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,
 ALL|AST|Balanced|A to C|1,C,Austin Reaves,LAL vs TOR,Over 3.5 assists,AST,5.4,9 of 10,17 of 20,Mid (11th),1.34,,Defense 4 of 30,0.875,0.26,Austin Reaves,4,Balanced,TOR at LAL|AST|Balanced|A to C|1
 ALL|AST|Balanced|A to C|2,C,Kris Dunn,LAC at GS,Over 2.5 assists,AST,4.2,9 of 10,17 of 20,Mid (21st),1.34,,Defense 17 of 30,0.875,0.29,Kris Dunn,3,Balanced,LAC at GS|AST|Balanced|A to C|1
 ALL|AST|Balanced|A to C|3,C,Jamal Shead,TOR at LAL,Over 3.5 assists,AST,5.5,9 of 10,16 of 20,Mid (13th),1.38,,Defense 16 of 30,0.85,0.27,Jamal Shead,4,Balanced,TOR at LAL|AST|Balanced|A to C|2
@@ -443,8 +449,9 @@ ALL|AST|Balanced|A to C|11,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.
 ALL|AST|Balanced|A to C|12,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Balanced,TOR at LAL|AST|Balanced|A to C|4
 ALL|AST|Balanced|A to C|13,C,Jayson Tatum,BOS at ORL,Over 5.5 assists,AST,7.0,8 of 10,15 of 20,Mid (9th),1.52,,Defense 11 of 30,0.775,0.15,Jayson Tatum,6,Balanced,BOS at ORL|AST|Balanced|A to C|4
 ALL|AST|Balanced|A to C|14,C,Immanuel Quickley,TOR at LAL,Over 3.5 assists,AST,5.7,8 of 10,15 of 20,Mid (13th),1.52,,Defense 16 of 30,0.775,0.3,Immanuel Quickley,4,Balanced,TOR at LAL|AST|Balanced|A to C|5
-ALL|AST|Balanced|A to C|15,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Balanced,TOR at LAL|AST|Balanced|A to C|6
-ALL|AST|Balanced|A to C|16,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,BKN at IND|AST|Balanced|A to C|3
+ALL|AST|Balanced|A to C|15,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Balanced,TOR at LAL|AST|Balanced|A to C|6
+ALL|AST|Balanced|A to C|16,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Balanced,
+ALL|AST|Balanced|A to C|17,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,BKN at IND|AST|Balanced|A to C|3
 ALL|PA|Balanced|A to C|1,B,Rui Hachimura,LAC at GS,Over 9.5 pts+ast,PA,16.6,9 of 10,18 of 20,Mid (14th),1.31,,Defense 17 of 30,0.9,0.4,Rui Hachimura,10,Balanced,LAC at GS|PA|Balanced|A to C|1
 ALL|PA|Balanced|A to C|2,B,Obi Toppin,IND vs BKN,Over 9.5 pts+ast,PA,16.5,9 of 10,18 of 20,Mid (22nd),1.31,questionable,Defense 23 of 30,0.86,0.39,Obi Toppin,10,Balanced,BKN at IND|PA|Balanced|A to C|1
 ALL|PA|Balanced|A to C|3,C,Darius Garland,LAC at GS,Over 19.5 pts+ast,PA,27.6,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 17 of 30,0.925,0.27,Darius Garland,20,Balanced,LAC at GS|PA|Balanced|A to C|2
@@ -490,6 +497,7 @@ ALL|PR|Balanced|A to C|21,C,Michael Porter Jr.,BKN at IND,Over 19.5 pts+reb,PR,2
 ALL|PR|Balanced|A to C|22,C,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb,PR,14.3,8 of 10,16 of 20,Mid (19th),1.47,,Defense 16 of 30,0.8,0.3,Ja'Kobe Walter,10,Balanced,TOR at LAL|PR|Balanced|A to C|5
 ALL|PR|Balanced|A to C|23,C,Obi Toppin,IND vs BKN,Over 14.5 pts+reb,PR,18.8,9 of 10,15 of 20,Mid (18th),1.43,questionable,Defense 23 of 30,0.785,0.2,Obi Toppin,15,Balanced,
 ALL|PR|Balanced|A to C|24,C,Paul George,BOS at ORL,Over 19.5 pts+reb,PR,21.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 11 of 30,0.775,0.08,Paul George,20,Balanced,BOS at ORL|PR|Balanced|A to C|5
+ALL|PR|Balanced|A to C|25,C,Brandon Ingram,TOR at LAL,Over 14.5 pts+reb,PR,23.8,8 of 10,17 of 20,Tough (4th),1.43,"tough matchup; last season stats, check roster",Defense 16 of 30,0.745,0.37,Brandon Ingram,15,Balanced,TOR at LAL|PR|Balanced|A to C|6
 ALL|PRA|Balanced|A to C|1,B,Sam Hauser,BOS at ORL,Over 9.5 pts+reb+ast,PRA,14.7,9 of 10,19 of 20,Mid (11th),1.27,,Defense 11 of 30,0.925,0.32,Sam Hauser,10,Balanced,BOS at ORL|PRA|Balanced|A to C|1
 ALL|PRA|Balanced|A to C|2,B,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb+ast,PRA,16.2,9 of 10,19 of 20,Mid (18th),1.27,,Defense 16 of 30,0.925,0.38,Ja'Kobe Walter,10,Balanced,TOR at LAL|PRA|Balanced|A to C|1
 ALL|PRA|Balanced|A to C|3,B,Rui Hachimura,LAC at GS,Over 14.5 pts+reb+ast,PRA,21.1,9 of 10,18 of 20,Mid (13th),1.31,,Defense 17 of 30,0.9,0.29,Rui Hachimura,15,Balanced,LAC at GS|PRA|Balanced|A to C|1
@@ -556,6 +564,7 @@ ALL|PTS|Balanced|A to C|32,C,Day'Ron Sharpe,BKN at IND,Over 5.5 points,PTS,9.3,8
 ALL|PTS|Balanced|A to C|33,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Balanced,TOR at LAL|PTS|Balanced|A to C|6
 ALL|PTS|Balanced|A to C|34,C,Collin Murray-Boyles,TOR at LAL,Over 7.5 points,PTS,12.1,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.34,Collin Murray-Boyles,8,Balanced,
 ALL|PTS|Balanced|A to C|35,C,Ziaire Williams,LAL vs TOR,Over 8.5 points,PTS,12.2,9 of 10,15 of 20,Tough (4th),1.43,tough matchup; questionable,Defense 4 of 30,0.745,0.26,Ziaire Williams,9,Balanced,
+ALL|PTS|Balanced|A to C|36,C,Brandon Ingram,TOR at LAL,Over 11.5 points,PTS,19.1,8 of 10,17 of 20,Tough (2nd),1.43,"tough matchup; last season stats, check roster",Defense 16 of 30,0.745,0.37,Brandon Ingram,12,Balanced,
 ALL|RA|Balanced|A to C|1,A,Luka Doncic,LAL vs TOR,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.33,Luka Doncic,10,Balanced,TOR at LAL|RA|Balanced|A to C|1
 ALL|RA|Balanced|A to C|2,B,Payton Pritchard,BOS at ORL,Over 4.5 reb+ast,RA,7.7,10 of 10,18 of 20,Mid (20th),1.24,,Defense 11 of 30,0.95,0.35,Payton Pritchard,5,Balanced,BOS at ORL|RA|Balanced|A to C|1
 ALL|RA|Balanced|A to C|3,B,Gui Santos,GS vs LAC,Over 4.5 reb+ast,RA,8.1,9 of 10,18 of 20,Mid (19th),1.31,questionable,Defense 14 of 30,0.86,0.38,Gui Santos,5,Balanced,LAC at GS|RA|Balanced|A to C|1
@@ -568,12 +577,13 @@ ALL|RA|Balanced|A to C|9,C,Jamal Shead,TOR at LAL,Over 4.5 reb+ast,RA,7.0,9 of 1
 ALL|RA|Balanced|A to C|10,C,Derrick White,BOS at ORL,Over 4.5 reb+ast,RA,7.8,8 of 10,17 of 20,Mid (20th),1.43,,Defense 11 of 30,0.825,0.35,Derrick White,5,Balanced,BOS at ORL|RA|Balanced|A to C|3
 ALL|RA|Balanced|A to C|11,C,Kris Dunn,LAC at GS,Over 4.5 reb+ast,RA,7.7,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.35,Kris Dunn,5,Balanced,LAC at GS|RA|Balanced|A to C|3
 ALL|RA|Balanced|A to C|12,C,Danny Wolf,BKN at IND,Over 4.5 reb+ast,RA,7.9,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 19 of 30,0.825,0.37,Danny Wolf,5,Balanced,BKN at IND|RA|Balanced|A to C|4
-ALL|RA|Balanced|A to C|13,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Balanced,LAC at GS|RA|Balanced|A to C|4
-ALL|RA|Balanced|A to C|14,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Balanced,BKN at IND|RA|Balanced|A to C|5
-ALL|RA|Balanced|A to C|15,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,TOR at LAL|RA|Balanced|A to C|3
-ALL|RA|Balanced|A to C|16,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Balanced,BOS at ORL|RA|Balanced|A to C|4
-ALL|RA|Balanced|A to C|17,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,TOR at LAL|RA|Balanced|A to C|4
-ALL|RA|Balanced|A to C|18,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Balanced,LAC at GS|RA|Balanced|A to C|5
+ALL|RA|Balanced|A to C|13,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Balanced,TOR at LAL|RA|Balanced|A to C|3
+ALL|RA|Balanced|A to C|14,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Balanced,LAC at GS|RA|Balanced|A to C|4
+ALL|RA|Balanced|A to C|15,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Balanced,BKN at IND|RA|Balanced|A to C|5
+ALL|RA|Balanced|A to C|16,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,TOR at LAL|RA|Balanced|A to C|4
+ALL|RA|Balanced|A to C|17,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Balanced,BOS at ORL|RA|Balanced|A to C|4
+ALL|RA|Balanced|A to C|18,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,TOR at LAL|RA|Balanced|A to C|5
+ALL|RA|Balanced|A to C|19,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Balanced,LAC at GS|RA|Balanced|A to C|5
 ALL|REB|Balanced|A to C|1,B,Luka Doncic,LAL vs TOR,Over 4.5 rebounds,REB,7.5,9 of 10,19 of 20,Mid (19th),1.27,,Defense 4 of 30,0.925,0.34,Luka Doncic,5,Balanced,TOR at LAL|REB|Balanced|A to C|1
 ALL|REB|Balanced|A to C|2,B,Julius Randle,BKN at IND,Over 5.5 rebounds,REB,7.3,9 of 10,18 of 20,Mid (22nd),1.31,,Defense 19 of 30,0.9,0.18,Julius Randle,6,Balanced,BKN at IND|REB|Balanced|A to C|1
 ALL|REB|Balanced|A to C|3,B,Day'Ron Sharpe,BKN at IND,Over 4.5 rebounds,REB,6.8,9 of 10,18 of 20,Mid (21st),1.31,,Defense 19 of 30,0.9,0.26,Day'Ron Sharpe,5,Balanced,BKN at IND|REB|Balanced|A to C|2
@@ -604,6 +614,7 @@ ALL|REB|Balanced|A to C|27,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of
 ALL|REB|Balanced|A to C|28,C,Collin Murray-Boyles,TOR at LAL,Over 3.5 rebounds,REB,5.7,8 of 10,16 of 20,Tough (5th),1.47,tough matchup,Defense 16 of 30,0.76,0.29,Collin Murray-Boyles,4,Balanced,TOR at LAL|REB|Balanced|A to C|6
 ALL|REB|Balanced|A to C|29,C,Desmond Bane,ORL vs BOS,Over 2.5 rebounds,REB,4.3,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 6 of 30,0.76,0.3,Desmond Bane,3,Balanced,
 ALL|REB|Balanced|A to C|30,C,Brook Lopez,LAC at GS,Over 3.5 rebounds,REB,5.8,8 of 10,15 of 20,Tough (6th),1.52,tough matchup,Defense 17 of 30,0.735,0.32,Brook Lopez,4,Balanced,LAC at GS|REB|Balanced|A to C|5
+ALL|REB|Balanced|A to C|31,C,Brandon Ingram,TOR at LAL,Over 2.5 rebounds,REB,4.7,8 of 10,16 of 20,Tough (5th),1.47,"tough matchup; last season stats, check roster",Defense 16 of 30,0.72,0.35,Brandon Ingram,3,Balanced,
 ALL|STL|Balanced|A to C|1,C,Darius Garland,LAC at GS,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Soft (26th),1.43,,Defense 17 of 30,0.875,0.09,Darius Garland,1,Balanced,LAC at GS|STL|Balanced|A to C|1
 ALL|STL|Balanced|A to C|2,C,Immanuel Quickley,TOR at LAL,Over 0.5 steals,STL,1.4,8 of 10,15 of 20,Soft (29th),1.52,,Defense 16 of 30,0.825,0.31,Immanuel Quickley,1,Balanced,TOR at LAL|STL|Balanced|A to C|1
 ALL|STL|Balanced|A to C|3,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Balanced,BOS at ORL|STL|Balanced|A to C|1
@@ -694,22 +705,24 @@ ALL|ALL|Balanced|All|74,C,Kobe Brown,IND vs BKN,Over 6.5 points,PTS,9.1,8 of 10,
 ALL|ALL|Balanced|All|75,C,Pascal Siakam,IND vs BKN,Over 4.5 rebounds,REB,6.5,8 of 10,16 of 20,Mid (17th),1.47,,Defense 23 of 30,0.8,0.24,Pascal Siakam,5,Balanced,
 ALL|ALL|Balanced|All|76,C,Collin Sexton,LAL vs TOR,Over 1.5 rebounds,REB,3.0,8 of 10,16 of 20,Mid (19th),1.47,,Defense 4 of 30,0.8,0.34,Collin Sexton,2,Balanced,
 ALL|ALL|Balanced|All|77,C,Terance Mann,BKN at IND,Over 3.5 points,PTS,6.2,8 of 10,16 of 20,Mid (18th),1.47,,Defense 19 of 30,0.8,0.35,Terance Mann,4,Balanced,
-ALL|ALL|Balanced|All|78,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Balanced,
-ALL|ALL|Balanced|All|79,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Balanced,
-ALL|ALL|Balanced|All|80,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Balanced,
-ALL|ALL|Balanced|All|81,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Balanced,
-ALL|ALL|Balanced|All|82,C,Kelly Oubre Jr.,IND vs BKN,Over 8.5 points,PTS,11.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.21,Kelly Oubre Jr.,9,Balanced,
-ALL|ALL|Balanced|All|83,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Balanced,
-ALL|ALL|Balanced|All|84,C,Jakob Poeltl,TOR at LAL,Over 3.5 rebounds,REB,5.2,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.24,Jakob Poeltl,4,Balanced,
-ALL|ALL|Balanced|All|85,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,
-ALL|ALL|Balanced|All|86,C,Brook Lopez,LAC at GS,Over 8.5 points,PTS,12.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.3,Brook Lopez,9,Balanced,
-ALL|ALL|Balanced|All|87,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Balanced,
-ALL|ALL|Balanced|All|88,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Balanced,
-ALL|ALL|Balanced|All|89,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Balanced,
-ALL|ALL|Balanced|All|90,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Balanced,
-ALL|ALL|Balanced|All|91,C,Collin Murray-Boyles,TOR at LAL,Over 3.5 rebounds,REB,5.7,8 of 10,16 of 20,Tough (5th),1.47,tough matchup,Defense 16 of 30,0.76,0.29,Collin Murray-Boyles,4,Balanced,
-ALL|ALL|Balanced|All|92,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,
-ALL|ALL|Balanced|All|93,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,
+ALL|ALL|Balanced|All|78,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Balanced,
+ALL|ALL|Balanced|All|79,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Balanced,
+ALL|ALL|Balanced|All|80,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Balanced,
+ALL|ALL|Balanced|All|81,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Balanced,
+ALL|ALL|Balanced|All|82,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Balanced,
+ALL|ALL|Balanced|All|83,C,Kelly Oubre Jr.,IND vs BKN,Over 8.5 points,PTS,11.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.21,Kelly Oubre Jr.,9,Balanced,
+ALL|ALL|Balanced|All|84,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Balanced,
+ALL|ALL|Balanced|All|85,C,Jakob Poeltl,TOR at LAL,Over 3.5 rebounds,REB,5.2,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.24,Jakob Poeltl,4,Balanced,
+ALL|ALL|Balanced|All|86,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,
+ALL|ALL|Balanced|All|87,C,Brook Lopez,LAC at GS,Over 8.5 points,PTS,12.8,8 of 10,15 of 20,Mid (9th),1.52,,Defense 17 of 30,0.775,0.3,Brook Lopez,9,Balanced,
+ALL|ALL|Balanced|All|88,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Balanced,
+ALL|ALL|Balanced|All|89,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Balanced,
+ALL|ALL|Balanced|All|90,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Balanced,
+ALL|ALL|Balanced|All|91,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Balanced,
+ALL|ALL|Balanced|All|92,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Balanced,
+ALL|ALL|Balanced|All|93,C,Collin Murray-Boyles,TOR at LAL,Over 3.5 rebounds,REB,5.7,8 of 10,16 of 20,Tough (5th),1.47,tough matchup,Defense 16 of 30,0.76,0.29,Collin Murray-Boyles,4,Balanced,
+ALL|ALL|Balanced|All|94,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,
+ALL|ALL|Balanced|All|95,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,
 ALL|AST|Balanced|All|1,C,Austin Reaves,LAL vs TOR,Over 3.5 assists,AST,5.4,9 of 10,17 of 20,Mid (11th),1.34,,Defense 4 of 30,0.875,0.26,Austin Reaves,4,Balanced,TOR at LAL|AST|Balanced|All|1
 ALL|AST|Balanced|All|2,C,Kris Dunn,LAC at GS,Over 2.5 assists,AST,4.2,9 of 10,17 of 20,Mid (21st),1.34,,Defense 17 of 30,0.875,0.29,Kris Dunn,3,Balanced,LAC at GS|AST|Balanced|All|1
 ALL|AST|Balanced|All|3,C,Jamal Shead,TOR at LAL,Over 3.5 assists,AST,5.5,9 of 10,16 of 20,Mid (13th),1.38,,Defense 16 of 30,0.85,0.27,Jamal Shead,4,Balanced,TOR at LAL|AST|Balanced|All|2
@@ -724,8 +737,9 @@ ALL|AST|Balanced|All|11,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8
 ALL|AST|Balanced|All|12,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Balanced,TOR at LAL|AST|Balanced|All|4
 ALL|AST|Balanced|All|13,C,Jayson Tatum,BOS at ORL,Over 5.5 assists,AST,7.0,8 of 10,15 of 20,Mid (9th),1.52,,Defense 11 of 30,0.775,0.15,Jayson Tatum,6,Balanced,BOS at ORL|AST|Balanced|All|4
 ALL|AST|Balanced|All|14,C,Immanuel Quickley,TOR at LAL,Over 3.5 assists,AST,5.7,8 of 10,15 of 20,Mid (13th),1.52,,Defense 16 of 30,0.775,0.3,Immanuel Quickley,4,Balanced,TOR at LAL|AST|Balanced|All|5
-ALL|AST|Balanced|All|15,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Balanced,TOR at LAL|AST|Balanced|All|6
-ALL|AST|Balanced|All|16,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,BKN at IND|AST|Balanced|All|3
+ALL|AST|Balanced|All|15,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Balanced,TOR at LAL|AST|Balanced|All|6
+ALL|AST|Balanced|All|16,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Balanced,
+ALL|AST|Balanced|All|17,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Balanced,BKN at IND|AST|Balanced|All|3
 ALL|PA|Balanced|All|1,B,Rui Hachimura,LAC at GS,Over 9.5 pts+ast,PA,16.6,9 of 10,18 of 20,Mid (14th),1.31,,Defense 17 of 30,0.9,0.4,Rui Hachimura,10,Balanced,LAC at GS|PA|Balanced|All|1
 ALL|PA|Balanced|All|2,B,Obi Toppin,IND vs BKN,Over 9.5 pts+ast,PA,16.5,9 of 10,18 of 20,Mid (22nd),1.31,questionable,Defense 23 of 30,0.86,0.39,Obi Toppin,10,Balanced,BKN at IND|PA|Balanced|All|1
 ALL|PA|Balanced|All|3,C,Darius Garland,LAC at GS,Over 19.5 pts+ast,PA,27.6,9 of 10,17 of 20,Soft (23rd),1.34,,Defense 17 of 30,0.925,0.27,Darius Garland,20,Balanced,LAC at GS|PA|Balanced|All|2
@@ -771,6 +785,7 @@ ALL|PR|Balanced|All|21,C,Michael Porter Jr.,BKN at IND,Over 19.5 pts+reb,PR,28.2
 ALL|PR|Balanced|All|22,C,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb,PR,14.3,8 of 10,16 of 20,Mid (19th),1.47,,Defense 16 of 30,0.8,0.3,Ja'Kobe Walter,10,Balanced,TOR at LAL|PR|Balanced|All|5
 ALL|PR|Balanced|All|23,C,Obi Toppin,IND vs BKN,Over 14.5 pts+reb,PR,18.8,9 of 10,15 of 20,Mid (18th),1.43,questionable,Defense 23 of 30,0.785,0.2,Obi Toppin,15,Balanced,
 ALL|PR|Balanced|All|24,C,Paul George,BOS at ORL,Over 19.5 pts+reb,PR,21.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 11 of 30,0.775,0.08,Paul George,20,Balanced,BOS at ORL|PR|Balanced|All|5
+ALL|PR|Balanced|All|25,C,Brandon Ingram,TOR at LAL,Over 14.5 pts+reb,PR,23.8,8 of 10,17 of 20,Tough (4th),1.43,"tough matchup; last season stats, check roster",Defense 16 of 30,0.745,0.37,Brandon Ingram,15,Balanced,TOR at LAL|PR|Balanced|All|6
 ALL|PRA|Balanced|All|1,B,Sam Hauser,BOS at ORL,Over 9.5 pts+reb+ast,PRA,14.7,9 of 10,19 of 20,Mid (11th),1.27,,Defense 11 of 30,0.925,0.32,Sam Hauser,10,Balanced,BOS at ORL|PRA|Balanced|All|1
 ALL|PRA|Balanced|All|2,B,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb+ast,PRA,16.2,9 of 10,19 of 20,Mid (18th),1.27,,Defense 16 of 30,0.925,0.38,Ja'Kobe Walter,10,Balanced,TOR at LAL|PRA|Balanced|All|1
 ALL|PRA|Balanced|All|3,B,Rui Hachimura,LAC at GS,Over 14.5 pts+reb+ast,PRA,21.1,9 of 10,18 of 20,Mid (13th),1.31,,Defense 17 of 30,0.9,0.29,Rui Hachimura,15,Balanced,LAC at GS|PRA|Balanced|All|1
@@ -837,6 +852,7 @@ ALL|PTS|Balanced|All|32,C,Day'Ron Sharpe,BKN at IND,Over 5.5 points,PTS,9.3,8 of
 ALL|PTS|Balanced|All|33,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Balanced,TOR at LAL|PTS|Balanced|All|6
 ALL|PTS|Balanced|All|34,C,Collin Murray-Boyles,TOR at LAL,Over 7.5 points,PTS,12.1,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.34,Collin Murray-Boyles,8,Balanced,
 ALL|PTS|Balanced|All|35,C,Ziaire Williams,LAL vs TOR,Over 8.5 points,PTS,12.2,9 of 10,15 of 20,Tough (4th),1.43,tough matchup; questionable,Defense 4 of 30,0.745,0.26,Ziaire Williams,9,Balanced,
+ALL|PTS|Balanced|All|36,C,Brandon Ingram,TOR at LAL,Over 11.5 points,PTS,19.1,8 of 10,17 of 20,Tough (2nd),1.43,"tough matchup; last season stats, check roster",Defense 16 of 30,0.745,0.37,Brandon Ingram,12,Balanced,
 ALL|RA|Balanced|All|1,A,Luka Doncic,LAL vs TOR,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.33,Luka Doncic,10,Balanced,TOR at LAL|RA|Balanced|All|1
 ALL|RA|Balanced|All|2,B,Payton Pritchard,BOS at ORL,Over 4.5 reb+ast,RA,7.7,10 of 10,18 of 20,Mid (20th),1.24,,Defense 11 of 30,0.95,0.35,Payton Pritchard,5,Balanced,BOS at ORL|RA|Balanced|All|1
 ALL|RA|Balanced|All|3,B,Gui Santos,GS vs LAC,Over 4.5 reb+ast,RA,8.1,9 of 10,18 of 20,Mid (19th),1.31,questionable,Defense 14 of 30,0.86,0.38,Gui Santos,5,Balanced,LAC at GS|RA|Balanced|All|1
@@ -849,12 +865,13 @@ ALL|RA|Balanced|All|9,C,Jamal Shead,TOR at LAL,Over 4.5 reb+ast,RA,7.0,9 of 10,1
 ALL|RA|Balanced|All|10,C,Derrick White,BOS at ORL,Over 4.5 reb+ast,RA,7.8,8 of 10,17 of 20,Mid (20th),1.43,,Defense 11 of 30,0.825,0.35,Derrick White,5,Balanced,BOS at ORL|RA|Balanced|All|3
 ALL|RA|Balanced|All|11,C,Kris Dunn,LAC at GS,Over 4.5 reb+ast,RA,7.7,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.35,Kris Dunn,5,Balanced,LAC at GS|RA|Balanced|All|3
 ALL|RA|Balanced|All|12,C,Danny Wolf,BKN at IND,Over 4.5 reb+ast,RA,7.9,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 19 of 30,0.825,0.37,Danny Wolf,5,Balanced,BKN at IND|RA|Balanced|All|4
-ALL|RA|Balanced|All|13,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Balanced,LAC at GS|RA|Balanced|All|4
-ALL|RA|Balanced|All|14,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Balanced,BKN at IND|RA|Balanced|All|5
-ALL|RA|Balanced|All|15,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,TOR at LAL|RA|Balanced|All|3
-ALL|RA|Balanced|All|16,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Balanced,BOS at ORL|RA|Balanced|All|4
-ALL|RA|Balanced|All|17,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,TOR at LAL|RA|Balanced|All|4
-ALL|RA|Balanced|All|18,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Balanced,LAC at GS|RA|Balanced|All|5
+ALL|RA|Balanced|All|13,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Balanced,TOR at LAL|RA|Balanced|All|3
+ALL|RA|Balanced|All|14,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Balanced,LAC at GS|RA|Balanced|All|4
+ALL|RA|Balanced|All|15,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Balanced,BKN at IND|RA|Balanced|All|5
+ALL|RA|Balanced|All|16,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Balanced,TOR at LAL|RA|Balanced|All|4
+ALL|RA|Balanced|All|17,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Balanced,BOS at ORL|RA|Balanced|All|4
+ALL|RA|Balanced|All|18,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Balanced,TOR at LAL|RA|Balanced|All|5
+ALL|RA|Balanced|All|19,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Balanced,LAC at GS|RA|Balanced|All|5
 ALL|REB|Balanced|All|1,B,Luka Doncic,LAL vs TOR,Over 4.5 rebounds,REB,7.5,9 of 10,19 of 20,Mid (19th),1.27,,Defense 4 of 30,0.925,0.34,Luka Doncic,5,Balanced,TOR at LAL|REB|Balanced|All|1
 ALL|REB|Balanced|All|2,B,Julius Randle,BKN at IND,Over 5.5 rebounds,REB,7.3,9 of 10,18 of 20,Mid (22nd),1.31,,Defense 19 of 30,0.9,0.18,Julius Randle,6,Balanced,BKN at IND|REB|Balanced|All|1
 ALL|REB|Balanced|All|3,B,Day'Ron Sharpe,BKN at IND,Over 4.5 rebounds,REB,6.8,9 of 10,18 of 20,Mid (21st),1.31,,Defense 19 of 30,0.9,0.26,Day'Ron Sharpe,5,Balanced,BKN at IND|REB|Balanced|All|2
@@ -885,6 +902,7 @@ ALL|REB|Balanced|All|27,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10
 ALL|REB|Balanced|All|28,C,Collin Murray-Boyles,TOR at LAL,Over 3.5 rebounds,REB,5.7,8 of 10,16 of 20,Tough (5th),1.47,tough matchup,Defense 16 of 30,0.76,0.29,Collin Murray-Boyles,4,Balanced,TOR at LAL|REB|Balanced|All|6
 ALL|REB|Balanced|All|29,C,Desmond Bane,ORL vs BOS,Over 2.5 rebounds,REB,4.3,8 of 10,16 of 20,Tough (8th),1.47,tough matchup,Defense 6 of 30,0.76,0.3,Desmond Bane,3,Balanced,
 ALL|REB|Balanced|All|30,C,Brook Lopez,LAC at GS,Over 3.5 rebounds,REB,5.8,8 of 10,15 of 20,Tough (6th),1.52,tough matchup,Defense 17 of 30,0.735,0.32,Brook Lopez,4,Balanced,LAC at GS|REB|Balanced|All|5
+ALL|REB|Balanced|All|31,C,Brandon Ingram,TOR at LAL,Over 2.5 rebounds,REB,4.7,8 of 10,16 of 20,Tough (5th),1.47,"tough matchup; last season stats, check roster",Defense 16 of 30,0.72,0.35,Brandon Ingram,3,Balanced,
 ALL|STL|Balanced|All|1,C,Darius Garland,LAC at GS,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Soft (26th),1.43,,Defense 17 of 30,0.875,0.09,Darius Garland,1,Balanced,LAC at GS|STL|Balanced|All|1
 ALL|STL|Balanced|All|2,C,Immanuel Quickley,TOR at LAL,Over 0.5 steals,STL,1.4,8 of 10,15 of 20,Soft (29th),1.52,,Defense 16 of 30,0.825,0.31,Immanuel Quickley,1,Balanced,TOR at LAL|STL|Balanced|All|1
 ALL|STL|Balanced|All|3,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Balanced,BOS at ORL|STL|Balanced|All|1
@@ -987,40 +1005,42 @@ ALL|ALL|Reach|A to C|53,C,Aaron Nesmith,IND vs BKN,Over 9.5 pts+reb,PR,16.1,9 of
 ALL|ALL|Reach|A to C|54,C,Brandin Podziemski,GS vs LAC,Over 1.5 threes,THREES,2.2,8 of 10,16 of 20,Mid (20th),1.47,,Defense 14 of 30,0.8,0.11,Brandin Podziemski,2,Reach,
 ALL|ALL|Reach|A to C|55,C,Pascal Siakam,IND vs BKN,Over 24.5 pts+reb,PR,30.2,8 of 10,16 of 20,Mid (18th),1.47,,Defense 23 of 30,0.8,0.17,Pascal Siakam,25,Reach,
 ALL|ALL|Reach|A to C|56,C,Collin Sexton,LAL vs TOR,Over 1.5 rebounds,REB,3.0,8 of 10,16 of 20,Mid (19th),1.47,,Defense 4 of 30,0.8,0.34,Collin Sexton,2,Reach,TOR at LAL|ALL|Reach|A to C|8
-ALL|ALL|Reach|A to C|57,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb+ast,PRA,31.4,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.2,RJ Barrett,25,Reach,TOR at LAL|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|58,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Reach,
-ALL|ALL|Reach|A to C|59,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Reach,
-ALL|ALL|Reach|A to C|60,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Reach,TOR at LAL|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|61,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Reach,
-ALL|ALL|Reach|A to C|62,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Reach,
-ALL|ALL|Reach|A to C|63,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Reach,TOR at LAL|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|64,C,Andrew Nembhard,IND vs BKN,Over 13.5 points,PTS,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.15,Andrew Nembhard,14,Reach,
-ALL|ALL|Reach|A to C|65,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Reach,
-ALL|ALL|Reach|A to C|66,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,TOR at LAL|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|67,C,Isaiah Jackson,LAC at GS,Over 5.5 points,PTS,8.2,8 of 10,15 of 20,Mid (14th),1.52,,Defense 17 of 30,0.775,0.27,Isaiah Jackson,6,Reach,
-ALL|ALL|Reach|A to C|68,C,Neemias Queta,BOS at ORL,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Soft (26th),1.62,,Defense 11 of 30,0.775,0.29,Neemias Queta,1,Reach,
-ALL|ALL|Reach|A to C|69,C,Tristan da Silva,ORL vs BOS,Over 1.5 rebounds,REB,2.9,7 of 10,17 of 20,Mid (12th),1.52,,Defense 6 of 30,0.775,0.31,Tristan da Silva,2,Reach,
-ALL|ALL|Reach|A to C|70,C,Julius Randle,BKN at IND,Over 19.5 pts+reb+ast,PRA,29.6,7 of 10,17 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.32,Julius Randle,20,Reach,
-ALL|ALL|Reach|A to C|71,C,Collin Sexton,LAL vs TOR,Over 14.5 pts+reb+ast,PRA,22.6,7 of 10,17 of 20,Mid (21st),1.52,,Defense 4 of 30,0.775,0.33,Collin Sexton,15,Reach,
-ALL|ALL|Reach|A to C|72,C,Quentin Grimes,LAL vs TOR,Over 1.5 rebounds,REB,3.0,7 of 10,17 of 20,Mid (19th),1.52,,Defense 4 of 30,0.775,0.34,Quentin Grimes,2,Reach,
-ALL|ALL|Reach|A to C|73,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Reach,
-ALL|ALL|Reach|A to C|74,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Reach,
-ALL|ALL|Reach|A to C|75,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Reach,
-ALL|ALL|Reach|A to C|76,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Reach,
-ALL|ALL|Reach|A to C|77,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,
-ALL|ALL|Reach|A to C|78,C,Collin Murray-Boyles,TOR at LAL,Over 7.5 points,PTS,12.1,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.34,Collin Murray-Boyles,8,Reach,
-ALL|ALL|Reach|A to C|79,C,Luka Doncic,LAL vs TOR,Over 5.5 rebounds,REB,7.5,7 of 10,16 of 20,Mid (19th),1.57,,Defense 4 of 30,0.75,0.21,Luka Doncic,6,Reach,
-ALL|ALL|Reach|A to C|80,C,Al Horford,GS vs LAC,Over 2.5 rebounds,REB,4.6,7 of 10,16 of 20,Mid (14th),1.57,,Defense 14 of 30,0.75,0.35,Al Horford,3,Reach,
-ALL|ALL|Reach|A to C|81,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,
-ALL|ALL|Reach|A to C|82,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,
-ALL|ALL|Reach|A to C|83,C,Austin Reaves,LAL vs TOR,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.26,Austin Reaves,3,Reach,
-ALL|ALL|Reach|A to C|84,C,Jaden Hardy,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,13.7,7 of 10,15 of 20,Mid (21st),1.62,,Defense 4 of 30,0.725,0.27,Jaden Hardy,10,Reach,
-ALL|ALL|Reach|A to C|85,C,Kobe Brown,IND vs BKN,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (15th),1.62,,Defense 23 of 30,0.725,0.31,Kobe Brown,1,Reach,
-ALL|ALL|Reach|A to C|86,C,Matisse Thybulle,LAL vs TOR,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.33,Matisse Thybulle,1,Reach,
-ALL|ALL|Reach|A to C|87,C,Chaney Johnson,BKN at IND,Over 2.5 rebounds,REB,4.7,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.35,Chaney Johnson,3,Reach,
-ALL|ALL|Reach|A to C|88,C,Quenton Jackson,IND vs BKN,Over 5.5 points,PTS,9.7,7 of 10,15 of 20,Mid (11th),1.62,,Defense 23 of 30,0.725,0.38,Quenton Jackson,6,Reach,
-ALL|ALL|Reach|A to C|89,C,Jake LaRavia,LAL vs TOR,Over 0.5 steals,STL,1.3,7 of 10,15 of 20,Tough (6th),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Jake LaRavia,1,Reach,
-ALL|ALL|Reach|A to C|90,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,
+ALL|ALL|Reach|A to C|57,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Reach,TOR at LAL|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|58,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb+ast,PRA,31.4,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.2,RJ Barrett,25,Reach,TOR at LAL|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|59,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Reach,
+ALL|ALL|Reach|A to C|60,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Reach,
+ALL|ALL|Reach|A to C|61,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Reach,TOR at LAL|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|62,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Reach,
+ALL|ALL|Reach|A to C|63,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Reach,
+ALL|ALL|Reach|A to C|64,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Reach,TOR at LAL|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|65,C,Andrew Nembhard,IND vs BKN,Over 13.5 points,PTS,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.15,Andrew Nembhard,14,Reach,
+ALL|ALL|Reach|A to C|66,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Reach,
+ALL|ALL|Reach|A to C|67,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,
+ALL|ALL|Reach|A to C|68,C,Isaiah Jackson,LAC at GS,Over 5.5 points,PTS,8.2,8 of 10,15 of 20,Mid (14th),1.52,,Defense 17 of 30,0.775,0.27,Isaiah Jackson,6,Reach,
+ALL|ALL|Reach|A to C|69,C,Neemias Queta,BOS at ORL,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Soft (26th),1.62,,Defense 11 of 30,0.775,0.29,Neemias Queta,1,Reach,
+ALL|ALL|Reach|A to C|70,C,Tristan da Silva,ORL vs BOS,Over 1.5 rebounds,REB,2.9,7 of 10,17 of 20,Mid (12th),1.52,,Defense 6 of 30,0.775,0.31,Tristan da Silva,2,Reach,
+ALL|ALL|Reach|A to C|71,C,Julius Randle,BKN at IND,Over 19.5 pts+reb+ast,PRA,29.6,7 of 10,17 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.32,Julius Randle,20,Reach,
+ALL|ALL|Reach|A to C|72,C,Collin Sexton,LAL vs TOR,Over 14.5 pts+reb+ast,PRA,22.6,7 of 10,17 of 20,Mid (21st),1.52,,Defense 4 of 30,0.775,0.33,Collin Sexton,15,Reach,
+ALL|ALL|Reach|A to C|73,C,Quentin Grimes,LAL vs TOR,Over 1.5 rebounds,REB,3.0,7 of 10,17 of 20,Mid (19th),1.52,,Defense 4 of 30,0.775,0.34,Quentin Grimes,2,Reach,
+ALL|ALL|Reach|A to C|74,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Reach,
+ALL|ALL|Reach|A to C|75,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Reach,
+ALL|ALL|Reach|A to C|76,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Reach,
+ALL|ALL|Reach|A to C|77,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Reach,
+ALL|ALL|Reach|A to C|78,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Reach,
+ALL|ALL|Reach|A to C|79,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,
+ALL|ALL|Reach|A to C|80,C,Collin Murray-Boyles,TOR at LAL,Over 7.5 points,PTS,12.1,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.34,Collin Murray-Boyles,8,Reach,
+ALL|ALL|Reach|A to C|81,C,Luka Doncic,LAL vs TOR,Over 5.5 rebounds,REB,7.5,7 of 10,16 of 20,Mid (19th),1.57,,Defense 4 of 30,0.75,0.21,Luka Doncic,6,Reach,
+ALL|ALL|Reach|A to C|82,C,Al Horford,GS vs LAC,Over 2.5 rebounds,REB,4.6,7 of 10,16 of 20,Mid (14th),1.57,,Defense 14 of 30,0.75,0.35,Al Horford,3,Reach,
+ALL|ALL|Reach|A to C|83,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,
+ALL|ALL|Reach|A to C|84,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,
+ALL|ALL|Reach|A to C|85,C,Austin Reaves,LAL vs TOR,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.26,Austin Reaves,3,Reach,
+ALL|ALL|Reach|A to C|86,C,Jaden Hardy,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,13.7,7 of 10,15 of 20,Mid (21st),1.62,,Defense 4 of 30,0.725,0.27,Jaden Hardy,10,Reach,
+ALL|ALL|Reach|A to C|87,C,Kobe Brown,IND vs BKN,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (15th),1.62,,Defense 23 of 30,0.725,0.31,Kobe Brown,1,Reach,
+ALL|ALL|Reach|A to C|88,C,Matisse Thybulle,LAL vs TOR,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.33,Matisse Thybulle,1,Reach,
+ALL|ALL|Reach|A to C|89,C,Chaney Johnson,BKN at IND,Over 2.5 rebounds,REB,4.7,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.35,Chaney Johnson,3,Reach,
+ALL|ALL|Reach|A to C|90,C,Quenton Jackson,IND vs BKN,Over 5.5 points,PTS,9.7,7 of 10,15 of 20,Mid (11th),1.62,,Defense 23 of 30,0.725,0.38,Quenton Jackson,6,Reach,
+ALL|ALL|Reach|A to C|91,C,Jake LaRavia,LAL vs TOR,Over 0.5 steals,STL,1.3,7 of 10,15 of 20,Tough (6th),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Jake LaRavia,1,Reach,
+ALL|ALL|Reach|A to C|92,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,
 ALL|AST|Reach|A to C|1,C,Kris Dunn,LAC at GS,Over 2.5 assists,AST,4.2,9 of 10,17 of 20,Mid (21st),1.34,,Defense 17 of 30,0.875,0.29,Kris Dunn,3,Reach,LAC at GS|AST|Reach|A to C|1
 ALL|AST|Reach|A to C|2,C,Paul George,BOS at ORL,Over 1.5 assists,AST,3.2,9 of 10,16 of 20,Mid (9th),1.38,,Defense 11 of 30,0.85,0.38,Paul George,2,Reach,BOS at ORL|AST|Reach|A to C|1
 ALL|AST|Reach|A to C|3,C,Danny Wolf,BKN at IND,Over 1.5 assists,AST,2.6,8 of 10,17 of 20,Mid (19th),1.43,,Defense 19 of 30,0.825,0.25,Danny Wolf,2,Reach,BKN at IND|AST|Reach|A to C|1
@@ -1029,9 +1049,10 @@ ALL|AST|Reach|A to C|5,C,Darius Garland,LAC at GS,Over 4.5 assists,AST,6.5,8 of 
 ALL|AST|Reach|A to C|6,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Reach,LAC at GS|AST|Reach|A to C|3
 ALL|AST|Reach|A to C|7,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Reach,TOR at LAL|AST|Reach|A to C|1
 ALL|AST|Reach|A to C|8,C,Immanuel Quickley,TOR at LAL,Over 3.5 assists,AST,5.7,8 of 10,15 of 20,Mid (13th),1.52,,Defense 16 of 30,0.775,0.3,Immanuel Quickley,4,Reach,TOR at LAL|AST|Reach|A to C|2
-ALL|AST|Reach|A to C|9,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,BKN at IND|AST|Reach|A to C|2
-ALL|AST|Reach|A to C|10,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Reach,TOR at LAL|AST|Reach|A to C|3
-ALL|AST|Reach|A to C|11,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,BKN at IND|AST|Reach|A to C|3
+ALL|AST|Reach|A to C|9,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Reach,TOR at LAL|AST|Reach|A to C|3
+ALL|AST|Reach|A to C|10,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,BKN at IND|AST|Reach|A to C|2
+ALL|AST|Reach|A to C|11,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Reach,TOR at LAL|AST|Reach|A to C|4
+ALL|AST|Reach|A to C|12,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,BKN at IND|AST|Reach|A to C|3
 ALL|BLK|Reach|A to C|1,C,Neemias Queta,BOS at ORL,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Soft (26th),1.62,,Defense 11 of 30,0.775,0.29,Neemias Queta,1,Reach,BOS at ORL|BLK|Reach|A to C|1
 ALL|BLK|Reach|A to C|2,C,Isaiah Jackson,LAC at GS,Over 0.5 blocks,BLK,1.3,7 of 10,16 of 20,Mid (12th),1.57,,Defense 17 of 30,0.75,0.23,Isaiah Jackson,1,Reach,LAC at GS|BLK|Reach|A to C|1
 ALL|PA|Reach|A to C|1,B,Rui Hachimura,LAC at GS,Over 9.5 pts+ast,PA,16.6,9 of 10,18 of 20,Mid (14th),1.31,,Defense 17 of 30,0.9,0.4,Rui Hachimura,10,Reach,LAC at GS|PA|Reach|A to C|1
@@ -1054,6 +1075,7 @@ ALL|PA|Reach|A to C|17,C,RJ Barrett,TOR at LAL,Over 19.5 pts+ast,PA,25.6,8 of 10
 ALL|PA|Reach|A to C|18,C,Immanuel Quickley,TOR at LAL,Over 14.5 pts+ast,PA,20.1,7 of 10,16 of 20,Mid (21st),1.57,,Defense 16 of 30,0.75,0.26,Immanuel Quickley,15,Reach,TOR at LAL|PA|Reach|A to C|4
 ALL|PA|Reach|A to C|19,C,Derrick White,BOS at ORL,Over 9.5 pts+ast,PA,15.0,7 of 10,16 of 20,Mid (11th),1.57,,Defense 11 of 30,0.75,0.33,Derrick White,10,Reach,
 ALL|PA|Reach|A to C|20,C,Michael Porter Jr.,BKN at IND,Over 19.5 pts+ast,PA,23.6,7 of 10,15 of 20,Mid (21st),1.62,,Defense 19 of 30,0.725,0.15,Michael Porter Jr.,20,Reach,BKN at IND|PA|Reach|A to C|5
+ALL|PA|Reach|A to C|21,C,Brandon Ingram,TOR at LAL,Over 14.5 pts+ast,PA,22.1,7 of 10,16 of 20,Tough (3rd),1.57,"tough matchup; last season stats, check roster",Defense 16 of 30,0.67,0.32,Brandon Ingram,15,Reach,TOR at LAL|PA|Reach|A to C|5
 ALL|PR|Reach|A to C|1,B,Franz Wagner,ORL vs BOS,Over 14.5 pts+reb,PR,21.3,10 of 10,18 of 20,Mid (10th),1.24,,Defense 6 of 30,0.95,0.3,Franz Wagner,15,Reach,BOS at ORL|PR|Reach|A to C|1
 ALL|PR|Reach|A to C|2,B,Derrick White,BOS at ORL,Over 9.5 pts+reb,PR,14.3,9 of 10,19 of 20,Mid (18th),1.27,,Defense 11 of 30,0.925,0.3,Derrick White,10,Reach,BOS at ORL|PR|Reach|A to C|2
 ALL|PR|Reach|A to C|3,B,Luka Doncic,LAL vs TOR,Over 34.5 pts+reb,PR,44.5,8 of 10,18 of 20,Mid (21st),1.38,,Defense 4 of 30,0.85,0.21,Luka Doncic,35,Reach,TOR at LAL|PR|Reach|A to C|1
@@ -1073,10 +1095,11 @@ ALL|PR|Reach|A to C|16,C,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb,PR,14.3,8 of
 ALL|PR|Reach|A to C|17,C,Obi Toppin,IND vs BKN,Over 14.5 pts+reb,PR,18.8,9 of 10,15 of 20,Mid (18th),1.43,questionable,Defense 23 of 30,0.785,0.2,Obi Toppin,15,Reach,
 ALL|PR|Reach|A to C|18,C,Paul George,BOS at ORL,Over 19.5 pts+reb,PR,21.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 11 of 30,0.775,0.08,Paul George,20,Reach,BOS at ORL|PR|Reach|A to C|4
 ALL|PR|Reach|A to C|19,C,Payton Pritchard,BOS at ORL,Over 14.5 pts+reb,PR,19.7,7 of 10,16 of 20,Mid (18th),1.57,,Defense 11 of 30,0.75,0.24,Payton Pritchard,15,Reach,BOS at ORL|PR|Reach|A to C|5
-ALL|PR|Reach|A to C|20,C,Brandin Podziemski,GS vs LAC,Over 19.5 pts+reb,PR,22.8,7 of 10,15 of 20,Mid (13th),1.62,,Defense 14 of 30,0.725,0.12,Brandin Podziemski,20,Reach,LAC at GS|PR|Reach|A to C|5
-ALL|PR|Reach|A to C|21,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb,PR,27.6,7 of 10,15 of 20,Tough (4th),1.62,tough matchup,Defense 16 of 30,0.685,0.1,RJ Barrett,25,Reach,TOR at LAL|PR|Reach|A to C|4
-ALL|PR|Reach|A to C|22,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb,PR,12.7,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 6 of 30,0.685,0.21,Anthony Black,10,Reach,BOS at ORL|PR|Reach|A to C|6
-ALL|PR|Reach|A to C|23,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb,PR,13.7,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.27,Sandro Mamukelashvili,10,Reach,TOR at LAL|PR|Reach|A to C|5
+ALL|PR|Reach|A to C|20,C,Brandon Ingram,TOR at LAL,Over 14.5 pts+reb,PR,23.8,8 of 10,17 of 20,Tough (4th),1.43,"tough matchup; last season stats, check roster",Defense 16 of 30,0.745,0.37,Brandon Ingram,15,Reach,TOR at LAL|PR|Reach|A to C|4
+ALL|PR|Reach|A to C|21,C,Brandin Podziemski,GS vs LAC,Over 19.5 pts+reb,PR,22.8,7 of 10,15 of 20,Mid (13th),1.62,,Defense 14 of 30,0.725,0.12,Brandin Podziemski,20,Reach,LAC at GS|PR|Reach|A to C|5
+ALL|PR|Reach|A to C|22,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb,PR,27.6,7 of 10,15 of 20,Tough (4th),1.62,tough matchup,Defense 16 of 30,0.685,0.1,RJ Barrett,25,Reach,TOR at LAL|PR|Reach|A to C|5
+ALL|PR|Reach|A to C|23,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb,PR,12.7,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 6 of 30,0.685,0.21,Anthony Black,10,Reach,BOS at ORL|PR|Reach|A to C|6
+ALL|PR|Reach|A to C|24,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb,PR,13.7,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.27,Sandro Mamukelashvili,10,Reach,TOR at LAL|PR|Reach|A to C|6
 ALL|PRA|Reach|A to C|1,B,Sam Hauser,BOS at ORL,Over 9.5 pts+reb+ast,PRA,14.7,9 of 10,19 of 20,Mid (11th),1.27,,Defense 11 of 30,0.925,0.32,Sam Hauser,10,Reach,BOS at ORL|PRA|Reach|A to C|1
 ALL|PRA|Reach|A to C|2,B,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb+ast,PRA,16.2,9 of 10,19 of 20,Mid (18th),1.27,,Defense 16 of 30,0.925,0.38,Ja'Kobe Walter,10,Reach,TOR at LAL|PRA|Reach|A to C|1
 ALL|PRA|Reach|A to C|3,B,Jay Huff,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.4,9 of 10,18 of 20,Mid (15th),1.31,,Defense 23 of 30,0.9,0.35,Jay Huff,10,Reach,BKN at IND|PRA|Reach|A to C|1
@@ -1109,6 +1132,7 @@ ALL|PRA|Reach|A to C|29,C,Jamal Shead,TOR at LAL,Over 9.5 pts+reb+ast,PRA,14.6,7
 ALL|PRA|Reach|A to C|30,C,Jaden Hardy,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,13.7,7 of 10,15 of 20,Mid (21st),1.62,,Defense 4 of 30,0.725,0.27,Jaden Hardy,10,Reach,
 ALL|PRA|Reach|A to C|31,C,Gui Santos,GS vs LAC,Over 14.5 pts+reb+ast,PRA,21.6,7 of 10,16 of 20,Mid (14th),1.57,questionable,Defense 14 of 30,0.71,0.31,Gui Santos,15,Reach,
 ALL|PRA|Reach|A to C|32,C,Collin Murray-Boyles,TOR at LAL,Over 14.5 pts+reb+ast,PRA,19.6,7 of 10,15 of 20,Tough (3rd),1.62,tough matchup,Defense 16 of 30,0.685,0.23,Collin Murray-Boyles,15,Reach,
+ALL|PRA|Reach|A to C|33,C,Brandon Ingram,TOR at LAL,Over 19.5 pts+reb+ast,PRA,26.7,7 of 10,16 of 20,Tough (3rd),1.57,"tough matchup; last season stats, check roster",Defense 16 of 30,0.67,0.25,Brandon Ingram,20,Reach,
 ALL|PTS|Reach|A to C|1,B,Sam Hauser,BOS at ORL,Over 5.5 points,PTS,9.6,9 of 10,18 of 20,Mid (12th),1.31,,Defense 11 of 30,0.9,0.38,Sam Hauser,6,Reach,BOS at ORL|PTS|Reach|A to C|1
 ALL|PTS|Reach|A to C|2,B,Julius Randle,BKN at IND,Over 11.5 points,PTS,18.6,8 of 10,18 of 20,Mid (22nd),1.38,,Defense 19 of 30,0.85,0.35,Julius Randle,12,Reach,BKN at IND|PTS|Reach|A to C|1
 ALL|PTS|Reach|A to C|3,C,Rui Hachimura,LAC at GS,Over 11.5 points,PTS,15.2,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.21,Rui Hachimura,12,Reach,LAC at GS|PTS|Reach|A to C|1
@@ -1126,6 +1150,7 @@ ALL|PTS|Reach|A to C|14,C,Jayson Tatum,BOS at ORL,Over 22.5 points,PTS,24.4,7 of
 ALL|PTS|Reach|A to C|15,C,Brandon Williams,GS vs LAC,Over 10.5 points,PTS,12.4,7 of 10,15 of 20,Mid (17th),1.62,,Defense 14 of 30,0.725,0.11,Brandon Williams,11,Reach,LAC at GS|PTS|Reach|A to C|3
 ALL|PTS|Reach|A to C|16,C,Quenton Jackson,IND vs BKN,Over 5.5 points,PTS,9.7,7 of 10,15 of 20,Mid (11th),1.62,,Defense 23 of 30,0.725,0.38,Quenton Jackson,6,Reach,BKN at IND|PTS|Reach|A to C|5
 ALL|PTS|Reach|A to C|17,C,Neemias Queta,BOS at ORL,Over 6.5 points,PTS,10.7,7 of 10,16 of 20,Tough (5th),1.57,tough matchup,Defense 11 of 30,0.71,0.35,Neemias Queta,7,Reach,BOS at ORL|PTS|Reach|A to C|5
+ALL|PTS|Reach|A to C|18,C,Brandon Ingram,TOR at LAL,Over 14.5 points,PTS,19.1,7 of 10,15 of 20,Tough (2nd),1.62,"tough matchup; last season stats, check roster",Defense 16 of 30,0.645,0.21,Brandon Ingram,15,Reach,TOR at LAL|PTS|Reach|A to C|5
 ALL|RA|Reach|A to C|1,A,Luka Doncic,LAL vs TOR,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.33,Luka Doncic,10,Reach,TOR at LAL|RA|Reach|A to C|1
 ALL|RA|Reach|A to C|2,B,Payton Pritchard,BOS at ORL,Over 4.5 reb+ast,RA,7.7,10 of 10,18 of 20,Mid (20th),1.24,,Defense 11 of 30,0.95,0.35,Payton Pritchard,5,Reach,BOS at ORL|RA|Reach|A to C|1
 ALL|RA|Reach|A to C|3,B,Gui Santos,GS vs LAC,Over 4.5 reb+ast,RA,8.1,9 of 10,18 of 20,Mid (19th),1.31,questionable,Defense 14 of 30,0.86,0.38,Gui Santos,5,Reach,LAC at GS|RA|Reach|A to C|1
@@ -1138,14 +1163,15 @@ ALL|RA|Reach|A to C|9,C,Jamal Shead,TOR at LAL,Over 4.5 reb+ast,RA,7.0,9 of 10,1
 ALL|RA|Reach|A to C|10,C,Derrick White,BOS at ORL,Over 4.5 reb+ast,RA,7.8,8 of 10,17 of 20,Mid (20th),1.43,,Defense 11 of 30,0.825,0.35,Derrick White,5,Reach,BOS at ORL|RA|Reach|A to C|3
 ALL|RA|Reach|A to C|11,C,Kris Dunn,LAC at GS,Over 4.5 reb+ast,RA,7.7,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.35,Kris Dunn,5,Reach,LAC at GS|RA|Reach|A to C|3
 ALL|RA|Reach|A to C|12,C,Danny Wolf,BKN at IND,Over 4.5 reb+ast,RA,7.9,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 19 of 30,0.825,0.37,Danny Wolf,5,Reach,BKN at IND|RA|Reach|A to C|4
-ALL|RA|Reach|A to C|13,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Reach,LAC at GS|RA|Reach|A to C|4
-ALL|RA|Reach|A to C|14,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Reach,BKN at IND|RA|Reach|A to C|5
-ALL|RA|Reach|A to C|15,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,TOR at LAL|RA|Reach|A to C|3
-ALL|RA|Reach|A to C|16,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Reach,BOS at ORL|RA|Reach|A to C|4
-ALL|RA|Reach|A to C|17,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,TOR at LAL|RA|Reach|A to C|4
-ALL|RA|Reach|A to C|18,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Reach,LAC at GS|RA|Reach|A to C|5
-ALL|RA|Reach|A to C|19,C,Julius Randle,BKN at IND,Over 9.5 reb+ast,RA,10.9,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.09,Julius Randle,10,Reach,BKN at IND|RA|Reach|A to C|6
-ALL|RA|Reach|A to C|20,C,Sandro Mamukelashvili,LAL vs TOR,Over 4.5 reb+ast,RA,6.8,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 4 of 30,0.71,0.27,Sandro Mamukelashvili,5,Reach,TOR at LAL|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|13,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Reach,TOR at LAL|RA|Reach|A to C|3
+ALL|RA|Reach|A to C|14,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Reach,LAC at GS|RA|Reach|A to C|4
+ALL|RA|Reach|A to C|15,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Reach,BKN at IND|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|16,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,TOR at LAL|RA|Reach|A to C|4
+ALL|RA|Reach|A to C|17,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Reach,BOS at ORL|RA|Reach|A to C|4
+ALL|RA|Reach|A to C|18,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,TOR at LAL|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|19,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Reach,LAC at GS|RA|Reach|A to C|5
+ALL|RA|Reach|A to C|20,C,Julius Randle,BKN at IND,Over 9.5 reb+ast,RA,10.9,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.09,Julius Randle,10,Reach,BKN at IND|RA|Reach|A to C|6
+ALL|RA|Reach|A to C|21,C,Sandro Mamukelashvili,LAL vs TOR,Over 4.5 reb+ast,RA,6.8,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 4 of 30,0.71,0.27,Sandro Mamukelashvili,5,Reach,TOR at LAL|RA|Reach|A to C|6
 ALL|REB|Reach|A to C|1,C,Brandon Williams,GS vs LAC,Over 1.5 rebounds,REB,2.9,10 of 10,17 of 20,Tough (7th),1.27,tough matchup,Defense 14 of 30,0.885,0.31,Brandon Williams,2,Reach,LAC at GS|REB|Reach|A to C|1
 ALL|REB|Reach|A to C|2,C,Franz Wagner,ORL vs BOS,Over 3.5 rebounds,REB,4.5,10 of 10,15 of 20,Mid (12th),1.34,,Defense 6 of 30,0.875,0.1,Franz Wagner,4,Reach,BOS at ORL|REB|Reach|A to C|1
 ALL|REB|Reach|A to C|3,C,Sam Hauser,BOS at ORL,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Mid (11th),1.34,,Defense 11 of 30,0.875,0.22,Sam Hauser,3,Reach,BOS at ORL|REB|Reach|A to C|2
@@ -1169,8 +1195,9 @@ ALL|REB|Reach|A to C|20,C,Neemias Queta,BOS at ORL,Over 5.5 rebounds,REB,7.8,7 o
 ALL|REB|Reach|A to C|21,C,Austin Reaves,LAL vs TOR,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.26,Austin Reaves,3,Reach,TOR at LAL|REB|Reach|A to C|4
 ALL|REB|Reach|A to C|22,C,Jayson Tatum,BOS at ORL,Over 6.5 rebounds,REB,9.8,7 of 10,15 of 20,Mid (11th),1.62,,Defense 11 of 30,0.725,0.29,Jayson Tatum,7,Reach,
 ALL|REB|Reach|A to C|23,C,Chaney Johnson,BKN at IND,Over 2.5 rebounds,REB,4.7,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.35,Chaney Johnson,3,Reach,BKN at IND|REB|Reach|A to C|6
-ALL|REB|Reach|A to C|24,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,TOR at LAL|REB|Reach|A to C|5
-ALL|REB|Reach|A to C|25,C,Brandin Podziemski,GS vs LAC,Over 2.5 rebounds,REB,5.0,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 14 of 30,0.685,0.4,Brandin Podziemski,3,Reach,LAC at GS|REB|Reach|A to C|4
+ALL|REB|Reach|A to C|24,C,Brandon Ingram,TOR at LAL,Over 2.5 rebounds,REB,4.7,8 of 10,16 of 20,Tough (5th),1.47,"tough matchup; last season stats, check roster",Defense 16 of 30,0.72,0.35,Brandon Ingram,3,Reach,TOR at LAL|REB|Reach|A to C|5
+ALL|REB|Reach|A to C|25,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,TOR at LAL|REB|Reach|A to C|6
+ALL|REB|Reach|A to C|26,C,Brandin Podziemski,GS vs LAC,Over 2.5 rebounds,REB,5.0,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 14 of 30,0.685,0.4,Brandin Podziemski,3,Reach,LAC at GS|REB|Reach|A to C|4
 ALL|STL|Reach|A to C|1,C,Darius Garland,LAC at GS,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Soft (26th),1.43,,Defense 17 of 30,0.875,0.09,Darius Garland,1,Reach,LAC at GS|STL|Reach|A to C|1
 ALL|STL|Reach|A to C|2,C,Immanuel Quickley,TOR at LAL,Over 0.5 steals,STL,1.4,8 of 10,15 of 20,Soft (29th),1.52,,Defense 16 of 30,0.825,0.31,Immanuel Quickley,1,Reach,TOR at LAL|STL|Reach|A to C|1
 ALL|STL|Reach|A to C|3,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Reach,BOS at ORL|STL|Reach|A to C|1
@@ -1245,70 +1272,70 @@ ALL|ALL|Reach|All|53,C,Aaron Nesmith,IND vs BKN,Over 9.5 pts+reb,PR,16.1,9 of 10
 ALL|ALL|Reach|All|54,C,Brandin Podziemski,GS vs LAC,Over 1.5 threes,THREES,2.2,8 of 10,16 of 20,Mid (20th),1.47,,Defense 14 of 30,0.8,0.11,Brandin Podziemski,2,Reach,
 ALL|ALL|Reach|All|55,C,Pascal Siakam,IND vs BKN,Over 24.5 pts+reb,PR,30.2,8 of 10,16 of 20,Mid (18th),1.47,,Defense 23 of 30,0.8,0.17,Pascal Siakam,25,Reach,
 ALL|ALL|Reach|All|56,C,Collin Sexton,LAL vs TOR,Over 1.5 rebounds,REB,3.0,8 of 10,16 of 20,Mid (19th),1.47,,Defense 4 of 30,0.8,0.34,Collin Sexton,2,Reach,TOR at LAL|ALL|Reach|All|8
-ALL|ALL|Reach|All|57,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb+ast,PRA,31.4,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.2,RJ Barrett,25,Reach,TOR at LAL|ALL|Reach|All|9
-ALL|ALL|Reach|All|58,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Reach,
-ALL|ALL|Reach|All|59,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Reach,
-ALL|ALL|Reach|All|60,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Reach,TOR at LAL|ALL|Reach|All|10
-ALL|ALL|Reach|All|61,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Reach,
-ALL|ALL|Reach|All|62,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Reach,
-ALL|ALL|Reach|All|63,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Reach,TOR at LAL|ALL|Reach|All|11
-ALL|ALL|Reach|All|64,C,Andrew Nembhard,IND vs BKN,Over 13.5 points,PTS,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.15,Andrew Nembhard,14,Reach,
-ALL|ALL|Reach|All|65,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Reach,
-ALL|ALL|Reach|All|66,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,TOR at LAL|ALL|Reach|All|12
-ALL|ALL|Reach|All|67,C,Isaiah Jackson,LAC at GS,Over 5.5 points,PTS,8.2,8 of 10,15 of 20,Mid (14th),1.52,,Defense 17 of 30,0.775,0.27,Isaiah Jackson,6,Reach,
-ALL|ALL|Reach|All|68,C,Neemias Queta,BOS at ORL,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Soft (26th),1.62,,Defense 11 of 30,0.775,0.29,Neemias Queta,1,Reach,
-ALL|ALL|Reach|All|69,C,Tristan da Silva,ORL vs BOS,Over 1.5 rebounds,REB,2.9,7 of 10,17 of 20,Mid (12th),1.52,,Defense 6 of 30,0.775,0.31,Tristan da Silva,2,Reach,
-ALL|ALL|Reach|All|70,C,Julius Randle,BKN at IND,Over 19.5 pts+reb+ast,PRA,29.6,7 of 10,17 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.32,Julius Randle,20,Reach,
-ALL|ALL|Reach|All|71,C,Collin Sexton,LAL vs TOR,Over 14.5 pts+reb+ast,PRA,22.6,7 of 10,17 of 20,Mid (21st),1.52,,Defense 4 of 30,0.775,0.33,Collin Sexton,15,Reach,
-ALL|ALL|Reach|All|72,C,Quentin Grimes,LAL vs TOR,Over 1.5 rebounds,REB,3.0,7 of 10,17 of 20,Mid (19th),1.52,,Defense 4 of 30,0.775,0.34,Quentin Grimes,2,Reach,
-ALL|ALL|Reach|All|73,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Reach,
-ALL|ALL|Reach|All|74,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Reach,
-ALL|ALL|Reach|All|75,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Reach,
-ALL|ALL|Reach|All|76,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Reach,
-ALL|ALL|Reach|All|77,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,
-ALL|ALL|Reach|All|78,C,Collin Murray-Boyles,TOR at LAL,Over 7.5 points,PTS,12.1,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.34,Collin Murray-Boyles,8,Reach,
-ALL|ALL|Reach|All|79,C,Luka Doncic,LAL vs TOR,Over 5.5 rebounds,REB,7.5,7 of 10,16 of 20,Mid (19th),1.57,,Defense 4 of 30,0.75,0.21,Luka Doncic,6,Reach,
-ALL|ALL|Reach|All|80,C,Al Horford,GS vs LAC,Over 2.5 rebounds,REB,4.6,7 of 10,16 of 20,Mid (14th),1.57,,Defense 14 of 30,0.75,0.35,Al Horford,3,Reach,
-ALL|ALL|Reach|All|81,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,
-ALL|ALL|Reach|All|82,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,
-ALL|ALL|Reach|All|83,C,Austin Reaves,LAL vs TOR,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.26,Austin Reaves,3,Reach,
-ALL|ALL|Reach|All|84,C,Jaden Hardy,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,13.7,7 of 10,15 of 20,Mid (21st),1.62,,Defense 4 of 30,0.725,0.27,Jaden Hardy,10,Reach,
-ALL|ALL|Reach|All|85,C,Kobe Brown,IND vs BKN,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (15th),1.62,,Defense 23 of 30,0.725,0.31,Kobe Brown,1,Reach,
-ALL|ALL|Reach|All|86,C,Matisse Thybulle,LAL vs TOR,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.33,Matisse Thybulle,1,Reach,
-ALL|ALL|Reach|All|87,C,Chaney Johnson,BKN at IND,Over 2.5 rebounds,REB,4.7,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.35,Chaney Johnson,3,Reach,
-ALL|ALL|Reach|All|88,C,Quenton Jackson,IND vs BKN,Over 5.5 points,PTS,9.7,7 of 10,15 of 20,Mid (11th),1.62,,Defense 23 of 30,0.725,0.38,Quenton Jackson,6,Reach,
-ALL|ALL|Reach|All|89,C,Jake LaRavia,LAL vs TOR,Over 0.5 steals,STL,1.3,7 of 10,15 of 20,Tough (6th),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Jake LaRavia,1,Reach,
-ALL|ALL|Reach|All|90,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,
-ALL|ALL|Reach|All|91,D,Pascal Siakam,IND vs BKN,Over 2.5 assists,AST,3.4,8 of 10,14 of 20,Soft (24th),1.57,,Defense 23 of 30,0.8,0.12,Pascal Siakam,3,Reach,
-ALL|ALL|Reach|All|92,D,Yanic Konan Niederhauser,LAC at GS,Over 2.5 rebounds,REB,3.8,10 of 10,14 of 20,Tough (6th),1.38,"tough matchup; last season stats, check roster",Defense 17 of 30,0.77,0.21,Yanic Konan Niederhauser,3,Reach,
-ALL|ALL|Reach|All|93,D,Scottie Barnes,TOR at LAL,Over 9.5 reb+ast,RA,13.1,9 of 10,14 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.24,Scottie Barnes,10,Reach,
-ALL|ALL|Reach|All|94,D,Kam Jones,IND vs BKN,Over 4.5 reb+ast,RA,7.0,8 of 10,14 of 20,Soft (23rd),1.57,"last season stats, check roster",Defense 23 of 30,0.76,0.29,Kam Jones,5,Reach,
-ALL|ALL|Reach|All|95,D,Nolan Traore,BKN at IND,Over 1.5 rebounds,REB,2.1,8 of 10,14 of 20,Mid (12th),1.57,,Defense 19 of 30,0.75,0.05,Nolan Traore,2,Reach,
-ALL|ALL|Reach|All|96,D,Austin Reaves,LAL vs TOR,Over 24.5 pts+ast,PA,27.1,8 of 10,14 of 20,Mid (20th),1.57,,Defense 4 of 30,0.75,0.08,Austin Reaves,25,Reach,
-ALL|ALL|Reach|All|97,D,Derrick Jones Jr.,LAC at GS,Over 7.5 points,PTS,9.2,9 of 10,12 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.13,Derrick Jones Jr.,8,Reach,
-ALL|ALL|Reach|All|98,D,Day'Ron Sharpe,BKN at IND,Over 6.5 points,PTS,9.3,8 of 10,14 of 20,Mid (21st),1.57,,Defense 19 of 30,0.75,0.25,Day'Ron Sharpe,7,Reach,
-ALL|ALL|Reach|All|99,D,Malachi Smith,BKN at IND,Over 9.5 pts+reb+ast,PRA,14.9,8 of 10,11 of 15,Mid (17th),1.53,"last season stats, check roster",Defense 19 of 30,0.727,0.33,Malachi Smith,10,Reach,
-ALL|ALL|Reach|All|100,D,Jamal Shead,TOR at LAL,Over 4.5 assists,AST,5.5,8 of 10,13 of 20,Mid (13th),1.62,,Defense 16 of 30,0.725,0.09,Jamal Shead,5,Reach,
-ALL|ALL|Reach|All|101,D,Josh Minott,BKN at IND,Over 9.5 pts+reb,PR,12.2,8 of 10,13 of 20,Mid (20th),1.62,,Defense 19 of 30,0.725,0.18,Josh Minott,10,Reach,
-ALL|ALL|Reach|All|102,D,Michael Porter Jr.,BKN at IND,Over 0.5 steals,STL,1.3,7 of 10,13 of 20,Soft (25th),1.74,,Defense 19 of 30,0.725,0.23,Michael Porter Jr.,1,Reach,
-ALL|ALL|Reach|All|103,D,Terance Mann,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,13 of 20,Mid (12th),1.62,,Defense 19 of 30,0.725,0.25,Terance Mann,2,Reach,
-ALL|ALL|Reach|All|104,D,Jalen Slawson,IND vs BKN,Over 0.5 steals,STL,1.3,7 of 10,13 of 18,Mid (21st),1.65,,Defense 23 of 30,0.711,0.25,Jalen Slawson,1,Reach,
-ALL|ALL|Reach|All|105,D,Taelon Peter,IND vs BKN,Over 5.5 points,PTS,7.2,8 of 10,14 of 20,Mid (11th),1.57,"last season stats, check roster",Defense 23 of 30,0.71,0.17,Taelon Peter,6,Reach,
-ALL|ALL|Reach|All|106,D,Jalen Wilson,BKN at IND,Over 5.5 points,PTS,7.9,9 of 10,12 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.24,Jalen Wilson,6,Reach,
-ALL|ALL|Reach|All|107,D,E.J. Liddell,BKN at IND,Over 1.5 rebounds,REB,3.0,8 of 10,14 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.34,E.J. Liddell,2,Reach,
-ALL|ALL|Reach|All|108,D,Day'Ron Sharpe,BKN at IND,Over 14.5 pts+reb,PR,16.1,7 of 10,12 of 20,Soft (23rd),1.81,,Defense 19 of 30,0.7,0.07,Day'Ron Sharpe,15,Reach,
-ALL|ALL|Reach|All|109,D,Ja'Kobe Walter,TOR at LAL,Over 1.5 threes,THREES,2.5,7 of 10,14 of 20,Mid (13th),1.68,,Defense 16 of 30,0.7,0.2,Ja'Kobe Walter,2,Reach,
-ALL|ALL|Reach|All|110,D,LJ Cryer,GS vs LAC,Over 5.5 points,PTS,8.2,7 of 10,14 of 20,Mid (17th),1.68,,Defense 14 of 30,0.7,0.26,LJ Cryer,6,Reach,
-ALL|ALL|Reach|All|111,D,Nolan Traore,BKN at IND,Over 9.5 pts+reb+ast,PRA,16.1,7 of 10,14 of 20,Mid (17th),1.68,,Defense 19 of 30,0.7,0.38,Nolan Traore,10,Reach,
-ALL|ALL|Reach|All|112,D,Tyson Etienne,BKN at IND,Over 9.5 pts+reb+ast,PRA,12.7,8 of 10,13 of 20,Mid (17th),1.62,"last season stats, check roster",Defense 19 of 30,0.685,0.21,Tyson Etienne,10,Reach,
-ALL|ALL|Reach|All|113,D,Jarace Walker,IND vs BKN,Over 5.5 rebounds,REB,5.9,7 of 10,13 of 20,Mid (17th),1.74,+ role up,Defense 23 of 30,0.675,-0.02,Jarace Walker,6,Reach,
-ALL|ALL|Reach|All|114,D,Terance Mann,BKN at IND,Over 9.5 pts+reb+ast,PRA,10.8,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.07,Terance Mann,10,Reach,
-ALL|ALL|Reach|All|115,D,Jamal Cain,ORL vs BOS,Over 4.5 points,PTS,6.1,7 of 10,13 of 20,Mid (9th),1.74,,Defense 6 of 30,0.675,0.18,Jamal Cain,5,Reach,
-ALL|ALL|Reach|All|116,D,Anthony Black,ORL vs BOS,Over 2.5 rebounds,REB,3.2,7 of 10,14 of 20,Tough (8th),1.68,tough matchup,Defense 6 of 30,0.66,0.08,Anthony Black,3,Reach,
-ALL|ALL|Reach|All|117,D,Brook Lopez,LAC at GS,Over 4.5 rebounds,REB,5.8,7 of 10,14 of 20,Tough (6th),1.68,tough matchup,Defense 17 of 30,0.66,0.15,Brook Lopez,5,Reach,
-ALL|ALL|Reach|All|118,D,Tyson Etienne,BKN at IND,Over 6.5 points,PTS,9.3,8 of 10,12 of 20,Mid (18th),1.68,"last season stats, check roster",Defense 19 of 30,0.66,0.25,Tyson Etienne,7,Reach,
-ALL|ALL|Reach|All|119,D,Jakob Poeltl,TOR at LAL,Over 4.5 rebounds,REB,5.2,7 of 10,12 of 20,Mid (22nd),1.81,,Defense 16 of 30,0.65,0.05,Jakob Poeltl,5,Reach,
-ALL|ALL|Reach|All|120,D,Drake Powell,BKN at IND,Over 5.5 points,PTS,6.7,7 of 10,12 of 20,Mid (18th),1.81,,Defense 19 of 30,0.65,0.1,Drake Powell,6,Reach,
+ALL|ALL|Reach|All|57,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Reach,TOR at LAL|ALL|Reach|All|9
+ALL|ALL|Reach|All|58,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb+ast,PRA,31.4,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.2,RJ Barrett,25,Reach,TOR at LAL|ALL|Reach|All|10
+ALL|ALL|Reach|All|59,C,Aaron Nesmith,IND vs BKN,Over 1.5 rebounds,REB,2.7,8 of 10,15 of 20,Soft (23rd),1.52,questionable,Defense 23 of 30,0.785,0.26,Aaron Nesmith,2,Reach,
+ALL|ALL|Reach|All|60,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Reach,
+ALL|ALL|Reach|All|61,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Reach,TOR at LAL|ALL|Reach|All|11
+ALL|ALL|Reach|All|62,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb+ast,PRA,15.1,8 of 10,17 of 20,Tough (6th),1.43,tough matchup,Defense 6 of 30,0.785,0.34,Anthony Black,10,Reach,
+ALL|ALL|Reach|All|63,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Reach,
+ALL|ALL|Reach|All|64,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,15.3,8 of 10,17 of 20,Tough (2nd),1.43,tough matchup,Defense 4 of 30,0.785,0.35,Sandro Mamukelashvili,10,Reach,TOR at LAL|ALL|Reach|All|12
+ALL|ALL|Reach|All|65,C,Andrew Nembhard,IND vs BKN,Over 13.5 points,PTS,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 23 of 30,0.775,0.15,Andrew Nembhard,14,Reach,
+ALL|ALL|Reach|All|66,C,Josh Minott,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 19 of 30,0.775,0.23,Josh Minott,2,Reach,
+ALL|ALL|Reach|All|67,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,
+ALL|ALL|Reach|All|68,C,Isaiah Jackson,LAC at GS,Over 5.5 points,PTS,8.2,8 of 10,15 of 20,Mid (14th),1.52,,Defense 17 of 30,0.775,0.27,Isaiah Jackson,6,Reach,
+ALL|ALL|Reach|All|69,C,Neemias Queta,BOS at ORL,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Soft (26th),1.62,,Defense 11 of 30,0.775,0.29,Neemias Queta,1,Reach,
+ALL|ALL|Reach|All|70,C,Tristan da Silva,ORL vs BOS,Over 1.5 rebounds,REB,2.9,7 of 10,17 of 20,Mid (12th),1.52,,Defense 6 of 30,0.775,0.31,Tristan da Silva,2,Reach,
+ALL|ALL|Reach|All|71,C,Julius Randle,BKN at IND,Over 19.5 pts+reb+ast,PRA,29.6,7 of 10,17 of 20,Mid (20th),1.52,,Defense 19 of 30,0.775,0.32,Julius Randle,20,Reach,
+ALL|ALL|Reach|All|72,C,Collin Sexton,LAL vs TOR,Over 14.5 pts+reb+ast,PRA,22.6,7 of 10,17 of 20,Mid (21st),1.52,,Defense 4 of 30,0.775,0.33,Collin Sexton,15,Reach,
+ALL|ALL|Reach|All|73,C,Quentin Grimes,LAL vs TOR,Over 1.5 rebounds,REB,3.0,7 of 10,17 of 20,Mid (19th),1.52,,Defense 4 of 30,0.775,0.34,Quentin Grimes,2,Reach,
+ALL|ALL|Reach|All|74,C,Kobe Brown,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.6,8 of 10,15 of 20,Mid (15th),1.52,,Defense 23 of 30,0.775,0.36,Kobe Brown,10,Reach,
+ALL|ALL|Reach|All|75,C,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb+ast,PRA,16.4,8 of 10,15 of 20,Mid (11th),1.52,,Defense 14 of 30,0.775,0.39,De'Anthony Melton,10,Reach,
+ALL|ALL|Reach|All|76,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Reach,
+ALL|ALL|Reach|All|77,C,RJ Barrett,TOR at LAL,Over 19.5 points,PTS,21.9,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.09,RJ Barrett,20,Reach,
+ALL|ALL|Reach|All|78,C,Gui Santos,GS vs LAC,Over 3.5 rebounds,REB,4.8,8 of 10,16 of 20,Mid (21st),1.47,questionable,Defense 14 of 30,0.76,0.18,Gui Santos,4,Reach,
+ALL|ALL|Reach|All|79,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,
+ALL|ALL|Reach|All|80,C,Collin Murray-Boyles,TOR at LAL,Over 7.5 points,PTS,12.1,8 of 10,16 of 20,Tough (2nd),1.47,tough matchup,Defense 16 of 30,0.76,0.34,Collin Murray-Boyles,8,Reach,
+ALL|ALL|Reach|All|81,C,Luka Doncic,LAL vs TOR,Over 5.5 rebounds,REB,7.5,7 of 10,16 of 20,Mid (19th),1.57,,Defense 4 of 30,0.75,0.21,Luka Doncic,6,Reach,
+ALL|ALL|Reach|All|82,C,Al Horford,GS vs LAC,Over 2.5 rebounds,REB,4.6,7 of 10,16 of 20,Mid (14th),1.57,,Defense 14 of 30,0.75,0.35,Al Horford,3,Reach,
+ALL|ALL|Reach|All|83,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,
+ALL|ALL|Reach|All|84,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,
+ALL|ALL|Reach|All|85,C,Austin Reaves,LAL vs TOR,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.26,Austin Reaves,3,Reach,
+ALL|ALL|Reach|All|86,C,Jaden Hardy,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,13.7,7 of 10,15 of 20,Mid (21st),1.62,,Defense 4 of 30,0.725,0.27,Jaden Hardy,10,Reach,
+ALL|ALL|Reach|All|87,C,Kobe Brown,IND vs BKN,Over 0.5 threes,THREES,1.4,7 of 10,15 of 20,Mid (15th),1.62,,Defense 23 of 30,0.725,0.31,Kobe Brown,1,Reach,
+ALL|ALL|Reach|All|88,C,Matisse Thybulle,LAL vs TOR,Over 0.5 threes,THREES,1.5,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.33,Matisse Thybulle,1,Reach,
+ALL|ALL|Reach|All|89,C,Chaney Johnson,BKN at IND,Over 2.5 rebounds,REB,4.7,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.35,Chaney Johnson,3,Reach,
+ALL|ALL|Reach|All|90,C,Quenton Jackson,IND vs BKN,Over 5.5 points,PTS,9.7,7 of 10,15 of 20,Mid (11th),1.62,,Defense 23 of 30,0.725,0.38,Quenton Jackson,6,Reach,
+ALL|ALL|Reach|All|91,C,Jake LaRavia,LAL vs TOR,Over 0.5 steals,STL,1.3,7 of 10,15 of 20,Tough (6th),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Jake LaRavia,1,Reach,
+ALL|ALL|Reach|All|92,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,
+ALL|ALL|Reach|All|93,D,Pascal Siakam,IND vs BKN,Over 2.5 assists,AST,3.4,8 of 10,14 of 20,Soft (24th),1.57,,Defense 23 of 30,0.8,0.12,Pascal Siakam,3,Reach,
+ALL|ALL|Reach|All|94,D,Yanic Konan Niederhauser,LAC at GS,Over 2.5 rebounds,REB,3.8,10 of 10,14 of 20,Tough (6th),1.38,"tough matchup; last season stats, check roster",Defense 17 of 30,0.77,0.21,Yanic Konan Niederhauser,3,Reach,
+ALL|ALL|Reach|All|95,D,Scottie Barnes,TOR at LAL,Over 9.5 reb+ast,RA,13.1,9 of 10,14 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.24,Scottie Barnes,10,Reach,
+ALL|ALL|Reach|All|96,D,Kam Jones,IND vs BKN,Over 4.5 reb+ast,RA,7.0,8 of 10,14 of 20,Soft (23rd),1.57,"last season stats, check roster",Defense 23 of 30,0.76,0.29,Kam Jones,5,Reach,
+ALL|ALL|Reach|All|97,D,Nolan Traore,BKN at IND,Over 1.5 rebounds,REB,2.1,8 of 10,14 of 20,Mid (12th),1.57,,Defense 19 of 30,0.75,0.05,Nolan Traore,2,Reach,
+ALL|ALL|Reach|All|98,D,Austin Reaves,LAL vs TOR,Over 24.5 pts+ast,PA,27.1,8 of 10,14 of 20,Mid (20th),1.57,,Defense 4 of 30,0.75,0.08,Austin Reaves,25,Reach,
+ALL|ALL|Reach|All|99,D,Derrick Jones Jr.,LAC at GS,Over 7.5 points,PTS,9.2,9 of 10,12 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.13,Derrick Jones Jr.,8,Reach,
+ALL|ALL|Reach|All|100,D,Day'Ron Sharpe,BKN at IND,Over 6.5 points,PTS,9.3,8 of 10,14 of 20,Mid (21st),1.57,,Defense 19 of 30,0.75,0.25,Day'Ron Sharpe,7,Reach,
+ALL|ALL|Reach|All|101,D,Malachi Smith,BKN at IND,Over 9.5 pts+reb+ast,PRA,14.9,8 of 10,11 of 15,Mid (17th),1.53,"last season stats, check roster",Defense 19 of 30,0.727,0.33,Malachi Smith,10,Reach,
+ALL|ALL|Reach|All|102,D,Jamal Shead,TOR at LAL,Over 4.5 assists,AST,5.5,8 of 10,13 of 20,Mid (13th),1.62,,Defense 16 of 30,0.725,0.09,Jamal Shead,5,Reach,
+ALL|ALL|Reach|All|103,D,Josh Minott,BKN at IND,Over 9.5 pts+reb,PR,12.2,8 of 10,13 of 20,Mid (20th),1.62,,Defense 19 of 30,0.725,0.18,Josh Minott,10,Reach,
+ALL|ALL|Reach|All|104,D,Michael Porter Jr.,BKN at IND,Over 0.5 steals,STL,1.3,7 of 10,13 of 20,Soft (25th),1.74,,Defense 19 of 30,0.725,0.23,Michael Porter Jr.,1,Reach,
+ALL|ALL|Reach|All|105,D,Terance Mann,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,13 of 20,Mid (12th),1.62,,Defense 19 of 30,0.725,0.25,Terance Mann,2,Reach,
+ALL|ALL|Reach|All|106,D,Jalen Slawson,IND vs BKN,Over 0.5 steals,STL,1.3,7 of 10,13 of 18,Mid (21st),1.65,,Defense 23 of 30,0.711,0.25,Jalen Slawson,1,Reach,
+ALL|ALL|Reach|All|107,D,Taelon Peter,IND vs BKN,Over 5.5 points,PTS,7.2,8 of 10,14 of 20,Mid (11th),1.57,"last season stats, check roster",Defense 23 of 30,0.71,0.17,Taelon Peter,6,Reach,
+ALL|ALL|Reach|All|108,D,Jalen Wilson,BKN at IND,Over 5.5 points,PTS,7.9,9 of 10,12 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.24,Jalen Wilson,6,Reach,
+ALL|ALL|Reach|All|109,D,E.J. Liddell,BKN at IND,Over 1.5 rebounds,REB,3.0,8 of 10,14 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.34,E.J. Liddell,2,Reach,
+ALL|ALL|Reach|All|110,D,Day'Ron Sharpe,BKN at IND,Over 14.5 pts+reb,PR,16.1,7 of 10,12 of 20,Soft (23rd),1.81,,Defense 19 of 30,0.7,0.07,Day'Ron Sharpe,15,Reach,
+ALL|ALL|Reach|All|111,D,Ja'Kobe Walter,TOR at LAL,Over 1.5 threes,THREES,2.5,7 of 10,14 of 20,Mid (13th),1.68,,Defense 16 of 30,0.7,0.2,Ja'Kobe Walter,2,Reach,
+ALL|ALL|Reach|All|112,D,LJ Cryer,GS vs LAC,Over 5.5 points,PTS,8.2,7 of 10,14 of 20,Mid (17th),1.68,,Defense 14 of 30,0.7,0.26,LJ Cryer,6,Reach,
+ALL|ALL|Reach|All|113,D,Nolan Traore,BKN at IND,Over 9.5 pts+reb+ast,PRA,16.1,7 of 10,14 of 20,Mid (17th),1.68,,Defense 19 of 30,0.7,0.38,Nolan Traore,10,Reach,
+ALL|ALL|Reach|All|114,D,Tyson Etienne,BKN at IND,Over 9.5 pts+reb+ast,PRA,12.7,8 of 10,13 of 20,Mid (17th),1.62,"last season stats, check roster",Defense 19 of 30,0.685,0.21,Tyson Etienne,10,Reach,
+ALL|ALL|Reach|All|115,D,Jarace Walker,IND vs BKN,Over 5.5 rebounds,REB,5.9,7 of 10,13 of 20,Mid (17th),1.74,+ role up,Defense 23 of 30,0.675,-0.02,Jarace Walker,6,Reach,
+ALL|ALL|Reach|All|116,D,Terance Mann,BKN at IND,Over 9.5 pts+reb+ast,PRA,10.8,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.07,Terance Mann,10,Reach,
+ALL|ALL|Reach|All|117,D,Jamal Cain,ORL vs BOS,Over 4.5 points,PTS,6.1,7 of 10,13 of 20,Mid (9th),1.74,,Defense 6 of 30,0.675,0.18,Jamal Cain,5,Reach,
+ALL|ALL|Reach|All|118,D,Anthony Black,ORL vs BOS,Over 2.5 rebounds,REB,3.2,7 of 10,14 of 20,Tough (8th),1.68,tough matchup,Defense 6 of 30,0.66,0.08,Anthony Black,3,Reach,
+ALL|ALL|Reach|All|119,D,Brook Lopez,LAC at GS,Over 4.5 rebounds,REB,5.8,7 of 10,14 of 20,Tough (6th),1.68,tough matchup,Defense 17 of 30,0.66,0.15,Brook Lopez,5,Reach,
+ALL|ALL|Reach|All|120,D,Tyson Etienne,BKN at IND,Over 6.5 points,PTS,9.3,8 of 10,12 of 20,Mid (18th),1.68,"last season stats, check roster",Defense 19 of 30,0.66,0.25,Tyson Etienne,7,Reach,
 ALL|AST|Reach|All|1,C,Kris Dunn,LAC at GS,Over 2.5 assists,AST,4.2,9 of 10,17 of 20,Mid (21st),1.34,,Defense 17 of 30,0.875,0.29,Kris Dunn,3,Reach,LAC at GS|AST|Reach|All|1
 ALL|AST|Reach|All|2,C,Paul George,BOS at ORL,Over 1.5 assists,AST,3.2,9 of 10,16 of 20,Mid (9th),1.38,,Defense 11 of 30,0.85,0.38,Paul George,2,Reach,BOS at ORL|AST|Reach|All|1
 ALL|AST|Reach|All|3,C,Danny Wolf,BKN at IND,Over 1.5 assists,AST,2.6,8 of 10,17 of 20,Mid (19th),1.43,,Defense 19 of 30,0.825,0.25,Danny Wolf,2,Reach,BKN at IND|AST|Reach|All|1
@@ -1317,24 +1344,25 @@ ALL|AST|Reach|All|5,C,Darius Garland,LAC at GS,Over 4.5 assists,AST,6.5,8 of 10,
 ALL|AST|Reach|All|6,C,De'Anthony Melton,GS vs LAC,Over 1.5 assists,AST,2.8,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 14 of 30,0.785,0.27,De'Anthony Melton,2,Reach,LAC at GS|AST|Reach|All|3
 ALL|AST|Reach|All|7,C,Scottie Barnes,TOR at LAL,Over 4.5 assists,AST,7.1,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup,Defense 16 of 30,0.785,0.3,Scottie Barnes,5,Reach,TOR at LAL|AST|Reach|All|1
 ALL|AST|Reach|All|8,C,Immanuel Quickley,TOR at LAL,Over 3.5 assists,AST,5.7,8 of 10,15 of 20,Mid (13th),1.52,,Defense 16 of 30,0.775,0.3,Immanuel Quickley,4,Reach,TOR at LAL|AST|Reach|All|2
-ALL|AST|Reach|All|9,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,BKN at IND|AST|Reach|All|2
-ALL|AST|Reach|All|10,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Reach,TOR at LAL|AST|Reach|All|3
-ALL|AST|Reach|All|11,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,BKN at IND|AST|Reach|All|3
-ALL|AST|Reach|All|12,D,Pascal Siakam,IND vs BKN,Over 2.5 assists,AST,3.4,8 of 10,14 of 20,Soft (24th),1.57,,Defense 23 of 30,0.8,0.12,Pascal Siakam,3,Reach,BKN at IND|AST|Reach|All|4
-ALL|AST|Reach|All|13,D,Franz Wagner,ORL vs BOS,Over 2.5 assists,AST,4.0,9 of 10,14 of 20,Mid (10th),1.47,,Defense 6 of 30,0.8,0.26,Franz Wagner,3,Reach,BOS at ORL|AST|Reach|All|3
-ALL|AST|Reach|All|14,D,Austin Reaves,LAL vs TOR,Over 4.5 assists,AST,5.4,8 of 10,14 of 20,Mid (11th),1.57,,Defense 4 of 30,0.75,0.07,Austin Reaves,5,Reach,TOR at LAL|AST|Reach|All|4
-ALL|AST|Reach|All|15,D,Andrew Nembhard,IND vs BKN,Over 6.5 assists,AST,8.3,8 of 10,14 of 20,Mid (22nd),1.57,,Defense 23 of 30,0.75,0.16,Andrew Nembhard,7,Reach,BKN at IND|AST|Reach|All|5
-ALL|AST|Reach|All|16,D,Jamal Shead,TOR at LAL,Over 4.5 assists,AST,5.5,8 of 10,13 of 20,Mid (13th),1.62,,Defense 16 of 30,0.725,0.09,Jamal Shead,5,Reach,TOR at LAL|AST|Reach|All|5
-ALL|AST|Reach|All|17,D,Jayson Tatum,BOS at ORL,Over 6.5 assists,AST,7.0,7 of 10,14 of 20,Mid (9th),1.68,,Defense 11 of 30,0.7,0.01,Jayson Tatum,7,Reach,BOS at ORL|AST|Reach|All|4
-ALL|AST|Reach|All|18,D,Payton Pritchard,BOS at ORL,Over 3.5 assists,AST,4.6,7 of 10,14 of 20,Mid (10th),1.68,,Defense 11 of 30,0.7,0.13,Payton Pritchard,4,Reach,BOS at ORL|AST|Reach|All|5
-ALL|AST|Reach|All|19,D,Ben Saraf,BKN at IND,Over 2.5 assists,AST,3.8,7 of 10,14 of 20,Mid (17th),1.68,,Defense 19 of 30,0.7,0.21,Ben Saraf,3,Reach,BKN at IND|AST|Reach|All|6
-ALL|AST|Reach|All|20,D,Luka Doncic,LAL vs TOR,Over 6.5 assists,AST,7.3,7 of 10,13 of 20,Mid (11th),1.74,,Defense 4 of 30,0.675,0.05,Luka Doncic,7,Reach,TOR at LAL|AST|Reach|All|6
-ALL|AST|Reach|All|21,D,Quentin Grimes,LAL vs TOR,Over 1.5 assists,AST,2.5,7 of 10,13 of 20,Mid (11th),1.74,,Defense 4 of 30,0.675,0.18,Quentin Grimes,2,Reach,
-ALL|AST|Reach|All|22,D,Quenton Jackson,IND vs BKN,Over 2.5 assists,AST,3.9,7 of 10,13 of 20,Mid (22nd),1.74,,Defense 23 of 30,0.675,0.22,Quenton Jackson,3,Reach,
-ALL|AST|Reach|All|23,D,Ja'Kobe Walter,TOR at LAL,Over 1.5 assists,AST,1.9,7 of 10,12 of 20,Mid (13th),1.81,,Defense 16 of 30,0.65,-0.08,Ja'Kobe Walter,2,Reach,
-ALL|AST|Reach|All|24,D,Kobe Sanders,LAC at GS,Over 1.5 assists,AST,1.9,7 of 10,12 of 20,Mid (21st),1.81,,Defense 17 of 30,0.65,-0.08,Kobe Sanders,2,Reach,LAC at GS|AST|Reach|All|4
-ALL|AST|Reach|All|25,D,Jay Huff,IND vs BKN,Over 1.5 assists,AST,1.9,7 of 10,12 of 20,Mid (12th),1.81,,Defense 23 of 30,0.65,-0.05,Jay Huff,2,Reach,
-ALL|AST|Reach|All|26,D,Malachi Smith,BKN at IND,Over 1.5 assists,AST,3.3,7 of 10,10 of 15,Mid (17th),1.72,"last season stats, check roster",Defense 19 of 30,0.643,0.39,Malachi Smith,2,Reach,
+ALL|AST|Reach|All|9,C,Brandon Ingram,TOR at LAL,Over 1.5 assists,AST,3.0,9 of 10,16 of 20,Tough (3rd),1.38,"tough matchup; last season stats, check roster",Defense 16 of 30,0.77,0.32,Brandon Ingram,2,Reach,TOR at LAL|AST|Reach|All|3
+ALL|AST|Reach|All|10,C,Obi Toppin,IND vs BKN,Over 1.5 assists,AST,2.4,7 of 10,15 of 20,Soft (24th),1.62,questionable,Defense 23 of 30,0.735,0.15,Obi Toppin,2,Reach,BKN at IND|AST|Reach|All|2
+ALL|AST|Reach|All|11,C,RJ Barrett,TOR at LAL,Over 2.5 assists,AST,3.7,8 of 10,15 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.19,RJ Barrett,3,Reach,TOR at LAL|AST|Reach|All|4
+ALL|AST|Reach|All|12,C,Kam Jones,IND vs BKN,Over 2.5 assists,AST,4.9,8 of 10,15 of 20,Mid (22nd),1.52,"last season stats, check roster",Defense 23 of 30,0.735,0.39,Kam Jones,3,Reach,BKN at IND|AST|Reach|All|3
+ALL|AST|Reach|All|13,D,Pascal Siakam,IND vs BKN,Over 2.5 assists,AST,3.4,8 of 10,14 of 20,Soft (24th),1.57,,Defense 23 of 30,0.8,0.12,Pascal Siakam,3,Reach,BKN at IND|AST|Reach|All|4
+ALL|AST|Reach|All|14,D,Franz Wagner,ORL vs BOS,Over 2.5 assists,AST,4.0,9 of 10,14 of 20,Mid (10th),1.47,,Defense 6 of 30,0.8,0.26,Franz Wagner,3,Reach,BOS at ORL|AST|Reach|All|3
+ALL|AST|Reach|All|15,D,Austin Reaves,LAL vs TOR,Over 4.5 assists,AST,5.4,8 of 10,14 of 20,Mid (11th),1.57,,Defense 4 of 30,0.75,0.07,Austin Reaves,5,Reach,TOR at LAL|AST|Reach|All|5
+ALL|AST|Reach|All|16,D,Andrew Nembhard,IND vs BKN,Over 6.5 assists,AST,8.3,8 of 10,14 of 20,Mid (22nd),1.57,,Defense 23 of 30,0.75,0.16,Andrew Nembhard,7,Reach,BKN at IND|AST|Reach|All|5
+ALL|AST|Reach|All|17,D,Jamal Shead,TOR at LAL,Over 4.5 assists,AST,5.5,8 of 10,13 of 20,Mid (13th),1.62,,Defense 16 of 30,0.725,0.09,Jamal Shead,5,Reach,TOR at LAL|AST|Reach|All|6
+ALL|AST|Reach|All|18,D,Jayson Tatum,BOS at ORL,Over 6.5 assists,AST,7.0,7 of 10,14 of 20,Mid (9th),1.68,,Defense 11 of 30,0.7,0.01,Jayson Tatum,7,Reach,BOS at ORL|AST|Reach|All|4
+ALL|AST|Reach|All|19,D,Payton Pritchard,BOS at ORL,Over 3.5 assists,AST,4.6,7 of 10,14 of 20,Mid (10th),1.68,,Defense 11 of 30,0.7,0.13,Payton Pritchard,4,Reach,BOS at ORL|AST|Reach|All|5
+ALL|AST|Reach|All|20,D,Ben Saraf,BKN at IND,Over 2.5 assists,AST,3.8,7 of 10,14 of 20,Mid (17th),1.68,,Defense 19 of 30,0.7,0.21,Ben Saraf,3,Reach,BKN at IND|AST|Reach|All|6
+ALL|AST|Reach|All|21,D,Luka Doncic,LAL vs TOR,Over 6.5 assists,AST,7.3,7 of 10,13 of 20,Mid (11th),1.74,,Defense 4 of 30,0.675,0.05,Luka Doncic,7,Reach,
+ALL|AST|Reach|All|22,D,Quentin Grimes,LAL vs TOR,Over 1.5 assists,AST,2.5,7 of 10,13 of 20,Mid (11th),1.74,,Defense 4 of 30,0.675,0.18,Quentin Grimes,2,Reach,
+ALL|AST|Reach|All|23,D,Quenton Jackson,IND vs BKN,Over 2.5 assists,AST,3.9,7 of 10,13 of 20,Mid (22nd),1.74,,Defense 23 of 30,0.675,0.22,Quenton Jackson,3,Reach,
+ALL|AST|Reach|All|24,D,Ja'Kobe Walter,TOR at LAL,Over 1.5 assists,AST,1.9,7 of 10,12 of 20,Mid (13th),1.81,,Defense 16 of 30,0.65,-0.08,Ja'Kobe Walter,2,Reach,
+ALL|AST|Reach|All|25,D,Kobe Sanders,LAC at GS,Over 1.5 assists,AST,1.9,7 of 10,12 of 20,Mid (21st),1.81,,Defense 17 of 30,0.65,-0.08,Kobe Sanders,2,Reach,LAC at GS|AST|Reach|All|4
+ALL|AST|Reach|All|26,D,Jay Huff,IND vs BKN,Over 1.5 assists,AST,1.9,7 of 10,12 of 20,Mid (12th),1.81,,Defense 23 of 30,0.65,-0.05,Jay Huff,2,Reach,
+ALL|AST|Reach|All|27,D,Malachi Smith,BKN at IND,Over 1.5 assists,AST,3.3,7 of 10,10 of 15,Mid (17th),1.72,"last season stats, check roster",Defense 19 of 30,0.643,0.39,Malachi Smith,2,Reach,
 ALL|BLK|Reach|All|1,C,Neemias Queta,BOS at ORL,Over 0.5 blocks,BLK,1.4,7 of 10,15 of 20,Soft (26th),1.62,,Defense 11 of 30,0.775,0.29,Neemias Queta,1,Reach,BOS at ORL|BLK|Reach|All|1
 ALL|BLK|Reach|All|2,C,Isaiah Jackson,LAC at GS,Over 0.5 blocks,BLK,1.3,7 of 10,16 of 20,Mid (12th),1.57,,Defense 17 of 30,0.75,0.23,Isaiah Jackson,1,Reach,LAC at GS|BLK|Reach|All|1
 ALL|BLK|Reach|All|3,D,Scottie Barnes,TOR at LAL,Over 0.5 blocks,BLK,1.2,8 of 10,13 of 20,Tough (1st),1.62,tough matchup,Defense 16 of 30,0.685,0.17,Scottie Barnes,1,Reach,TOR at LAL|BLK|Reach|All|1
@@ -1361,17 +1389,18 @@ ALL|PA|Reach|All|17,C,RJ Barrett,TOR at LAL,Over 19.5 pts+ast,PA,25.6,8 of 10,16
 ALL|PA|Reach|All|18,C,Immanuel Quickley,TOR at LAL,Over 14.5 pts+ast,PA,20.1,7 of 10,16 of 20,Mid (21st),1.57,,Defense 16 of 30,0.75,0.26,Immanuel Quickley,15,Reach,TOR at LAL|PA|Reach|All|4
 ALL|PA|Reach|All|19,C,Derrick White,BOS at ORL,Over 9.5 pts+ast,PA,15.0,7 of 10,16 of 20,Mid (11th),1.57,,Defense 11 of 30,0.75,0.33,Derrick White,10,Reach,
 ALL|PA|Reach|All|20,C,Michael Porter Jr.,BKN at IND,Over 19.5 pts+ast,PA,23.6,7 of 10,15 of 20,Mid (21st),1.62,,Defense 19 of 30,0.725,0.15,Michael Porter Jr.,20,Reach,BKN at IND|PA|Reach|All|5
-ALL|PA|Reach|All|21,D,Derrick Jones Jr.,LAC at GS,Over 9.5 pts+ast,PA,10.8,9 of 10,12 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.07,Derrick Jones Jr.,10,Reach,LAC at GS|PA|Reach|All|5
-ALL|PA|Reach|All|22,D,Austin Reaves,LAL vs TOR,Over 24.5 pts+ast,PA,27.1,8 of 10,14 of 20,Mid (20th),1.57,,Defense 4 of 30,0.75,0.08,Austin Reaves,25,Reach,TOR at LAL|PA|Reach|All|5
-ALL|PA|Reach|All|23,D,Pascal Siakam,IND vs BKN,Over 24.5 pts+ast,PA,27.1,8 of 10,14 of 20,Mid (22nd),1.57,,Defense 23 of 30,0.75,0.08,Pascal Siakam,25,Reach,BKN at IND|PA|Reach|All|6
-ALL|PA|Reach|All|24,D,Brook Lopez,LAC at GS,Over 9.5 pts+ast,PA,14.6,8 of 10,14 of 20,Mid (10th),1.57,,Defense 17 of 30,0.75,0.31,Brook Lopez,10,Reach,LAC at GS|PA|Reach|All|6
-ALL|PA|Reach|All|25,D,Scottie Barnes,TOR at LAL,Over 24.5 pts+ast,PA,27.1,9 of 10,13 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.08,Scottie Barnes,25,Reach,TOR at LAL|PA|Reach|All|6
-ALL|PA|Reach|All|26,D,Danny Wolf,BKN at IND,Over 9.5 pts+ast,PA,12.4,7 of 10,14 of 20,Mid (21st),1.68,,Defense 19 of 30,0.7,0.2,Danny Wolf,10,Reach,
-ALL|PA|Reach|All|27,D,Andrew Nembhard,IND vs BKN,Over 24.5 pts+ast,PA,24.8,7 of 10,13 of 20,Mid (12th),1.74,,Defense 23 of 30,0.675,-0.01,Andrew Nembhard,25,Reach,
-ALL|PA|Reach|All|28,D,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+ast,PA,12.7,7 of 10,13 of 20,Mid (21st),1.74,,Defense 16 of 30,0.675,0.21,Ja'Kobe Walter,10,Reach,
-ALL|PA|Reach|All|29,D,Nolan Traore,BKN at IND,Over 9.5 pts+ast,PA,14.0,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.29,Nolan Traore,10,Reach,
-ALL|PA|Reach|All|30,D,Collin Murray-Boyles,TOR at LAL,Over 9.5 pts+ast,PA,13.9,7 of 10,14 of 20,Tough (3rd),1.68,tough matchup,Defense 16 of 30,0.66,0.28,Collin Murray-Boyles,10,Reach,
-ALL|PA|Reach|All|31,D,Obi Toppin,IND vs BKN,Over 14.5 pts+ast,PA,16.5,7 of 10,12 of 20,Mid (22nd),1.81,questionable,Defense 23 of 30,0.61,0.09,Obi Toppin,15,Reach,
+ALL|PA|Reach|All|21,C,Brandon Ingram,TOR at LAL,Over 14.5 pts+ast,PA,22.1,7 of 10,16 of 20,Tough (3rd),1.57,"tough matchup; last season stats, check roster",Defense 16 of 30,0.67,0.32,Brandon Ingram,15,Reach,TOR at LAL|PA|Reach|All|5
+ALL|PA|Reach|All|22,D,Derrick Jones Jr.,LAC at GS,Over 9.5 pts+ast,PA,10.8,9 of 10,12 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.07,Derrick Jones Jr.,10,Reach,LAC at GS|PA|Reach|All|5
+ALL|PA|Reach|All|23,D,Austin Reaves,LAL vs TOR,Over 24.5 pts+ast,PA,27.1,8 of 10,14 of 20,Mid (20th),1.57,,Defense 4 of 30,0.75,0.08,Austin Reaves,25,Reach,TOR at LAL|PA|Reach|All|6
+ALL|PA|Reach|All|24,D,Pascal Siakam,IND vs BKN,Over 24.5 pts+ast,PA,27.1,8 of 10,14 of 20,Mid (22nd),1.57,,Defense 23 of 30,0.75,0.08,Pascal Siakam,25,Reach,BKN at IND|PA|Reach|All|6
+ALL|PA|Reach|All|25,D,Brook Lopez,LAC at GS,Over 9.5 pts+ast,PA,14.6,8 of 10,14 of 20,Mid (10th),1.57,,Defense 17 of 30,0.75,0.31,Brook Lopez,10,Reach,LAC at GS|PA|Reach|All|6
+ALL|PA|Reach|All|26,D,Scottie Barnes,TOR at LAL,Over 24.5 pts+ast,PA,27.1,9 of 10,13 of 20,Tough (3rd),1.52,tough matchup,Defense 16 of 30,0.735,0.08,Scottie Barnes,25,Reach,
+ALL|PA|Reach|All|27,D,Danny Wolf,BKN at IND,Over 9.5 pts+ast,PA,12.4,7 of 10,14 of 20,Mid (21st),1.68,,Defense 19 of 30,0.7,0.2,Danny Wolf,10,Reach,
+ALL|PA|Reach|All|28,D,Andrew Nembhard,IND vs BKN,Over 24.5 pts+ast,PA,24.8,7 of 10,13 of 20,Mid (12th),1.74,,Defense 23 of 30,0.675,-0.01,Andrew Nembhard,25,Reach,
+ALL|PA|Reach|All|29,D,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+ast,PA,12.7,7 of 10,13 of 20,Mid (21st),1.74,,Defense 16 of 30,0.675,0.21,Ja'Kobe Walter,10,Reach,
+ALL|PA|Reach|All|30,D,Nolan Traore,BKN at IND,Over 9.5 pts+ast,PA,14.0,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.29,Nolan Traore,10,Reach,
+ALL|PA|Reach|All|31,D,Collin Murray-Boyles,TOR at LAL,Over 9.5 pts+ast,PA,13.9,7 of 10,14 of 20,Tough (3rd),1.68,tough matchup,Defense 16 of 30,0.66,0.28,Collin Murray-Boyles,10,Reach,
+ALL|PA|Reach|All|32,D,Obi Toppin,IND vs BKN,Over 14.5 pts+ast,PA,16.5,7 of 10,12 of 20,Mid (22nd),1.81,questionable,Defense 23 of 30,0.61,0.09,Obi Toppin,15,Reach,
 ALL|PR|Reach|All|1,B,Franz Wagner,ORL vs BOS,Over 14.5 pts+reb,PR,21.3,10 of 10,18 of 20,Mid (10th),1.24,,Defense 6 of 30,0.95,0.3,Franz Wagner,15,Reach,BOS at ORL|PR|Reach|All|1
 ALL|PR|Reach|All|2,B,Derrick White,BOS at ORL,Over 9.5 pts+reb,PR,14.3,9 of 10,19 of 20,Mid (18th),1.27,,Defense 11 of 30,0.925,0.3,Derrick White,10,Reach,BOS at ORL|PR|Reach|All|2
 ALL|PR|Reach|All|3,B,Luka Doncic,LAL vs TOR,Over 34.5 pts+reb,PR,44.5,8 of 10,18 of 20,Mid (21st),1.38,,Defense 4 of 30,0.85,0.21,Luka Doncic,35,Reach,TOR at LAL|PR|Reach|All|1
@@ -1391,23 +1420,24 @@ ALL|PR|Reach|All|16,C,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb,PR,14.3,8 of 10
 ALL|PR|Reach|All|17,C,Obi Toppin,IND vs BKN,Over 14.5 pts+reb,PR,18.8,9 of 10,15 of 20,Mid (18th),1.43,questionable,Defense 23 of 30,0.785,0.2,Obi Toppin,15,Reach,
 ALL|PR|Reach|All|18,C,Paul George,BOS at ORL,Over 19.5 pts+reb,PR,21.7,8 of 10,15 of 20,Mid (11th),1.52,,Defense 11 of 30,0.775,0.08,Paul George,20,Reach,BOS at ORL|PR|Reach|All|4
 ALL|PR|Reach|All|19,C,Payton Pritchard,BOS at ORL,Over 14.5 pts+reb,PR,19.7,7 of 10,16 of 20,Mid (18th),1.57,,Defense 11 of 30,0.75,0.24,Payton Pritchard,15,Reach,BOS at ORL|PR|Reach|All|5
-ALL|PR|Reach|All|20,C,Brandin Podziemski,GS vs LAC,Over 19.5 pts+reb,PR,22.8,7 of 10,15 of 20,Mid (13th),1.62,,Defense 14 of 30,0.725,0.12,Brandin Podziemski,20,Reach,LAC at GS|PR|Reach|All|5
-ALL|PR|Reach|All|21,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb,PR,27.6,7 of 10,15 of 20,Tough (4th),1.62,tough matchup,Defense 16 of 30,0.685,0.1,RJ Barrett,25,Reach,TOR at LAL|PR|Reach|All|4
-ALL|PR|Reach|All|22,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb,PR,12.7,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 6 of 30,0.685,0.21,Anthony Black,10,Reach,BOS at ORL|PR|Reach|All|6
-ALL|PR|Reach|All|23,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb,PR,13.7,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.27,Sandro Mamukelashvili,10,Reach,TOR at LAL|PR|Reach|All|5
-ALL|PR|Reach|All|24,D,Darius Garland,LAC at GS,Over 19.5 pts+reb,PR,23.2,8 of 10,14 of 20,Soft (23rd),1.57,,Defense 17 of 30,0.8,0.14,Darius Garland,20,Reach,LAC at GS|PR|Reach|All|6
-ALL|PR|Reach|All|25,D,Derrick Jones Jr.,LAC at GS,Over 9.5 pts+reb,PR,13.4,9 of 10,13 of 20,Mid (12th),1.52,,Defense 17 of 30,0.775,0.26,Derrick Jones Jr.,10,Reach,
-ALL|PR|Reach|All|26,D,Josh Minott,BKN at IND,Over 9.5 pts+reb,PR,12.2,8 of 10,13 of 20,Mid (20th),1.62,,Defense 19 of 30,0.725,0.18,Josh Minott,10,Reach,
-ALL|PR|Reach|All|27,D,Kobe Brown,IND vs BKN,Over 9.5 pts+reb,PR,13.4,8 of 10,13 of 20,Mid (16th),1.62,,Defense 23 of 30,0.725,0.25,Kobe Brown,10,Reach,
-ALL|PR|Reach|All|28,D,Scottie Barnes,TOR at LAL,Over 24.5 pts+reb,PR,25.9,9 of 10,12 of 20,Tough (4th),1.57,tough matchup,Defense 16 of 30,0.71,0.04,Scottie Barnes,25,Reach,TOR at LAL|PR|Reach|All|6
-ALL|PR|Reach|All|29,D,Day'Ron Sharpe,BKN at IND,Over 14.5 pts+reb,PR,16.1,7 of 10,12 of 20,Soft (23rd),1.81,,Defense 19 of 30,0.7,0.07,Day'Ron Sharpe,15,Reach,
-ALL|PR|Reach|All|30,D,Wendell Carter Jr.,ORL vs BOS,Over 14.5 pts+reb,PR,19.4,7 of 10,14 of 20,Mid (18th),1.68,,Defense 6 of 30,0.7,0.22,Wendell Carter Jr.,15,Reach,
-ALL|PR|Reach|All|31,D,Jay Huff,IND vs BKN,Over 9.5 pts+reb,PR,13.5,7 of 10,14 of 20,Mid (17th),1.68,,Defense 23 of 30,0.7,0.26,Jay Huff,10,Reach,
-ALL|PR|Reach|All|32,D,Austin Reaves,LAL vs TOR,Over 24.5 pts+reb,PR,25.8,7 of 10,13 of 20,Mid (21st),1.74,,Defense 4 of 30,0.675,0.03,Austin Reaves,25,Reach,
-ALL|PR|Reach|All|33,D,Nolan Traore,BKN at IND,Over 9.5 pts+reb,PR,12.5,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.2,Nolan Traore,10,Reach,
-ALL|PR|Reach|All|34,D,Ben Saraf,BKN at IND,Over 9.5 pts+reb,PR,13.0,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.23,Ben Saraf,10,Reach,
-ALL|PR|Reach|All|35,D,Desmond Bane,ORL vs BOS,Over 19.5 pts+reb,PR,22.6,7 of 10,14 of 20,Tough (7th),1.68,tough matchup,Defense 6 of 30,0.66,0.12,Desmond Bane,20,Reach,
-ALL|PR|Reach|All|36,D,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb,PR,13.7,7 of 10,12 of 20,Mid (13th),1.81,,Defense 14 of 30,0.65,0.27,De'Anthony Melton,10,Reach,
+ALL|PR|Reach|All|20,C,Brandon Ingram,TOR at LAL,Over 14.5 pts+reb,PR,23.8,8 of 10,17 of 20,Tough (4th),1.43,"tough matchup; last season stats, check roster",Defense 16 of 30,0.745,0.37,Brandon Ingram,15,Reach,TOR at LAL|PR|Reach|All|4
+ALL|PR|Reach|All|21,C,Brandin Podziemski,GS vs LAC,Over 19.5 pts+reb,PR,22.8,7 of 10,15 of 20,Mid (13th),1.62,,Defense 14 of 30,0.725,0.12,Brandin Podziemski,20,Reach,LAC at GS|PR|Reach|All|5
+ALL|PR|Reach|All|22,C,RJ Barrett,TOR at LAL,Over 24.5 pts+reb,PR,27.6,7 of 10,15 of 20,Tough (4th),1.62,tough matchup,Defense 16 of 30,0.685,0.1,RJ Barrett,25,Reach,TOR at LAL|PR|Reach|All|5
+ALL|PR|Reach|All|23,C,Anthony Black,ORL vs BOS,Over 9.5 pts+reb,PR,12.7,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 6 of 30,0.685,0.21,Anthony Black,10,Reach,BOS at ORL|PR|Reach|All|6
+ALL|PR|Reach|All|24,C,Sandro Mamukelashvili,LAL vs TOR,Over 9.5 pts+reb,PR,13.7,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.27,Sandro Mamukelashvili,10,Reach,TOR at LAL|PR|Reach|All|6
+ALL|PR|Reach|All|25,D,Darius Garland,LAC at GS,Over 19.5 pts+reb,PR,23.2,8 of 10,14 of 20,Soft (23rd),1.57,,Defense 17 of 30,0.8,0.14,Darius Garland,20,Reach,LAC at GS|PR|Reach|All|6
+ALL|PR|Reach|All|26,D,Derrick Jones Jr.,LAC at GS,Over 9.5 pts+reb,PR,13.4,9 of 10,13 of 20,Mid (12th),1.52,,Defense 17 of 30,0.775,0.26,Derrick Jones Jr.,10,Reach,
+ALL|PR|Reach|All|27,D,Josh Minott,BKN at IND,Over 9.5 pts+reb,PR,12.2,8 of 10,13 of 20,Mid (20th),1.62,,Defense 19 of 30,0.725,0.18,Josh Minott,10,Reach,
+ALL|PR|Reach|All|28,D,Kobe Brown,IND vs BKN,Over 9.5 pts+reb,PR,13.4,8 of 10,13 of 20,Mid (16th),1.62,,Defense 23 of 30,0.725,0.25,Kobe Brown,10,Reach,
+ALL|PR|Reach|All|29,D,Scottie Barnes,TOR at LAL,Over 24.5 pts+reb,PR,25.9,9 of 10,12 of 20,Tough (4th),1.57,tough matchup,Defense 16 of 30,0.71,0.04,Scottie Barnes,25,Reach,
+ALL|PR|Reach|All|30,D,Day'Ron Sharpe,BKN at IND,Over 14.5 pts+reb,PR,16.1,7 of 10,12 of 20,Soft (23rd),1.81,,Defense 19 of 30,0.7,0.07,Day'Ron Sharpe,15,Reach,
+ALL|PR|Reach|All|31,D,Wendell Carter Jr.,ORL vs BOS,Over 14.5 pts+reb,PR,19.4,7 of 10,14 of 20,Mid (18th),1.68,,Defense 6 of 30,0.7,0.22,Wendell Carter Jr.,15,Reach,
+ALL|PR|Reach|All|32,D,Jay Huff,IND vs BKN,Over 9.5 pts+reb,PR,13.5,7 of 10,14 of 20,Mid (17th),1.68,,Defense 23 of 30,0.7,0.26,Jay Huff,10,Reach,
+ALL|PR|Reach|All|33,D,Austin Reaves,LAL vs TOR,Over 24.5 pts+reb,PR,25.8,7 of 10,13 of 20,Mid (21st),1.74,,Defense 4 of 30,0.675,0.03,Austin Reaves,25,Reach,
+ALL|PR|Reach|All|34,D,Nolan Traore,BKN at IND,Over 9.5 pts+reb,PR,12.5,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.2,Nolan Traore,10,Reach,
+ALL|PR|Reach|All|35,D,Ben Saraf,BKN at IND,Over 9.5 pts+reb,PR,13.0,7 of 10,13 of 20,Mid (17th),1.74,,Defense 19 of 30,0.675,0.23,Ben Saraf,10,Reach,
+ALL|PR|Reach|All|36,D,Desmond Bane,ORL vs BOS,Over 19.5 pts+reb,PR,22.6,7 of 10,14 of 20,Tough (7th),1.68,tough matchup,Defense 6 of 30,0.66,0.12,Desmond Bane,20,Reach,
+ALL|PR|Reach|All|37,D,De'Anthony Melton,GS vs LAC,Over 9.5 pts+reb,PR,13.7,7 of 10,12 of 20,Mid (13th),1.81,,Defense 14 of 30,0.65,0.27,De'Anthony Melton,10,Reach,
 ALL|PRA|Reach|All|1,B,Sam Hauser,BOS at ORL,Over 9.5 pts+reb+ast,PRA,14.7,9 of 10,19 of 20,Mid (11th),1.27,,Defense 11 of 30,0.925,0.32,Sam Hauser,10,Reach,BOS at ORL|PRA|Reach|All|1
 ALL|PRA|Reach|All|2,B,Ja'Kobe Walter,TOR at LAL,Over 9.5 pts+reb+ast,PRA,16.2,9 of 10,19 of 20,Mid (18th),1.27,,Defense 16 of 30,0.925,0.38,Ja'Kobe Walter,10,Reach,TOR at LAL|PRA|Reach|All|1
 ALL|PRA|Reach|All|3,B,Jay Huff,IND vs BKN,Over 9.5 pts+reb+ast,PRA,15.4,9 of 10,18 of 20,Mid (15th),1.31,,Defense 23 of 30,0.9,0.35,Jay Huff,10,Reach,BKN at IND|PRA|Reach|All|1
@@ -1440,14 +1470,14 @@ ALL|PRA|Reach|All|29,C,Jamal Shead,TOR at LAL,Over 9.5 pts+reb+ast,PRA,14.6,7 of
 ALL|PRA|Reach|All|30,C,Jaden Hardy,LAL vs TOR,Over 9.5 pts+reb+ast,PRA,13.7,7 of 10,15 of 20,Mid (21st),1.62,,Defense 4 of 30,0.725,0.27,Jaden Hardy,10,Reach,
 ALL|PRA|Reach|All|31,C,Gui Santos,GS vs LAC,Over 14.5 pts+reb+ast,PRA,21.6,7 of 10,16 of 20,Mid (14th),1.57,questionable,Defense 14 of 30,0.71,0.31,Gui Santos,15,Reach,
 ALL|PRA|Reach|All|32,C,Collin Murray-Boyles,TOR at LAL,Over 14.5 pts+reb+ast,PRA,19.6,7 of 10,15 of 20,Tough (3rd),1.62,tough matchup,Defense 16 of 30,0.685,0.23,Collin Murray-Boyles,15,Reach,
-ALL|PRA|Reach|All|33,D,Malachi Smith,BKN at IND,Over 9.5 pts+reb+ast,PRA,14.9,8 of 10,11 of 15,Mid (17th),1.53,"last season stats, check roster",Defense 19 of 30,0.727,0.33,Malachi Smith,10,Reach,
-ALL|PRA|Reach|All|34,D,Josh Minott,BKN at IND,Over 9.5 pts+reb+ast,PRA,13.0,8 of 10,13 of 20,Mid (20th),1.62,,Defense 19 of 30,0.725,0.23,Josh Minott,10,Reach,
-ALL|PRA|Reach|All|35,D,Scottie Barnes,TOR at LAL,Over 29.5 pts+reb+ast,PRA,33.0,9 of 10,12 of 20,Tough (3rd),1.57,tough matchup,Defense 16 of 30,0.71,0.09,Scottie Barnes,30,Reach,
-ALL|PRA|Reach|All|36,D,Andrew Nembhard,IND vs BKN,Over 24.5 pts+reb+ast,PRA,27.1,7 of 10,14 of 20,Mid (15th),1.68,,Defense 23 of 30,0.7,0.08,Andrew Nembhard,25,Reach,
-ALL|PRA|Reach|All|37,D,Day'Ron Sharpe,BKN at IND,Over 14.5 pts+reb+ast,PRA,18.3,7 of 10,12 of 20,Soft (23rd),1.81,,Defense 19 of 30,0.7,0.18,Day'Ron Sharpe,15,Reach,
-ALL|PRA|Reach|All|38,D,Nolan Traore,BKN at IND,Over 9.5 pts+reb+ast,PRA,16.1,7 of 10,14 of 20,Mid (17th),1.68,,Defense 19 of 30,0.7,0.38,Nolan Traore,10,Reach,
-ALL|PRA|Reach|All|39,D,Tyson Etienne,BKN at IND,Over 9.5 pts+reb+ast,PRA,12.7,8 of 10,13 of 20,Mid (17th),1.62,"last season stats, check roster",Defense 19 of 30,0.685,0.21,Tyson Etienne,10,Reach,
-ALL|PRA|Reach|All|40,D,Isaiah Jackson,LAC at GS,Over 14.5 pts+reb+ast,PRA,15.2,7 of 10,13 of 20,Mid (13th),1.74,,Defense 17 of 30,0.675,0.02,Isaiah Jackson,15,Reach,
+ALL|PRA|Reach|All|33,C,Brandon Ingram,TOR at LAL,Over 19.5 pts+reb+ast,PRA,26.7,7 of 10,16 of 20,Tough (3rd),1.57,"tough matchup; last season stats, check roster",Defense 16 of 30,0.67,0.25,Brandon Ingram,20,Reach,
+ALL|PRA|Reach|All|34,D,Malachi Smith,BKN at IND,Over 9.5 pts+reb+ast,PRA,14.9,8 of 10,11 of 15,Mid (17th),1.53,"last season stats, check roster",Defense 19 of 30,0.727,0.33,Malachi Smith,10,Reach,
+ALL|PRA|Reach|All|35,D,Josh Minott,BKN at IND,Over 9.5 pts+reb+ast,PRA,13.0,8 of 10,13 of 20,Mid (20th),1.62,,Defense 19 of 30,0.725,0.23,Josh Minott,10,Reach,
+ALL|PRA|Reach|All|36,D,Scottie Barnes,TOR at LAL,Over 29.5 pts+reb+ast,PRA,33.0,9 of 10,12 of 20,Tough (3rd),1.57,tough matchup,Defense 16 of 30,0.71,0.09,Scottie Barnes,30,Reach,
+ALL|PRA|Reach|All|37,D,Andrew Nembhard,IND vs BKN,Over 24.5 pts+reb+ast,PRA,27.1,7 of 10,14 of 20,Mid (15th),1.68,,Defense 23 of 30,0.7,0.08,Andrew Nembhard,25,Reach,
+ALL|PRA|Reach|All|38,D,Day'Ron Sharpe,BKN at IND,Over 14.5 pts+reb+ast,PRA,18.3,7 of 10,12 of 20,Soft (23rd),1.81,,Defense 19 of 30,0.7,0.18,Day'Ron Sharpe,15,Reach,
+ALL|PRA|Reach|All|39,D,Nolan Traore,BKN at IND,Over 9.5 pts+reb+ast,PRA,16.1,7 of 10,14 of 20,Mid (17th),1.68,,Defense 19 of 30,0.7,0.38,Nolan Traore,10,Reach,
+ALL|PRA|Reach|All|40,D,Tyson Etienne,BKN at IND,Over 9.5 pts+reb+ast,PRA,12.7,8 of 10,13 of 20,Mid (17th),1.62,"last season stats, check roster",Defense 19 of 30,0.685,0.21,Tyson Etienne,10,Reach,
 ALL|PTS|Reach|All|1,B,Sam Hauser,BOS at ORL,Over 5.5 points,PTS,9.6,9 of 10,18 of 20,Mid (12th),1.31,,Defense 11 of 30,0.9,0.38,Sam Hauser,6,Reach,BOS at ORL|PTS|Reach|All|1
 ALL|PTS|Reach|All|2,B,Julius Randle,BKN at IND,Over 11.5 points,PTS,18.6,8 of 10,18 of 20,Mid (22nd),1.38,,Defense 19 of 30,0.85,0.35,Julius Randle,12,Reach,BKN at IND|PTS|Reach|All|1
 ALL|PTS|Reach|All|3,C,Rui Hachimura,LAC at GS,Over 11.5 points,PTS,15.2,8 of 10,17 of 20,Mid (14th),1.43,,Defense 17 of 30,0.825,0.21,Rui Hachimura,12,Reach,LAC at GS|PTS|Reach|All|1
@@ -1465,30 +1495,29 @@ ALL|PTS|Reach|All|14,C,Jayson Tatum,BOS at ORL,Over 22.5 points,PTS,24.4,7 of 10
 ALL|PTS|Reach|All|15,C,Brandon Williams,GS vs LAC,Over 10.5 points,PTS,12.4,7 of 10,15 of 20,Mid (17th),1.62,,Defense 14 of 30,0.725,0.11,Brandon Williams,11,Reach,LAC at GS|PTS|Reach|All|3
 ALL|PTS|Reach|All|16,C,Quenton Jackson,IND vs BKN,Over 5.5 points,PTS,9.7,7 of 10,15 of 20,Mid (11th),1.62,,Defense 23 of 30,0.725,0.38,Quenton Jackson,6,Reach,BKN at IND|PTS|Reach|All|5
 ALL|PTS|Reach|All|17,C,Neemias Queta,BOS at ORL,Over 6.5 points,PTS,10.7,7 of 10,16 of 20,Tough (5th),1.57,tough matchup,Defense 11 of 30,0.71,0.35,Neemias Queta,7,Reach,BOS at ORL|PTS|Reach|All|5
-ALL|PTS|Reach|All|18,D,Darius Garland,LAC at GS,Over 15.5 points,PTS,21.0,8 of 10,14 of 20,Soft (26th),1.57,,Defense 17 of 30,0.8,0.24,Darius Garland,16,Reach,LAC at GS|PTS|Reach|All|4
-ALL|PTS|Reach|All|19,D,Brandin Podziemski,GS vs LAC,Over 16.5 points,PTS,17.8,8 of 10,14 of 20,Mid (17th),1.57,,Defense 14 of 30,0.75,0.04,Brandin Podziemski,17,Reach,LAC at GS|PTS|Reach|All|5
-ALL|PTS|Reach|All|20,D,Derrick Jones Jr.,LAC at GS,Over 7.5 points,PTS,9.2,9 of 10,12 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.13,Derrick Jones Jr.,8,Reach,LAC at GS|PTS|Reach|All|6
-ALL|PTS|Reach|All|21,D,Day'Ron Sharpe,BKN at IND,Over 6.5 points,PTS,9.3,8 of 10,14 of 20,Mid (21st),1.57,,Defense 19 of 30,0.75,0.25,Day'Ron Sharpe,7,Reach,BKN at IND|PTS|Reach|All|6
-ALL|PTS|Reach|All|22,D,Kobe Sanders,LAC at GS,Over 4.5 points,PTS,7.9,7 of 10,14 of 20,Soft (26th),1.68,,Defense 17 of 30,0.75,0.37,Kobe Sanders,5,Reach,
-ALL|PTS|Reach|All|23,D,Obi Toppin,IND vs BKN,Over 12.5 points,PTS,14.2,9 of 10,12 of 20,Mid (20th),1.57,questionable,Defense 23 of 30,0.71,0.08,Obi Toppin,13,Reach,
-ALL|PTS|Reach|All|24,D,Taelon Peter,IND vs BKN,Over 5.5 points,PTS,7.2,8 of 10,14 of 20,Mid (11th),1.57,"last season stats, check roster",Defense 23 of 30,0.71,0.17,Taelon Peter,6,Reach,
-ALL|PTS|Reach|All|25,D,Jalen Wilson,BKN at IND,Over 5.5 points,PTS,7.9,9 of 10,12 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.24,Jalen Wilson,6,Reach,
-ALL|PTS|Reach|All|26,D,Franz Wagner,ORL vs BOS,Over 16.5 points,PTS,16.9,8 of 10,12 of 20,Mid (9th),1.68,,Defense 6 of 30,0.7,-0.01,Franz Wagner,17,Reach,BOS at ORL|PTS|Reach|All|6
-ALL|PTS|Reach|All|27,D,Kelly Oubre Jr.,IND vs BKN,Over 9.5 points,PTS,11.4,7 of 10,14 of 20,Mid (11th),1.68,,Defense 23 of 30,0.7,0.12,Kelly Oubre Jr.,10,Reach,
-ALL|PTS|Reach|All|28,D,Kobe Brown,IND vs BKN,Over 7.5 points,PTS,9.1,7 of 10,14 of 20,Mid (11th),1.68,,Defense 23 of 30,0.7,0.12,Kobe Brown,8,Reach,
-ALL|PTS|Reach|All|29,D,Luka Doncic,LAL vs TOR,Over 31.5 points,PTS,36.9,7 of 10,14 of 20,Mid (21st),1.68,,Defense 4 of 30,0.7,0.13,Luka Doncic,32,Reach,TOR at LAL|PTS|Reach|All|5
-ALL|PTS|Reach|All|30,D,Kris Dunn,LAC at GS,Over 4.5 points,PTS,5.8,7 of 10,12 of 20,Soft (26th),1.81,,Defense 17 of 30,0.7,0.14,Kris Dunn,5,Reach,
-ALL|PTS|Reach|All|31,D,Terance Mann,BKN at IND,Over 4.5 points,PTS,6.2,7 of 10,14 of 20,Mid (18th),1.68,,Defense 19 of 30,0.7,0.19,Terance Mann,5,Reach,
-ALL|PTS|Reach|All|32,D,Payton Pritchard,BOS at ORL,Over 12.5 points,PTS,16.6,7 of 10,14 of 20,Mid (13th),1.68,,Defense 11 of 30,0.7,0.22,Payton Pritchard,13,Reach,
-ALL|PTS|Reach|All|33,D,LJ Cryer,GS vs LAC,Over 5.5 points,PTS,8.2,7 of 10,14 of 20,Mid (17th),1.68,,Defense 14 of 30,0.7,0.26,LJ Cryer,6,Reach,
-ALL|PTS|Reach|All|34,D,Yanic Konan Niederhauser,LAC at GS,Over 3.5 points,PTS,5.8,8 of 10,13 of 20,Mid (9th),1.62,"last season stats, check roster",Defense 17 of 30,0.685,0.3,Yanic Konan Niederhauser,4,Reach,
-ALL|PTS|Reach|All|35,D,Michael Porter Jr.,BKN at IND,Over 18.5 points,PTS,21.4,7 of 10,13 of 20,Mid (22nd),1.74,,Defense 19 of 30,0.675,0.11,Michael Porter Jr.,19,Reach,
-ALL|PTS|Reach|All|36,D,Pascal Siakam,IND vs BKN,Over 20.5 points,PTS,23.7,7 of 10,13 of 20,Mid (20th),1.74,,Defense 23 of 30,0.675,0.11,Pascal Siakam,21,Reach,
-ALL|PTS|Reach|All|37,D,Nolan Traore,BKN at IND,Over 8.5 points,PTS,10.4,7 of 10,13 of 20,Mid (18th),1.74,,Defense 19 of 30,0.675,0.13,Nolan Traore,9,Reach,
-ALL|PTS|Reach|All|38,D,Derrick White,BOS at ORL,Over 8.5 points,PTS,10.8,7 of 10,13 of 20,Mid (13th),1.74,,Defense 11 of 30,0.675,0.17,Derrick White,9,Reach,
-ALL|PTS|Reach|All|39,D,Jamal Cain,ORL vs BOS,Over 4.5 points,PTS,6.1,7 of 10,13 of 20,Mid (9th),1.74,,Defense 6 of 30,0.675,0.18,Jamal Cain,5,Reach,
-ALL|PTS|Reach|All|40,D,Ben Saraf,BKN at IND,Over 7.5 points,PTS,10.2,7 of 10,13 of 20,Mid (18th),1.74,,Defense 19 of 30,0.675,0.22,Ben Saraf,8,Reach,
-,D,Scottie Barnes,TOR at LAL,Over 17.5 points,PTS,19.9,8 of 10,12 of 20,Tough (2nd),1.68,tough matchup,Defense 16 of 30,0.66,0.1,Scottie Barnes,18,Reach,TOR at LAL|PTS|Reach|All|6
+ALL|PTS|Reach|All|18,C,Brandon Ingram,TOR at LAL,Over 14.5 points,PTS,19.1,7 of 10,15 of 20,Tough (2nd),1.62,"tough matchup; last season stats, check roster",Defense 16 of 30,0.645,0.21,Brandon Ingram,15,Reach,TOR at LAL|PTS|Reach|All|5
+ALL|PTS|Reach|All|19,D,Darius Garland,LAC at GS,Over 15.5 points,PTS,21.0,8 of 10,14 of 20,Soft (26th),1.57,,Defense 17 of 30,0.8,0.24,Darius Garland,16,Reach,LAC at GS|PTS|Reach|All|4
+ALL|PTS|Reach|All|20,D,Brandin Podziemski,GS vs LAC,Over 16.5 points,PTS,17.8,8 of 10,14 of 20,Mid (17th),1.57,,Defense 14 of 30,0.75,0.04,Brandin Podziemski,17,Reach,LAC at GS|PTS|Reach|All|5
+ALL|PTS|Reach|All|21,D,Derrick Jones Jr.,LAC at GS,Over 7.5 points,PTS,9.2,9 of 10,12 of 20,Mid (14th),1.57,,Defense 17 of 30,0.75,0.13,Derrick Jones Jr.,8,Reach,LAC at GS|PTS|Reach|All|6
+ALL|PTS|Reach|All|22,D,Day'Ron Sharpe,BKN at IND,Over 6.5 points,PTS,9.3,8 of 10,14 of 20,Mid (21st),1.57,,Defense 19 of 30,0.75,0.25,Day'Ron Sharpe,7,Reach,BKN at IND|PTS|Reach|All|6
+ALL|PTS|Reach|All|23,D,Kobe Sanders,LAC at GS,Over 4.5 points,PTS,7.9,7 of 10,14 of 20,Soft (26th),1.68,,Defense 17 of 30,0.75,0.37,Kobe Sanders,5,Reach,
+ALL|PTS|Reach|All|24,D,Obi Toppin,IND vs BKN,Over 12.5 points,PTS,14.2,9 of 10,12 of 20,Mid (20th),1.57,questionable,Defense 23 of 30,0.71,0.08,Obi Toppin,13,Reach,
+ALL|PTS|Reach|All|25,D,Taelon Peter,IND vs BKN,Over 5.5 points,PTS,7.2,8 of 10,14 of 20,Mid (11th),1.57,"last season stats, check roster",Defense 23 of 30,0.71,0.17,Taelon Peter,6,Reach,
+ALL|PTS|Reach|All|26,D,Jalen Wilson,BKN at IND,Over 5.5 points,PTS,7.9,9 of 10,12 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.24,Jalen Wilson,6,Reach,
+ALL|PTS|Reach|All|27,D,Franz Wagner,ORL vs BOS,Over 16.5 points,PTS,16.9,8 of 10,12 of 20,Mid (9th),1.68,,Defense 6 of 30,0.7,-0.01,Franz Wagner,17,Reach,BOS at ORL|PTS|Reach|All|6
+ALL|PTS|Reach|All|28,D,Kelly Oubre Jr.,IND vs BKN,Over 9.5 points,PTS,11.4,7 of 10,14 of 20,Mid (11th),1.68,,Defense 23 of 30,0.7,0.12,Kelly Oubre Jr.,10,Reach,
+ALL|PTS|Reach|All|29,D,Kobe Brown,IND vs BKN,Over 7.5 points,PTS,9.1,7 of 10,14 of 20,Mid (11th),1.68,,Defense 23 of 30,0.7,0.12,Kobe Brown,8,Reach,
+ALL|PTS|Reach|All|30,D,Luka Doncic,LAL vs TOR,Over 31.5 points,PTS,36.9,7 of 10,14 of 20,Mid (21st),1.68,,Defense 4 of 30,0.7,0.13,Luka Doncic,32,Reach,TOR at LAL|PTS|Reach|All|6
+ALL|PTS|Reach|All|31,D,Kris Dunn,LAC at GS,Over 4.5 points,PTS,5.8,7 of 10,12 of 20,Soft (26th),1.81,,Defense 17 of 30,0.7,0.14,Kris Dunn,5,Reach,
+ALL|PTS|Reach|All|32,D,Terance Mann,BKN at IND,Over 4.5 points,PTS,6.2,7 of 10,14 of 20,Mid (18th),1.68,,Defense 19 of 30,0.7,0.19,Terance Mann,5,Reach,
+ALL|PTS|Reach|All|33,D,Payton Pritchard,BOS at ORL,Over 12.5 points,PTS,16.6,7 of 10,14 of 20,Mid (13th),1.68,,Defense 11 of 30,0.7,0.22,Payton Pritchard,13,Reach,
+ALL|PTS|Reach|All|34,D,LJ Cryer,GS vs LAC,Over 5.5 points,PTS,8.2,7 of 10,14 of 20,Mid (17th),1.68,,Defense 14 of 30,0.7,0.26,LJ Cryer,6,Reach,
+ALL|PTS|Reach|All|35,D,Yanic Konan Niederhauser,LAC at GS,Over 3.5 points,PTS,5.8,8 of 10,13 of 20,Mid (9th),1.62,"last season stats, check roster",Defense 17 of 30,0.685,0.3,Yanic Konan Niederhauser,4,Reach,
+ALL|PTS|Reach|All|36,D,Michael Porter Jr.,BKN at IND,Over 18.5 points,PTS,21.4,7 of 10,13 of 20,Mid (22nd),1.74,,Defense 19 of 30,0.675,0.11,Michael Porter Jr.,19,Reach,
+ALL|PTS|Reach|All|37,D,Pascal Siakam,IND vs BKN,Over 20.5 points,PTS,23.7,7 of 10,13 of 20,Mid (20th),1.74,,Defense 23 of 30,0.675,0.11,Pascal Siakam,21,Reach,
+ALL|PTS|Reach|All|38,D,Nolan Traore,BKN at IND,Over 8.5 points,PTS,10.4,7 of 10,13 of 20,Mid (18th),1.74,,Defense 19 of 30,0.675,0.13,Nolan Traore,9,Reach,
+ALL|PTS|Reach|All|39,D,Derrick White,BOS at ORL,Over 8.5 points,PTS,10.8,7 of 10,13 of 20,Mid (13th),1.74,,Defense 11 of 30,0.675,0.17,Derrick White,9,Reach,
+ALL|PTS|Reach|All|40,D,Jamal Cain,ORL vs BOS,Over 4.5 points,PTS,6.1,7 of 10,13 of 20,Mid (9th),1.74,,Defense 6 of 30,0.675,0.18,Jamal Cain,5,Reach,
 ALL|RA|Reach|All|1,A,Luka Doncic,LAL vs TOR,Over 9.5 reb+ast,RA,14.9,10 of 10,20 of 20,Mid (15th),1.22,,Defense 4 of 30,1.0,0.33,Luka Doncic,10,Reach,TOR at LAL|RA|Reach|All|1
 ALL|RA|Reach|All|2,B,Payton Pritchard,BOS at ORL,Over 4.5 reb+ast,RA,7.7,10 of 10,18 of 20,Mid (20th),1.24,,Defense 11 of 30,0.95,0.35,Payton Pritchard,5,Reach,BOS at ORL|RA|Reach|All|1
 ALL|RA|Reach|All|3,B,Gui Santos,GS vs LAC,Over 4.5 reb+ast,RA,8.1,9 of 10,18 of 20,Mid (19th),1.31,questionable,Defense 14 of 30,0.86,0.38,Gui Santos,5,Reach,LAC at GS|RA|Reach|All|1
@@ -1501,20 +1530,21 @@ ALL|RA|Reach|All|9,C,Jamal Shead,TOR at LAL,Over 4.5 reb+ast,RA,7.0,9 of 10,16 o
 ALL|RA|Reach|All|10,C,Derrick White,BOS at ORL,Over 4.5 reb+ast,RA,7.8,8 of 10,17 of 20,Mid (20th),1.43,,Defense 11 of 30,0.825,0.35,Derrick White,5,Reach,BOS at ORL|RA|Reach|All|3
 ALL|RA|Reach|All|11,C,Kris Dunn,LAC at GS,Over 4.5 reb+ast,RA,7.7,9 of 10,15 of 20,Mid (15th),1.43,,Defense 17 of 30,0.825,0.35,Kris Dunn,5,Reach,LAC at GS|RA|Reach|All|3
 ALL|RA|Reach|All|12,C,Danny Wolf,BKN at IND,Over 4.5 reb+ast,RA,7.9,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 19 of 30,0.825,0.37,Danny Wolf,5,Reach,BKN at IND|RA|Reach|All|4
-ALL|RA|Reach|All|13,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Reach,LAC at GS|RA|Reach|All|4
-ALL|RA|Reach|All|14,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Reach,BKN at IND|RA|Reach|All|5
-ALL|RA|Reach|All|15,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,TOR at LAL|RA|Reach|All|3
-ALL|RA|Reach|All|16,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Reach,BOS at ORL|RA|Reach|All|4
-ALL|RA|Reach|All|17,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,TOR at LAL|RA|Reach|All|4
-ALL|RA|Reach|All|18,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Reach,LAC at GS|RA|Reach|All|5
-ALL|RA|Reach|All|19,C,Julius Randle,BKN at IND,Over 9.5 reb+ast,RA,10.9,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.09,Julius Randle,10,Reach,BKN at IND|RA|Reach|All|6
-ALL|RA|Reach|All|20,C,Sandro Mamukelashvili,LAL vs TOR,Over 4.5 reb+ast,RA,6.8,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 4 of 30,0.71,0.27,Sandro Mamukelashvili,5,Reach,TOR at LAL|RA|Reach|All|5
-ALL|RA|Reach|All|21,D,Kobe Brown,IND vs BKN,Over 4.5 reb+ast,RA,6.5,9 of 10,13 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.23,Kobe Brown,5,Reach,
-ALL|RA|Reach|All|22,D,Scottie Barnes,TOR at LAL,Over 9.5 reb+ast,RA,13.1,9 of 10,14 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.24,Scottie Barnes,10,Reach,TOR at LAL|RA|Reach|All|6
-ALL|RA|Reach|All|23,D,Kam Jones,IND vs BKN,Over 4.5 reb+ast,RA,7.0,8 of 10,14 of 20,Soft (23rd),1.57,"last season stats, check roster",Defense 23 of 30,0.76,0.29,Kam Jones,5,Reach,
-ALL|RA|Reach|All|24,D,Andrew Nembhard,IND vs BKN,Over 9.5 reb+ast,RA,10.7,7 of 10,13 of 20,Soft (23rd),1.74,,Defense 23 of 30,0.725,0.06,Andrew Nembhard,10,Reach,
-ALL|RA|Reach|All|25,D,Rui Hachimura,LAC at GS,Over 4.5 reb+ast,RA,5.8,7 of 10,13 of 20,Mid (13th),1.74,,Defense 17 of 30,0.675,0.15,Rui Hachimura,5,Reach,LAC at GS|RA|Reach|All|6
-ALL|RA|Reach|All|26,D,Ja'Kobe Walter,TOR at LAL,Over 4.5 reb+ast,RA,5.4,7 of 10,12 of 20,Mid (9th),1.81,,Defense 16 of 30,0.65,0.07,Ja'Kobe Walter,5,Reach,
+ALL|RA|Reach|All|13,C,Brandon Ingram,TOR at LAL,Over 4.5 reb+ast,RA,7.6,9 of 10,17 of 20,Tough (4th),1.34,"tough matchup; last season stats, check roster",Defense 16 of 30,0.795,0.34,Brandon Ingram,5,Reach,TOR at LAL|RA|Reach|All|3
+ALL|RA|Reach|All|14,C,Brook Lopez,LAC at GS,Over 4.5 reb+ast,RA,7.6,8 of 10,17 of 20,Tough (7th),1.43,tough matchup,Defense 17 of 30,0.785,0.34,Brook Lopez,5,Reach,LAC at GS|RA|Reach|All|4
+ALL|RA|Reach|All|15,C,Jay Huff,IND vs BKN,Over 4.5 reb+ast,RA,5.8,8 of 10,15 of 20,Mid (12th),1.52,,Defense 23 of 30,0.775,0.15,Jay Huff,5,Reach,BKN at IND|RA|Reach|All|5
+ALL|RA|Reach|All|16,C,Jakob Poeltl,TOR at LAL,Over 4.5 reb+ast,RA,6.7,8 of 10,15 of 20,Mid (22nd),1.52,,Defense 16 of 30,0.775,0.25,Jakob Poeltl,5,Reach,TOR at LAL|RA|Reach|All|4
+ALL|RA|Reach|All|17,C,Desmond Bane,ORL vs BOS,Over 4.5 reb+ast,RA,6.8,8 of 10,16 of 20,Tough (6th),1.47,tough matchup,Defense 6 of 30,0.76,0.27,Desmond Bane,5,Reach,BOS at ORL|RA|Reach|All|4
+ALL|RA|Reach|All|18,C,Collin Murray-Boyles,TOR at LAL,Over 4.5 reb+ast,RA,7.5,8 of 10,16 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.33,Collin Murray-Boyles,5,Reach,TOR at LAL|RA|Reach|All|5
+ALL|RA|Reach|All|19,C,De'Anthony Melton,GS vs LAC,Over 4.5 reb+ast,RA,6.8,8 of 10,15 of 20,Tough (5th),1.52,tough matchup,Defense 14 of 30,0.735,0.26,De'Anthony Melton,5,Reach,LAC at GS|RA|Reach|All|5
+ALL|RA|Reach|All|20,C,Julius Randle,BKN at IND,Over 9.5 reb+ast,RA,10.9,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.09,Julius Randle,10,Reach,BKN at IND|RA|Reach|All|6
+ALL|RA|Reach|All|21,C,Sandro Mamukelashvili,LAL vs TOR,Over 4.5 reb+ast,RA,6.8,7 of 10,16 of 20,Tough (2nd),1.57,tough matchup,Defense 4 of 30,0.71,0.27,Sandro Mamukelashvili,5,Reach,TOR at LAL|RA|Reach|All|6
+ALL|RA|Reach|All|22,D,Kobe Brown,IND vs BKN,Over 4.5 reb+ast,RA,6.5,9 of 10,13 of 20,Soft (23rd),1.52,,Defense 23 of 30,0.825,0.23,Kobe Brown,5,Reach,
+ALL|RA|Reach|All|23,D,Scottie Barnes,TOR at LAL,Over 9.5 reb+ast,RA,13.1,9 of 10,14 of 20,Tough (4th),1.47,tough matchup,Defense 16 of 30,0.76,0.24,Scottie Barnes,10,Reach,
+ALL|RA|Reach|All|24,D,Kam Jones,IND vs BKN,Over 4.5 reb+ast,RA,7.0,8 of 10,14 of 20,Soft (23rd),1.57,"last season stats, check roster",Defense 23 of 30,0.76,0.29,Kam Jones,5,Reach,
+ALL|RA|Reach|All|25,D,Andrew Nembhard,IND vs BKN,Over 9.5 reb+ast,RA,10.7,7 of 10,13 of 20,Soft (23rd),1.74,,Defense 23 of 30,0.725,0.06,Andrew Nembhard,10,Reach,
+ALL|RA|Reach|All|26,D,Rui Hachimura,LAC at GS,Over 4.5 reb+ast,RA,5.8,7 of 10,13 of 20,Mid (13th),1.74,,Defense 17 of 30,0.675,0.15,Rui Hachimura,5,Reach,LAC at GS|RA|Reach|All|6
+ALL|RA|Reach|All|27,D,Ja'Kobe Walter,TOR at LAL,Over 4.5 reb+ast,RA,5.4,7 of 10,12 of 20,Mid (9th),1.81,,Defense 16 of 30,0.65,0.07,Ja'Kobe Walter,5,Reach,
 ALL|REB|Reach|All|1,C,Brandon Williams,GS vs LAC,Over 1.5 rebounds,REB,2.9,10 of 10,17 of 20,Tough (7th),1.27,tough matchup,Defense 14 of 30,0.885,0.31,Brandon Williams,2,Reach,LAC at GS|REB|Reach|All|1
 ALL|REB|Reach|All|2,C,Franz Wagner,ORL vs BOS,Over 3.5 rebounds,REB,4.5,10 of 10,15 of 20,Mid (12th),1.34,,Defense 6 of 30,0.875,0.1,Franz Wagner,4,Reach,BOS at ORL|REB|Reach|All|1
 ALL|REB|Reach|All|3,C,Sam Hauser,BOS at ORL,Over 2.5 rebounds,REB,3.9,9 of 10,17 of 20,Mid (11th),1.34,,Defense 11 of 30,0.875,0.22,Sam Hauser,3,Reach,BOS at ORL|REB|Reach|All|2
@@ -1538,23 +1568,23 @@ ALL|REB|Reach|All|20,C,Neemias Queta,BOS at ORL,Over 5.5 rebounds,REB,7.8,7 of 1
 ALL|REB|Reach|All|21,C,Austin Reaves,LAL vs TOR,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Mid (19th),1.62,,Defense 4 of 30,0.725,0.26,Austin Reaves,3,Reach,TOR at LAL|REB|Reach|All|4
 ALL|REB|Reach|All|22,C,Jayson Tatum,BOS at ORL,Over 6.5 rebounds,REB,9.8,7 of 10,15 of 20,Mid (11th),1.62,,Defense 11 of 30,0.725,0.29,Jayson Tatum,7,Reach,
 ALL|REB|Reach|All|23,C,Chaney Johnson,BKN at IND,Over 2.5 rebounds,REB,4.7,7 of 10,15 of 20,Mid (22nd),1.62,,Defense 19 of 30,0.725,0.35,Chaney Johnson,3,Reach,BKN at IND|REB|Reach|All|6
-ALL|REB|Reach|All|24,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,TOR at LAL|REB|Reach|All|5
-ALL|REB|Reach|All|25,C,Brandin Podziemski,GS vs LAC,Over 2.5 rebounds,REB,5.0,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 14 of 30,0.685,0.4,Brandin Podziemski,3,Reach,LAC at GS|REB|Reach|All|4
-ALL|REB|Reach|All|26,D,Rui Hachimura,LAC at GS,Over 3.5 rebounds,REB,4.5,9 of 10,14 of 20,Mid (10th),1.47,,Defense 17 of 30,0.8,0.11,Rui Hachimura,4,Reach,LAC at GS|REB|Reach|All|5
-ALL|REB|Reach|All|27,D,Danny Wolf,BKN at IND,Over 3.5 rebounds,REB,5.2,9 of 10,14 of 20,Mid (22nd),1.47,,Defense 19 of 30,0.8,0.24,Danny Wolf,4,Reach,
-ALL|REB|Reach|All|28,D,Kobe Brown,IND vs BKN,Over 3.5 rebounds,REB,4.3,8 of 10,13 of 20,Soft (23rd),1.62,,Defense 23 of 30,0.775,0.07,Kobe Brown,4,Reach,
-ALL|REB|Reach|All|29,D,Yanic Konan Niederhauser,LAC at GS,Over 2.5 rebounds,REB,3.8,10 of 10,14 of 20,Tough (6th),1.38,"tough matchup; last season stats, check roster",Defense 17 of 30,0.77,0.21,Yanic Konan Niederhauser,3,Reach,LAC at GS|REB|Reach|All|6
-ALL|REB|Reach|All|30,D,Nolan Traore,BKN at IND,Over 1.5 rebounds,REB,2.1,8 of 10,14 of 20,Mid (12th),1.57,,Defense 19 of 30,0.75,0.05,Nolan Traore,2,Reach,
-ALL|REB|Reach|All|31,D,Isaiah Jackson,LAC at GS,Over 4.5 rebounds,REB,5.3,8 of 10,14 of 20,Mid (10th),1.57,,Defense 17 of 30,0.75,0.07,Isaiah Jackson,5,Reach,
-ALL|REB|Reach|All|32,D,Scottie Barnes,TOR at LAL,Over 4.5 rebounds,REB,6.0,9 of 10,13 of 20,Tough (5th),1.52,tough matchup,Defense 16 of 30,0.735,0.17,Scottie Barnes,5,Reach,TOR at LAL|REB|Reach|All|6
-ALL|REB|Reach|All|33,D,Andrew Nembhard,IND vs BKN,Over 1.5 rebounds,REB,2.4,7 of 10,13 of 20,Soft (23rd),1.74,,Defense 23 of 30,0.725,0.15,Andrew Nembhard,2,Reach,
-ALL|REB|Reach|All|34,D,Terance Mann,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,13 of 20,Mid (12th),1.62,,Defense 19 of 30,0.725,0.25,Terance Mann,2,Reach,
-ALL|REB|Reach|All|35,D,Immanuel Quickley,TOR at LAL,Over 2.5 rebounds,REB,3.2,8 of 10,14 of 20,Tough (8th),1.57,tough matchup,Defense 16 of 30,0.71,0.06,Immanuel Quickley,3,Reach,
-ALL|REB|Reach|All|36,D,RJ Barrett,TOR at LAL,Over 3.5 rebounds,REB,5.8,8 of 10,14 of 20,Tough (5th),1.57,tough matchup,Defense 16 of 30,0.71,0.3,RJ Barrett,4,Reach,
-ALL|REB|Reach|All|37,D,E.J. Liddell,BKN at IND,Over 1.5 rebounds,REB,3.0,8 of 10,14 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.34,E.J. Liddell,2,Reach,
-ALL|REB|Reach|All|38,D,Jalen Wilson,BKN at IND,Over 1.5 rebounds,REB,3.0,8 of 10,14 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.34,Jalen Wilson,2,Reach,
-ALL|REB|Reach|All|39,D,Julius Randle,BKN at IND,Over 6.5 rebounds,REB,7.3,7 of 10,14 of 20,Mid (22nd),1.68,,Defense 19 of 30,0.7,0.05,Julius Randle,7,Reach,
-ALL|REB|Reach|All|40,D,Kris Dunn,LAC at GS,Over 2.5 rebounds,REB,3.4,8 of 10,12 of 20,Mid (11th),1.68,,Defense 17 of 30,0.7,0.12,Kris Dunn,3,Reach,
+ALL|REB|Reach|All|24,C,Brandon Ingram,TOR at LAL,Over 2.5 rebounds,REB,4.7,8 of 10,16 of 20,Tough (5th),1.47,"tough matchup; last season stats, check roster",Defense 16 of 30,0.72,0.35,Brandon Ingram,3,Reach,TOR at LAL|REB|Reach|All|5
+ALL|REB|Reach|All|25,C,Sandro Mamukelashvili,LAL vs TOR,Over 3.5 rebounds,REB,5.2,7 of 10,15 of 20,Tough (2nd),1.62,tough matchup,Defense 4 of 30,0.685,0.23,Sandro Mamukelashvili,4,Reach,TOR at LAL|REB|Reach|All|6
+ALL|REB|Reach|All|26,C,Brandin Podziemski,GS vs LAC,Over 2.5 rebounds,REB,5.0,7 of 10,15 of 20,Tough (7th),1.62,tough matchup,Defense 14 of 30,0.685,0.4,Brandin Podziemski,3,Reach,LAC at GS|REB|Reach|All|4
+ALL|REB|Reach|All|27,D,Rui Hachimura,LAC at GS,Over 3.5 rebounds,REB,4.5,9 of 10,14 of 20,Mid (10th),1.47,,Defense 17 of 30,0.8,0.11,Rui Hachimura,4,Reach,LAC at GS|REB|Reach|All|5
+ALL|REB|Reach|All|28,D,Danny Wolf,BKN at IND,Over 3.5 rebounds,REB,5.2,9 of 10,14 of 20,Mid (22nd),1.47,,Defense 19 of 30,0.8,0.24,Danny Wolf,4,Reach,
+ALL|REB|Reach|All|29,D,Kobe Brown,IND vs BKN,Over 3.5 rebounds,REB,4.3,8 of 10,13 of 20,Soft (23rd),1.62,,Defense 23 of 30,0.775,0.07,Kobe Brown,4,Reach,
+ALL|REB|Reach|All|30,D,Yanic Konan Niederhauser,LAC at GS,Over 2.5 rebounds,REB,3.8,10 of 10,14 of 20,Tough (6th),1.38,"tough matchup; last season stats, check roster",Defense 17 of 30,0.77,0.21,Yanic Konan Niederhauser,3,Reach,LAC at GS|REB|Reach|All|6
+ALL|REB|Reach|All|31,D,Nolan Traore,BKN at IND,Over 1.5 rebounds,REB,2.1,8 of 10,14 of 20,Mid (12th),1.57,,Defense 19 of 30,0.75,0.05,Nolan Traore,2,Reach,
+ALL|REB|Reach|All|32,D,Isaiah Jackson,LAC at GS,Over 4.5 rebounds,REB,5.3,8 of 10,14 of 20,Mid (10th),1.57,,Defense 17 of 30,0.75,0.07,Isaiah Jackson,5,Reach,
+ALL|REB|Reach|All|33,D,Scottie Barnes,TOR at LAL,Over 4.5 rebounds,REB,6.0,9 of 10,13 of 20,Tough (5th),1.52,tough matchup,Defense 16 of 30,0.735,0.17,Scottie Barnes,5,Reach,
+ALL|REB|Reach|All|34,D,Andrew Nembhard,IND vs BKN,Over 1.5 rebounds,REB,2.4,7 of 10,13 of 20,Soft (23rd),1.74,,Defense 23 of 30,0.725,0.15,Andrew Nembhard,2,Reach,
+ALL|REB|Reach|All|35,D,Terance Mann,BKN at IND,Over 1.5 rebounds,REB,2.6,8 of 10,13 of 20,Mid (12th),1.62,,Defense 19 of 30,0.725,0.25,Terance Mann,2,Reach,
+ALL|REB|Reach|All|36,D,Immanuel Quickley,TOR at LAL,Over 2.5 rebounds,REB,3.2,8 of 10,14 of 20,Tough (8th),1.57,tough matchup,Defense 16 of 30,0.71,0.06,Immanuel Quickley,3,Reach,
+ALL|REB|Reach|All|37,D,RJ Barrett,TOR at LAL,Over 3.5 rebounds,REB,5.8,8 of 10,14 of 20,Tough (5th),1.57,tough matchup,Defense 16 of 30,0.71,0.3,RJ Barrett,4,Reach,
+ALL|REB|Reach|All|38,D,E.J. Liddell,BKN at IND,Over 1.5 rebounds,REB,3.0,8 of 10,14 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.34,E.J. Liddell,2,Reach,
+ALL|REB|Reach|All|39,D,Jalen Wilson,BKN at IND,Over 1.5 rebounds,REB,3.0,8 of 10,14 of 20,Mid (22nd),1.57,"last season stats, check roster",Defense 19 of 30,0.71,0.34,Jalen Wilson,2,Reach,
+ALL|REB|Reach|All|40,D,Julius Randle,BKN at IND,Over 6.5 rebounds,REB,7.3,7 of 10,14 of 20,Mid (22nd),1.68,,Defense 19 of 30,0.7,0.05,Julius Randle,7,Reach,
 ALL|STL|Reach|All|1,C,Darius Garland,LAC at GS,Over 0.5 steals,STL,1.1,8 of 10,17 of 20,Soft (26th),1.43,,Defense 17 of 30,0.875,0.09,Darius Garland,1,Reach,LAC at GS|STL|Reach|All|1
 ALL|STL|Reach|All|2,C,Immanuel Quickley,TOR at LAL,Over 0.5 steals,STL,1.4,8 of 10,15 of 20,Soft (29th),1.52,,Defense 16 of 30,0.825,0.31,Immanuel Quickley,1,Reach,TOR at LAL|STL|Reach|All|1
 ALL|STL|Reach|All|3,C,Desmond Bane,ORL vs BOS,Over 0.5 steals,STL,1.6,8 of 10,17 of 20,Tough (1st),1.43,tough matchup,Defense 6 of 30,0.785,0.35,Desmond Bane,1,Reach,BOS at ORL|STL|Reach|All|1

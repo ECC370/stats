@@ -17,7 +17,7 @@ Kevin Durant,F,HOU,BOS,,PR,15+,86,1.0,31.1
 Kevin Durant,F,HOU,BOS,,PA,15+,86,1.0,30.3
 Jalen Duren,C,DET,CHA,Out,REB,2+,84,1.0,10.2
 Kon Knueppel,G,CHA,DET,Out,PTS,5+,83,1.0,18.3
-Mitchell Robinson,C,BOS,HOU,Out,REB,3+,83,1.0,7.9
+Mitchell Robinson,C,BOS,HOU,Questionable,REB,3+,83,1.0,7.9
 Amen Thompson,G,HOU,BOS,,REB,3+,81,1.0,7.9
 CJ McCollum,G,ATL,IND,,PTS,5+,81,1.0,19.1
 Donovan Clingan,C,POR,DEN,,RA,5+,81,1.0,13.5
@@ -86,7 +86,7 @@ Kevin Durant,F,HOU,BOS,,RA,5+,39,1.0,10.5
 Pascal Siakam,F,IND,ATL,,PRA,20+,39,1.0,34.7
 Kevin Durant,F,HOU,BOS,,REB,3+,38,1.0,5.7
 Kevin Porter Jr.,G,MIL,MIN,Check roster,AST,2+,38,1.0,7.4
-Stephen Curry,G,GS,PHX,Out,THREES,2+,38,1.0,4.5
+Stephen Curry,G,GS,PHX,Questionable,THREES,2+,38,1.0,4.5
 Brandin Podziemski,G,GS,PHX,,PTS,5+,37,1.0,17.3
 Robert Williams III,C,POR,DEN,,REB,3+,37,1.0,7.9
 Pascal Siakam,F,IND,ATL,,RA,5+,36,1.0,10.7
@@ -122,7 +122,7 @@ P.J. Washington,F,DAL,SAC,,PRA,10+,29,1.0,22.7
 P.J. Washington,F,DAL,SAC,,PR,10+,29,1.0,21.2
 P.J. Washington,F,DAL,SAC,,RA,5+,29,1.0,8.6
 Tre Jones,G,CHI,PHI,,PTS,5+,29,1.0,16.5
-Draymond Green,F,GS,PHX,Out,PRA,10+,28,1.0,18.9
+Draymond Green,F,GS,PHX,Questionable,PRA,10+,28,1.0,18.9
 Jalen Brunson,G,NY,BKN,,PTS,15+,28,1.0,27.2
 Kyshawn George,F,WSH,ORL,,PTS,5+,28,1.0,15.0
 OG Anunoby,F,NY,BKN,,REB,3+,28,1.0,6.3
@@ -263,7 +263,7 @@ Donovan Clingan,C,POR,DEN,,PRA,10+,16,0.95,20.3
 Donovan Clingan,C,POR,DEN,,PR,10+,16,0.95,18.3
 Dylan Harper,G,SA,UTAH,,REB,3+,16,0.95,5.8
 Evan Mobley,C,CLE,OKC,,AST,2+,16,0.95,3.8
-Gui Santos,F,GS,PHX,Questionable,REB,3+,16,0.95,4.8
+Gui Santos,F,GS,PHX,Out,REB,3+,16,0.95,4.8
 Kevin Porter Jr.,G,MIL,MIN,Check roster,PTS,5+,16,0.95,17.8
 Kevin Porter Jr.,G,MIL,MIN,Check roster,PRA,10+,16,0.95,30.5
 Kevin Porter Jr.,G,MIL,MIN,Check roster,PR,10+,16,0.95,23.2
@@ -333,7 +333,7 @@ Cade Cunningham,G,DET,CHA,,AST,4+,12,0.95,7.6
 Dejounte Murray,G,NO,MEM,,RA,10+,12,0.89,12.2
 Derik Queen,C,NO,MEM,,RA,5+,12,0.9,12.2
 Domantas Sabonis,F,SAC,DAL,,AST,3+,12,0.9,6.2
-Draymond Green,F,GS,PHX,Out,AST,6+,12,0.8,7.6
+Draymond Green,F,GS,PHX,Questionable,AST,6+,12,0.8,7.6
 Guerschon Yabusele,F,CHI,PHI,Check roster,PTS,5+,12,0.9,9.8
 Guerschon Yabusele,F,CHI,PHI,Check roster,THREES,1+,12,0.9,1.7
 Guerschon Yabusele,F,CHI,PHI,Check roster,PRA,10+,12,0.95,15.9

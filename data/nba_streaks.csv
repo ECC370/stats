@@ -14,13 +14,13 @@ Kevin Durant,F,HOU,MIN,,PR,15+,87,1.0,30.9
 Kevin Durant,F,HOU,MIN,,PA,15+,87,1.0,30.1
 Derrick White,G,BOS,MIL,,PRA,10+,84,1.0,25.2
 Jalen Duren,C,DET,PHI,Out,REB,2+,84,1.0,10.2
-Kon Knueppel,G,CHA,BKN,Out,PTS,5+,83,1.0,18.3
+Kon Knueppel,G,CHA,BKN,Check roster,PTS,5+,83,1.0,18.3
 Amen Thompson,G,HOU,MIN,,REB,3+,82,1.0,7.8
 CJ McCollum,G,ATL,WSH,,PTS,5+,82,1.0,19.0
 Donovan Clingan,C,POR,PHX,,RA,5+,82,1.0,13.6
 Ryan Rollins,G,MIL,BOS,,PRA,10+,81,1.0,26.8
-Kon Knueppel,G,CHA,BKN,Out,PRA,10+,78,1.0,27.3
-Kon Knueppel,G,CHA,BKN,Out,PR,10+,78,1.0,23.9
+Kon Knueppel,G,CHA,BKN,Check roster,PRA,10+,78,1.0,27.3
+Kon Knueppel,G,CHA,BKN,Check roster,PR,10+,78,1.0,23.9
 Stephon Castle,G,SA,DAL,,RA,5+,78,1.0,12.2
 Trey Murphy III,F,NO,UTAH,Questionable,PTS,5+,73,1.0,20.9
 Trey Murphy III,F,NO,UTAH,Questionable,PRA,10+,73,1.0,30.2
@@ -120,7 +120,7 @@ Donovan Mitchell,G,CLE,OKC,,PA,15+,27,1.0,29.3
 Jamal Murray,G,DEN,TOR,,RA,5+,27,1.0,11.3
 Jaylen Brown,G,PHI,DET,,PTS,15+,27,1.0,26.6
 Jaylen Brown,G,PHI,DET,,PRA,20+,27,1.0,37.2
-Jayson Tatum,F,BOS,MIL,Questionable,REB,4+,27,1.0,9.3
+Jayson Tatum,F,BOS,MIL,Out,REB,4+,27,1.0,9.3
 Luka Doncic,G,LAL,SAC,,RA,10+,27,1.0,15.7
 Trey Murphy III,F,NO,UTAH,Questionable,THREES,1+,27,1.0,3.4
 Darius Garland,G,LAC,MIA,,RA,5+,26,1.0,8.9
@@ -135,8 +135,8 @@ Giannis Antetokounmpo,F,MIA,LAC,Questionable,PA,15+,26,1.0,32.0
 Giannis Antetokounmpo,F,MIA,LAC,Questionable,RA,5+,26,1.0,15.3
 Jaden McDaniels,F,MIN,HOU,,PTS,10+,26,1.0,16.3
 James Harden,G,CLE,OKC,,RA,5+,26,1.0,10.3
-Josh Hart,G,NY,CHI,Questionable,REB,4+,26,1.0,8.3
-Josh Hart,G,NY,CHI,Questionable,RA,5+,26,1.0,12.6
+Josh Hart,G,NY,CHI,Out,REB,4+,26,1.0,8.3
+Josh Hart,G,NY,CHI,Out,RA,5+,26,1.0,12.6
 Sam Hauser,F,BOS,MIL,,REB,2+,26,1.0,3.7
 Zach LaVine,G,SAC,LAL,,PRA,10+,26,1.0,24.8
 Zach LaVine,G,SAC,LAL,,PA,10+,26,1.0,22.2
@@ -147,7 +147,7 @@ Donovan Mitchell,G,CLE,OKC,,PRA,20+,25,1.0,34.7
 Donovan Mitchell,G,CLE,OKC,,PR,15+,25,1.0,30.9
 Dylan Harper,G,SA,DAL,,RA,5+,25,1.0,9.6
 Jaylen Brown,G,PHI,DET,,PA,20+,25,1.0,31.1
-Josh Hart,G,NY,CHI,Questionable,PRA,10+,25,1.0,22.7
+Josh Hart,G,NY,CHI,Out,PRA,10+,25,1.0,22.7
 Alex Sarr,C,WSH,ATL,Questionable,REB,2+,24,1.0,6.7
 Derik Queen,C,NO,UTAH,,REB,2+,24,1.0,7.1
 Devin Booker,G,PHX,POR,,AST,2+,24,1.0,5.8
@@ -251,10 +251,10 @@ Andrew Nembhard,G,IND,MEM,,PA,15+,15,0.9,25.5
 Bam Adebayo,C,MIA,LAC,,STL,1+,15,0.95,1.8
 Davion Mitchell,G,MIA,LAC,,PR,10+,15,0.9,17.5
 Donovan Mitchell,G,CLE,OKC,,RA,5+,15,0.95,9.4
-Josh Hart,G,NY,CHI,Questionable,AST,2+,15,0.95,4.5
+Josh Hart,G,NY,CHI,Out,AST,2+,15,0.95,4.5
 Julian Champagnie,F,SA,DAL,,PTS,5+,15,0.95,12.3
 Kel'el Ware,C,MIL,BOS,,PR,10+,15,0.9,20.2
-Kon Knueppel,G,CHA,BKN,Out,REB,3+,15,0.9,5.3
+Kon Knueppel,G,CHA,BKN,Check roster,REB,3+,15,0.9,5.3
 Stephon Castle,G,SA,DAL,,REB,4+,15,0.95,5.5
 T.J. McConnell,G,IND,MEM,Out,AST,3+,15,0.9,6.2
 T.J. McConnell,G,IND,MEM,Out,RA,5+,15,0.85,8.5
@@ -270,7 +270,7 @@ Jarrett Allen,C,CLE,OKC,,PTS,5+,14,0.9,14.1
 Javon Small,G,MEM,IND,,PTS,5+,14,0.95,13.6
 Javon Small,G,MEM,IND,,PRA,10+,14,0.95,21.4
 Javon Small,G,MEM,IND,,PA,10+,14,0.95,17.7
-Jayson Tatum,F,BOS,MIL,Questionable,RA,10+,14,0.95,15.9
+Jayson Tatum,F,BOS,MIL,Out,RA,10+,14,0.95,15.9
 Josh Giddey,G,CHI,NY,,AST,4+,14,0.95,9.6
 Josh Giddey,G,CHI,NY,,PRA,15+,14,0.95,26.7
 Josh Giddey,G,CHI,NY,,RA,5+,14,0.95,16.1
@@ -397,5 +397,5 @@ James Harden,G,CLE,OKC,,PR,15+,10,0.95,20.6
 Jaylen Brown,G,PHI,DET,,AST,2+,10,0.9,4.1
 John Konchar,G,UTAH,NO,Check roster,AST,2+,10,0.7,4.8
 John Konchar,G,UTAH,NO,Check roster,RA,5+,10,0.8,12.9
-Josh Hart,G,NY,CHI,Questionable,PR,10+,10,0.95,17.4
+Josh Hart,G,NY,CHI,Out,PR,10+,10,0.95,17.4
 Marcus Smart,G,HOU,MIN,,STL,1+,10,0.95,1.8

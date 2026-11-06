@@ -9,8 +9,8 @@ De'Aaron Fox,G,SA,SAC,,PA,10+,83,1.0,22.7
 Donovan Clingan,C,POR,LAL,,RA,5+,83,1.0,13.6
 Ryan Rollins,G,MIL,TOR,,PRA,10+,82,1.0,26.8
 Stephon Castle,G,SA,SAC,,RA,5+,79,1.0,12.2
-Trey Murphy III,F,NO,MIN,Questionable,PTS,5+,73,1.0,20.9
-Trey Murphy III,F,NO,MIN,Questionable,PRA,10+,73,1.0,30.2
+Trey Murphy III,F,NO,MIN,,PTS,5+,73,1.0,20.9
+Trey Murphy III,F,NO,MIN,,PRA,10+,73,1.0,30.2
 LeBron James,F,PHI,CLE,,RA,5+,72,1.0,13.7
 RJ Barrett,F,TOR,MIL,,PTS,5+,72,1.0,19.9
 RJ Barrett,F,TOR,MIL,,PRA,15+,72,1.0,28.9
@@ -25,7 +25,7 @@ Saddiq Bey,G,NO,MIN,,PTS,5+,65,1.0,19.0
 Saddiq Bey,G,NO,MIN,,PRA,10+,65,1.0,27.2
 Kawhi Leonard,F,TOR,MIL,Out,RA,5+,59,1.0,10.2
 LaMelo Ball,G,MIN,NO,,RA,5+,57,1.0,11.1
-Moussa Diabate,F,CHA,BOS,Questionable,RA,5+,57,1.0,11.8
+Moussa Diabate,F,CHA,BOS,Out,RA,5+,57,1.0,11.8
 Naz Reid,C,CHA,BOS,,PRA,10+,54,1.0,21.9
 Jaren Jackson Jr.,F,UTAH,DAL,Out,PTS,5+,52,1.0,19.2
 Jaren Jackson Jr.,F,UTAH,DAL,Out,PRA,10+,52,1.0,26.7
@@ -78,7 +78,7 @@ Jaden McDaniels,F,MIN,NO,,PTS,10+,27,1.0,16.3
 James Harden,G,CLE,PHI,,RA,5+,27,1.0,10.4
 Jayson Tatum,F,BOS,CHA,,REB,4+,27,1.0,9.3
 Sam Hauser,F,BOS,CHA,,REB,2+,27,1.0,3.6
-Trey Murphy III,F,NO,MIN,Questionable,THREES,1+,27,1.0,3.4
+Trey Murphy III,F,NO,MIN,,THREES,1+,27,1.0,3.4
 Zach LaVine,G,SAC,SA,,PRA,10+,27,1.0,24.9
 Zach LaVine,G,SAC,SA,,PA,10+,27,1.0,22.2
 Donovan Mitchell,G,CLE,PHI,,PTS,15+,26,1.0,25.7
@@ -135,7 +135,7 @@ Donovan Clingan,C,POR,LAL,,PRA,10+,18,0.95,22.2
 Donovan Clingan,C,POR,LAL,,PR,10+,18,0.95,20.2
 Evan Mobley,C,CLE,PHI,,AST,2+,18,0.95,3.7
 Naji Marshall,F,DAL,UTAH,,REB,2+,18,0.9,4.2
-Payton Pritchard,G,BOS,CHA,Questionable,RA,5+,18,0.95,7.9
+Payton Pritchard,G,BOS,CHA,,RA,5+,18,0.95,7.9
 Rayan Rupert,G,PHI,CLE,,REB,2+,18,0.9,6.0
 Trae Young,G,WSH,ATL,,RA,5+,18,0.95,11.4
 Zion Williamson,F,NO,MIN,,AST,2+,18,0.9,2.7
@@ -223,8 +223,8 @@ Derik Queen,C,NO,MIN,,PRA,10+,11,0.95,29.6
 Derik Queen,C,NO,MIN,,PR,10+,11,0.95,26.1
 Derik Queen,C,NO,MIN,,PA,10+,11,0.85,19.8
 Dylan Harper,G,SA,SAC,,PRA,25+,11,0.7,29.0
-Immanuel Quickley,G,TOR,MIL,,AST,2+,11,0.9,5.4
-Immanuel Quickley,G,TOR,MIL,,RA,5+,11,0.95,8.7
+Immanuel Quickley,G,TOR,MIL,Questionable,AST,2+,11,0.9,5.4
+Immanuel Quickley,G,TOR,MIL,Questionable,RA,5+,11,0.95,8.7
 Ja'Kobe Walter,G,TOR,MIL,,PTS,5+,11,0.9,13.5
 Jaden McDaniels,F,MIN,NO,,PA,15+,11,0.9,19.6
 Jalen Johnson,F,ATL,WSH,Questionable,AST,4+,11,0.85,7.4
@@ -244,7 +244,7 @@ Anthony Edwards,G,MIN,NO,Out,PR,15+,10,0.9,32.4
 Bez Mbeng,G,UTAH,DAL,Check roster,STL,1+,10,0.93,2.6
 CJ McCollum,G,ATL,WSH,,PA,10+,10,0.95,17.7
 Deni Avdija,F,POR,LAL,,PR,25+,10,0.95,29.1
-Dennis Schroder,G,CHA,BOS,Questionable,REB,2+,10,0.7,3.6
+Dennis Schroder,G,CHA,BOS,Out,REB,2+,10,0.7,3.6
 Derrick White,G,BOS,CHA,,THREES,1+,10,0.9,2.0
 Dwight Powell,F,DAL,UTAH,Check roster,REB,2+,10,0.85,6.1
 Grayson Allen,G,CHA,BOS,,PRA,10+,10,0.95,20.8
@@ -342,9 +342,9 @@ De'Aaron Fox,G,SA,SAC,,PR,10+,8,0.95,19.4
 De'Andre Hunter,F,SAC,SA,,REB,2+,8,0.85,4.9
 Dejounte Murray,G,NO,MIN,,PR,15+,8,0.95,22.6
 Donovan Mitchell,G,CLE,PHI,,AST,3+,8,0.7,5.5
-Immanuel Quickley,G,TOR,MIL,,PTS,10+,8,0.85,17.4
-Immanuel Quickley,G,TOR,MIL,,PR,10+,8,0.85,20.9
-Immanuel Quickley,G,TOR,MIL,,PA,15+,8,0.8,23.1
+Immanuel Quickley,G,TOR,MIL,Questionable,PTS,10+,8,0.85,17.4
+Immanuel Quickley,G,TOR,MIL,Questionable,PR,10+,8,0.85,20.9
+Immanuel Quickley,G,TOR,MIL,Questionable,PA,15+,8,0.8,23.1
 Jaden McDaniels,F,MIN,NO,,AST,3+,8,0.7,4.0
 James Harden,G,CLE,PHI,,AST,4+,8,0.8,6.2
 James Harden,G,CLE,PHI,,PRA,20+,8,0.95,28.1

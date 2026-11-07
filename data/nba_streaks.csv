@@ -142,8 +142,8 @@ Kyshawn George,F,WSH,OKC,,PR,10+,13,0.9,20.8
 Trae Young,G,WSH,OKC,,PR,15+,13,0.8,22.1
 Alex Sarr,C,WSH,OKC,,RA,5+,12,0.95,8.5
 Andrew Nembhard,G,IND,DEN,,PTS,10+,12,0.9,17.8
-Anthony Davis,F,WSH,OKC,Out,REB,5+,12,0.95,10.1
-Anthony Davis,F,WSH,OKC,Out,RA,5+,12,0.95,12.3
+Anthony Davis,F,WSH,OKC,Questionable,REB,5+,12,0.95,10.1
+Anthony Davis,F,WSH,OKC,Questionable,RA,5+,12,0.95,12.3
 Collin Gillespie,G,PHX,HOU,,AST,2+,12,0.9,3.8
 Danny Wolf,F,BKN,ATL,,PTS,5+,12,0.9,9.7
 Ja Morant,G,POR,SA,Out,PTS,10+,12,0.9,19.8
@@ -330,7 +330,7 @@ Obi Toppin,F,IND,DEN,,PA,10+,7,0.9,16.7
 Onyeka Okongwu,F,ATL,BKN,,PR,15+,7,0.75,25.3
 Pascal Siakam,F,IND,DEN,,AST,2+,7,0.8,4.1
 Peyton Watson,G,CLE,NY,,PRA,10+,7,0.95,18.7
-Sam Merrill,G,CLE,NY,Out,STL,1+,7,0.65,1.1
+Sam Merrill,G,CLE,NY,Questionable,STL,1+,7,0.65,1.1
 Shai Gilgeous-Alexander,G,OKC,WSH,,PTS,20+,7,0.8,31.4
 Shai Gilgeous-Alexander,G,OKC,WSH,,REB,3+,7,0.65,4.1
 Shai Gilgeous-Alexander,G,OKC,WSH,,PRA,25+,7,0.9,40.3
@@ -342,10 +342,10 @@ Aday Mara,C,OKC,WSH,,PTS,5+,6,0.78,8.7
 Aday Mara,C,OKC,WSH,,PRA,10+,6,0.78,17.2
 Alperen Sengun,C,HOU,PHX,,AST,7+,6,0.5,8.7
 Andrew Nembhard,G,IND,DEN,,THREES,1+,6,0.85,2.8
-Anthony Davis,F,WSH,OKC,Out,PTS,15+,6,0.8,24.0
-Anthony Davis,F,WSH,OKC,Out,PRA,25+,6,0.8,34.8
-Anthony Davis,F,WSH,OKC,Out,PR,20+,6,0.85,32.8
-Anthony Davis,F,WSH,OKC,Out,PA,20+,6,0.75,26.0
+Anthony Davis,F,WSH,OKC,Questionable,PTS,15+,6,0.8,24.0
+Anthony Davis,F,WSH,OKC,Questionable,PRA,25+,6,0.8,34.8
+Anthony Davis,F,WSH,OKC,Questionable,PR,20+,6,0.85,32.8
+Anthony Davis,F,WSH,OKC,Questionable,PA,20+,6,0.75,26.0
 Bennett Stirtz,G,OKC,WSH,,PTS,5+,6,0.67,10.5
 Bennett Stirtz,G,OKC,WSH,,THREES,1+,6,0.67,2.3
 Brandin Podziemski,G,GS,ORL,,REB,3+,6,0.8,5.7

@@ -13,7 +13,7 @@ George Pickens,WR,DAL,IND,Questionable,TGT,3+,25,1.0,8.0
 Jonathan Taylor,RB,IND,DAL,,RUSH_YDS,20+,25,1.0,87.8
 Jonathan Taylor,RB,IND,DAL,,RUSH_ATT,8+,25,1.0,18.8
 Keenan Allen,WR,IND,DAL,,TGT,3+,25,1.0,7.2
-Khalil Shakir,WR,BUF,MIN,DNP,REC,1+,25,1.0,4.7
+Khalil Shakir,WR,BUF,MIN,,REC,1+,25,1.0,4.7
 Caleb Williams,QB,CHI,TB,,PASS_YDS,125+,24,1.0,242.8
 Caleb Williams,QB,CHI,TB,,ATT,25+,24,1.0,34.0
 Chase Brown,RB,CIN,ATL,,RUSH_ATT,8+,24,1.0,13.6
@@ -24,13 +24,13 @@ Woody Marks,RB,HOU,LAC,,RR_YDS,20+,24,1.0,59.2
 Davante Adams,WR,LA,WAS,,TGT,4+,23,1.0,8.2
 Ja'Marr Chase,WR,CIN,ATL,,TGT,3+,23,1.0,10.7
 Justin Jefferson,WR,MIN,BUF,,REC,2+,23,1.0,4.9
-Khalil Shakir,WR,BUF,MIN,DNP,TGT,3+,23,1.0,6.2
+Khalil Shakir,WR,BUF,MIN,,TGT,3+,23,1.0,6.2
 Rachaad White,RB,WAS,LA,,REC,1+,23,1.0,2.4
 Saquon Barkley,RB,PHI,NYG,Limited,RUSH_YDS,5+,23,1.0,66.1
 Saquon Barkley,RB,PHI,NYG,Limited,RR_YDS,10+,23,1.0,80.8
 Dallas Goedert,TE,PHI,NYG,,REC,1+,22,1.0,4.1
-David Montgomery,RB,HOU,LAC,DNP,RUSH_YDS,10+,22,1.0,38.8
-David Montgomery,RB,HOU,LAC,DNP,RR_YDS,10+,22,1.0,50.6
+David Montgomery,RB,HOU,LAC,Out,RUSH_YDS,10+,22,1.0,38.8
+David Montgomery,RB,HOU,LAC,Out,RR_YDS,10+,22,1.0,50.6
 Jacory Croskey-Merritt,RB,WAS,LA,,RUSH_YDS,15+,22,1.0,47.5
 T.J. Hockenson,TE,MIN,BUF,,REC,1+,22,1.0,3.7
 Chase Brown,RB,CIN,ATL,,RUSH_YDS,10+,21,1.0,60.3
@@ -84,7 +84,7 @@ Greg Dulcich,TE,MIA,DET,,REC_YDS,15+,15,1.0,39.4
 Greg Dulcich,TE,MIA,DET,,RR_YDS,15+,15,1.0,38.9
 Josh Downs,WR,IND,DAL,,REC,2+,15,0.95,3.5
 Josh Downs,WR,IND,DAL,,TGT,4+,15,0.9,6.1
-Khalil Shakir,WR,BUF,MIN,DNP,REC_YDS,5+,15,0.95,51.7
+Khalil Shakir,WR,BUF,MIN,,REC_YDS,5+,15,0.95,51.7
 Michael Penix Jr.,QB,ATL,CIN,,PASS_YDS,125+,15,1.0,217.6
 Terry McLaurin,WR,WAS,LA,,REC,1+,15,1.0,3.5
 Terry McLaurin,WR,WAS,LA,,REC_YDS,10+,15,1.0,54.1

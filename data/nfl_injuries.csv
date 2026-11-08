@@ -1,16 +1,4 @@
 Team,Pos,Player,Status,Injury,Practice
-ATL,RB,Brian Robinson,Out,Hamstring,Limited Participation in Practice
-ATL,T,Cameron Williams,Out,Ankle,Full Participation in Practice
-ATL,WR,Zachariah Branch,Out,Hamstring,Did Not Participate In Practice
-ATL,DE,James Pearce Jr.,Questionable,Back,Limited Participation in Practice
-ATL,DE,Yasir Abdullah,Questionable,Hamstring,Full Participation in Practice
-ATL,LB,Divine Deablo,Questionable,Forearm,Full Participation in Practice
-ATL,WR,Beaux Collins,Questionable,Hip,Full Participation in Practice
-CIN,S,Kyle Dugger,Out,Quadricep,Did Not Participate In Practice
-CIN,DE,Cedric Johnson,Questionable,Ankle,Full Participation in Practice
-CIN,DT,B.J. Hill,DNP,,Did Not Participate In Practice
-CIN,DT,Dexter Lawrence,DNP,,Did Not Participate In Practice
-CIN,DT,Jonathan Allen,Limited,,Limited Participation in Practice
 CAR,CB,Will Lee III,Out,Hamstring,Did Not Participate In Practice
 CAR,G,Damien Lewis,Out,Knee,Did Not Participate In Practice
 CAR,LB,Bobby Okereke,Out,Foot,Did Not Participate In Practice
@@ -183,12 +171,24 @@ MIN,S,Jay Ward,Questionable,Knee,Limited Participation in Practice
 MIN,S,Theo Jackson,Questionable,Quadricep,Limited Participation in Practice
 MIN,T,Christian Darrisaw,DNP,,Did Not Participate In Practice
 MIN,S,Harrison Smith,Limited,,Limited Participation in Practice
+ATL,RB,Brian Robinson,Out,Hamstring,Limited Participation in Practice
+ATL,T,Cameron Williams,Out,Ankle,Full Participation in Practice
+ATL,WR,Zachariah Branch,Out,Hamstring,Did Not Participate In Practice
+ATL,DE,James Pearce Jr.,Questionable,Back,Limited Participation in Practice
+ATL,DE,Yasir Abdullah,Questionable,Hamstring,Full Participation in Practice
+ATL,LB,Divine Deablo,Questionable,Forearm,Full Participation in Practice
+ATL,WR,Beaux Collins,Questionable,Hip,Full Participation in Practice
 BAL,QB,Lamar Jackson,Out,Thumb,Did Not Participate In Practice
 BAL,QB,Tyler Huntley,Out,Toe,Did Not Participate In Practice
 BAL,S,Jaylinn Hawkins,Out,Knee,Did Not Participate In Practice
 BAL,CB,Nate Wiggins,Questionable,Stinger,Did Not Participate In Practice
 BAL,RB,Adam Randall,Questionable,Neck,Full Participation in Practice
 BAL,K,Tyler Loop,DNP,,Did Not Participate In Practice
+CIN,S,Kyle Dugger,Out,Quadricep,Did Not Participate In Practice
+CIN,DE,Cedric Johnson,Questionable,Ankle,Full Participation in Practice
+CIN,DT,B.J. Hill,DNP,,Did Not Participate In Practice
+CIN,DT,Dexter Lawrence,DNP,,Did Not Participate In Practice
+CIN,DT,Jonathan Allen,Limited,,Limited Participation in Practice
 JAX,DE,Travon Walker,Questionable,Rib,Limited Participation in Practice
 JAX,RB,Bhayshul Tuten,Questionable,Ankle,Did Not Participate In Practice
 JAX,DT,DaVon Hamilton,DNP,,Did Not Participate In Practice

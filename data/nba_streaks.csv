@@ -40,9 +40,9 @@ Tre Jones,G,CHI,PHI,,PTS,5+,31,1.0,16.2
 Ace Bailey,G,UTAH,MIN,,PTS,5+,30,1.0,16.9
 Jaylen Brown,G,PHI,CHI,,PTS,15+,29,1.0,26.5
 Jaylen Brown,G,PHI,CHI,,PRA,20+,29,1.0,37.0
-Luka Doncic,G,LAL,DET,Questionable,RA,10+,29,1.0,15.5
+Luka Doncic,G,LAL,DET,Out,RA,10+,29,1.0,15.5
 Max Strus,G,LAC,NO,,REB,2+,29,1.0,4.9
-Nic Claxton,C,BKN,DAL,Out,PRA,10+,29,1.0,19.8
+Nic Claxton,C,BKN,DAL,Check roster,PRA,10+,29,1.0,19.8
 Ausar Thompson,G,DET,LAL,,RA,5+,28,1.0,11.3
 Domantas Sabonis,F,SAC,MIA,,PTS,5+,28,1.0,15.7
 Domantas Sabonis,F,SAC,MIA,,PR,15+,28,1.0,28.1
@@ -61,8 +61,8 @@ Zion Williamson,F,NO,LAC,,PTS,10+,26,1.0,20.0
 Zion Williamson,F,NO,LAC,,PA,15+,26,1.0,22.6
 Cade Cunningham,G,DET,LAL,,RA,5+,23,1.0,13.0
 Day'Ron Sharpe,C,BKN,DAL,,PRA,10+,23,1.0,19.8
-Nic Claxton,C,BKN,DAL,Out,REB,4+,23,1.0,6.0
-Nic Claxton,C,BKN,DAL,Out,RA,5+,23,1.0,9.0
+Nic Claxton,C,BKN,DAL,Check roster,REB,4+,23,1.0,6.0
+Nic Claxton,C,BKN,DAL,Check roster,RA,5+,23,1.0,9.0
 Ziaire Williams,F,LAL,DET,,STL,1+,23,1.0,1.7
 Ace Bailey,G,UTAH,MIN,,PR,10+,22,1.0,22.9
 Jonathan Kuminga,F,MIN,UTAH,,PTS,5+,22,1.0,13.2
@@ -168,7 +168,7 @@ Derrick White,G,BOS,MIL,,THREES,1+,11,0.9,2.2
 Jake LaRavia,F,LAL,DET,,STL,1+,11,0.8,1.5
 Kennedy Chandler,G,UTAH,MIN,Check roster,AST,4+,11,1.0,6.7
 Kennedy Chandler,G,UTAH,MIN,Check roster,RA,5+,11,1.0,10.1
-Luka Doncic,G,LAL,DET,Questionable,AST,5+,11,0.85,8.0
+Luka Doncic,G,LAL,DET,Out,AST,5+,11,0.85,8.0
 Maxime Raynaud,C,SAC,MIA,Out,REB,7+,11,0.8,9.0
 Myles Turner,C,MIL,BOS,,REB,2+,11,0.9,6.2
 Paul Reed,F,DET,LAL,,REB,4+,11,0.8,6.2
@@ -190,15 +190,15 @@ Jaden McDaniels,F,MIN,UTAH,,RA,5+,10,0.9,10.0
 Jaime Jaquez Jr.,F,MIL,BOS,,REB,2+,10,0.95,6.2
 Jaylen Brown,G,PHI,CHI,,PR,20+,10,0.95,29.6
 Jaylen Brown,G,PHI,CHI,,RA,5+,10,0.9,10.9
-Joan Beringer,F,MIN,UTAH,Questionable,REB,3+,10,0.75,6.4
+Joan Beringer,F,MIN,UTAH,,REB,3+,10,0.75,6.4
 John Konchar,G,UTAH,MIN,Check roster,AST,2+,10,0.7,4.8
 John Konchar,G,UTAH,MIN,Check roster,RA,5+,10,0.8,12.9
 Keyonte George,G,UTAH,MIN,Questionable,RA,5+,10,0.85,10.1
 Moritz Wagner,C,BKN,DAL,,PTS,5+,10,0.6,9.7
-Norman Powell,G,CHI,PHI,Questionable,PTS,10+,10,0.9,19.0
-Norman Powell,G,CHI,PHI,Questionable,PRA,10+,10,0.9,23.0
-Norman Powell,G,CHI,PHI,Questionable,PR,10+,10,0.9,21.4
-Norman Powell,G,CHI,PHI,Questionable,PA,10+,10,0.9,20.6
+Norman Powell,G,CHI,PHI,Out,PTS,10+,10,0.9,19.0
+Norman Powell,G,CHI,PHI,Out,PRA,10+,10,0.9,23.0
+Norman Powell,G,CHI,PHI,Out,PR,10+,10,0.9,21.4
+Norman Powell,G,CHI,PHI,Out,PA,10+,10,0.9,20.6
 Russell Westbrook,G,SAC,MIA,Check roster,PRA,15+,10,0.85,29.3
 Russell Westbrook,G,SAC,MIA,Check roster,PA,15+,10,0.8,24.4
 Tyler Herro,G,MIL,BOS,,PA,15+,10,0.95,27.1
@@ -222,7 +222,7 @@ Kris Dunn,G,LAC,NO,,PRA,10+,9,0.75,17.3
 Kris Dunn,G,LAC,NO,,RA,5+,9,0.8,9.0
 Kyle Kuzma,F,MIL,BOS,,REB,2+,9,0.9,6.0
 Leaky Black,F,SAC,MIA,,STL,1+,9,0.74,2.1
-Luka Doncic,G,LAL,DET,Questionable,REB,5+,9,0.95,7.8
+Luka Doncic,G,LAL,DET,Out,REB,5+,9,0.95,7.8
 Rudy Gobert,C,MIN,UTAH,,REB,4+,9,0.95,11.8
 Rudy Gobert,C,MIN,UTAH,,RA,5+,9,0.95,13.1
 Rui Hachimura,F,LAC,NO,,REB,4+,9,0.75,5.9
@@ -258,7 +258,7 @@ Dylan Cardwell,C,SAC,MIA,,PRA,10+,8,0.85,15.4
 Dylan Cardwell,C,SAC,MIA,,RA,5+,8,0.95,8.2
 Giannis Antetokounmpo,F,MIA,SAC,,AST,3+,8,0.85,6.1
 Isaiah Jackson,F,LAC,NO,Out,RA,5+,8,0.85,8.4
-Jalen Smith,F,CHI,PHI,Questionable,REB,2+,8,0.95,7.8
+Jalen Smith,F,CHI,PHI,,REB,2+,8,0.95,7.8
 Joel Embiid,C,PHI,CHI,Questionable,REB,7+,8,0.7,9.6
 Keaton Wagler,G,LAC,NO,,PTS,5+,8,1.0,12.0
 Keaton Wagler,G,LAC,NO,,REB,2+,8,1.0,4.1
@@ -325,14 +325,14 @@ Kyrie Irving,G,DAL,BKN,,AST,2+,7,1.0,4.4
 Kyrie Irving,G,DAL,BKN,,PRA,15+,7,1.0,29.6
 Kyrie Irving,G,DAL,BKN,,PR,15+,7,1.0,25.1
 Kyrie Irving,G,DAL,BKN,,PA,15+,7,1.0,25.9
-Luka Doncic,G,LAL,DET,Questionable,PTS,35+,7,0.7,44.3
-Luka Doncic,G,LAL,DET,Questionable,THREES,5+,7,0.65,6.4
-Luka Doncic,G,LAL,DET,Questionable,PRA,45+,7,0.85,60.1
-Luka Doncic,G,LAL,DET,Questionable,PR,40+,7,0.75,52.3
-Luka Doncic,G,LAL,DET,Questionable,PA,40+,7,0.8,52.1
+Luka Doncic,G,LAL,DET,Out,PTS,35+,7,0.7,44.3
+Luka Doncic,G,LAL,DET,Out,THREES,5+,7,0.65,6.4
+Luka Doncic,G,LAL,DET,Out,PRA,45+,7,0.85,60.1
+Luka Doncic,G,LAL,DET,Out,PR,40+,7,0.75,52.3
+Luka Doncic,G,LAL,DET,Out,PA,40+,7,0.8,52.1
 Mikel Brown Jr.,G,BKN,DAL,Out,AST,3+,7,1.0,3.9
 Mikel Brown Jr.,G,BKN,DAL,Out,PRA,10+,7,1.0,18.9
-Mitchell Robinson,C,BOS,MIL,,REB,4+,7,0.85,5.9
+Mitchell Robinson,C,BOS,MIL,Questionable,REB,4+,7,0.85,5.9
 Nolan Traore,G,BKN,DAL,,PTS,5+,7,0.85,15.6
 Nolan Traore,G,BKN,DAL,,AST,2+,7,0.85,3.4
 Nolan Traore,G,BKN,DAL,,PRA,10+,7,0.8,21.1

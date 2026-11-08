@@ -1,9 +1,9 @@
 Team,Player,Status,Detail
-ATL,Keshon Gilbert,Out,Gilbert (knee) is out for Saturday's game against Brooklyn.
-ATL,Asa Newell,Out,Newell (toe)  is out for Saturday's game against the Nets.
 ATL,Jock Landale,Out,Landale (hip) has been ruled out for Saturday's game against the Nets.
 ATL,Mouhamed Gueye,Out,"Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On P"
 ATL,Henri Veesaar,Out,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
+ATL,Asa Newell,Questionable,Newell (toe)  is out for Saturday's game against the Nets.
+ATL,Keshon Gilbert,Questionable,Gilbert (knee) is out for Saturday's game against Brooklyn.
 BKN,Mikel Brown Jr.,Out,"Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists and one steal over 25 minutes in Saturday's 124-12"
 BKN,Egor Demin,Out,"The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday."
 CHA,Dennis Schroder,Out,Schroder (thigh) is out for Friday's game versus Boston.
@@ -23,8 +23,8 @@ DAL,Sergio de Larrea,Out,De Larrea (knee) is out for Friday's game against Utah.
 DAL,Tarik Biberovic,Out,Biberovic (heel) is listed as out for Monday's game against Sacramento.
 DAL,Dereck Lively II,Out,Lively (foot) is listed as out for Monday's game against the Kings.
 DEN,Julian Strawther,Out,"Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette r"
+DET,Jalen Duren,Out,"Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
 DET,Isaiah Joe,Out,Joe (hip) has been ruled out for Sunday's game against the Lakers.
-DET,Jalen Duren,Out,"Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports."
 GS,Kristaps Porzingis,Out,Porzingis announced on his social media that he's stepping away from basketball.
 GS,Moses Moody,Out,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthon"
 GS,Jimmy Butler III,Out,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN re"
@@ -46,18 +46,18 @@ MIN,Anthony Edwards,Out,"Edwards underwent a successful arthroscopic procedure o
 MIN,Donte DiVincenzo,Out,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports."
 MIN,Joan Beringer,Questionable,Beringer (nose) is questionable for Sunday's game against the Jazz.
 NO,Yves Missi,Out,Missi (knee) is out for Friday's game against Minnesota.
-NY,Josh Hart,Out,Hart is out for Saturday's game against the Cavaliers due to right ankle soreness.
+NY,Josh Hart,Questionable,Hart is out for Saturday's game against the Cavaliers due to right ankle soreness.
 OKC,Jaylin Williams,Out,"Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports."
 OKC,Thomas Sorber,Out,Sorber (knee) is out for Wednesday's game against the Cavaliers.
 OKC,Cason Wallace,Out,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season,"
 OKC,Chet Holmgren,Out,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Sl"
 OKC,Jalen Williams,Out,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a "
-ORL,Desmond Bane,Out,Bane (illness) has been ruled out for Saturday's game against the Warriors.
 ORL,Jonathan Isaac,Out,Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday.
 ORL,Jalen Suggs,Out,"Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
 ORL,Paolo Banchero,Out,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
 ORL,Noah Penda,Out,"Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports."
 ORL,Izaiyah Nelson,Out,"Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, "
+ORL,Desmond Bane,Questionable,Bane (illness) has been ruled out for Saturday's game against the Warriors.
 PHI,Adem Bona,Out,Bona (back) is out for Sunday's game in Chicago.
 PHI,Dominick Barlow,Out,"Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bo"
 PHI,Ariel Hukporti,Out,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
@@ -79,6 +79,7 @@ TOR,Scottie Barnes,Questionable,"Barnes (adductor) is listed as out for Friday's
 TOR,Immanuel Quickley,Questionable,"Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports."
 UTAH,Jusuf Nurkic,Out,Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 p
 UTAH,Jaren Jackson Jr.,Out,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN."
+UTAH,Keyonte George,Questionable,George (illness) has been downgraded to questionable for Sunday's game against Minnesota.
 UTAH,Lauri Markkanen,Questionable,Markkanen is questionable for Sunday's game against the Timberwolves due to a right wrist sprain.
 WSH,Reece Beekman,Out,The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three w
 WSH,Tristan Vukcevic,Out,Vukcevic (hip) is listed as out for Monday's game against Orlando.

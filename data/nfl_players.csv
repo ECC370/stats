@@ -32,7 +32,7 @@ Arian Smith,NYJ,WR
 Ashton Dulin,IND,WR
 Ashton Jeanty,LV,RB
 Athan Kaliakmanis,WAS,QB
-Audric Estimé,CLE,RB
+Audric Estimé,NO,RB
 Austin Ekeler,WAS,RB
 Austin Hooper,ATL,TE
 Austin Trammell,JAX,WR
@@ -95,7 +95,9 @@ Cam Akers,SEA,RB
 Cam Grandy,CIN,TE
 Cam Skattebo,NYG,RB
 Cam Ward,TEN,QB
+Camden Brown,DAL,WR
 Cameron Latu,NE,TE
+Carlos Washington,MIA,RB
 Carnell Tate,TEN,WR
 Carsen Ryan,CLE,TE
 Carson Steele,PHI,RB
@@ -149,6 +151,7 @@ DJ Giddens,IND,RB
 DJ Herman,MIA,RB
 DJ Moore,BUF,WR
 DJ Turner,LV,WR
+DJ Uiagalelei,LAC,QB
 DK Metcalf,PIT,WR
 Dak Prescott,DAL,QB
 Dalen Cambre,NYG,WR
@@ -226,14 +229,14 @@ Elijah Mitchell,PHI,RB
 Elijah Moore,PHI,WR
 Elijah Sarratt,BAL,WR
 Emanuel Wilson,SEA,RB
-Emari Demercado,DAL,RB
+Emari Demercado,HOU,RB
 Emeka Egbuka,TB,WR
 Emmett Johnson,KC,RB
 Eric Gray,NYG,RB
 Eric Saubert,SEA,TE
 Erick All,CIN,TE
 Evan Engram,DEN,TE
-Evan Hull,NO,RB
+Evan Hull,ARI,RB
 Feleipe Franks,CAR,TE
 Fernando Mendoza,LV,QB
 Foster Moreau,HOU,TE
@@ -253,6 +256,7 @@ Giovanni Ricci,DET,TE
 Grant Calcaterra,PHI,TE
 Greg Dortch,BUF,WR
 Greg Dulcich,MIA,TE
+Gregory Desrosiers,NYG,RB
 Gunnar Helm,TEN,TE
 Gunner Olszewski,NYG,WR
 Harold Fannin Jr.,CLE,TE
@@ -280,6 +284,7 @@ Ja'Kobi Lane,BAL,WR
 Ja'Marr Chase,CIN,WR
 Ja'Seem Reed,CAR,WR
 Ja'Tavion Sanders,CAR,TE
+Jabari Small,DET,RB
 Jacardia Wright,SEA,RB
 Jack Bech,LV,WR
 Jack Endries,CIN,TE
@@ -294,6 +299,7 @@ Jacoby Brissett,ARI,QB
 Jacoby Jones,WAS,WR
 Jacory Croskey-Merritt,WAS,RB
 Jadarian Price,SEA,RB
+Jaden Bradley,WAS,WR
 Jahan Dotson,ATL,WR
 Jahdae Walker,CHI,WR
 Jahmyr Gibbs,DET,RB
@@ -328,7 +334,7 @@ James Mitchell,DAL,TE
 James Proche,TEN,WR
 Jameson Williams,DET,WR
 Jared Goff,DET,QB
-Jared Wayne,HOU,WR
+Jared Wayne,MIA,WR
 Jared Wiley,KC,TE
 Jaret Patterson,LAC,RB
 Jarquez Hunter,LA,RB
@@ -361,7 +367,7 @@ Jimmy Horn Jr.,CAR,WR
 Joe Burrow,CIN,QB
 Joe Fagnano,BAL,QB
 Joe Flacco,CIN,QB
-Joe Milton III,DAL,QB
+Joe Milton III,PHI,QB
 John Bates,WAS,TE
 John FitzPatrick,GB,TE
 John Metchie III,CAR,WR
@@ -372,12 +378,14 @@ Jonathan Taylor,IND,RB
 Jonathon Brooks,CAR,RB
 Jonnu Smith,GB,TE
 Jordan Addison,MIN,WR
+Jordan Hudson,DAL,WR
 Jordan James,SF,RB
 Jordan Love,GB,QB
 Jordan Mason,MIN,RB
 Jordan Mims,TEN,RB
 Jordan Watkins,SF,WR
 Jordan Whittington,LA,WR
+Jordyn Tyson,NO,WR
 Josh Allen,BUF,QB
 Josh Cameron,JAX,WR
 Josh Cuevas,BAL,TE
@@ -395,7 +403,7 @@ JuJu Smith-Schuster,KC,WR
 Julian Hill,MIA,TE
 Julius Chestnut,TEN,RB
 Justice Hill,BAL,RB
-Justin Fields,NYJ,QB
+Justin Fields,KC,QB
 Justin Herbert,LAC,QB
 Justin Jefferson,MIN,WR
 Justin Shorter,LV,TE
@@ -710,7 +718,7 @@ Zach Ertz,PHI,TE
 Zach Wilson,MIA,QB
 Zachariah Branch,ATL,WR
 Zaire Mitchell-Paden,NO,TE
-Zamir White,LV,RB
+Zamir White,NO,RB
 Zavier Scott,CHI,RB
 Zavion Thomas,CHI,WR
 Zay Flowers,BAL,WR

@@ -57,7 +57,7 @@ Donovan Mitchell,G,CLE,CHA,,PA,15+,30,1.0,29.9
 Donovan Mitchell,G,CLE,CHA,,REB,3+,29,1.0,5.1
 Jamal Murray,G,DEN,HOU,Questionable,RA,5+,29,1.0,11.4
 James Harden,G,CLE,CHA,,RA,5+,29,1.0,10.3
-Luka Doncic,G,LAL,ATL,Out,RA,10+,29,1.0,15.5
+Luka Doncic,G,LAL,ATL,Questionable,RA,10+,29,1.0,15.5
 Stephon Castle,G,SA,PHX,,REB,3+,29,1.0,5.4
 Trey Murphy III,F,NO,GS,,THREES,1+,29,1.0,3.3
 Donovan Mitchell,G,CLE,CHA,,PTS,15+,28,1.0,26.0
@@ -196,7 +196,7 @@ Dyson Daniels,G,ATL,LAL,,AST,3+,11,0.9,5.5
 Immanuel Quickley,G,TOR,MEM,Questionable,AST,2+,11,0.9,5.4
 Immanuel Quickley,G,TOR,MEM,Questionable,RA,5+,11,0.95,8.7
 Luguentz Dort,G,ATL,LAL,,REB,2+,11,0.9,3.3
-Luka Doncic,G,LAL,ATL,Out,AST,5+,11,0.85,8.0
+Luka Doncic,G,LAL,ATL,Questionable,AST,5+,11,0.85,8.0
 Mark Williams,C,PHX,SA,Out,REB,4+,11,0.95,7.0
 Mark Williams,C,PHX,SA,Out,RA,5+,11,0.95,7.5
 Nickeil Alexander-Walker,G,ATL,LAL,,REB,2+,11,0.8,3.2
@@ -257,7 +257,7 @@ Jamir Watkins,G,WSH,DET,Out,PTS,5+,9,0.9,12.2
 Jamir Watkins,G,WSH,DET,Out,PRA,10+,9,0.85,19.2
 Jamir Watkins,G,WSH,DET,Out,PR,10+,9,0.8,17.2
 Kevin Huerter,G,DET,WSH,,THREES,1+,9,0.9,1.8
-Luka Doncic,G,LAL,ATL,Out,REB,5+,9,0.95,7.8
+Luka Doncic,G,LAL,ATL,Questionable,REB,5+,9,0.95,7.8
 Paul Reed,F,DET,WSH,,PTS,5+,9,0.75,12.2
 Stephon Castle,G,SA,PHX,,AST,3+,9,0.95,5.4
 Tari Eason,F,HOU,DEN,,REB,3+,9,0.9,6.6
@@ -356,11 +356,11 @@ Kam Jones,G,IND,DAL,Check roster,RA,5+,7,0.7,8.0
 Karlo Matkovic,F,NO,GS,,REB,3+,7,0.85,4.7
 Khaman Maluach,C,PHX,SA,,PTS,5+,7,0.45,8.1
 Luguentz Dort,G,ATL,LAL,,THREES,1+,7,0.85,2.3
-Luka Doncic,G,LAL,ATL,Out,PTS,35+,7,0.7,44.3
-Luka Doncic,G,LAL,ATL,Out,THREES,5+,7,0.65,6.4
-Luka Doncic,G,LAL,ATL,Out,PRA,45+,7,0.85,60.1
-Luka Doncic,G,LAL,ATL,Out,PR,40+,7,0.75,52.3
-Luka Doncic,G,LAL,ATL,Out,PA,40+,7,0.8,52.1
+Luka Doncic,G,LAL,ATL,Questionable,PTS,35+,7,0.7,44.3
+Luka Doncic,G,LAL,ATL,Questionable,THREES,5+,7,0.65,6.4
+Luka Doncic,G,LAL,ATL,Questionable,PRA,45+,7,0.85,60.1
+Luka Doncic,G,LAL,ATL,Questionable,PR,40+,7,0.75,52.3
+Luka Doncic,G,LAL,ATL,Questionable,PA,40+,7,0.8,52.1
 Mario Hezonja,F,CLE,CHA,,RA,5+,7,0.9,9.3
 Mark Williams,C,PHX,SA,Out,PRA,10+,7,0.9,17.4
 Meleek Thomas,G,CLE,CHA,,PTS,5+,7,1.0,12.3

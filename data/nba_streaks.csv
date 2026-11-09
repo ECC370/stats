@@ -41,9 +41,9 @@ Kevin Durant,F,HOU,DEN,,REB,3+,41,1.0,5.8
 Pascal Siakam,F,IND,DAL,,PRA,20+,41,1.0,34.3
 Brandin Podziemski,G,GS,NO,,PTS,5+,40,1.0,17.1
 Pascal Siakam,F,IND,DAL,,RA,5+,38,1.0,10.5
-Austin Reaves,G,LAL,ATL,,RA,5+,35,1.0,9.3
+Austin Reaves,G,LAL,ATL,Questionable,RA,5+,35,1.0,9.3
 Jabari Smith Jr.,F,HOU,DEN,,THREES,1+,35,1.0,2.7
-Devin Vassell,G,SA,PHX,Questionable,PRA,10+,34,1.0,20.4
+Devin Vassell,G,SA,PHX,Out,PRA,10+,34,1.0,20.4
 Kawhi Leonard,F,TOR,MEM,Out,PR,25+,34,1.0,34.1
 P.J. Washington,F,DAL,IND,,PRA,10+,33,1.0,22.9
 P.J. Washington,F,DAL,IND,,PR,10+,33,1.0,21.4
@@ -57,7 +57,7 @@ Donovan Mitchell,G,CLE,CHA,,PA,15+,30,1.0,29.9
 Donovan Mitchell,G,CLE,CHA,,REB,3+,29,1.0,5.1
 Jamal Murray,G,DEN,HOU,Questionable,RA,5+,29,1.0,11.4
 James Harden,G,CLE,CHA,,RA,5+,29,1.0,10.3
-Luka Doncic,G,LAL,ATL,Questionable,RA,10+,29,1.0,15.5
+Luka Doncic,G,LAL,ATL,,RA,10+,29,1.0,15.5
 Stephon Castle,G,SA,PHX,,REB,3+,29,1.0,5.4
 Trey Murphy III,F,NO,GS,,THREES,1+,29,1.0,3.3
 Donovan Mitchell,G,CLE,CHA,,PTS,15+,28,1.0,26.0
@@ -129,7 +129,7 @@ Dylan Harper,G,SA,PHX,,PA,15+,17,0.85,21.5
 Onyeka Okongwu,F,ATL,LAL,,PRA,15+,17,0.95,23.3
 Victor Wembanyama,F,SA,PHX,,REB,7+,17,0.9,11.4
 Derik Queen,C,NO,GS,,RA,5+,16,0.95,11.6
-Devin Vassell,G,SA,PHX,Questionable,REB,2+,16,0.95,4.9
+Devin Vassell,G,SA,PHX,Out,REB,2+,16,0.95,4.9
 Khaman Maluach,C,PHX,SA,,REB,2+,16,0.85,5.9
 Tobias Harris,F,DET,WSH,Out,PTS,5+,16,0.95,17.5
 Tobias Harris,F,DET,WSH,Out,PRA,10+,16,0.95,25.8
@@ -151,9 +151,9 @@ Nickeil Alexander-Walker,G,ATL,LAL,,PTS,10+,15,0.95,19.9
 Ziaire Williams,F,LAL,ATL,,THREES,1+,15,0.95,1.7
 Ziaire Williams,F,LAL,ATL,,PRA,10+,15,0.9,17.1
 Ziaire Williams,F,LAL,ATL,,PR,10+,15,0.9,15.5
-Austin Reaves,G,LAL,ATL,,PTS,15+,14,0.95,25.2
-Austin Reaves,G,LAL,ATL,,THREES,1+,14,0.85,2.4
-Austin Reaves,G,LAL,ATL,,PR,20+,14,0.85,28.7
+Austin Reaves,G,LAL,ATL,Questionable,PTS,15+,14,0.95,25.2
+Austin Reaves,G,LAL,ATL,Questionable,THREES,1+,14,0.85,2.4
+Austin Reaves,G,LAL,ATL,Questionable,PR,20+,14,0.85,28.7
 Kyshawn George,F,WSH,DET,,PRA,15+,14,0.8,25.0
 Naji Marshall,F,DAL,IND,,PTS,5+,14,0.95,14.0
 Steven Adams,C,HOU,DEN,Out,REB,2+,14,0.95,8.2
@@ -196,7 +196,7 @@ Dyson Daniels,G,ATL,LAL,,AST,3+,11,0.9,5.5
 Immanuel Quickley,G,TOR,MEM,Questionable,AST,2+,11,0.9,5.4
 Immanuel Quickley,G,TOR,MEM,Questionable,RA,5+,11,0.95,8.7
 Luguentz Dort,G,ATL,LAL,,REB,2+,11,0.9,3.3
-Luka Doncic,G,LAL,ATL,Questionable,AST,5+,11,0.85,8.0
+Luka Doncic,G,LAL,ATL,,AST,5+,11,0.85,8.0
 Mark Williams,C,PHX,SA,Out,REB,4+,11,0.95,7.0
 Mark Williams,C,PHX,SA,Out,RA,5+,11,0.95,7.5
 Nickeil Alexander-Walker,G,ATL,LAL,,REB,2+,11,0.8,3.2
@@ -250,14 +250,14 @@ Cameron Boozer,F,MEM,TOR,,PA,10+,9,1.0,21.0
 Cameron Boozer,F,MEM,TOR,,RA,10+,9,1.0,15.2
 Cooper Flagg,F,DAL,IND,,PRA,25+,9,0.9,37.6
 Cooper Flagg,F,DAL,IND,,PA,20+,9,0.85,31.0
-Devin Vassell,G,SA,PHX,Questionable,STL,1+,9,0.8,1.9
+Devin Vassell,G,SA,PHX,Out,STL,1+,9,0.8,1.9
 Duncan Robinson,F,DET,WSH,,AST,2+,9,0.8,2.3
 Grant Williams,F,CHA,CLE,Out,REB,2+,9,0.9,4.1
 Jamir Watkins,G,WSH,DET,Out,PTS,5+,9,0.9,12.2
 Jamir Watkins,G,WSH,DET,Out,PRA,10+,9,0.85,19.2
 Jamir Watkins,G,WSH,DET,Out,PR,10+,9,0.8,17.2
 Kevin Huerter,G,DET,WSH,,THREES,1+,9,0.9,1.8
-Luka Doncic,G,LAL,ATL,Questionable,REB,5+,9,0.95,7.8
+Luka Doncic,G,LAL,ATL,,REB,5+,9,0.95,7.8
 Paul Reed,F,DET,WSH,,PTS,5+,9,0.75,12.2
 Stephon Castle,G,SA,PHX,,AST,3+,9,0.95,5.4
 Tari Eason,F,HOU,DEN,,REB,3+,9,0.9,6.6
@@ -266,7 +266,7 @@ Ziaire Williams,F,LAL,ATL,,REB,2+,9,0.8,2.9
 Adama Bal,G,MEM,TOR,Check roster,REB,2+,8,1.0,3.1
 Alperen Sengun,C,HOU,DEN,,AST,5+,8,0.8,7.8
 Alperen Sengun,C,HOU,DEN,,PA,20+,8,0.85,29.2
-Austin Reaves,G,LAL,ATL,,REB,2+,8,0.95,3.8
+Austin Reaves,G,LAL,ATL,Questionable,REB,2+,8,0.95,3.8
 Brandon Miller,F,CHA,CLE,Out,PRA,10+,8,0.95,30.9
 Brandon Miller,F,CHA,CLE,Out,PR,10+,8,0.95,28.2
 Cam Spencer,G,MEM,TOR,,PTS,5+,8,0.85,9.6
@@ -356,11 +356,11 @@ Kam Jones,G,IND,DAL,Check roster,RA,5+,7,0.7,8.0
 Karlo Matkovic,F,NO,GS,,REB,3+,7,0.85,4.7
 Khaman Maluach,C,PHX,SA,,PTS,5+,7,0.45,8.1
 Luguentz Dort,G,ATL,LAL,,THREES,1+,7,0.85,2.3
-Luka Doncic,G,LAL,ATL,Questionable,PTS,35+,7,0.7,44.3
-Luka Doncic,G,LAL,ATL,Questionable,THREES,5+,7,0.65,6.4
-Luka Doncic,G,LAL,ATL,Questionable,PRA,45+,7,0.85,60.1
-Luka Doncic,G,LAL,ATL,Questionable,PR,40+,7,0.75,52.3
-Luka Doncic,G,LAL,ATL,Questionable,PA,40+,7,0.8,52.1
+Luka Doncic,G,LAL,ATL,,PTS,35+,7,0.7,44.3
+Luka Doncic,G,LAL,ATL,,THREES,5+,7,0.65,6.4
+Luka Doncic,G,LAL,ATL,,PRA,45+,7,0.85,60.1
+Luka Doncic,G,LAL,ATL,,PR,40+,7,0.75,52.3
+Luka Doncic,G,LAL,ATL,,PA,40+,7,0.8,52.1
 Mario Hezonja,F,CLE,CHA,,RA,5+,7,0.9,9.3
 Mark Williams,C,PHX,SA,Out,PRA,10+,7,0.9,17.4
 Meleek Thomas,G,CLE,CHA,,PTS,5+,7,1.0,12.3
@@ -372,7 +372,7 @@ Miles Bridges,F,PHX,SA,,AST,2+,7,0.8,4.1
 Miles Bridges,F,PHX,SA,,THREES,1+,7,0.8,2.4
 Miles Bridges,F,PHX,SA,,PR,20+,7,0.7,26.9
 Miles Bridges,F,PHX,SA,,RA,5+,7,0.8,12.9
-Morez Johnson Jr.,F,DAL,IND,,REB,2+,7,0.9,5.9
+Morez Johnson Jr.,F,DAL,IND,Questionable,REB,2+,7,0.9,5.9
 Naji Marshall,F,DAL,IND,,AST,2+,7,0.95,4.9
 Naji Marshall,F,DAL,IND,,PRA,10+,7,0.95,19.4
 Naji Marshall,F,DAL,IND,,PA,10+,7,0.85,16.7

@@ -44,8 +44,8 @@ Ace Bailey,G,UTAH,ORL,,PRA,10+,51,1.0,23.4
 Evan Mobley,C,CLE,NY,,RA,5+,47,1.0,12.3
 Nikola Jokic,C,DEN,MEM,,REB,7+,47,1.0,13.1
 Danny Wolf,F,BKN,NO,,REB,2+,46,1.0,5.3
-Tyler Herro,G,MIL,LAL,Out,PRA,15+,44,1.0,29.7
-Tyler Herro,G,MIL,LAL,Out,PR,10+,44,1.0,25.5
+Tyler Herro,G,MIL,LAL,Questionable,PRA,15+,44,1.0,29.7
+Tyler Herro,G,MIL,LAL,Questionable,PR,10+,44,1.0,25.5
 Kevin Durant,F,HOU,GS,,RA,5+,43,1.0,10.6
 Kevin Durant,F,HOU,GS,,REB,3+,42,1.0,5.9
 Pascal Siakam,F,IND,WSH,,PRA,20+,42,1.0,34.6
@@ -53,7 +53,7 @@ Brandin Podziemski,G,GS,HOU,,PTS,5+,41,1.0,17.3
 Robert Williams III,C,POR,OKC,,REB,3+,41,1.0,7.7
 Pascal Siakam,F,IND,WSH,,RA,5+,39,1.0,10.7
 Kevin Porter Jr.,G,MIL,LAL,Check roster,AST,2+,38,1.0,7.4
-Tyler Herro,G,MIL,LAL,Out,THREES,1+,38,1.0,2.7
+Tyler Herro,G,MIL,LAL,Questionable,THREES,1+,38,1.0,2.7
 Donovan Mitchell,G,CLE,NY,,REB,2+,36,1.0,5.0
 Jabari Smith Jr.,F,HOU,GS,,THREES,1+,36,1.0,2.7
 Austin Reaves,G,LAL,MIL,,RA,5+,35,1.0,9.3
@@ -85,7 +85,7 @@ Donovan Mitchell,G,CLE,NY,,THREES,1+,29,1.0,2.8
 Dylan Harper,G,SA,CHI,,RA,5+,29,1.0,9.2
 Trey Murphy III,F,NO,BKN,Questionable,THREES,1+,29,1.0,3.3
 Cameron Johnson,F,DEN,MEM,,PTS,5+,28,1.0,13.0
-Keyonte George,G,UTAH,ORL,Out,PTS,5+,27,1.0,22.7
+Keyonte George,G,UTAH,ORL,Questionable,PTS,5+,27,1.0,22.7
 Zion Williamson,F,NO,BKN,,PTS,10+,27,1.0,20.2
 Zion Williamson,F,NO,BKN,,PA,15+,27,1.0,22.8
 Jamal Murray,G,DEN,MEM,,PR,15+,26,1.0,30.6
@@ -179,8 +179,8 @@ Kevin Porter Jr.,G,MIL,LAL,Check roster,PRA,10+,16,0.95,30.5
 Kevin Porter Jr.,G,MIL,LAL,Check roster,PR,10+,16,0.95,23.2
 Kevin Porter Jr.,G,MIL,LAL,Check roster,PA,10+,16,0.95,25.0
 Kevin Porter Jr.,G,MIL,LAL,Check roster,RA,5+,16,0.95,12.8
-Keyonte George,G,UTAH,ORL,Out,PRA,10+,16,0.95,30.2
-Keyonte George,G,UTAH,ORL,Out,PR,10+,16,0.95,25.0
+Keyonte George,G,UTAH,ORL,Questionable,PRA,10+,16,0.95,30.2
+Keyonte George,G,UTAH,ORL,Questionable,PR,10+,16,0.95,25.0
 Paolo Banchero,F,ORL,UTAH,Out,PRA,25+,16,0.85,38.9
 Paolo Banchero,F,ORL,UTAH,Out,PR,20+,16,0.85,32.6
 Tyson Etienne,G,BKN,NO,Check roster,THREES,1+,16,0.9,2.4
@@ -268,15 +268,15 @@ James Harden,G,CLE,NY,,THREES,1+,11,0.9,2.5
 Jordan Walsh,G,BOS,TOR,,REB,2+,11,0.9,3.5
 Kennedy Chandler,G,UTAH,ORL,Check roster,AST,4+,11,1.0,6.7
 Kennedy Chandler,G,UTAH,ORL,Check roster,RA,5+,11,1.0,10.1
-Keyonte George,G,UTAH,ORL,Out,RA,5+,11,0.85,10.4
+Keyonte George,G,UTAH,ORL,Questionable,RA,5+,11,0.85,10.4
 Kyle Kuzma,F,MIL,LAL,,REB,2+,11,0.9,5.7
 Kyshawn George,F,WSH,IND,,RA,5+,11,0.75,9.3
 Mario Hezonja,F,CLE,NY,,REB,3+,11,1.0,5.9
 Moritz Wagner,C,BKN,NO,,PTS,5+,11,0.6,9.9
 Sidy Cissoko,G,POR,OKC,,REB,2+,11,0.55,3.7
 Tyler Burton,F,MEM,DEN,Check roster,REB,2+,11,0.92,4.5
-Tyler Herro,G,MIL,LAL,Out,PTS,10+,11,0.95,21.5
-Tyler Herro,G,MIL,LAL,Out,PA,15+,11,0.95,26.0
+Tyler Herro,G,MIL,LAL,Questionable,PTS,10+,11,0.95,21.5
+Tyler Herro,G,MIL,LAL,Questionable,PA,15+,11,0.95,26.0
 Wendell Carter Jr.,C,ORL,UTAH,,PRA,15+,11,0.85,24.4
 Wendell Carter Jr.,C,ORL,UTAH,,RA,5+,11,0.95,10.4
 Yaxel Lendeborg,F,GS,HOU,,THREES,1+,11,1.0,2.5
@@ -377,7 +377,7 @@ Paolo Banchero,F,ORL,UTAH,Out,REB,6+,9,0.8,8.4
 Pascal Siakam,F,IND,WSH,,AST,2+,9,0.8,4.7
 Payton Pritchard,G,BOS,TOR,,PRA,10+,9,0.95,21.9
 Peyton Watson,G,CLE,NY,,PRA,10+,9,0.95,18.7
-Tristan da Silva,F,ORL,UTAH,Out,PTS,5+,9,0.7,15.1
+Tristan da Silva,F,ORL,UTAH,Questionable,PTS,5+,9,0.7,15.1
 Walker Kessler,C,LAL,MIL,,PTS,10+,9,0.82,14.3
 Walker Kessler,C,LAL,MIL,,REB,8+,9,0.94,11.8
 Walker Kessler,C,LAL,MIL,,PRA,20+,9,0.82,27.9

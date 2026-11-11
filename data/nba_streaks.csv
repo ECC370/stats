@@ -35,8 +35,8 @@ Evan Mobley,C,CLE,NY,,PTS,5+,64,1.0,17.7
 Evan Mobley,C,CLE,NY,,PR,10+,64,1.0,26.3
 Evan Mobley,C,CLE,NY,,PA,10+,64,1.0,21.2
 Kawhi Leonard,F,TOR,BOS,Out,RA,5+,59,1.0,10.2
-Paul George,F,BOS,TOR,,PTS,5+,59,1.0,17.9
-Paul George,F,BOS,TOR,,PRA,10+,59,1.0,26.5
+Paul George,F,BOS,TOR,Out,PTS,5+,59,1.0,17.9
+Paul George,F,BOS,TOR,Out,PRA,10+,59,1.0,26.5
 Derrick White,G,BOS,TOR,,PTS,5+,54,1.0,13.9
 Jaren Jackson Jr.,F,UTAH,ORL,Out,PTS,5+,52,1.0,19.2
 Jaren Jackson Jr.,F,UTAH,ORL,Out,PRA,10+,52,1.0,26.7
@@ -153,7 +153,7 @@ Dylan Harper,G,SA,CHI,,PTS,10+,18,0.9,17.7
 Dylan Harper,G,SA,CHI,,PRA,20+,18,0.9,27.3
 Dylan Harper,G,SA,CHI,,PA,15+,18,0.9,21.5
 Franz Wagner,F,ORL,UTAH,,RA,5+,18,0.95,12.1
-Myles Turner,C,MIL,LAL,,BLK,1+,18,0.95,2.4
+Myles Turner,C,MIL,LAL,Out,BLK,1+,18,0.95,2.4
 Victor Wembanyama,F,SA,CHI,,REB,7+,18,0.95,11.3
 Bruce Brown,G,DEN,MEM,Check roster,PTS,5+,17,0.95,9.3
 Day'Ron Sharpe,C,BKN,NO,,REB,4+,17,0.95,7.1
@@ -238,7 +238,7 @@ Ja Morant,G,POR,OKC,Out,PA,15+,12,0.95,27.4
 Jaime Jaquez Jr.,F,MIL,LAL,,REB,2+,12,0.95,5.8
 John Konchar,G,UTAH,ORL,Check roster,PRA,10+,12,0.7,21.0
 Justin Champagnie,F,WSH,IND,Out,REB,2+,12,0.95,6.4
-Karl-Anthony Towns,C,NY,CLE,,RA,10+,12,0.95,16.0
+Karl-Anthony Towns,C,NY,CLE,Questionable,RA,10+,12,0.95,16.0
 Kyshawn George,F,WSH,IND,,AST,2+,12,0.85,4.7
 Luka Doncic,G,LAL,MIL,,AST,5+,12,0.85,8.2
 Reed Sheppard,G,HOU,GS,,THREES,1+,12,0.95,2.4
@@ -302,11 +302,11 @@ Julius Randle,F,BKN,NO,,AST,2+,10,0.85,5.0
 Julius Randle,F,BKN,NO,,PRA,20+,10,0.85,31.8
 Julius Randle,F,BKN,NO,,PR,15+,10,0.95,26.8
 Julius Randle,F,BKN,NO,,PA,15+,10,0.85,25.0
-Karl-Anthony Towns,C,NY,CLE,,PTS,10+,10,0.9,20.9
-Karl-Anthony Towns,C,NY,CLE,,PRA,30+,10,0.8,37.8
-Karl-Anthony Towns,C,NY,CLE,,PR,25+,10,0.75,34.7
-Karl-Anthony Towns,C,NY,CLE,,PA,15+,10,0.9,24.0
-Karl-Anthony Towns,C,NY,CLE,,DBL_DBL,1+,10,0.85,1.0
+Karl-Anthony Towns,C,NY,CLE,Questionable,PTS,10+,10,0.9,20.9
+Karl-Anthony Towns,C,NY,CLE,Questionable,PRA,30+,10,0.8,37.8
+Karl-Anthony Towns,C,NY,CLE,Questionable,PR,25+,10,0.75,34.7
+Karl-Anthony Towns,C,NY,CLE,Questionable,PA,15+,10,0.9,24.0
+Karl-Anthony Towns,C,NY,CLE,Questionable,DBL_DBL,1+,10,0.85,1.0
 Kristaps Porzingis,C,GS,HOU,Out,PRA,10+,10,0.95,25.2
 Kristaps Porzingis,C,GS,HOU,Out,PR,10+,10,0.95,22.8
 Kristaps Porzingis,C,GS,HOU,Out,PA,10+,10,0.9,19.3
@@ -318,8 +318,8 @@ Norman Powell,G,CHI,SA,Questionable,PRA,10+,10,0.9,23.0
 Norman Powell,G,CHI,SA,Questionable,PR,10+,10,0.9,21.4
 Norman Powell,G,CHI,SA,Questionable,PA,10+,10,0.9,20.6
 Paolo Banchero,F,ORL,UTAH,Out,RA,10+,10,0.85,14.6
-Paul George,F,BOS,TOR,,REB,3+,10,0.9,5.2
-Paul George,F,BOS,TOR,,PR,10+,10,0.95,27.2
+Paul George,F,BOS,TOR,Out,REB,3+,10,0.9,5.2
+Paul George,F,BOS,TOR,Out,PR,10+,10,0.95,27.2
 Payton Pritchard,G,BOS,TOR,,AST,3+,10,0.9,4.2
 Stephon Castle,G,SA,CHI,,AST,3+,10,0.95,5.6
 Tari Eason,F,HOU,GS,,REB,3+,10,0.9,6.4
@@ -332,11 +332,11 @@ Ziaire Williams,F,LAL,MIL,,REB,2+,10,0.8,2.8
 Alex Caruso,G,OKC,POR,,REB,2+,9,0.95,4.3
 Alperen Sengun,C,HOU,GS,,AST,5+,9,0.85,7.8
 Alperen Sengun,C,HOU,GS,,PA,20+,9,0.85,29.1
-Caleb Wilson,F,CHI,SA,,PTS,5+,9,1.0,19.3
-Caleb Wilson,F,CHI,SA,,THREES,1+,9,1.0,2.3
-Caleb Wilson,F,CHI,SA,,PRA,10+,9,1.0,27.8
-Caleb Wilson,F,CHI,SA,,PR,10+,9,1.0,25.7
-Caleb Wilson,F,CHI,SA,,STL,1+,9,1.0,1.9
+Caleb Wilson,F,CHI,SA,Questionable,PTS,5+,9,1.0,19.3
+Caleb Wilson,F,CHI,SA,Questionable,THREES,1+,9,1.0,2.3
+Caleb Wilson,F,CHI,SA,Questionable,PRA,10+,9,1.0,27.8
+Caleb Wilson,F,CHI,SA,Questionable,PR,10+,9,1.0,25.7
+Caleb Wilson,F,CHI,SA,Questionable,STL,1+,9,1.0,1.9
 Cam Spencer,G,MEM,DEN,,PTS,5+,9,0.85,9.3
 Cameron Johnson,F,DEN,MEM,,REB,2+,9,0.8,3.7
 Darryn Peterson,G,UTAH,ORL,,RA,5+,9,0.91,8.4
@@ -387,8 +387,8 @@ Aday Mara,C,OKC,POR,,PTS,5+,8,0.82,10.0
 Andrew Nembhard,G,IND,WSH,,THREES,1+,8,0.85,2.6
 Austin Reaves,G,LAL,MIL,,REB,2+,8,0.95,3.8
 Bennett Stirtz,G,OKC,POR,,PTS,5+,8,0.73,10.9
-Caleb Wilson,F,CHI,SA,,REB,5+,8,0.89,6.6
-Caleb Wilson,F,CHI,SA,,RA,5+,8,0.89,9.0
+Caleb Wilson,F,CHI,SA,Questionable,REB,5+,8,0.89,6.6
+Caleb Wilson,F,CHI,SA,Questionable,RA,5+,8,0.89,9.0
 Cameron Johnson,F,DEN,MEM,,THREES,1+,8,0.95,1.9
 Cormac Ryan,G,MIL,LAL,Check roster,PTS,10+,8,0.73,18.8
 Darryn Peterson,G,UTAH,ORL,,PRA,15+,8,0.91,26.5
@@ -397,5 +397,5 @@ Immanuel Quickley,G,TOR,BOS,Questionable,PTS,10+,8,0.85,17.4
 Immanuel Quickley,G,TOR,BOS,Questionable,PR,10+,8,0.85,20.9
 Immanuel Quickley,G,TOR,BOS,Questionable,PA,15+,8,0.8,23.1
 Jalen Brunson,G,NY,CLE,,PA,25+,8,0.85,33.0
-Jamal Cain,F,ORL,UTAH,,PTS,5+,8,0.7,8.8
+Jamal Cain,F,ORL,UTAH,Questionable,PTS,5+,8,0.7,8.8
 Jamal Murray,G,DEN,MEM,,PTS,10+,8,0.95,28.2

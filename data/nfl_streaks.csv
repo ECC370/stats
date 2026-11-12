@@ -98,9 +98,9 @@ Adonai Mitchell,WR,NYJ,BUF,,TGT,3+,13,0.75,7.1
 Amon-Ra St. Brown,WR,DET,NE,Limited,TGT,8+,13,0.95,11.5
 Breece Hall,RB,NYJ,BUF,,RUSH_ATT,12+,13,0.85,16.2
 Brock Bowers,TE,LV,SEA,,REC,4+,13,0.95,6.2
-Christian McCaffrey,RB,SF,DAL,,REC,2+,13,0.95,4.8
-Christian McCaffrey,RB,SF,DAL,,REC_YDS,15+,13,0.95,36.8
-Christian McCaffrey,RB,SF,DAL,,TGT,3+,13,0.95,6.2
+Christian McCaffrey,RB,SF,DAL,DNP,REC,2+,13,0.95,4.8
+Christian McCaffrey,RB,SF,DAL,DNP,REC_YDS,15+,13,0.95,36.8
+Christian McCaffrey,RB,SF,DAL,DNP,TGT,3+,13,0.95,6.2
 Devaughn Vele,WR,NO,CAR,,REC_YDS,15+,13,0.76,47.6
 Devaughn Vele,WR,NO,CAR,,RR_YDS,15+,13,0.76,47.6
 Jayden Daniels,QB,WAS,NYG,,RUSH_YDS,10+,13,1.0,40.8
@@ -194,9 +194,9 @@ Denzel Boston,WR,CLE,HOU,DNP,REC_YDS,15+,9,1.0,56.3
 Denzel Boston,WR,CLE,HOU,DNP,RR_YDS,15+,9,1.0,56.3
 Jahmyr Gibbs,RB,DET,NE,,RR_YDS,70+,9,0.75,138.3
 Jalen Coker,WR,CAR,NO,,TGT,4+,9,0.84,7.6
-Jaxon Smith-Njigba,WR,SEA,LV,,REC,5+,9,0.85,7.9
-Jaxon Smith-Njigba,WR,SEA,LV,,REC_YDS,50+,9,0.85,115.1
-Jaxon Smith-Njigba,WR,SEA,LV,,RR_YDS,50+,9,0.85,118.3
+Jaxon Smith-Njigba,WR,SEA,LV,DNP,REC,5+,9,0.85,7.9
+Jaxon Smith-Njigba,WR,SEA,LV,DNP,REC_YDS,50+,9,0.85,115.1
+Jaxon Smith-Njigba,WR,SEA,LV,DNP,RR_YDS,50+,9,0.85,118.3
 Jonathan Taylor,RB,IND,MIA,Limited,TGT,3+,9,0.8,4.0
 Jonathan Taylor,RB,IND,MIA,Limited,RR_YDS,40+,9,0.95,97.3
 KC Concepcion,WR,CLE,HOU,,REC,1+,9,1.0,4.1
@@ -266,7 +266,7 @@ Brock Bowers,TE,LV,SEA,,RR_YDS,70+,7,0.53,94.3
 Carnell Tate,WR,TEN,JAX,DNP,REC,1+,7,1.0,4.9
 Carnell Tate,WR,TEN,JAX,DNP,REC_YDS,5+,7,1.0,59.0
 Carnell Tate,WR,TEN,JAX,DNP,TGT,5+,7,1.0,7.3
-Christian McCaffrey,RB,SF,DAL,,TDS,1+,7,0.75,1.4
+Christian McCaffrey,RB,SF,DAL,DNP,TDS,1+,7,0.75,1.4
 Davante Adams,WR,LA,ARI,,REC,3+,7,0.9,4.9
 DeMario Douglas,WR,NE,DET,,TGT,3+,7,0.6,5.3
 Deshaun Watson,QB,CLE,HOU,,ATT,25+,7,0.88,32.4
@@ -316,8 +316,8 @@ Cam Skattebo,RB,NYG,WAS,,RUSH_YDS,30+,6,0.86,69.7
 Cam Skattebo,RB,NYG,WAS,,RUSH_ATT,12+,6,0.71,16.3
 Cam Skattebo,RB,NYG,WAS,,RR_YDS,50+,6,0.86,82.3
 Chig Okonkwo,TE,WAS,NYG,,REC_YDS,5+,6,0.85,39.8
-Christian McCaffrey,RB,SF,DAL,,RUSH_YDS,30+,6,0.85,61.0
-Christian McCaffrey,RB,SF,DAL,,RR_YDS,70+,6,0.85,95.5
+Christian McCaffrey,RB,SF,DAL,DNP,RUSH_YDS,30+,6,0.85,61.0
+Christian McCaffrey,RB,SF,DAL,DNP,RR_YDS,70+,6,0.85,95.5
 Denzel Boston,WR,CLE,HOU,DNP,TGT,5+,6,0.78,7.5
 Drake Maye,QB,NE,DET,,PASS_TD,2+,6,0.55,2.8
 Emanuel Wilson,RB,SEA,LV,,RUSH_YDS,10+,6,0.8,66.7
@@ -362,8 +362,8 @@ Ollie Gordon II,RB,MIA,IND,,RUSH_ATT,8+,6,0.45,17.3
 Puka Nacua,WR,LA,ARI,DNP,REC,6+,6,0.8,10.8
 Quinshon Judkins,RB,CLE,HOU,,RUSH_YDS,25+,6,0.8,55.2
 Ryan Flournoy,WR,DAL,SF,,REC_YDS,30+,6,0.55,54.7
-Sam Darnold,QB,SEA,LV,,PASS_YDS,150+,6,0.8,244.2
-Sam Darnold,QB,SEA,LV,,RUSH_YDS,5+,6,0.65,12.0
+Sam Darnold,QB,SEA,LV,DNP,PASS_YDS,150+,6,0.8,244.2
+Sam Darnold,QB,SEA,LV,DNP,RUSH_YDS,5+,6,0.65,12.0
 Seth McGowan,RB,IND,MIA,,RUSH_YDS,15+,6,0.67,32.3
 Seth McGowan,RB,IND,MIA,,RR_YDS,15+,6,0.67,33.8
 Trevor Lawrence,QB,JAX,TEN,,PASS_TD,1+,6,0.85,2.3

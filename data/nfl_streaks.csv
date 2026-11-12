@@ -7,15 +7,15 @@ Dalton Schultz,TE,HOU,CLE,,REC_YDS,5+,27,1.0,44.4
 Ashton Jeanty,RB,LV,SEA,,RUSH_YDS,5+,26,1.0,51.4
 Ashton Jeanty,RB,LV,SEA,,RR_YDS,20+,26,1.0,79.0
 Bijan Robinson,RB,ATL,KC,,RUSH_ATT,8+,26,1.0,17.5
-Jonathan Taylor,RB,IND,MIA,,RUSH_YDS,20+,26,1.0,86.2
-Jonathan Taylor,RB,IND,MIA,,RUSH_ATT,8+,26,1.0,18.6
+Jonathan Taylor,RB,IND,MIA,Limited,RUSH_YDS,20+,26,1.0,86.2
+Jonathan Taylor,RB,IND,MIA,Limited,RUSH_ATT,8+,26,1.0,18.6
 Keenan Allen,WR,IND,MIA,,TGT,3+,26,1.0,7.2
 Mark Andrews,TE,BAL,LAC,,REC,1+,26,1.0,3.0
 Chase Brown,RB,CIN,PIT,,RUSH_ATT,8+,25,1.0,13.4
-George Pickens,WR,DAL,SF,,TGT,3+,25,1.0,8.0
-Harold Fannin Jr.,TE,CLE,HOU,,REC,1+,25,1.0,4.4
-Jared Goff,QB,DET,NE,,PASS_YDS,150+,25,1.0,267.9
-Woody Marks,RB,HOU,CLE,,RR_YDS,20+,25,1.0,59.8
+George Pickens,WR,DAL,SF,Limited,TGT,3+,25,1.0,8.0
+Harold Fannin Jr.,TE,CLE,HOU,Limited,REC,1+,25,1.0,4.4
+Jared Goff,QB,DET,NE,Limited,PASS_YDS,150+,25,1.0,267.9
+Woody Marks,RB,HOU,CLE,Limited,RR_YDS,20+,25,1.0,59.8
 DK Metcalf,WR,PIT,CIN,,REC,1+,24,1.0,3.9
 Ja'Marr Chase,WR,CIN,PIT,,TGT,3+,24,1.0,10.8
 Justin Jefferson,WR,MIN,GB,,REC,2+,24,1.0,4.8
@@ -23,7 +23,7 @@ Khalil Shakir,WR,BUF,NYJ,,TGT,3+,24,1.0,6.1
 Rachaad White,RB,WAS,NYG,,REC,1+,24,1.0,2.4
 Wan'Dale Robinson,WR,TEN,JAX,,REC_YDS,5+,24,1.0,53.2
 Davante Adams,WR,LA,ARI,,TGT,4+,23,1.0,8.2
-T.J. Hockenson,TE,MIN,GB,,REC,1+,23,1.0,3.7
+T.J. Hockenson,TE,MIN,GB,DNP,REC,1+,23,1.0,3.7
 Chase Brown,RB,CIN,PIT,,RUSH_YDS,10+,22,1.0,60.1
 Derrick Henry,RB,BAL,LAC,,RUSH_ATT,10+,22,1.0,19.7
 Keon Coleman,WR,BUF,NYJ,,REC,1+,22,1.0,2.9
@@ -40,24 +40,24 @@ Parker Washington,WR,JAX,TEN,,REC_YDS,5+,21,1.0,63.7
 Parker Washington,WR,JAX,TEN,,RR_YDS,10+,21,1.0,64.4
 Trey McBride,TE,ARI,LA,,TGT,8+,21,1.0,10.5
 Aaron Jones,RB,MIN,GB,,RR_YDS,20+,20,1.0,65.8
-Darnell Washington,TE,PIT,CIN,,REC,1+,20,1.0,2.5
-Jared Goff,QB,DET,NE,,ATT,25+,20,1.0,35.3
+Darnell Washington,TE,PIT,CIN,DNP,REC,1+,20,1.0,2.5
+Jared Goff,QB,DET,NE,Limited,ATT,25+,20,1.0,35.3
 Tee Higgins,WR,CIN,PIT,,REC_YDS,20+,20,1.0,75.0
 Tee Higgins,WR,CIN,PIT,,RR_YDS,20+,20,1.0,75.0
 Mason Taylor,TE,NYJ,BUF,,REC,1+,19,1.0,3.3
 Matthew Stafford,QB,LA,ARI,,PASS_YDS,150+,19,0.95,287.4
 Samaje Perine,RB,CIN,PIT,,RUSH_YDS,5+,19,0.95,28.2
-Alvin Kamara,RB,NO,CAR,,RUSH_YDS,5+,18,1.0,34.9
+Alvin Kamara,RB,NO,CAR,DNP,RUSH_YDS,5+,18,1.0,34.9
 Jalen Coker,WR,CAR,NO,,REC,1+,18,0.95,4.1
 Jalen Coker,WR,CAR,NO,,REC_YDS,5+,18,0.95,51.2
 Kyren Williams,RB,LA,ARI,,RR_YDS,50+,18,0.95,92.1
-Puka Nacua,WR,LA,ARI,,TGT,7+,18,0.95,12.3
-Rhamondre Stevenson,RB,NE,DET,,RUSH_YDS,20+,18,0.95,51.9
-Rhamondre Stevenson,RB,NE,DET,,RR_YDS,30+,18,0.95,82.8
+Puka Nacua,WR,LA,ARI,DNP,TGT,7+,18,0.95,12.3
+Rhamondre Stevenson,RB,NE,DET,DNP,RUSH_YDS,20+,18,0.95,51.9
+Rhamondre Stevenson,RB,NE,DET,DNP,RR_YDS,30+,18,0.95,82.8
 Tyler Higbee,TE,LA,ARI,,REC,1+,18,0.95,2.9
 Tyler Higbee,TE,LA,ARI,,REC_YDS,10+,18,0.95,34.2
 Tyler Higbee,TE,LA,ARI,,RR_YDS,10+,18,0.95,34.2
-Chuba Hubbard,RB,CAR,NO,,REC,1+,17,0.9,2.5
+Chuba Hubbard,RB,CAR,NO,DNP,REC,1+,17,0.9,2.5
 Kyren Williams,RB,LA,ARI,,REC,1+,17,0.95,3.3
 Mack Hollins,WR,NE,DET,,REC,2+,17,0.9,3.7
 Sam LaPorta,TE,DET,NE,,REC,1+,17,1.0,4.4
@@ -75,9 +75,9 @@ Josh Downs,WR,IND,MIA,,REC,2+,16,0.95,3.4
 Josh Downs,WR,IND,MIA,,TGT,4+,16,0.9,6.1
 Michael Penix Jr.,QB,ATL,KC,,PASS_YDS,125+,16,1.0,214.1
 Ty Johnson,RB,BUF,NYJ,,RR_YDS,10+,16,0.9,37.6
-Chris Rodriguez Jr.,RB,JAX,TEN,,RUSH_YDS,5+,15,0.95,40.6
-Chris Rodriguez Jr.,RB,JAX,TEN,,RR_YDS,10+,15,0.9,45.0
-Garrett Wilson,WR,NYJ,BUF,,TGT,3+,15,1.0,8.1
+Chris Rodriguez Jr.,RB,JAX,TEN,Limited,RUSH_YDS,5+,15,0.95,40.6
+Chris Rodriguez Jr.,RB,JAX,TEN,Limited,RR_YDS,10+,15,0.9,45.0
+Garrett Wilson,WR,NYJ,BUF,Limited,TGT,3+,15,1.0,8.1
 Tee Higgins,WR,CIN,PIT,,REC,2+,15,0.95,5.5
 Terry McLaurin,WR,WAS,NYG,,REC,1+,15,1.0,3.5
 Terry McLaurin,WR,WAS,NYG,,REC_YDS,10+,15,1.0,54.1
@@ -95,7 +95,7 @@ Kenneth Walker III,RB,KC,ATL,,RUSH_YDS,30+,14,0.9,102.4
 Kenneth Walker III,RB,KC,ATL,,RR_YDS,50+,14,0.9,129.6
 Ryan Flournoy,WR,DAL,SF,,REC,2+,14,0.8,3.9
 Adonai Mitchell,WR,NYJ,BUF,,TGT,3+,13,0.75,7.1
-Amon-Ra St. Brown,WR,DET,NE,,TGT,8+,13,0.95,11.5
+Amon-Ra St. Brown,WR,DET,NE,Limited,TGT,8+,13,0.95,11.5
 Breece Hall,RB,NYJ,BUF,,RUSH_ATT,12+,13,0.85,16.2
 Brock Bowers,TE,LV,SEA,,REC,4+,13,0.95,6.2
 Christian McCaffrey,RB,SF,DAL,,REC,2+,13,0.95,4.8
@@ -126,7 +126,7 @@ Michael Mayer,TE,LV,SEA,,REC,1+,12,0.9,4.3
 Nico Collins,WR,HOU,CLE,,TGT,4+,12,0.95,6.8
 Quentin Johnston,WR,LAC,BAL,,REC,1+,12,0.95,2.5
 Quinshon Judkins,RB,CLE,HOU,,REC,1+,12,0.8,2.8
-TreVeyon Henderson,RB,NE,DET,,RUSH_YDS,5+,12,0.95,34.5
+TreVeyon Henderson,RB,NE,DET,Out,RUSH_YDS,5+,12,0.95,34.5
 Tucker Kraft,TE,GB,MIN,,TGT,3+,12,0.94,6.2
 Tyler Shough,QB,NO,CAR,,ATT,25+,12,0.84,37.6
 Tyler Warren,TE,IND,MIA,,TGT,5+,12,0.9,7.2
@@ -134,16 +134,16 @@ Xavier Hutchinson,WR,HOU,CLE,,REC,2+,12,0.8,3.1
 Xavier Hutchinson,WR,HOU,CLE,,REC_YDS,10+,12,0.85,38.1
 Xavier Hutchinson,WR,HOU,CLE,,TGT,3+,12,0.8,6.2
 Xavier Hutchinson,WR,HOU,CLE,,RR_YDS,10+,12,0.85,40.1
-A.J. Brown,WR,NE,DET,,REC_YDS,25+,11,0.84,65.5
-A.J. Brown,WR,NE,DET,,RR_YDS,25+,11,0.84,65.5
+A.J. Brown,WR,NE,DET,Limited,REC_YDS,25+,11,0.84,65.5
+A.J. Brown,WR,NE,DET,Limited,RR_YDS,25+,11,0.84,65.5
 AJ Barner,TE,SEA,LV,,REC_YDS,5+,11,0.95,25.2
 Chris Olave,WR,NO,CAR,,REC,4+,11,0.9,7.3
 Chris Olave,WR,NO,CAR,,REC_YDS,40+,11,0.95,98.7
 Chris Olave,WR,NO,CAR,,TGT,6+,11,0.9,10.8
 Chris Olave,WR,NO,CAR,,RR_YDS,40+,11,0.95,98.7
 Christian Watson,WR,GB,MIN,,REC,3+,11,0.85,5.2
-Dalton Kincaid,TE,BUF,NYJ,,REC,1+,11,0.95,3.8
-Dalton Kincaid,TE,BUF,NYJ,,REC_YDS,5+,11,0.95,53.5
+Dalton Kincaid,TE,BUF,NYJ,Limited,REC,1+,11,0.95,3.8
+Dalton Kincaid,TE,BUF,NYJ,Limited,REC_YDS,5+,11,0.95,53.5
 Joe Burrow,QB,CIN,PIT,,PASS_TD,1+,11,0.94,2.9
 Josh Allen,QB,BUF,NYJ,,PASS_YDS,200+,11,0.8,258.6
 Michael Wilson,WR,ARI,LA,,TGT,7+,11,0.85,9.6
@@ -171,34 +171,34 @@ Justin Jefferson,WR,MIN,GB,,RR_YDS,30+,10,0.85,60.1
 Kirk Cousins,QB,LV,SEA,,COMP,18+,10,0.74,22.0
 Kirk Cousins,QB,LV,SEA,,ATT,25+,10,0.79,34.7
 Malik Washington,WR,MIA,IND,,TGT,3+,10,0.9,5.5
-Mike Evans,WR,SF,DAL,,REC_YDS,30+,10,0.93,64.8
-Mike Evans,WR,SF,DAL,,RR_YDS,30+,10,0.93,64.8
+Mike Evans,WR,SF,DAL,DNP,REC_YDS,30+,10,0.93,64.8
+Mike Evans,WR,SF,DAL,DNP,RR_YDS,30+,10,0.93,64.8
 Ryan Flournoy,WR,DAL,SF,,TGT,3+,10,0.7,5.4
 Stefon Diggs,WR,WAS,NYG,,REC,3+,10,0.9,4.2
 Tee Higgins,WR,CIN,PIT,,TGT,4+,10,0.9,8.1
 Travis Kelce,TE,KC,ATL,,REC,2+,10,0.9,4.1
 Tyler Allgeier,RB,ARI,LA,,REC,1+,10,0.8,2.4
-Bhayshul Tuten,RB,JAX,TEN,,RUSH_YDS,25+,9,0.55,63.6
-Bhayshul Tuten,RB,JAX,TEN,,RR_YDS,25+,9,0.6,83.7
+Bhayshul Tuten,RB,JAX,TEN,DNP,RUSH_YDS,25+,9,0.55,63.6
+Bhayshul Tuten,RB,JAX,TEN,DNP,RR_YDS,25+,9,0.6,83.7
 Bijan Robinson,RB,ATL,KC,,RUSH_YDS,60+,9,0.85,97.8
 Bijan Robinson,RB,ATL,KC,,RR_YDS,50+,9,0.9,125.6
 CeeDee Lamb,WR,DAL,SF,,REC,2+,9,0.95,7.8
 CeeDee Lamb,WR,DAL,SF,,REC_YDS,5+,9,0.95,100.4
 CeeDee Lamb,WR,DAL,SF,,TGT,5+,9,0.95,12.0
-Chuba Hubbard,RB,CAR,NO,,RUSH_YDS,30+,9,0.6,73.9
+Chuba Hubbard,RB,CAR,NO,DNP,RUSH_YDS,30+,9,0.6,73.9
 Dak Prescott,QB,DAL,SF,,PASS_YDS,175+,9,0.95,264.6
 Dak Prescott,QB,DAL,SF,,PASS_TD,1+,9,0.85,1.8
 Dak Prescott,QB,DAL,SF,,ATT,25+,9,0.95,37.3
-Denzel Boston,WR,CLE,HOU,,REC,1+,9,1.0,3.6
-Denzel Boston,WR,CLE,HOU,,REC_YDS,15+,9,1.0,56.3
-Denzel Boston,WR,CLE,HOU,,RR_YDS,15+,9,1.0,56.3
+Denzel Boston,WR,CLE,HOU,DNP,REC,1+,9,1.0,3.6
+Denzel Boston,WR,CLE,HOU,DNP,REC_YDS,15+,9,1.0,56.3
+Denzel Boston,WR,CLE,HOU,DNP,RR_YDS,15+,9,1.0,56.3
 Jahmyr Gibbs,RB,DET,NE,,RR_YDS,70+,9,0.75,138.3
 Jalen Coker,WR,CAR,NO,,TGT,4+,9,0.84,7.6
 Jaxon Smith-Njigba,WR,SEA,LV,,REC,5+,9,0.85,7.9
 Jaxon Smith-Njigba,WR,SEA,LV,,REC_YDS,50+,9,0.85,115.1
 Jaxon Smith-Njigba,WR,SEA,LV,,RR_YDS,50+,9,0.85,118.3
-Jonathan Taylor,RB,IND,MIA,,TGT,3+,9,0.8,4.0
-Jonathan Taylor,RB,IND,MIA,,RR_YDS,40+,9,0.95,97.3
+Jonathan Taylor,RB,IND,MIA,Limited,TGT,3+,9,0.8,4.0
+Jonathan Taylor,RB,IND,MIA,Limited,RR_YDS,40+,9,0.95,97.3
 KC Concepcion,WR,CLE,HOU,,REC,1+,9,1.0,4.1
 KC Concepcion,WR,CLE,HOU,,REC_YDS,5+,9,1.0,48.6
 Kyren Williams,RB,LA,ARI,,RUSH_YDS,40+,9,0.95,65.9
@@ -212,21 +212,21 @@ Rashid Shaheed,WR,SEA,LV,,TGT,3+,9,0.7,4.2
 Tre Harris,WR,LAC,BAL,,TGT,3+,9,0.65,4.9
 Aaron Rodgers,QB,PIT,CIN,,PASS_YDS,150+,8,0.85,233.9
 Antonio Williams,WR,WAS,NYG,,TGT,3+,8,1.0,4.9
-Bhayshul Tuten,RB,JAX,TEN,,RUSH_ATT,12+,8,0.45,15.2
+Bhayshul Tuten,RB,JAX,TEN,DNP,RUSH_ATT,12+,8,0.45,15.2
 Braelon Allen,RB,NYJ,BUF,,REC,1+,8,0.69,2.4
 Brock Purdy,QB,SF,DAL,,PASS_YDS,175+,8,0.84,247.5
 Brock Purdy,QB,SF,DAL,,PASS_TD,1+,8,0.89,2.1
-Chuba Hubbard,RB,CAR,NO,,RR_YDS,60+,8,0.45,98.2
+Chuba Hubbard,RB,CAR,NO,DNP,RR_YDS,60+,8,0.45,98.2
 Drake London,WR,ATL,KC,,TGT,5+,8,0.85,7.9
 Eli Raridon,TE,NE,DET,,REC,1+,8,1.0,2.0
 Emmett Johnson,RB,KC,ATL,,RR_YDS,10+,8,1.0,43.5
-Garrett Wilson,WR,NYJ,BUF,,REC,2+,8,0.93,5.4
-Garrett Wilson,WR,NYJ,BUF,,REC_YDS,25+,8,0.87,65.9
-Garrett Wilson,WR,NYJ,BUF,,RR_YDS,25+,8,0.87,65.9
-George Pickens,WR,DAL,SF,,REC,2+,8,0.95,4.9
+Garrett Wilson,WR,NYJ,BUF,Limited,REC,2+,8,0.93,5.4
+Garrett Wilson,WR,NYJ,BUF,Limited,REC_YDS,25+,8,0.87,65.9
+Garrett Wilson,WR,NYJ,BUF,Limited,RR_YDS,25+,8,0.87,65.9
+George Pickens,WR,DAL,SF,Limited,REC,2+,8,0.95,4.9
 Isaiah Likely,TE,NYG,WAS,,TGT,4+,8,0.6,8.6
-Jakobi Meyers,WR,JAX,TEN,,REC_YDS,20+,8,0.95,46.8
-Jakobi Meyers,WR,JAX,TEN,,RR_YDS,20+,8,0.95,47.0
+Jakobi Meyers,WR,JAX,TEN,DNP,REC_YDS,20+,8,0.95,46.8
+Jakobi Meyers,WR,JAX,TEN,DNP,RR_YDS,20+,8,0.95,47.0
 Jalen Nailor,WR,LV,SEA,,REC,1+,8,0.75,2.1
 Jalen Nailor,WR,LV,SEA,,REC_YDS,5+,8,0.75,21.4
 Jalen Nailor,WR,LV,SEA,,TGT,3+,8,0.7,3.9
@@ -244,14 +244,14 @@ MarShawn Lloyd,RB,GB,MIN,,RR_YDS,10+,8,1.0,28.5
 Omarion Hampton,RB,LAC,BAL,,RUSH_YDS,15+,8,0.94,46.1
 Omarion Hampton,RB,LAC,BAL,,RR_YDS,25+,8,0.94,54.0
 Pat Freiermuth,TE,PIT,CIN,,REC,2+,8,0.9,3.1
-Puka Nacua,WR,LA,ARI,,REC_YDS,60+,8,0.9,110.0
-Puka Nacua,WR,LA,ARI,,RR_YDS,70+,8,0.85,115.6
+Puka Nacua,WR,LA,ARI,DNP,REC_YDS,60+,8,0.9,110.0
+Puka Nacua,WR,LA,ARI,DNP,RR_YDS,70+,8,0.85,115.6
 Quinshon Judkins,RB,CLE,HOU,,RUSH_ATT,10+,8,0.9,14.5
 Rachaad White,RB,WAS,NYG,,RUSH_YDS,15+,8,0.9,31.4
 Rachaad White,RB,WAS,NYG,,RR_YDS,20+,8,0.95,49.8
 Stefon Diggs,WR,WAS,NYG,,REC_YDS,30+,8,0.75,42.5
 Stefon Diggs,WR,WAS,NYG,,RR_YDS,30+,8,0.75,42.5
-T.J. Hockenson,TE,MIN,GB,,REC_YDS,5+,8,0.95,41.0
+T.J. Hockenson,TE,MIN,GB,DNP,REC_YDS,5+,8,0.95,41.0
 Travis Kelce,TE,KC,ATL,,REC_YDS,15+,8,0.85,60.2
 Travis Kelce,TE,KC,ATL,,RR_YDS,15+,8,0.85,60.4
 Ty Johnson,RB,BUF,NYJ,,REC,2+,8,0.75,2.8
@@ -263,9 +263,9 @@ Breece Hall,RB,NYJ,BUF,,REC,2+,7,0.85,2.7
 Brock Bowers,TE,LV,SEA,,REC_YDS,70+,7,0.53,94.0
 Brock Bowers,TE,LV,SEA,,TGT,8+,7,0.68,9.9
 Brock Bowers,TE,LV,SEA,,RR_YDS,70+,7,0.53,94.3
-Carnell Tate,WR,TEN,JAX,,REC,1+,7,1.0,4.9
-Carnell Tate,WR,TEN,JAX,,REC_YDS,5+,7,1.0,59.0
-Carnell Tate,WR,TEN,JAX,,TGT,5+,7,1.0,7.3
+Carnell Tate,WR,TEN,JAX,DNP,REC,1+,7,1.0,4.9
+Carnell Tate,WR,TEN,JAX,DNP,REC_YDS,5+,7,1.0,59.0
+Carnell Tate,WR,TEN,JAX,DNP,TGT,5+,7,1.0,7.3
 Christian McCaffrey,RB,SF,DAL,,TDS,1+,7,0.75,1.4
 Davante Adams,WR,LA,ARI,,REC,3+,7,0.9,4.9
 DeMario Douglas,WR,NE,DET,,TGT,3+,7,0.6,5.3
@@ -274,8 +274,8 @@ Eli Raridon,TE,NE,DET,,REC_YDS,5+,7,0.88,31.9
 George Kittle,TE,SF,DAL,,REC,4+,7,0.85,5.1
 George Kittle,TE,SF,DAL,,REC_YDS,20+,7,0.85,67.3
 George Kittle,TE,SF,DAL,,RR_YDS,20+,7,0.85,67.3
-George Pickens,WR,DAL,SF,,REC_YDS,40+,7,0.8,72.1
-George Pickens,WR,DAL,SF,,RR_YDS,40+,7,0.8,72.1
+George Pickens,WR,DAL,SF,Limited,REC_YDS,40+,7,0.8,72.1
+George Pickens,WR,DAL,SF,Limited,RR_YDS,40+,7,0.8,72.1
 Germie Bernard,WR,PIT,CIN,,REC_YDS,10+,7,1.0,40.6
 Germie Bernard,WR,PIT,CIN,,RR_YDS,10+,7,1.0,41.1
 Ja'Marr Chase,WR,CIN,PIT,,REC,3+,7,0.95,7.3
@@ -296,9 +296,9 @@ Stefon Diggs,WR,WAS,NYG,,TGT,5+,7,0.7,7.0
 Tony Pollard,RB,TEN,JAX,,RUSH_YDS,40+,7,0.75,80.0
 Tony Pollard,RB,TEN,JAX,,RUSH_ATT,12+,7,0.6,18.0
 Tony Pollard,RB,TEN,JAX,,RR_YDS,50+,7,0.8,90.1
-TreVeyon Henderson,RB,NE,DET,,RR_YDS,20+,7,0.9,41.9
-A.J. Brown,WR,NE,DET,,REC,3+,6,0.79,4.3
-A.J. Brown,WR,NE,DET,,TGT,4+,6,0.84,7.7
+TreVeyon Henderson,RB,NE,DET,Out,RR_YDS,20+,7,0.9,41.9
+A.J. Brown,WR,NE,DET,Limited,REC,3+,6,0.79,4.3
+A.J. Brown,WR,NE,DET,Limited,TGT,4+,6,0.84,7.7
 Aaron Jones,RB,MIN,GB,,REC,1+,6,0.8,2.7
 Ashton Jeanty,RB,LV,SEA,,TGT,4+,6,0.8,6.5
 Audric Estimé,RB,NO,CAR,,RR_YDS,15+,6,0.86,64.3
@@ -318,19 +318,19 @@ Cam Skattebo,RB,NYG,WAS,,RR_YDS,50+,6,0.86,82.3
 Chig Okonkwo,TE,WAS,NYG,,REC_YDS,5+,6,0.85,39.8
 Christian McCaffrey,RB,SF,DAL,,RUSH_YDS,30+,6,0.85,61.0
 Christian McCaffrey,RB,SF,DAL,,RR_YDS,70+,6,0.85,95.5
-Denzel Boston,WR,CLE,HOU,,TGT,5+,6,0.78,7.5
+Denzel Boston,WR,CLE,HOU,DNP,TGT,5+,6,0.78,7.5
 Drake Maye,QB,NE,DET,,PASS_TD,2+,6,0.55,2.8
 Emanuel Wilson,RB,SEA,LV,,RUSH_YDS,10+,6,0.8,66.7
 Emanuel Wilson,RB,SEA,LV,,RUSH_ATT,8+,6,0.55,18.2
 Emanuel Wilson,RB,SEA,LV,,RR_YDS,10+,6,0.8,77.5
 Emari Demercado,RB,HOU,CLE,,RUSH_YDS,5+,6,0.73,16.8
 George Kittle,TE,SF,DAL,,TGT,6+,6,0.6,7.3
-Hunter Henry,TE,NE,DET,,REC,3+,6,0.8,4.2
-Hunter Henry,TE,NE,DET,,REC_YDS,30+,6,0.75,48.3
-Hunter Henry,TE,NE,DET,,TGT,3+,6,0.9,4.5
-Hunter Henry,TE,NE,DET,,RR_YDS,30+,6,0.75,48.3
-Jakobi Meyers,WR,JAX,TEN,,REC,2+,6,0.9,3.8
-Jakobi Meyers,WR,JAX,TEN,,TGT,3+,6,0.9,5.7
+Hunter Henry,TE,NE,DET,Limited,REC,3+,6,0.8,4.2
+Hunter Henry,TE,NE,DET,Limited,REC_YDS,30+,6,0.75,48.3
+Hunter Henry,TE,NE,DET,Limited,TGT,3+,6,0.9,4.5
+Hunter Henry,TE,NE,DET,Limited,RR_YDS,30+,6,0.75,48.3
+Jakobi Meyers,WR,JAX,TEN,DNP,REC,2+,6,0.9,3.8
+Jakobi Meyers,WR,JAX,TEN,DNP,TGT,3+,6,0.9,5.7
 Jameson Williams,WR,DET,NE,,RR_YDS,40+,6,0.8,66.5
 Jaylen Warren,RB,PIT,CIN,,RUSH_YDS,50+,6,0.65,102.5
 Jaylen Warren,RB,PIT,CIN,,RUSH_ATT,12+,6,0.75,16.3
@@ -356,10 +356,10 @@ Khalil Herbert,RB,ATL,KC,,RUSH_YDS,5+,6,0.75,13.3
 Kimani Vidal,RB,LAC,BAL,,REC,1+,6,0.85,1.7
 Kyle Pitts,TE,ATL,KC,,REC,2+,6,0.85,3.8
 Malik Nabers,WR,NYG,WAS,,REC,5+,6,0.75,7.7
-Mike Evans,WR,SF,DAL,,REC,3+,6,0.86,4.5
-Mike Evans,WR,SF,DAL,,TGT,3+,6,0.93,6.5
+Mike Evans,WR,SF,DAL,DNP,REC,3+,6,0.86,4.5
+Mike Evans,WR,SF,DAL,DNP,TGT,3+,6,0.93,6.5
 Ollie Gordon II,RB,MIA,IND,,RUSH_ATT,8+,6,0.45,17.3
-Puka Nacua,WR,LA,ARI,,REC,6+,6,0.8,10.8
+Puka Nacua,WR,LA,ARI,DNP,REC,6+,6,0.8,10.8
 Quinshon Judkins,RB,CLE,HOU,,RUSH_YDS,25+,6,0.8,55.2
 Ryan Flournoy,WR,DAL,SF,,REC_YDS,30+,6,0.55,54.7
 Sam Darnold,QB,SEA,LV,,PASS_YDS,150+,6,0.8,244.2
@@ -376,15 +376,15 @@ Wan'Dale Robinson,WR,TEN,JAX,,REC,3+,6,0.95,4.8
 Wan'Dale Robinson,WR,TEN,JAX,,TGT,5+,6,0.9,7.2
 AJ Barner,TE,SEA,LV,,REC,2+,5,0.85,2.8
 AJ Barner,TE,SEA,LV,,TGT,4+,5,0.65,4.6
-Alvin Kamara,RB,NO,CAR,,REC,2+,5,0.83,3.8
-Amon-Ra St. Brown,WR,DET,NE,,REC,6+,5,0.75,7.6
-Amon-Ra St. Brown,WR,DET,NE,,REC_YDS,40+,5,0.9,85.8
-Amon-Ra St. Brown,WR,DET,NE,,RR_YDS,50+,5,0.8,87.6
+Alvin Kamara,RB,NO,CAR,DNP,REC,2+,5,0.83,3.8
+Amon-Ra St. Brown,WR,DET,NE,Limited,REC,6+,5,0.75,7.6
+Amon-Ra St. Brown,WR,DET,NE,Limited,REC_YDS,40+,5,0.9,85.8
+Amon-Ra St. Brown,WR,DET,NE,Limited,RR_YDS,50+,5,0.8,87.6
 Antonio Williams,WR,WAS,NYG,,REC,3+,5,0.88,3.4
 Antonio Williams,WR,WAS,NYG,,REC_YDS,20+,5,0.88,36.2
 Antonio Williams,WR,WAS,NYG,,RR_YDS,20+,5,0.88,36.2
 Audric Estimé,RB,NO,CAR,,RUSH_YDS,15+,5,0.71,53.4
-Bam Knight,RB,ARI,LA,,RUSH_YDS,5+,5,0.82,33.6
+Bam Knight,RB,ARI,LA,Limited,RUSH_YDS,5+,5,0.82,33.6
 Blake Corum,RB,LA,ARI,,RUSH_YDS,15+,5,0.9,57.0
 Blake Corum,RB,LA,ARI,,RR_YDS,50+,5,0.7,72.8
 Blake Corum,RB,LA,ARI,,TDS,1+,5,0.45,1.0

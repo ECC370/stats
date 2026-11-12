@@ -2,10 +2,10 @@ Player,Pos,Team,Opp,Status,Stat,Line,Streak,L20 hit,Avg in streak
 VJ Edgecombe,G,PHI,TOR,,PTS,5+,98,1.0,15.4
 Jaylen Brown,G,PHI,TOR,,PA,15+,89,1.0,32.4
 Jalen Duren,C,DET,WSH,Out,REB,2+,84,1.0,10.2
-LeBron James,F,PHI,TOR,Questionable,PTS,5+,80,1.0,20.5
-LeBron James,F,PHI,TOR,Questionable,PA,10+,80,1.0,27.6
+LeBron James,F,PHI,TOR,Out,PTS,5+,80,1.0,20.5
+LeBron James,F,PHI,TOR,Out,PA,10+,80,1.0,27.6
 Brandon Miller,F,CHA,PHX,Out,PTS,5+,75,1.0,20.3
-LeBron James,F,PHI,TOR,Questionable,PRA,15+,75,1.0,34.4
+LeBron James,F,PHI,TOR,Out,PRA,15+,75,1.0,34.4
 Dillon Brooks,F,PHX,CHA,,PTS,5+,72,1.0,19.7
 Kawhi Leonard,F,TOR,PHI,Out,PTS,15+,67,1.0,27.8
 Kawhi Leonard,F,TOR,PHI,Out,PRA,25+,67,1.0,37.8
@@ -14,7 +14,7 @@ Kawhi Leonard,F,TOR,PHI,Out,RA,5+,59,1.0,10.2
 LaMelo Ball,G,MIN,DAL,,RA,5+,59,1.0,11.0
 Miles Bridges,F,PHX,CHA,,PTS,5+,57,1.0,15.3
 Miles Bridges,F,PHX,CHA,,PRA,10+,57,1.0,24.0
-Moussa Diabate,F,CHA,PHX,Questionable,RA,5+,57,1.0,11.8
+Moussa Diabate,F,CHA,PHX,,RA,5+,57,1.0,11.8
 Joel Embiid,C,PHI,TOR,Questionable,PRA,10+,55,1.0,36.9
 Joel Embiid,C,PHI,TOR,Questionable,PR,10+,55,1.0,32.8
 Joel Embiid,C,PHI,TOR,Questionable,RA,5+,55,1.0,12.1
@@ -37,7 +37,7 @@ Jaden McDaniels,F,MIN,DAL,,PTS,10+,29,1.0,16.5
 LaMelo Ball,G,MIN,DAL,,AST,3+,27,1.0,6.9
 Cade Cunningham,G,DET,WSH,,PR,15+,25,1.0,28.6
 Cade Cunningham,G,DET,WSH,,RA,5+,25,1.0,12.9
-LeBron James,F,PHI,TOR,Questionable,AST,3+,24,1.0,7.6
+LeBron James,F,PHI,TOR,Out,AST,3+,24,1.0,7.6
 Tyrese Maxey,G,PHI,TOR,,RA,5+,24,1.0,9.3
 Naz Reid,C,CHA,PHX,,RA,5+,23,1.0,9.8
 Cade Cunningham,G,DET,WSH,,PTS,10+,22,1.0,25.1
@@ -56,7 +56,7 @@ VJ Edgecombe,G,PHI,TOR,,PA,10+,18,0.95,16.4
 Cade Cunningham,G,DET,WSH,,AST,4+,16,0.95,7.8
 Kyshawn George,F,WSH,DET,,PRA,15+,16,0.9,25.2
 Kyshawn George,F,WSH,DET,,PA,10+,16,0.95,21.2
-LeBron James,F,PHI,TOR,Questionable,PR,15+,16,0.95,25.2
+LeBron James,F,PHI,TOR,Out,PR,15+,16,0.95,25.2
 Tobias Harris,F,DET,WSH,Out,PTS,5+,16,0.95,17.5
 Tobias Harris,F,DET,WSH,Out,PRA,10+,16,0.95,25.8
 Tobias Harris,F,DET,WSH,Out,PR,10+,16,0.95,24.2
@@ -119,7 +119,7 @@ VJ Edgecombe,G,PHI,TOR,,PRA,15+,10,0.9,22.9
 Cooper Flagg,F,DAL,MIN,,AST,5+,9,0.65,7.4
 Cooper Flagg,F,DAL,MIN,,RA,10+,9,0.75,14.6
 Daniss Jenkins,G,DET,WSH,,PRA,10+,9,0.7,22.4
-Grant Williams,F,CHA,PHX,Out,REB,2+,9,0.9,4.1
+Grant Williams,F,CHA,PHX,Check roster,REB,2+,9,0.9,4.1
 Immanuel Quickley,G,TOR,PHI,,PTS,10+,9,0.85,16.7
 Immanuel Quickley,G,TOR,PHI,,PRA,15+,9,0.85,25.8
 Immanuel Quickley,G,TOR,PHI,,PR,10+,9,0.85,20.2
@@ -184,8 +184,8 @@ Kyshawn George,F,WSH,DET,,THREES,2+,7,0.6,3.6
 Kyshawn George,F,WSH,DET,,PR,15+,7,0.75,25.3
 LaMelo Ball,G,MIN,DAL,,REB,2+,7,0.9,4.1
 LaMelo Ball,G,MIN,DAL,,PRA,20+,7,0.95,30.3
-LeBron James,F,PHI,TOR,Questionable,REB,5+,7,0.75,7.3
-LeBron James,F,PHI,TOR,Questionable,RA,10+,7,0.9,14.1
+LeBron James,F,PHI,TOR,Out,REB,5+,7,0.75,7.3
+LeBron James,F,PHI,TOR,Out,RA,10+,7,0.9,14.1
 Mark Williams,C,PHX,CHA,Out,PRA,10+,7,0.9,17.4
 Morez Johnson Jr.,F,DAL,MIN,Questionable,REB,2+,7,0.9,5.9
 Royce O'Neale,F,CHA,PHX,,REB,3+,7,0.75,3.9
@@ -205,10 +205,10 @@ Jamison Battle,F,TOR,PHI,,THREES,1+,6,0.7,3.0
 Jordan Goodwin,G,PHX,CHA,,REB,2+,6,0.9,3.3
 LaMelo Ball,G,MIN,DAL,,PTS,10+,6,0.95,22.3
 LaMelo Ball,G,MIN,DAL,,PR,15+,6,0.9,26.5
-Moussa Diabate,F,CHA,PHX,Questionable,PTS,5+,6,0.65,9.0
-Moussa Diabate,F,CHA,PHX,Questionable,REB,6+,6,0.85,10.2
-Moussa Diabate,F,CHA,PHX,Questionable,PRA,15+,6,0.7,21.3
-Moussa Diabate,F,CHA,PHX,Questionable,PR,10+,6,0.85,19.2
+Moussa Diabate,F,CHA,PHX,,PTS,5+,6,0.65,9.0
+Moussa Diabate,F,CHA,PHX,,REB,6+,6,0.85,10.2
+Moussa Diabate,F,CHA,PHX,,PRA,15+,6,0.7,21.3
+Moussa Diabate,F,CHA,PHX,,PR,10+,6,0.85,19.2
 Naz Reid,C,CHA,PHX,,PTS,10+,6,0.9,17.7
 Naz Reid,C,CHA,PHX,,PRA,20+,6,0.8,28.2
 Naz Reid,C,CHA,PHX,,PR,15+,6,0.9,26.0

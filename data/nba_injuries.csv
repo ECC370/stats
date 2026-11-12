@@ -6,11 +6,9 @@ ATL,Henri Veesaar,Out,"Veesaar was diagnosed with a torn right ACL and is expect
 BKN,Nolan Traore,Questionable,"Traore (calf) has been ruled out for Wednesday's game against the Pelicans, Ian Begley of SportsNet New York reports."
 BKN,Mikel Brown Jr.,Questionable,"Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports."
 BOS,Paul George,Questionable,"George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports."
-CHA,Grant Williams,Out,Williams (hamstring) is listed as probable for Thursday's game against the Suns.
 CHA,Brandon Miller,Out,Miller (groin) is listed as out for Thursday's game against Phoenix.
 CHA,Kon Knueppel,Out,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.
 CHA,Dennis Schroder,Out,"Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
-CHA,Moussa Diabate,Questionable,Diabate (quadriceps) is listed as probable for Thursday's game against the Suns.
 CHI,Dailyn Swain,Questionable,Swain (back) is out for Wednesday's game against the Spurs.
 CHI,Norman Powell,Questionable,"Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Athletic reports."
 CHI,Tobe Awaka,Questionable,Awaka (back) has been ruled out for Wednesday's game against the Spurs.
@@ -24,12 +22,12 @@ DEN,Julian Strawther,Out,"Strawther (knee) was diagnosed with a left knee sprain
 DET,Isaiah Joe,Out,Joe (hip) is out for Monday against the Wizards.
 DET,Jalen Duren,Out,"Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
 DET,Ugonna Onyenso,Questionable,Onyenso agreed to a two-way contract with the Pistons on Thursday.
+GS,Stephen Curry,Out,"Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
 GS,Brandon Williams,Out,"Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com."
 GS,Kristaps Porzingis,Out,Porzingis announced on his social media that he's stepping away from basketball.
 GS,Moses Moody,Out,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthon"
 GS,Jimmy Butler III,Out,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN re"
 GS,Gary Payton II,Questionable,Payton (knee) is out for Wednesday's game against Houston.
-GS,Stephen Curry,Questionable,"Steve Kerr told reporters Wednesday that Curry said he tweaked something in his abdominal area and ""had never done it before."" Kerr added th"
 HOU,Clint Capela,Out,"Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard "
 HOU,Steven Adams,Out,"Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports."
 IND,Tyrese Haliburton,Out,"Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports."
@@ -48,6 +46,8 @@ LAL,Luka Doncic,Questionable,"Doncic finished Wednesday's 123-112 win over the B
 MEM,Scotty Pippen Jr.,Out,"Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports."
 MEM,Richie Saunders,Out,"Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
 MEM,Quinten Post,Questionable,Post (concussion) has been ruled out for Wednesday's game against the Nuggets.
+MIA,Pelle Larsson,Questionable,"Larsson sat out Thursday's practice due to an illness, per Ira Winderman of the South Florida Sun Sentinel."
+MIA,Klay Thompson,Questionable,"Thompson (ankle) didn't practice Thursday, per Ira Winderman of the South Florida Sun Sentinel."
 MIL,Myles Turner,Questionable,Turner has been ruled out for Wednesday's game against the Lakers due to rest.
 MIL,Ryan Rollins,Questionable,"Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with "
 MIN,Anthony Edwards,Out,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced."
@@ -69,11 +69,11 @@ ORL,Noah Penda,Out,"Penda was diagnosed with a partially torn right hamstring Sa
 ORL,Izaiyah Nelson,Out,"Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, "
 ORL,Tristan da Silva,Questionable,Da Silva (calf) is listed as out for Wednesday's game versus the Jazz.
 ORL,Jamal Cain,Questionable,Cain (shoulder) is out for Wednesday's game in Utah.
+PHI,LeBron James,Out,James (back) is out for Thursday's game against Toronto.
 PHI,Dominick Barlow,Out,"Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports."
 PHI,Adem Bona,Out,"Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports."
 PHI,Ariel Hukporti,Out,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
 PHI,Joel Embiid,Questionable,"Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin"
-PHI,LeBron James,Questionable,"James (back) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin "
 PHX,Mark Williams,Out,"Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of"
 POR,Vit Krejci,Out,"Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com rep"
 POR,Ja Morant,Out,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injur"
@@ -85,10 +85,10 @@ SA,Devin Vassell,Questionable,"Vassell (adductor) won't play in Wednesday's game
 SAC,Maxime Raynaud,Out,Raynaud (knee) has been ruled out for Tuesday's game against Orlando.
 SAC,Ben Simmons,Out,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
 SAC,Precious Achiuwa,Questionable,"Achiuwa left Tuesday's 107-100 loss to the Magic with a left lower leg contusion and did not return, Matt George of ABC 10 Sacramento report"
+TOR,Trayce Jackson-Davis,Out,Jackson-Davis is out for Thursday's game against the 76ers due to an illness.
+TOR,Scottie Barnes,Out,Barnes (groin) is out for Thursday's game against Philadelphia.
 TOR,Kawhi Leonard,Out,"Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of S"
-TOR,Scottie Barnes,Out,Barnes (groin) is out for Wednesday's game against Boston.
 TOR,Nate Bittle,Out,Bittle (foot) is listed as out for Monday's game against Memphis.
-TOR,Trayce Jackson-Davis,Questionable,"Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports."
 UTAH,Trey Alexander,Out,Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.
 UTAH,Lauri Markkanen,Out,"Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of"
 UTAH,Jusuf Nurkic,Out,Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 p

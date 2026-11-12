@@ -301,7 +301,6 @@ A.J. Brown,WR,NE,DET,Limited,REC,3+,6,0.79,4.3
 A.J. Brown,WR,NE,DET,Limited,TGT,4+,6,0.84,7.7
 Aaron Jones,RB,MIN,GB,,REC,1+,6,0.8,2.7
 Ashton Jeanty,RB,LV,SEA,,TGT,4+,6,0.8,6.5
-Audric Estimé,RB,NO,CAR,,RR_YDS,15+,6,0.86,64.3
 Braelon Allen,RB,NYJ,BUF,,RUSH_YDS,30+,6,0.62,89.5
 Braelon Allen,RB,NYJ,BUF,,RUSH_ATT,8+,6,0.54,16.8
 Braelon Allen,RB,NYJ,BUF,,RR_YDS,50+,6,0.46,104.7
@@ -383,7 +382,6 @@ Amon-Ra St. Brown,WR,DET,NE,Limited,RR_YDS,50+,5,0.8,87.6
 Antonio Williams,WR,WAS,NYG,,REC,3+,5,0.88,3.4
 Antonio Williams,WR,WAS,NYG,,REC_YDS,20+,5,0.88,36.2
 Antonio Williams,WR,WAS,NYG,,RR_YDS,20+,5,0.88,36.2
-Audric Estimé,RB,NO,CAR,,RUSH_YDS,15+,5,0.71,53.4
 Bam Knight,RB,ARI,LA,Limited,RUSH_YDS,5+,5,0.82,33.6
 Blake Corum,RB,LA,ARI,,RUSH_YDS,15+,5,0.9,57.0
 Blake Corum,RB,LA,ARI,,RR_YDS,50+,5,0.7,72.8
@@ -399,3 +397,5 @@ Charlie Kolar,TE,LAC,BAL,,REC,1+,5,0.68,2.6
 Charlie Kolar,TE,LAC,BAL,,REC_YDS,20+,5,0.42,25.8
 Charlie Kolar,TE,LAC,BAL,,TGT,3+,5,0.32,4.0
 Charlie Kolar,TE,LAC,BAL,,RR_YDS,20+,5,0.42,26.4
+Chase Brown,RB,CIN,PIT,,REC,3+,5,0.8,5.8
+Chase Brown,RB,CIN,PIT,,REC_YDS,15+,5,0.75,35.0

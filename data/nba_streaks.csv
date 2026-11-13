@@ -74,7 +74,7 @@ Dylan Harper,G,SA,GS,,RA,5+,30,1.0,9.5
 Darius Garland,G,LAC,OKC,,RA,5+,29,1.0,9.0
 Domantas Sabonis,F,SAC,POR,,REB,2+,29,1.0,12.0
 Domantas Sabonis,F,SAC,POR,,RA,5+,29,1.0,16.8
-Trey Murphy III,F,NO,MEM,Questionable,THREES,1+,29,1.0,3.3
+Trey Murphy III,F,NO,MEM,Out,THREES,1+,29,1.0,3.3
 Keyonte George,G,UTAH,HOU,,PTS,5+,28,1.0,22.4
 Zion Williamson,F,NO,MEM,,PTS,10+,28,1.0,20.5
 Zion Williamson,F,NO,MEM,,PA,15+,28,1.0,23.1
@@ -94,9 +94,9 @@ Ty Jerome,G,MEM,NO,,THREES,1+,25,1.0,2.7
 Cedric Coward,F,MEM,NO,,PRA,10+,24,1.0,22.5
 Brandin Podziemski,G,GS,SA,,PRA,15+,23,1.0,27.7
 Brandin Podziemski,G,GS,SA,,PA,10+,23,1.0,22.5
-Dejounte Murray,G,NO,MEM,,PTS,5+,23,1.0,15.4
-Dejounte Murray,G,NO,MEM,,REB,2+,23,1.0,5.0
-Dejounte Murray,G,NO,MEM,,PRA,10+,23,1.0,26.1
+Dejounte Murray,G,NO,MEM,Questionable,PTS,5+,23,1.0,15.4
+Dejounte Murray,G,NO,MEM,Questionable,REB,2+,23,1.0,5.0
+Dejounte Murray,G,NO,MEM,Questionable,PRA,10+,23,1.0,26.1
 Rui Hachimura,F,LAC,OKC,,THREES,1+,23,1.0,2.7
 Saddiq Bey,G,NO,MEM,,THREES,1+,23,1.0,2.4
 Saddiq Bey,G,NO,MEM,,PA,10+,23,1.0,20.4
@@ -266,7 +266,7 @@ Dylan Cardwell,C,SAC,POR,,RA,5+,10,0.95,9.0
 Fred VanVleet,G,HOU,UTAH,,PTS,5+,10,1.0,13.7
 Fred VanVleet,G,HOU,UTAH,,AST,2+,10,1.0,5.6
 Fred VanVleet,G,HOU,UTAH,,PA,10+,10,1.0,19.3
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,AST,3+,10,0.9,5.6
+Giannis Antetokounmpo,F,MIA,CLE,,AST,3+,10,0.9,5.6
 Isaiah Hartenstein,C,OKC,LAC,,PRA,15+,10,0.8,23.7
 Jabari Smith Jr.,F,HOU,UTAH,,PTS,10+,10,0.9,16.4
 Jabari Smith Jr.,F,HOU,UTAH,,PRA,15+,10,0.95,25.7
@@ -351,13 +351,13 @@ Desmond Bane,G,ORL,MIL,,PRA,20+,8,0.85,26.5
 Desmond Bane,G,ORL,MIL,,PA,15+,8,0.8,22.4
 Dyson Daniels,G,ATL,CHI,,PRA,15+,8,0.85,22.9
 Evan Mobley,C,CLE,MIA,Out,AST,3+,8,0.85,4.0
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,PTS,20+,8,0.85,27.5
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,REB,11+,8,0.7,14.4
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,PRA,35+,8,0.8,47.9
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,PR,30+,8,0.85,41.9
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,PA,20+,8,0.95,33.5
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,RA,15+,8,0.7,20.4
-Giannis Antetokounmpo,F,MIA,CLE,Questionable,DBL_DBL,1+,8,0.7,1.0
+Giannis Antetokounmpo,F,MIA,CLE,,PTS,20+,8,0.85,27.5
+Giannis Antetokounmpo,F,MIA,CLE,,REB,11+,8,0.7,14.4
+Giannis Antetokounmpo,F,MIA,CLE,,PRA,35+,8,0.8,47.9
+Giannis Antetokounmpo,F,MIA,CLE,,PR,30+,8,0.85,41.9
+Giannis Antetokounmpo,F,MIA,CLE,,PA,20+,8,0.95,33.5
+Giannis Antetokounmpo,F,MIA,CLE,,RA,15+,8,0.7,20.4
+Giannis Antetokounmpo,F,MIA,CLE,,DBL_DBL,1+,8,0.7,1.0
 Jaime Jaquez Jr.,F,MIL,ORL,,AST,2+,8,0.95,2.8
 Jamal Cain,F,ORL,MIL,Questionable,PTS,5+,8,0.7,8.8
 Jeremiah Fears,G,NO,MEM,,PRA,20+,8,0.7,30.0
@@ -374,7 +374,7 @@ Miles McBride,G,NY,IND,,THREES,1+,8,0.75,2.0
 Moses Moody,G,GS,SA,Out,REB,2+,8,0.9,3.8
 Moses Moody,G,GS,SA,Out,THREES,2+,8,0.9,3.4
 Reed Sheppard,G,HOU,UTAH,,PTS,5+,8,0.9,11.0
-Trey Murphy III,F,NO,MEM,Questionable,AST,3+,8,0.75,3.9
+Trey Murphy III,F,NO,MEM,Out,AST,3+,8,0.75,3.9
 Tyler Burton,F,MEM,NO,Check roster,THREES,1+,8,0.92,2.4
 Tyrese Proctor,G,CLE,MIA,,PRA,10+,8,0.7,14.5
 Zion Williamson,F,NO,MEM,,REB,4+,8,0.85,6.0

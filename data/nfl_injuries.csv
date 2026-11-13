@@ -7,17 +7,16 @@ DET,WR,Amon-Ra St. Brown,Limited,,Limited Participation in Practice
 NE,C,Ben Brown,Out,Knee,Did Not Participate In Practice
 NE,CB,Carlton Davis III,Out,Knee,Did Not Participate In Practice
 NE,RB,TreVeyon Henderson,Out,Illness,Did Not Participate In Practice
-NE,CB,Charles Woods,Limited,,Limited Participation in Practice
-NE,FB,Reggie Gilliam,Limited,,Limited Participation in Practice
-NE,G,Greg Van Roten,Limited,,Limited Participation in Practice
-NE,RB,Rhamondre Stevenson,Limited,,Limited Participation in Practice
-NE,S,Brenden Schooler,Limited,,Limited Participation in Practice
-NE,S,Kevin Byard,Limited,,Limited Participation in Practice
-NE,T,Morgan Moses,Limited,,Limited Participation in Practice
-NE,T,Walter Rouse,Limited,,Limited Participation in Practice
-NE,TE,Cameron Latu,Limited,,Limited Participation in Practice
+NE,CB,Charles Woods,Questionable,Hamstring,Full Participation in Practice
+NE,FB,Reggie Gilliam,Questionable,Knee,Limited Participation in Practice
+NE,G,Greg Van Roten,Questionable,Hamstring,Full Participation in Practice
+NE,RB,Rhamondre Stevenson,Questionable,Knee,Limited Participation in Practice
+NE,S,Brenden Schooler,Questionable,Hamstring,Limited Participation in Practice
+NE,S,Kevin Byard,Questionable,Chest,Full Participation in Practice
+NE,T,Walter Rouse,Questionable,Concussion,Limited Participation in Practice
+NE,TE,Cameron Latu,Questionable,Back,Limited Participation in Practice
+NE,WR,A.J. Brown,Questionable,Ankle,Limited Participation in Practice
 NE,TE,Hunter Henry,Limited,,Limited Participation in Practice
-NE,WR,A.J. Brown,Limited,,Limited Participation in Practice
 ATL,LB,Divine Deablo,DNP,,Did Not Participate In Practice
 ATL,T,Jawaan Taylor,DNP,,Did Not Participate In Practice
 ATL,WR,Zachariah Branch,DNP,,Did Not Participate In Practice
@@ -44,15 +43,12 @@ CLE,T,Tytus Howard,Limited,,Limited Participation in Practice
 CLE,TE,Harold Fannin Jr.,Limited,,Limited Participation in Practice
 HOU,G,Keylan Rutledge,DNP,,Did Not Participate In Practice
 HOU,LB,Azeez Al-Shaair,DNP,,Did Not Participate In Practice
-HOU,RB,David Montgomery,DNP,,Did Not Participate In Practice
+HOU,RB,Woody Marks,DNP,,Did Not Participate In Practice
 HOU,TE,Brevin Jordan,DNP,,Did Not Participate In Practice
-HOU,CB,Jaylin Smith,Limited,,Limited Participation in Practice
-HOU,G,Wyatt Teller,Limited,,Limited Participation in Practice
-HOU,LB,Jacob Hummel,Limited,,Limited Participation in Practice
-HOU,RB,Woody Marks,Limited,,Limited Participation in Practice
-HOU,S,Reed Blankenship,Limited,,Limited Participation in Practice
-HOU,WR,Marvin Harrison Jr.,Limited,,Limited Participation in Practice
-HOU,WR,Tank Dell,Limited,,Limited Participation in Practice
+HOU,WR,Marvin Harrison Jr.,DNP,,Did Not Participate In Practice
+HOU,DE,Danielle Hunter,Limited,,Limited Participation in Practice
+HOU,DE,Will Anderson Jr.,Limited,,Limited Participation in Practice
+HOU,RB,David Montgomery,Limited,,Limited Participation in Practice
 GB,C,Sean Rhyan,DNP,,Did Not Participate In Practice
 GB,LB,Lukas Van Ness,DNP,,Did Not Participate In Practice
 GB,LB,Zaire Franklin,DNP,,Did Not Participate In Practice
@@ -90,8 +86,10 @@ MIA,LS,Tucker Addington,Limited,,Limited Participation in Practice
 MIA,TE,Will Kacmarek,Limited,,Limited Participation in Practice
 MIA,WR,Jared Wayne,Limited,,Limited Participation in Practice
 CAR,LB,Bobby Okereke,DNP,,Did Not Participate In Practice
+CAR,CB,Mike Jackson,Limited,,Limited Participation in Practice
 CAR,G,Damien Lewis,Limited,,Limited Participation in Practice
 CAR,LB,Jaelan Phillips,Limited,,Limited Participation in Practice
+CAR,RB,Jonathon Brooks,Limited,,Limited Participation in Practice
 NO,C,Erik McCoy,DNP,,Did Not Participate In Practice
 NO,DT,Christen Miller,DNP,,Did Not Participate In Practice
 NO,RB,CJ Donaldson,DNP,,Did Not Participate In Practice
@@ -146,12 +144,13 @@ ARI,TE,Hunter Long,Limited,,Limited Participation in Practice
 LA,CB,Trent McDuffie,DNP,,Did Not Participate In Practice
 LA,G,Steve Avila,DNP,,Did Not Participate In Practice
 LA,S,Kam Curl,DNP,,Did Not Participate In Practice
+LA,TE,Davis Allen,DNP,,Did Not Participate In Practice
 LA,TE,Terrance Ferguson,DNP,,Did Not Participate In Practice
+LA,TE,Tyler Higbee,DNP,,Did Not Participate In Practice
 LA,WR,Puka Nacua,DNP,,Did Not Participate In Practice
 LA,LB,Myles Garrett,Limited,,Limited Participation in Practice
 LA,LS,Joe Cardona,Limited,,Limited Participation in Practice
 LA,TE,Colby Parkinson,Limited,,Limited Participation in Practice
-LA,TE,Davis Allen,Limited,,Limited Participation in Practice
 LV,C,Trey Zuhn III,Limited,,Limited Participation in Practice
 LV,DT,Thomas Booker,Limited,,Limited Participation in Practice
 SEA,DT,Brandon Pili,DNP,,Did Not Participate In Practice
@@ -159,14 +158,13 @@ SEA,DT,Jarran Reed,DNP,,Did Not Participate In Practice
 SEA,DT,Leonard Williams,DNP,,Did Not Participate In Practice
 SEA,G,Quenton Nelson,DNP,,Did Not Participate In Practice
 SEA,QB,Sam Darnold,DNP,,Did Not Participate In Practice
-SEA,T,Charles Cross,DNP,,Did Not Participate In Practice
-SEA,WR,Jaxon Smith-Njigba,DNP,,Did Not Participate In Practice
 SEA,G,Anthony Bradford,Limited,,Limited Participation in Practice
 SEA,LB,Connor O'Toole,Limited,,Limited Participation in Practice
 SEA,LB,Derick Hall,Limited,,Limited Participation in Practice
 SEA,LB,Patrick O'Connell,Limited,,Limited Participation in Practice
 SEA,LB,Uchenna Nwosu,Limited,,Limited Participation in Practice
 SEA,QB,Drew Lock,Limited,,Limited Participation in Practice
+SEA,T,Charles Cross,Limited,,Limited Participation in Practice
 DAL,CB,Joey Porter Jr.,DNP,,Did Not Participate In Practice
 DAL,LB,Donovan Ezeiruaku,DNP,,Did Not Participate In Practice
 DAL,LB,Von Miller,DNP,,Did Not Participate In Practice
@@ -181,13 +179,12 @@ DAL,WR,George Pickens,Limited,,Limited Participation in Practice
 DAL,WR,KaVontae Turpin,Limited,,Limited Participation in Practice
 SF,CB,Deommodore Lenoir,DNP,,Did Not Participate In Practice
 SF,CB,Renardo Green,DNP,,Did Not Participate In Practice
-SF,LB,Dre Greenlaw,DNP,,Did Not Participate In Practice
-SF,RB,Christian McCaffrey,DNP,,Did Not Participate In Practice
-SF,T,Trent Williams,DNP,,Did Not Participate In Practice
 SF,WR,Mike Evans,DNP,,Did Not Participate In Practice
 SF,CB,Upton Stout,Limited,,Limited Participation in Practice
 SF,DT,C.J. West,Limited,,Limited Participation in Practice
+SF,LB,Dre Greenlaw,Limited,,Limited Participation in Practice
 SF,S,Siran Neal,Limited,,Limited Participation in Practice
+SF,T,Trent Williams,Limited,,Limited Participation in Practice
 SF,WR,Deebo Samuel Sr.,Limited,,Limited Participation in Practice
 CIN,DT,Jonathan Allen,DNP,,Did Not Participate In Practice
 CIN,S,Kyle Dugger,DNP,,Did Not Participate In Practice

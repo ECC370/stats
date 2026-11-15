@@ -1,22 +1,4 @@
 Team,Pos,Player,Status,Injury,Practice
-DET,C,Cade Mays,Out,Ankle,Did Not Participate In Practice
-DET,CB,D.J. Reed,Out,Hip,Did Not Participate In Practice
-DET,S,Kerby Joseph,Out,Knee,Did Not Participate In Practice
-DET,RB,Sione Vaki,Questionable,Ankle,Limited Participation in Practice
-DET,WR,Amon-Ra St. Brown,Questionable,Rib,Limited Participation in Practice
-NE,C,Ben Brown,Out,Knee,Did Not Participate In Practice
-NE,CB,Carlton Davis III,Out,Knee,Did Not Participate In Practice
-NE,RB,TreVeyon Henderson,Out,Illness,Did Not Participate In Practice
-NE,CB,Charles Woods,Questionable,Hamstring,Full Participation in Practice
-NE,FB,Reggie Gilliam,Questionable,Knee,Limited Participation in Practice
-NE,G,Greg Van Roten,Questionable,Hamstring,Full Participation in Practice
-NE,RB,Rhamondre Stevenson,Questionable,Knee,Limited Participation in Practice
-NE,S,Brenden Schooler,Questionable,Hamstring,Limited Participation in Practice
-NE,S,Kevin Byard,Questionable,Chest,Full Participation in Practice
-NE,T,Walter Rouse,Questionable,Concussion,Limited Participation in Practice
-NE,TE,Cameron Latu,Questionable,Back,Limited Participation in Practice
-NE,WR,A.J. Brown,Questionable,Ankle,Limited Participation in Practice
-NE,TE,Hunter Henry,Limited,,Limited Participation in Practice
 ATL,WR,Zachariah Branch,Out,Hamstring,Did Not Participate In Practice
 ATL,LB,Divine Deablo,Doubtful,Forearm,Did Not Participate In Practice
 ATL,DE,James Pearce Jr.,Questionable,Back,Limited Participation in Practice
@@ -199,6 +181,24 @@ LAC,LB,Denzel Perryman,Questionable,Pectoral,Full Participation in Practice
 LAC,T,Trey Pipkins,Questionable,Not injury related - personal matter,Limited Participation in Practice
 LAC,TE,David Njoku,Questionable,Fibula,Full Participation in Practice
 LAC,WR,Ladd McConkey,Questionable,Back,Did Not Participate In Practice
+DET,C,Cade Mays,Out,Ankle,Did Not Participate In Practice
+DET,CB,D.J. Reed,Out,Hip,Did Not Participate In Practice
+DET,S,Kerby Joseph,Out,Knee,Did Not Participate In Practice
+DET,RB,Sione Vaki,Questionable,Ankle,Limited Participation in Practice
+DET,WR,Amon-Ra St. Brown,Questionable,Rib,Limited Participation in Practice
+NE,C,Ben Brown,Out,Knee,Did Not Participate In Practice
+NE,CB,Carlton Davis III,Out,Knee,Did Not Participate In Practice
+NE,RB,TreVeyon Henderson,Out,Illness,Did Not Participate In Practice
+NE,CB,Charles Woods,Questionable,Hamstring,Full Participation in Practice
+NE,FB,Reggie Gilliam,Questionable,Knee,Limited Participation in Practice
+NE,G,Greg Van Roten,Questionable,Hamstring,Full Participation in Practice
+NE,RB,Rhamondre Stevenson,Questionable,Knee,Limited Participation in Practice
+NE,S,Brenden Schooler,Questionable,Hamstring,Limited Participation in Practice
+NE,S,Kevin Byard,Questionable,Chest,Full Participation in Practice
+NE,T,Walter Rouse,Questionable,Concussion,Limited Participation in Practice
+NE,TE,Cameron Latu,Questionable,Back,Limited Participation in Practice
+NE,WR,A.J. Brown,Questionable,Ankle,Limited Participation in Practice
+NE,TE,Hunter Henry,Limited,,Limited Participation in Practice
 NYG,LB,Malik Harrison,Questionable,Groin,Limited Participation in Practice
 WAS,C,Lucas Patrick,Out,Concussion,Did Not Participate In Practice
 WAS,TE,Colson Yankoff,Out,Knee,Did Not Participate In Practice

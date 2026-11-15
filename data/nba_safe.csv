@@ -1151,6 +1151,7 @@ ALL|AST|Balanced|A to C|34,C,Kam Jones,IND at PHI,Over 2.5 assists,AST,4.9,8 of 
 ALL|AST|Balanced|A to C|35,C,Naji Marshall,DAL at BOS,Over 2.5 assists,AST,4.5,8 of 10,16 of 20,Tough (8th),1.47,"tough matchup; B2B 3in4; big spread, game script risk",Defense 1 of 30,0.68,0.33,Naji Marshall,3,Balanced,DAL at BOS|AST|Balanced|A to C|4
 ALL|BLK|Balanced|A to C|1,C,Alperen Sengun,HOU at WSH,Over 0.5 blocks,BLK,1.1,9 of 10,16 of 20,Tough (4th),1.38,tough matchup,Defense 20 of 30,0.81,0.05,Alperen Sengun,1,Balanced,HOU at WSH|BLK|Balanced|A to C|1
 ALL|BLK|Balanced|A to C|2,C,Mo Bamba,UTAH vs SA,Over 0.5 blocks,BLK,1.5,8 of 10,10 of 13,Mid (17th),1.5,"big spread, game script risk",Defense 3 of 30,0.745,0.35,Mo Bamba,1,Balanced,SA at UTAH|BLK|Balanced|A to C|1
+ALL|BLK|Balanced|A to C|3,C,Daniel Gafford,DAL at BOS,Over 0.5 blocks,BLK,1.5,8 of 10,17 of 20,Mid (9th),1.43,"B2B 3in4; questionable; big spread, game script risk",Defense 1 of 30,0.705,0.33,Daniel Gafford,1,Balanced,DAL at BOS|BLK|Balanced|A to C|1
 ALL|DBL_DBL|Balanced|A to C|1,B,Karl-Anthony Towns,NY at TOR,Double double,DBL_DBL,0.9,10 of 10,18 of 20,Mid (11th),1.24,,Defense 21 of 30,0.95,-0.11,Karl-Anthony Towns,1,Balanced,NY at TOR|DBL_DBL|Balanced|A to C|1
 ALL|PA|Balanced|A to C|1,A,VJ Edgecombe,PHI vs IND,Over 9.5 pts+ast,PA,16.2,10 of 10,19 of 20,Mid (9th),1.22,,Defense 13 of 30,0.975,0.38,VJ Edgecombe,10,Balanced,IND at PHI|PA|Balanced|A to C|1
 ALL|PA|Balanced|A to C|2,B,Karl-Anthony Towns,NY at TOR,Over 14.5 pts+ast,PA,21.6,10 of 10,18 of 20,Soft (27th),1.24,,Defense 21 of 30,1.0,0.31,Karl-Anthony Towns,15,Balanced,NY at TOR|PA|Balanced|A to C|1
@@ -1654,6 +1655,7 @@ ALL|AST|Balanced|All|34,C,Kam Jones,IND at PHI,Over 2.5 assists,AST,4.9,8 of 10,
 ALL|AST|Balanced|All|35,C,Naji Marshall,DAL at BOS,Over 2.5 assists,AST,4.5,8 of 10,16 of 20,Tough (8th),1.47,"tough matchup; B2B 3in4; big spread, game script risk",Defense 1 of 30,0.68,0.33,Naji Marshall,3,Balanced,DAL at BOS|AST|Balanced|All|4
 ALL|BLK|Balanced|All|1,C,Alperen Sengun,HOU at WSH,Over 0.5 blocks,BLK,1.1,9 of 10,16 of 20,Tough (4th),1.38,tough matchup,Defense 20 of 30,0.81,0.05,Alperen Sengun,1,Balanced,HOU at WSH|BLK|Balanced|All|1
 ALL|BLK|Balanced|All|2,C,Mo Bamba,UTAH vs SA,Over 0.5 blocks,BLK,1.5,8 of 10,10 of 13,Mid (17th),1.5,"big spread, game script risk",Defense 3 of 30,0.745,0.35,Mo Bamba,1,Balanced,SA at UTAH|BLK|Balanced|All|1
+ALL|BLK|Balanced|All|3,C,Daniel Gafford,DAL at BOS,Over 0.5 blocks,BLK,1.5,8 of 10,17 of 20,Mid (9th),1.43,"B2B 3in4; questionable; big spread, game script risk",Defense 1 of 30,0.705,0.33,Daniel Gafford,1,Balanced,DAL at BOS|BLK|Balanced|All|1
 ALL|DBL_DBL|Balanced|All|1,B,Karl-Anthony Towns,NY at TOR,Double double,DBL_DBL,0.9,10 of 10,18 of 20,Mid (11th),1.24,,Defense 21 of 30,0.95,-0.11,Karl-Anthony Towns,1,Balanced,NY at TOR|DBL_DBL|Balanced|All|1
 ALL|PA|Balanced|All|1,A,VJ Edgecombe,PHI vs IND,Over 9.5 pts+ast,PA,16.2,10 of 10,19 of 20,Mid (9th),1.22,,Defense 13 of 30,0.975,0.38,VJ Edgecombe,10,Balanced,IND at PHI|PA|Balanced|All|1
 ALL|PA|Balanced|All|2,B,Karl-Anthony Towns,NY at TOR,Over 14.5 pts+ast,PA,21.6,10 of 10,18 of 20,Soft (27th),1.24,,Defense 21 of 30,1.0,0.31,Karl-Anthony Towns,15,Balanced,NY at TOR|PA|Balanced|All|1
@@ -2340,6 +2342,7 @@ ALL|PR|Reach|A to C|40,C,Jordan Goodwin,PHX vs LAL,Over 9.5 pts+reb,PR,14.1,7 of
 ,C,Blake Hinson,UTAH vs SA,Over 9.5 pts+reb,PR,14.3,9 of 10,12 of 14,Tough (4th),1.34,"tough matchup; last season stats, check roster; big spread, game script risk",Defense 3 of 30,0.759,0.3,Blake Hinson,10,Reach,SA at UTAH|PR|Reach|A to C|5
 ,C,Brook Lopez,LAC vs CHA,Over 14.5 pts+reb,PR,19.5,7 of 10,15 of 20,Mid (9th),1.62,,Defense 5 of 30,0.725,0.23,Brook Lopez,15,Reach,CHA at LAC|PR|Reach|A to C|6
 ,C,Darius Acuff Jr.,SAC vs OKC,Over 24.5 pts+reb,PR,29.2,8 of 10,9 of 12,Tough (7th),1.52,"tough matchup; big spread, game script risk",Defense 11 of 30,0.695,0.15,Darius Acuff Jr.,25,Reach,OKC at SAC|PR|Reach|A to C|3
+,C,Daniel Gafford,DAL at BOS,Over 9.5 pts+reb,PR,16.4,7 of 10,15 of 20,Mid (10th),1.62,"B2B 3in4; questionable; big spread, game script risk",Defense 1 of 30,0.605,0.39,Daniel Gafford,10,Reach,DAL at BOS|PR|Reach|A to C|4
 ALL|PRA|Reach|A to C|1,A,Kyshawn George,WSH vs HOU,Over 14.5 pts+reb+ast,PRA,23.9,10 of 10,19 of 20,Mid (16th),1.22,,Defense 4 of 30,0.975,0.37,Kyshawn George,15,Reach,HOU at WSH|PRA|Reach|A to C|1
 ALL|PRA|Reach|A to C|2,B,Devin Booker,PHX vs LAL,Over 24.5 pts+reb+ast,PRA,33.9,9 of 10,19 of 20,Soft (26th),1.27,,Defense 16 of 30,0.975,0.26,Devin Booker,25,Reach,LAL at PHX|PRA|Reach|A to C|1
 ALL|PRA|Reach|A to C|3,B,Amen Thompson,HOU at WSH,Over 19.5 pts+reb+ast,PRA,28.6,9 of 10,19 of 20,Soft (24th),1.27,,Defense 20 of 30,0.975,0.3,Amen Thompson,20,Reach,HOU at WSH|PRA|Reach|A to C|2
@@ -2432,7 +2435,8 @@ ALL|PTS|Reach|A to C|36,C,Jay Huff,IND at PHI,Over 5.5 points,PTS,8.4,7 of 10,15
 ALL|PTS|Reach|A to C|37,C,Payton Pritchard,BOS vs DAL,Over 9.5 points,PTS,14.2,7 of 10,15 of 20,Mid (10th),1.62,"big spread, game script risk",Defense 12 of 30,0.685,0.29,Payton Pritchard,10,Reach,DAL at BOS|PTS|Reach|A to C|3
 ALL|PTS|Reach|A to C|38,C,Collin Murray-Boyles,TOR vs NY,Over 7.5 points,PTS,11.8,7 of 10,15 of 20,Tough (4th),1.62,tough matchup; + role up,Defense 2 of 30,0.685,0.32,Collin Murray-Boyles,8,Reach,NY at TOR|PTS|Reach|A to C|3
 ALL|PTS|Reach|A to C|39,C,P.J. Washington,DAL at BOS,Over 9.5 points,PTS,14.6,8 of 10,16 of 20,Mid (10th),1.47,"B2B 3in4; role down; big spread, game script risk",Defense 1 of 30,0.68,0.31,P.J. Washington,10,Reach,DAL at BOS|PTS|Reach|A to C|4
-ALL|PTS|Reach|A to C|40,C,Santi Aldama,DAL at BOS,Over 8.5 points,PTS,12.8,7 of 10,16 of 20,Mid (10th),1.57,"B2B 3in4; big spread, game script risk",Defense 1 of 30,0.67,0.3,Santi Aldama,9,Reach,DAL at BOS|PTS|Reach|A to C|5
+ALL|PTS|Reach|A to C|40,C,Daniel Gafford,DAL at BOS,Over 6.5 points,PTS,10.6,8 of 10,16 of 20,Mid (10th),1.47,"B2B 3in4; questionable; big spread, game script risk",Defense 1 of 30,0.68,0.34,Daniel Gafford,7,Reach,DAL at BOS|PTS|Reach|A to C|5
+,C,Santi Aldama,DAL at BOS,Over 8.5 points,PTS,12.8,7 of 10,16 of 20,Mid (10th),1.57,"B2B 3in4; big spread, game script risk",Defense 1 of 30,0.67,0.3,Santi Aldama,9,Reach,DAL at BOS|PTS|Reach|A to C|6
 ,C,Domantas Sabonis,SAC vs OKC,Over 10.5 points,PTS,14.4,7 of 10,15 of 20,Mid (22nd),1.62,"role down; big spread, game script risk",Defense 11 of 30,0.645,0.24,Domantas Sabonis,11,Reach,OKC at SAC|PTS|Reach|A to C|3
 ,C,Emanuel Sharp,SAC vs OKC,Over 2.5 points,PTS,4.6,7 of 10,9 of 12,Tough (3rd),1.62,"tough matchup; role down; big spread, game script risk",Defense 11 of 30,0.605,0.35,Emanuel Sharp,3,Reach,OKC at SAC|PTS|Reach|A to C|4
 ALL|RA|Reach|A to C|1,A,Luka Doncic,LAL at PHX,Over 9.5 reb+ast,RA,14.2,10 of 10,20 of 20,Mid (22nd),1.22,,Defense 19 of 30,1.0,0.3,Luka Doncic,10,Reach,LAL at PHX|RA|Reach|A to C|1
@@ -2776,6 +2780,7 @@ ALL|BLK|Reach|All|9,D,Alex Sarr,WSH vs HOU,Over 0.5 blocks,BLK,1.2,7 of 10,14 of
 ALL|BLK|Reach|All|10,D,Onyeka Okongwu,ATL at MIL,Over 0.5 blocks,BLK,0.8,7 of 10,12 of 20,Mid (15th),1.81,,Defense 24 of 30,0.65,-0.18,Onyeka Okongwu,1,Reach,ATL at MIL|BLK|Reach|All|2
 ALL|BLK|Reach|All|11,D,Tari Eason,HOU at WSH,Over 0.5 blocks,BLK,0.9,7 of 10,12 of 20,Mid (15th),1.81,,Defense 20 of 30,0.65,-0.11,Tari Eason,1,Reach,HOU at WSH|BLK|Reach|All|5
 ALL|BLK|Reach|All|12,D,John Konchar,UTAH vs SA,Over 0.5 blocks,BLK,1.1,7 of 10,14 of 20,Mid (15th),1.68,"last season stats, check roster; big spread, game script risk",Defense 3 of 30,0.62,0.05,John Konchar,1,Reach,SA at UTAH|BLK|Reach|All|2
+ALL|BLK|Reach|All|13,D,Daniel Gafford,DAL at BOS,Over 1.5 blocks,BLK,1.5,7 of 10,12 of 20,Mid (9th),1.81,"B2B 3in4; questionable; big spread, game script risk",Defense 1 of 30,0.53,-0.33,Daniel Gafford,2,Reach,DAL at BOS|BLK|Reach|All|1
 ALL|DBL_DBL|Reach|All|1,B,Karl-Anthony Towns,NY at TOR,Double double,DBL_DBL,0.9,10 of 10,18 of 20,Mid (11th),1.24,,Defense 21 of 30,0.95,-0.11,Karl-Anthony Towns,1,Reach,NY at TOR|DBL_DBL|Reach|All|1
 ALL|DBL_DBL|Reach|All|2,D,Victor Wembanyama,SA at UTAH,Double double,DBL_DBL,0.7,7 of 10,13 of 20,Soft (23rd),1.74,"big spread, game script risk",Defense 23 of 30,0.685,-0.54,Victor Wembanyama,1,Reach,SA at UTAH|DBL_DBL|Reach|All|1
 ALL|DBL_DBL|Reach|All|3,D,Domantas Sabonis,SAC vs OKC,Double double,DBL_DBL,0.6,7 of 10,12 of 20,Tough (4th),1.81,"tough matchup; role down; big spread, game script risk",Defense 11 of 30,0.53,-0.67,Domantas Sabonis,1,Reach,OKC at SAC|DBL_DBL|Reach|All|1
@@ -2878,17 +2883,17 @@ ALL|PR|Reach|All|40,C,Jordan Goodwin,PHX vs LAL,Over 9.5 pts+reb,PR,14.1,7 of 10
 ,C,Blake Hinson,UTAH vs SA,Over 9.5 pts+reb,PR,14.3,9 of 10,12 of 14,Tough (4th),1.34,"tough matchup; last season stats, check roster; big spread, game script risk",Defense 3 of 30,0.759,0.3,Blake Hinson,10,Reach,SA at UTAH|PR|Reach|All|5
 ,C,Brook Lopez,LAC vs CHA,Over 14.5 pts+reb,PR,19.5,7 of 10,15 of 20,Mid (9th),1.62,,Defense 5 of 30,0.725,0.23,Brook Lopez,15,Reach,CHA at LAC|PR|Reach|All|6
 ,C,Darius Acuff Jr.,SAC vs OKC,Over 24.5 pts+reb,PR,29.2,8 of 10,9 of 12,Tough (7th),1.52,"tough matchup; big spread, game script risk",Defense 11 of 30,0.695,0.15,Darius Acuff Jr.,25,Reach,OKC at SAC|PR|Reach|All|3
+,C,Daniel Gafford,DAL at BOS,Over 9.5 pts+reb,PR,16.4,7 of 10,15 of 20,Mid (10th),1.62,"B2B 3in4; questionable; big spread, game script risk",Defense 1 of 30,0.605,0.39,Daniel Gafford,10,Reach,DAL at BOS|PR|Reach|All|4
 ,D,Karl-Anthony Towns,NY at TOR,Over 29.5 pts+reb,PR,31.2,8 of 10,14 of 20,Soft (26th),1.57,,Defense 21 of 30,0.8,0.04,Karl-Anthony Towns,30,Reach,NY at TOR|PR|Reach|All|4
 ,D,Luka Doncic,LAL at PHX,Over 39.5 pts+reb,PR,45.2,8 of 10,14 of 20,Soft (24th),1.57,,Defense 19 of 30,0.8,0.12,Luka Doncic,40,Reach,LAL at PHX|PR|Reach|All|6
 ,D,Isaiah Hartenstein,OKC at SAC,Over 14.5 pts+reb,PR,18.4,9 of 10,14 of 20,Mid (15th),1.47,"+ role up; big spread, game script risk",Defense 28 of 30,0.76,0.18,Isaiah Hartenstein,15,Reach,OKC at SAC|PR|Reach|All|4
 ,D,Aday Mara,OKC at SAC,Over 9.5 pts+reb,PR,14.6,9 of 10,9 of 13,Mid (15th),1.48,"+ role up; big spread, game script risk",Defense 28 of 30,0.756,0.32,Aday Mara,10,Reach,OKC at SAC|PR|Reach|All|5
 ,D,Domantas Sabonis,SAC vs OKC,Over 19.5 pts+reb,PR,26.4,8 of 10,14 of 20,Soft (24th),1.57,"role down; big spread, game script risk",Defense 11 of 30,0.72,0.24,Domantas Sabonis,20,Reach,OKC at SAC|PR|Reach|All|6
 ,D,Stephon Castle,SA at UTAH,Over 19.5 pts+reb,PR,20.9,7 of 10,14 of 20,Soft (23rd),1.68,"big spread, game script risk",Defense 23 of 30,0.71,0.04,Stephon Castle,20,Reach,SA at UTAH|PR|Reach|All|6
-,D,Jayson Tatum,BOS vs DAL,Over 29.5 pts+reb,PR,33.0,7 of 10,14 of 20,Soft (30th),1.68,"big spread, game script risk",Defense 12 of 30,0.71,0.09,Jayson Tatum,30,Reach,DAL at BOS|PR|Reach|All|4
+,D,Jayson Tatum,BOS vs DAL,Over 29.5 pts+reb,PR,33.0,7 of 10,14 of 20,Soft (30th),1.68,"big spread, game script risk",Defense 12 of 30,0.71,0.09,Jayson Tatum,30,Reach,DAL at BOS|PR|Reach|All|5
 ,D,OG Anunoby,NY at TOR,Over 19.5 pts+reb,PR,22.1,8 of 10,14 of 20,Tough (1st),1.57,tough matchup,Defense 21 of 30,0.71,0.1,OG Anunoby,20,Reach,NY at TOR|PR|Reach|All|5
-,D,Sam Hauser,BOS vs DAL,Over 9.5 pts+reb,PR,12.7,7 of 10,14 of 20,Soft (30th),1.68,"big spread, game script risk",Defense 12 of 30,0.71,0.21,Sam Hauser,10,Reach,DAL at BOS|PR|Reach|All|5
+,D,Sam Hauser,BOS vs DAL,Over 9.5 pts+reb,PR,12.7,7 of 10,14 of 20,Soft (30th),1.68,"big spread, game script risk",Defense 12 of 30,0.71,0.21,Sam Hauser,10,Reach,DAL at BOS|PR|Reach|All|6
 ,D,Immanuel Quickley,TOR vs NY,Over 14.5 pts+reb,PR,17.9,8 of 10,12 of 20,Mid (17th),1.68,,Defense 2 of 30,0.7,0.16,Immanuel Quickley,15,Reach,NY at TOR|PR|Reach|All|6
-,D,Cooper Flagg,DAL at BOS,Over 24.5 pts+reb,PR,31.9,8 of 10,14 of 20,Mid (10th),1.57,"B2B 3in4; big spread, game script risk",Defense 1 of 30,0.67,0.22,Cooper Flagg,25,Reach,DAL at BOS|PR|Reach|All|6
 ALL|PRA|Reach|All|1,A,Kyshawn George,WSH vs HOU,Over 14.5 pts+reb+ast,PRA,23.9,10 of 10,19 of 20,Mid (16th),1.22,,Defense 4 of 30,0.975,0.37,Kyshawn George,15,Reach,HOU at WSH|PRA|Reach|All|1
 ALL|PRA|Reach|All|2,B,Devin Booker,PHX vs LAL,Over 24.5 pts+reb+ast,PRA,33.9,9 of 10,19 of 20,Soft (26th),1.27,,Defense 16 of 30,0.975,0.26,Devin Booker,25,Reach,LAL at PHX|PRA|Reach|All|1
 ALL|PRA|Reach|All|3,B,Amen Thompson,HOU at WSH,Over 19.5 pts+reb+ast,PRA,28.6,9 of 10,19 of 20,Soft (24th),1.27,,Defense 20 of 30,0.975,0.3,Amen Thompson,20,Reach,HOU at WSH|PRA|Reach|All|2
@@ -2984,7 +2989,8 @@ ALL|PTS|Reach|All|36,C,Jay Huff,IND at PHI,Over 5.5 points,PTS,8.4,7 of 10,15 of
 ALL|PTS|Reach|All|37,C,Payton Pritchard,BOS vs DAL,Over 9.5 points,PTS,14.2,7 of 10,15 of 20,Mid (10th),1.62,"big spread, game script risk",Defense 12 of 30,0.685,0.29,Payton Pritchard,10,Reach,DAL at BOS|PTS|Reach|All|3
 ALL|PTS|Reach|All|38,C,Collin Murray-Boyles,TOR vs NY,Over 7.5 points,PTS,11.8,7 of 10,15 of 20,Tough (4th),1.62,tough matchup; + role up,Defense 2 of 30,0.685,0.32,Collin Murray-Boyles,8,Reach,NY at TOR|PTS|Reach|All|3
 ALL|PTS|Reach|All|39,C,P.J. Washington,DAL at BOS,Over 9.5 points,PTS,14.6,8 of 10,16 of 20,Mid (10th),1.47,"B2B 3in4; role down; big spread, game script risk",Defense 1 of 30,0.68,0.31,P.J. Washington,10,Reach,DAL at BOS|PTS|Reach|All|4
-ALL|PTS|Reach|All|40,C,Santi Aldama,DAL at BOS,Over 8.5 points,PTS,12.8,7 of 10,16 of 20,Mid (10th),1.57,"B2B 3in4; big spread, game script risk",Defense 1 of 30,0.67,0.3,Santi Aldama,9,Reach,DAL at BOS|PTS|Reach|All|5
+ALL|PTS|Reach|All|40,C,Daniel Gafford,DAL at BOS,Over 6.5 points,PTS,10.6,8 of 10,16 of 20,Mid (10th),1.47,"B2B 3in4; questionable; big spread, game script risk",Defense 1 of 30,0.68,0.34,Daniel Gafford,7,Reach,DAL at BOS|PTS|Reach|All|5
+,C,Santi Aldama,DAL at BOS,Over 8.5 points,PTS,12.8,7 of 10,16 of 20,Mid (10th),1.57,"B2B 3in4; big spread, game script risk",Defense 1 of 30,0.67,0.3,Santi Aldama,9,Reach,DAL at BOS|PTS|Reach|All|6
 ,C,Domantas Sabonis,SAC vs OKC,Over 10.5 points,PTS,14.4,7 of 10,15 of 20,Mid (22nd),1.62,"role down; big spread, game script risk",Defense 11 of 30,0.645,0.24,Domantas Sabonis,11,Reach,OKC at SAC|PTS|Reach|All|3
 ,C,Emanuel Sharp,SAC vs OKC,Over 2.5 points,PTS,4.6,7 of 10,9 of 12,Tough (3rd),1.62,"tough matchup; role down; big spread, game script risk",Defense 11 of 30,0.605,0.35,Emanuel Sharp,3,Reach,OKC at SAC|PTS|Reach|All|4
 ,D,Khaman Maluach,PHX vs LAL,Over 3.5 points,PTS,6.0,10 of 10,14 of 20,Mid (14th),1.38,,Defense 16 of 30,0.85,0.33,Khaman Maluach,4,Reach,LAL at PHX|PTS|Reach|All|5
@@ -2998,7 +3004,6 @@ ALL|PTS|Reach|All|40,C,Santi Aldama,DAL at BOS,Over 8.5 points,PTS,12.8,7 of 10,
 ,D,Luke Kornet,SA at UTAH,Over 1.5 points,PTS,2.8,8 of 10,13 of 20,Soft (24th),1.62,"big spread, game script risk",Defense 23 of 30,0.735,0.27,Luke Kornet,2,Reach,SA at UTAH|PTS|Reach|All|6
 ,D,Naz Reid,CHA at LAC,Over 13.5 points,PTS,16.1,7 of 10,13 of 20,Soft (23rd),1.74,,Defense 27 of 30,0.725,0.13,Naz Reid,14,Reach,CHA at LAC|PTS|Reach|All|4
 ,D,Dylan Cardwell,SAC vs OKC,Over 3.5 points,PTS,5.3,9 of 10,14 of 20,Tough (4th),1.47,"tough matchup; big spread, game script risk",Defense 11 of 30,0.72,0.25,Dylan Cardwell,4,Reach,OKC at SAC|PTS|Reach|All|5
-,D,Jayson Tatum,BOS vs DAL,Over 22.5 points,PTS,24.9,7 of 10,14 of 20,Soft (30th),1.68,"big spread, game script risk",Defense 12 of 30,0.71,0.08,Jayson Tatum,23,Reach,DAL at BOS|PTS|Reach|All|6
 ,D,Jared McCain,OKC at SAC,Over 9.5 points,PTS,13.3,8 of 10,14 of 20,Mid (13th),1.57,"+ role up; big spread, game script risk",Defense 28 of 30,0.71,0.25,Jared McCain,10,Reach,OKC at SAC|PTS|Reach|All|6
 ,D,Sion James,CHA at LAC,Over 4.5 points,PTS,5.8,7 of 10,12 of 20,Soft (29th),1.81,,Defense 27 of 30,0.7,0.15,Sion James,5,Reach,CHA at LAC|PTS|Reach|All|5
 ,D,Grayson Allen,CHA at LAC,Over 10.5 points,PTS,13.2,7 of 10,12 of 20,Soft (29th),1.81,,Defense 27 of 30,0.7,0.17,Grayson Allen,11,Reach,CHA at LAC|PTS|Reach|All|6

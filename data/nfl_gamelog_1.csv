@@ -1840,7 +1840,7 @@ Colson Yankoff|15,2025,5,2025-10-05,Colson Yankoff,WAS,LAC,0,TE,17,-2.5,47.5,15,
 Colson Yankoff|16,2025,4,2025-09-28,Colson Yankoff,WAS,ATL,0,TE,7,-2.5,43.5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,18,0,0
 Colson Yankoff|17,2025,3,2025-09-21,Colson Yankoff,WAS,LV,1,TE,17,2.5,43.5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,34,0,0
 Colson Yankoff|18,2025,1,2025-09-07,Colson Yankoff,WAS,NYG,1,TE,15,6.0,45.5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,6,0,0
-Colston Loveland|1,2026,9,2026-11-08,Colston Loveland,CHI,TB,1,TE,3,6.5,47.5,1,0,0,0,0,0,0,0,0,4,6,54,0,54,0,6,9.4,87,18,16
+Colston Loveland|1,2026,9,2026-11-08,Colston Loveland,CHI,TB,1,TE,3,6.5,47.5,1,0,0,0,0,0,0,0,0,4,6,54,0,54,0,6,9.4,87,17,16
 Colston Loveland|2,2026,8,2026-11-02,Colston Loveland,CHI,SEA,0,TE,17,-3.0,46.5,2,0,0,0,0,0,0,0,0,7,9,65,0,65,0,9,11.5,93,26,14
 Colston Loveland|3,2026,7,2026-10-22,Colston Loveland,CHI,NE,1,TE,6,3.0,50.5,3,0,0,0,0,0,0,0,0,7,12,69,1,69,1,12,19.9,84,40,39
 Colston Loveland|4,2026,6,2026-10-18,Colston Loveland,CHI,ATL,0,TE,8,1.5,51.5,4,0,0,0,0,0,0,0,0,6,7,65,1,65,1,7,18.5,88,21,23
@@ -5581,7 +5581,7 @@ Kalel Mullings|2,2025,17,2025-12-28,Kalel Mullings,TEN,NO,1,RB,8,-1.5,39.5,2,0,0
 Kalel Mullings|3,2025,16,2025-12-21,Kalel Mullings,TEN,KC,1,RB,17,-3.5,37.5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,7,0,0
 Kalel Mullings|4,2025,15,2025-12-14,Kalel Mullings,TEN,SF,0,RB,13,-12.5,44.5,4,0,0,0,0,0,1,3,0,0,0,0,0,3,0,1,0.3,4,0,0
 Kalel Mullings|5,2025,12,2025-11-23,Kalel Mullings,TEN,SEA,1,RB,6,-12.5,41.5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0
-Kalif Raymond|1,2026,9,2026-11-08,Kalif Raymond,CHI,TB,1,WR,3,6.5,47.5,1,0,0,0,0,0,0,0,0,4,7,32,0,32,0,7,7.2,70,21,17
+Kalif Raymond|1,2026,9,2026-11-08,Kalif Raymond,CHI,TB,1,WR,3,6.5,47.5,1,0,0,0,0,0,0,0,0,4,7,32,0,32,0,7,7.2,70,20,17
 Kalif Raymond|2,2026,8,2026-11-02,Kalif Raymond,CHI,SEA,0,WR,17,-3.0,46.5,2,0,0,0,0,0,1,39,0,2,3,14,0,53,0,4,7.3,69,9,12
 Kalif Raymond|3,2026,7,2026-10-22,Kalif Raymond,CHI,NE,1,WR,6,3.0,50.5,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0.0,70,7,5
 Kalif Raymond|4,2026,6,2026-10-18,Kalif Raymond,CHI,ATL,0,WR,8,1.5,51.5,4,0,0,0,0,0,0,0,0,2,2,18,0,18,0,2,3.8,47,6,-2
@@ -6390,7 +6390,7 @@ Luke Schoonmaker|15,2025,4,2025-09-28,Luke Schoonmaker,DAL,GB,1,TE,0,-7.0,47.5,1
 Luke Schoonmaker|16,2025,3,2025-09-21,Luke Schoonmaker,DAL,CHI,0,TE,17,1.5,49.5,16,0,0,0,0,0,0,0,0,1,1,5,0,5,0,1,1.5,36,2,2
 Luke Schoonmaker|17,2025,2,2025-09-14,Luke Schoonmaker,DAL,NYG,1,TE,3,4.5,44.5,17,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0.0,29,4,5
 Luke Schoonmaker|18,2025,1,2025-09-04,Luke Schoonmaker,DAL,PHI,0,TE,4,-8.5,47.5,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0.0,25,3,7
-Luther Burden III|1,2026,9,2026-11-08,Luther Burden III,CHI,TB,1,WR,3,6.5,47.5,1,0,0,0,0,0,0,0,0,7,9,97,1,97,1,9,20.7,56,26,15
+Luther Burden III|1,2026,9,2026-11-08,Luther Burden III,CHI,TB,1,WR,3,6.5,47.5,1,0,0,0,0,0,0,0,0,7,10,97,1,97,1,10,20.7,56,29,18
 Luther Burden III|2,2026,8,2026-11-02,Luther Burden III,CHI,SEA,0,WR,17,-3.0,46.5,2,0,0,0,0,0,0,0,0,7,9,56,1,56,1,9,18.6,57,26,13
 Luther Burden III|3,2026,7,2026-10-22,Luther Burden III,CHI,NE,1,WR,6,3.0,50.5,3,0,0,0,0,0,1,7,0,4,4,130,1,137,1,5,23.7,61,13,13
 Luther Burden III|4,2026,6,2026-10-18,Luther Burden III,CHI,ATL,0,WR,8,1.5,51.5,4,0,0,0,0,0,0,0,0,8,8,95,0,95,0,8,17.5,39,24,33

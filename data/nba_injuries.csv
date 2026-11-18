@@ -11,11 +11,11 @@ CHA,Grayson Allen,Questionable,Allen (concussion-like symptoms) has been ruled o
 CHI,Tobe Awaka,Out,Awaka (back) has been ruled out for Wednesday's game against the Nets.
 CHI,Caleb Wilson,Out,"Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports."
 CHI,Patrick Williams,Questionable,Williams (finger) is listed as probable for Wednesday's game against Brooklyn.
+CLE,Jaylon Tyson,Out,Tyson (ankle) has been ruled out for Wednesday's game against Memphis.
 CLE,Nae'Qwan Tomlin,Out,Tomlin (back) will remain on the inactive list for Wednesday's game against the Grizzlies.
 CLE,Sam Merrill,Out,Merrill (elbow) is questionable to face the Grizzlies on Wednesday.
 CLE,Evan Mobley,Out,"Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-eva"
-CLE,Jaylon Tyson,Questionable,Tyson (ankle) is listed as doubtful for Wednesday's game against the Grizzlies.
-CLE,Peyton Watson,Questionable,Watson (back) is listed as questionable for Wednesday's game against Memphis.
+CLE,Peyton Watson,Questionable,Watson (back) is doubtful for Wednesday's game versus Memphis.
 DAL,Sergio de Larrea,Out,De Larrea (knee) is listed as out for Wednesday's game against the Warriors.
 DAL,Dereck Lively II,Out,Lively (foot) is out for Wednesday's game against the Warriors.
 DAL,Tarik Biberovic,Out,Biberovic (heel) is out for Wednesday's game against the Warriors.
@@ -24,13 +24,14 @@ DAL,Tobi Lawal,Questionable,Lawal is doubtful for Wednesday's game against the W
 DAL,Max Christie,Questionable,Christie (ankle) is questionable for Wednesday's game against the Warriors.
 DAL,Santi Aldama,Questionable,Aldama (ankle) is probable for Wednesday's game against the Warriors.
 DEN,Julian Strawther,Out,"Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette r"
-DET,Isaiah Joe,Out,Joe (hip) is out for Tuesday's game against the Spurs.
+DET,Isaiah Joe,Out,Joe (hip) is listed as questionable for Wednesday's game against the Pelicans.
+DET,Taurean Prince,Out,Prince (knee) is out for Wednesday's game against the Pelicans.
+DET,Ronald Holland II,Out,Holland (knee) is out for Wednesday's game against the Pelicans.
 DET,Duncan Robinson,Out,"Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports."
 DET,Jalen Duren,Out,"Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
-DET,Taurean Prince,Questionable,Prince (knee) has been ruled out for Tuesday's game against the Spurs.
-DET,Ronald Holland II,Questionable,Holland is out for Tuesday's game against San Antonio due to a left knee contusion.
+DET,Cade Cunningham,Questionable,Cunningham is questionable for Wednesday's game against the Pelicans due to right knee soreness
+GS,Brandon Williams,Out,Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.
 GS,Stephen Curry,Out,"Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
-GS,Brandon Williams,Out,"Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com."
 GS,Kristaps Porzingis,Out,Porzingis announced on his social media that he's stepping away from basketball.
 GS,Moses Moody,Out,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthon"
 GS,Jimmy Butler III,Out,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN re"
@@ -54,9 +55,8 @@ MEM,Isaiah Stewart,Out,Stewart (illness) won't play Wednesday against the Cavs.
 MEM,Ty Jerome,Out,Jerome (hip) has been ruled out for Wednesday's game in Cleveland.
 MEM,Scotty Pippen Jr.,Out,Pippen (back) is progressing in his recovery but is still considered week-to-week.
 MEM,Richie Saunders,Out,"Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
-MIA,Myron Gardner,Questionable,"Gardner (hamstring) is questionable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel."
-MIA,Nikola Jovic,Questionable,"Jovic (illness) is listed as probable for Wednesday's game against Milwaukee, Ira Winderman of the South Florida Sun Sentinel reports."
-MIA,Bam Adebayo,Questionable,"Adebayo (hip) is probable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel."
+MIA,Myron Gardner,Out,Gardner (hamstring) is out for Wednesday's game against the Bucks.
+MIL,Ryan Rollins,Out,Rollins (illness) has been ruled out for Wednesday's game at Miami.
 MIL,Ousmane Dieng,Out,"Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
 MIN,Jaylen Clark,Out,Clark (hamstring) has been ruled out for the next two weeks.
 MIN,Anthony Edwards,Out,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced."
@@ -73,7 +73,7 @@ OKC,Jaylin Williams,Out,"Williams (back) is listed as questionable for Wednesday
 OKC,Cason Wallace,Out,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season,"
 OKC,Chet Holmgren,Out,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Sl"
 OKC,Jalen Williams,Out,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a "
-ORL,Izaiyah Nelson,Out,Nelson (ankle) has been ruled out for Wednesday's game against the 76ers.
+ORL,Izaiyah Nelson,Out,"Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing ""some on-court stuff,"" though Sweeney added that the work has been"
 ORL,Jonathan Isaac,Out,Isaac (knee) has been ruled out for Monday's game against the Celtics.
 ORL,Noah Penda,Out,"Penda (hamstring) is making progress but remains without a timetable to return to game action, Jason Beede of the Orlando Sentinel reports."
 ORL,Paolo Banchero,Out,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
@@ -81,6 +81,7 @@ PHI,Dominick Barlow,Out,Barlow (back) is out for Wednesday's game against Orland
 PHI,Jaylen Brown,Out,Brown is out for Wednesday's game against the Magic with a left hamstring strain.
 PHI,Adem Bona,Out,"Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports."
 PHI,Ariel Hukporti,Out,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
+PHI,Dean Wade,Questionable,Wade (hamstring) has been downgraded to questionable for Wednesday's game against the Magic.
 PHX,Mark Williams,Out,"Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of"
 POR,Chris Youngblood,Out,Youngblood (heel) has been ruled out for Tuesday's game at Minnesota.
 POR,Vit Krejci,Out,"Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com rep"
@@ -94,9 +95,10 @@ SAC,Maxime Raynaud,Out,Raynaud (knee) will remain on the inactive list for Wedne
 SAC,Ben Simmons,Out,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
 SAC,De'Andre Hunter,Questionable,"Hunter (hip) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports."
 SAC,Precious Achiuwa,Questionable,"Achiuwa (ankle) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports."
+TOR,Scottie Barnes,Out,"Barnes (injury management) has been ruled out for Wednesday's game against Washington, Esfandiar Baraheni of The Athletic reports."
 TOR,Kawhi Leonard,Out,"Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com"
 TOR,Nate Bittle,Out,"Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports."
-TOR,Kevin McCullar Jr.,Questionable,"McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports."
+TOR,RJ Barrett,Questionable,"Barrett is questionable for Wednesday's game against the Wizards due to hamstring tightness, Esfandiar Baraheni of The Athletic reports."
 UTAH,Lauri Markkanen,Out,"Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of"
 UTAH,Jusuf Nurkic,Out,Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 p
 UTAH,Jaren Jackson Jr.,Out,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN."

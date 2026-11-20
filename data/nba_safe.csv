@@ -1041,21 +1041,21 @@ ALL|ALL|Balanced|A to C|102,C,Darius Acuff Jr.,SAC at LAL,Over 24.5 pts+reb,PR,2
 ALL|ALL|Balanced|A to C|103,C,Devin Booker,PHX at UTAH,Over 19.5 points,PTS,23.7,8 of 10,16 of 20,Soft (24th),1.47,,Defense 15 of 30,0.85,0.16,Devin Booker,20,Balanced,PHX at UTAH|ALL|Balanced|A to C|10
 ALL|ALL|Balanced|A to C|104,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Balanced,
 ALL|ALL|Balanced|A to C|105,C,Nickeil Alexander-Walker,ATL vs CHA,Over 13.5 points,PTS,19.1,9 of 10,16 of 20,Mid (16th),1.38,,Defense 10 of 30,0.85,0.27,Nickeil Alexander-Walker,14,Balanced,
-ALL|ALL|Balanced|A to C|106,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Balanced,
-ALL|ALL|Balanced|A to C|107,C,James Harden,CLE vs IND,Over 3.5 assists,AST,5.5,9 of 10,16 of 20,Mid (10th),1.38,,Defense 16 of 30,0.85,0.28,James Harden,4,Balanced,
-ALL|ALL|Balanced|A to C|108,C,Kyshawn George,WSH at CHI,Over 11.5 points,PTS,16.9,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 28 of 30,0.85,0.29,Kyshawn George,12,Balanced,
-ALL|ALL|Balanced|A to C|109,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Balanced,
-ALL|ALL|Balanced|A to C|110,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|ALL|Balanced|A to C|11
-ALL|ALL|Balanced|A to C|111,C,Michael Porter Jr.,BKN vs ORL,Over 1.5 threes,THREES,3.1,9 of 10,16 of 20,Mid (21st),1.38,,Defense 9 of 30,0.85,0.37,Michael Porter Jr.,2,Balanced,
-ALL|ALL|Balanced|A to C|112,C,Sam Merrill,CLE vs IND,Over 4.5 points,PTS,7.9,9 of 10,16 of 20,Mid (9th),1.38,,Defense 16 of 30,0.85,0.37,Sam Merrill,5,Balanced,
-ALL|ALL|Balanced|A to C|113,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Balanced,SAC at LAL|ALL|Balanced|A to C|7
-ALL|ALL|Balanced|A to C|114,C,Walker Kessler,LAL vs SAC,Over 9.5 points,PTS,14.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.3,Walker Kessler,10,Balanced,SAC at LAL|ALL|Balanced|A to C|8
-ALL|ALL|Balanced|A to C|115,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Balanced,
-ALL|ALL|Balanced|A to C|116,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|ALL|Balanced|A to C|11
-ALL|ALL|Balanced|A to C|117,C,Jaxson Hayes,UTAH vs PHX,Over 3.5 rebounds,REB,5.1,9 of 10,15 of 20,Soft (26th),1.43,3in4,Defense 11 of 30,0.835,0.22,Jaxson Hayes,4,Balanced,PHX at UTAH|ALL|Balanced|A to C|12
-ALL|ALL|Balanced|A to C|118,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
-ALL|ALL|Balanced|A to C|119,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,
-ALL|ALL|Balanced|A to C|120,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Balanced,
+ALL|ALL|Balanced|A to C|106,C,James Harden,CLE vs IND,Over 3.5 assists,AST,5.5,9 of 10,16 of 20,Mid (10th),1.38,,Defense 16 of 30,0.85,0.28,James Harden,4,Balanced,
+ALL|ALL|Balanced|A to C|107,C,Kyshawn George,WSH at CHI,Over 11.5 points,PTS,16.9,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 28 of 30,0.85,0.29,Kyshawn George,12,Balanced,
+ALL|ALL|Balanced|A to C|108,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Balanced,
+ALL|ALL|Balanced|A to C|109,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|ALL|Balanced|A to C|11
+ALL|ALL|Balanced|A to C|110,C,Michael Porter Jr.,BKN vs ORL,Over 1.5 threes,THREES,3.1,9 of 10,16 of 20,Mid (21st),1.38,,Defense 9 of 30,0.85,0.37,Michael Porter Jr.,2,Balanced,
+ALL|ALL|Balanced|A to C|111,C,Sam Merrill,CLE vs IND,Over 4.5 points,PTS,7.9,9 of 10,16 of 20,Mid (9th),1.38,,Defense 16 of 30,0.85,0.37,Sam Merrill,5,Balanced,
+ALL|ALL|Balanced|A to C|112,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Balanced,SAC at LAL|ALL|Balanced|A to C|7
+ALL|ALL|Balanced|A to C|113,C,Walker Kessler,LAL vs SAC,Over 9.5 points,PTS,14.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.3,Walker Kessler,10,Balanced,SAC at LAL|ALL|Balanced|A to C|8
+ALL|ALL|Balanced|A to C|114,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Balanced,
+ALL|ALL|Balanced|A to C|115,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|ALL|Balanced|A to C|11
+ALL|ALL|Balanced|A to C|116,C,Jaxson Hayes,UTAH vs PHX,Over 3.5 rebounds,REB,5.1,9 of 10,15 of 20,Soft (26th),1.43,3in4,Defense 11 of 30,0.835,0.22,Jaxson Hayes,4,Balanced,PHX at UTAH|ALL|Balanced|A to C|12
+ALL|ALL|Balanced|A to C|117,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
+ALL|ALL|Balanced|A to C|118,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,
+ALL|ALL|Balanced|A to C|119,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Balanced,
+ALL|ALL|Balanced|A to C|120,C,Mo Bamba,UTAH vs PHX,Over 4.5 points,PTS,7.8,9 of 10,12 of 16,Soft (29th),1.43,3in4; + role up,Defense 11 of 30,0.835,0.35,Mo Bamba,5,Balanced,
 ,C,Immanuel Quickley,TOR at DET,Over 10.5 points,PTS,14.6,10 of 10,16 of 20,Tough (7th),1.31,tough matchup; 3in4,Defense 8 of 30,0.82,0.24,Immanuel Quickley,11,Balanced,TOR at DET|ALL|Balanced|A to C|12
 ,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Balanced,NO at OKC|ALL|Balanced|A to C|7
 ,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Balanced,SAC at LAL|ALL|Balanced|A to C|9
@@ -1189,11 +1189,11 @@ ALL|PR|Balanced|A to C|33,C,Nickeil Alexander-Walker,ATL vs CHA,Over 14.5 pts+re
 ALL|PR|Balanced|A to C|34,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Balanced,SAC at LAL|PR|Balanced|A to C|3
 ALL|PR|Balanced|A to C|35,C,Cade Cunningham,DET vs TOR,Over 19.5 pts+reb,PR,30.1,9 of 10,17 of 20,Soft (24th),1.34,3in4; questionable; + role up,Defense 17 of 30,0.845,0.34,Cade Cunningham,20,Balanced,TOR at DET|PR|Balanced|A to C|1
 ALL|PR|Balanced|A to C|36,C,Jamal Murray,DEN vs HOU,Over 19.5 pts+reb,PR,30.5,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 5 of 30,0.835,0.34,Jamal Murray,20,Balanced,
-ALL|PR|Balanced|A to C|37,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb,PR,19.0,8 of 10,15 of 20,Soft (28th),1.52,,Defense 29 of 30,0.825,0.21,Jalen Smith,15,Balanced,WSH at CHI|PR|Balanced|A to C|5
-ALL|PR|Balanced|A to C|38,C,Anthony Davis,WSH at CHI,Over 24.5 pts+reb,PR,32.9,8 of 10,15 of 20,Soft (24th),1.52,,Defense 28 of 30,0.825,0.24,Anthony Davis,25,Balanced,WSH at CHI|PR|Balanced|A to C|6
-ALL|PR|Balanced|A to C|39,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Balanced,ORL at BKN|PR|Balanced|A to C|6
-ALL|PR|Balanced|A to C|40,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Balanced,
-,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Balanced,PHX at UTAH|PR|Balanced|A to C|2
+ALL|PR|Balanced|A to C|37,C,Anthony Davis,WSH at CHI,Over 24.5 pts+reb,PR,32.9,8 of 10,15 of 20,Soft (24th),1.52,,Defense 28 of 30,0.825,0.24,Anthony Davis,25,Balanced,WSH at CHI|PR|Balanced|A to C|5
+ALL|PR|Balanced|A to C|38,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Balanced,ORL at BKN|PR|Balanced|A to C|6
+ALL|PR|Balanced|A to C|39,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Balanced,
+ALL|PR|Balanced|A to C|40,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Balanced,PHX at UTAH|PR|Balanced|A to C|2
+,C,Tre Jones,CHI vs WSH,Over 9.5 pts+reb,PR,16.2,8 of 10,16 of 20,Mid (17th),1.47,,Defense 29 of 30,0.8,0.38,Tre Jones,10,Balanced,WSH at CHI|PR|Balanced|A to C|6
 ,C,Luka Doncic,LAL vs SAC,Over 34.5 pts+reb,PR,43.4,9 of 10,17 of 20,Mid (12th),1.34,"3in4; big spread, game script risk",Defense 26 of 30,0.795,0.19,Luka Doncic,35,Balanced,SAC at LAL|PR|Balanced|A to C|4
 ,C,Saddiq Bey,NO at OKC,Over 14.5 pts+reb,PR,22.0,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; + role up; big spread, game script risk",Defense 6 of 30,0.795,0.32,Saddiq Bey,15,Balanced,NO at OKC|PR|Balanced|A to C|3
 ,C,Scottie Barnes,TOR at DET,Over 19.5 pts+reb,PR,29.5,9 of 10,17 of 20,Tough (6th),1.34,tough matchup; 3in4,Defense 8 of 30,0.795,0.32,Scottie Barnes,20,Balanced,TOR at DET|PR|Balanced|A to C|2
@@ -1237,13 +1237,12 @@ ALL|PRA|Balanced|A to C|31,C,Jaxson Hayes,UTAH vs PHX,Over 9.5 pts+reb+ast,PRA,1
 ALL|PRA|Balanced|A to C|32,C,Darius Acuff Jr.,SAC at LAL,Over 29.5 pts+reb+ast,PRA,36.8,9 of 10,11 of 14,Soft (30th),1.4,"big spread, game script risk",Defense 18 of 30,0.853,0.18,Darius Acuff Jr.,30,Balanced,SAC at LAL|PRA|Balanced|A to C|3
 ALL|PRA|Balanced|A to C|33,C,Norman Powell,CHI vs WSH,Over 19.5 pts+reb+ast,PRA,24.1,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 29 of 30,0.85,0.17,Norman Powell,20,Balanced,WSH at CHI|PRA|Balanced|A to C|6
 ALL|PRA|Balanced|A to C|34,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Balanced,CHA at ATL|PRA|Balanced|A to C|6
-ALL|PRA|Balanced|A to C|35,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Balanced,
-ALL|PRA|Balanced|A to C|36,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|PRA|Balanced|A to C|6
-ALL|PRA|Balanced|A to C|37,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb+ast,PRA,27.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.27,Walker Kessler,20,Balanced,SAC at LAL|PRA|Balanced|A to C|4
-ALL|PRA|Balanced|A to C|38,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|PRA|Balanced|A to C|3
-ALL|PRA|Balanced|A to C|39,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Balanced,TOR at DET|PRA|Balanced|A to C|4
-ALL|PRA|Balanced|A to C|40,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
-,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,HOU at DEN|PRA|Balanced|A to C|4
+ALL|PRA|Balanced|A to C|35,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|PRA|Balanced|A to C|6
+ALL|PRA|Balanced|A to C|36,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb+ast,PRA,27.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.27,Walker Kessler,20,Balanced,SAC at LAL|PRA|Balanced|A to C|4
+ALL|PRA|Balanced|A to C|37,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|PRA|Balanced|A to C|3
+ALL|PRA|Balanced|A to C|38,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Balanced,TOR at DET|PRA|Balanced|A to C|4
+ALL|PRA|Balanced|A to C|39,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
+ALL|PRA|Balanced|A to C|40,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,HOU at DEN|PRA|Balanced|A to C|4
 ,C,Jakob Poeltl,TOR at DET,Over 9.5 pts+reb+ast,PRA,15.7,9 of 10,15 of 20,Soft (27th),1.43,3in4,Defense 8 of 30,0.835,0.36,Jakob Poeltl,10,Balanced,TOR at DET|PRA|Balanced|A to C|5
 ,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Balanced,IND at CLE|PRA|Balanced|A to C|3
 ,C,Meleek Thomas,CLE vs IND,Over 14.5 pts+reb+ast,PRA,17.8,8 of 10,11 of 13,Mid (11th),1.43,+ role up,Defense 16 of 30,0.823,0.16,Meleek Thomas,15,Balanced,IND at CLE|PRA|Balanced|A to C|4
@@ -1399,9 +1398,10 @@ ALL|REB|Balanced|A to C|40,C,Steven Adams,HOU at DEN,Over 5.5 rebounds,REB,7.5,8
 ,C,Jarrett Allen,CLE vs IND,Over 6.5 rebounds,REB,7.9,8 of 10,15 of 20,Mid (22nd),1.52,+ role up,Defense 16 of 30,0.775,0.11,Jarrett Allen,7,Balanced,IND at CLE|REB|Balanced|A to C|5
 ,C,Walker Kessler,LAL vs SAC,Over 8.5 rebounds,REB,10.9,9 of 10,16 of 20,Mid (18th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.77,0.17,Walker Kessler,9,Balanced,SAC at LAL|REB|Balanced|A to C|4
 ,C,T.J. McConnell,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (12th),1.47,questionable; + role up,Defense 22 of 30,0.76,0.15,T.J. McConnell,2,Balanced,IND at CLE|REB|Balanced|A to C|6
+,C,Ronald Holland II,DET vs TOR,Over 1.5 rebounds,REB,2.9,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4; questionable,Defense 17 of 30,0.755,0.31,Ronald Holland II,2,Balanced,TOR at DET|REB|Balanced|A to C|5
 ,C,Sandro Mamukelashvili,LAL vs SAC,Over 2.5 rebounds,REB,4.0,8 of 10,17 of 20,Mid (14th),1.43,"3in4; big spread, game script risk",Defense 26 of 30,0.745,0.26,Sandro Mamukelashvili,3,Balanced,SAC at LAL|REB|Balanced|A to C|5
 ,C,Ziaire Williams,LAL vs SAC,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (14th),1.47,"3in4; big spread, game script risk",Defense 26 of 30,0.72,0.15,Ziaire Williams,2,Balanced,SAC at LAL|REB|Balanced|A to C|6
-,C,Immanuel Quickley,TOR at DET,Over 1.5 rebounds,REB,3.2,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup; 3in4,Defense 8 of 30,0.72,0.38,Immanuel Quickley,2,Balanced,TOR at DET|REB|Balanced|A to C|5
+,C,Immanuel Quickley,TOR at DET,Over 1.5 rebounds,REB,3.2,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup; 3in4,Defense 8 of 30,0.72,0.38,Immanuel Quickley,2,Balanced,TOR at DET|REB|Balanced|A to C|6
 ALL|STL|Balanced|A to C|1,C,Cameron Johnson,DEN vs HOU,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Soft (27th),1.34,,Defense 5 of 30,0.925,0.13,Cameron Johnson,1,Balanced,HOU at DEN|STL|Balanced|A to C|1
 ALL|STL|Balanced|A to C|2,C,Anthony Davis,WSH at CHI,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Mid (17th),1.34,,Defense 28 of 30,0.875,0.13,Anthony Davis,1,Balanced,WSH at CHI|STL|Balanced|A to C|1
 ALL|STL|Balanced|A to C|3,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Balanced,ORL at BKN|STL|Balanced|A to C|1
@@ -1542,21 +1542,21 @@ ALL|ALL|Balanced|All|102,C,Darius Acuff Jr.,SAC at LAL,Over 24.5 pts+reb,PR,29.8
 ALL|ALL|Balanced|All|103,C,Devin Booker,PHX at UTAH,Over 19.5 points,PTS,23.7,8 of 10,16 of 20,Soft (24th),1.47,,Defense 15 of 30,0.85,0.16,Devin Booker,20,Balanced,PHX at UTAH|ALL|Balanced|All|10
 ALL|ALL|Balanced|All|104,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Balanced,
 ALL|ALL|Balanced|All|105,C,Nickeil Alexander-Walker,ATL vs CHA,Over 13.5 points,PTS,19.1,9 of 10,16 of 20,Mid (16th),1.38,,Defense 10 of 30,0.85,0.27,Nickeil Alexander-Walker,14,Balanced,
-ALL|ALL|Balanced|All|106,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Balanced,
-ALL|ALL|Balanced|All|107,C,James Harden,CLE vs IND,Over 3.5 assists,AST,5.5,9 of 10,16 of 20,Mid (10th),1.38,,Defense 16 of 30,0.85,0.28,James Harden,4,Balanced,
-ALL|ALL|Balanced|All|108,C,Kyshawn George,WSH at CHI,Over 11.5 points,PTS,16.9,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 28 of 30,0.85,0.29,Kyshawn George,12,Balanced,
-ALL|ALL|Balanced|All|109,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Balanced,
-ALL|ALL|Balanced|All|110,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|ALL|Balanced|All|11
-ALL|ALL|Balanced|All|111,C,Michael Porter Jr.,BKN vs ORL,Over 1.5 threes,THREES,3.1,9 of 10,16 of 20,Mid (21st),1.38,,Defense 9 of 30,0.85,0.37,Michael Porter Jr.,2,Balanced,
-ALL|ALL|Balanced|All|112,C,Sam Merrill,CLE vs IND,Over 4.5 points,PTS,7.9,9 of 10,16 of 20,Mid (9th),1.38,,Defense 16 of 30,0.85,0.37,Sam Merrill,5,Balanced,
-ALL|ALL|Balanced|All|113,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Balanced,SAC at LAL|ALL|Balanced|All|7
-ALL|ALL|Balanced|All|114,C,Walker Kessler,LAL vs SAC,Over 9.5 points,PTS,14.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.3,Walker Kessler,10,Balanced,SAC at LAL|ALL|Balanced|All|8
-ALL|ALL|Balanced|All|115,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Balanced,
-ALL|ALL|Balanced|All|116,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|ALL|Balanced|All|11
-ALL|ALL|Balanced|All|117,C,Jaxson Hayes,UTAH vs PHX,Over 3.5 rebounds,REB,5.1,9 of 10,15 of 20,Soft (26th),1.43,3in4,Defense 11 of 30,0.835,0.22,Jaxson Hayes,4,Balanced,PHX at UTAH|ALL|Balanced|All|12
-ALL|ALL|Balanced|All|118,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
-ALL|ALL|Balanced|All|119,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,
-ALL|ALL|Balanced|All|120,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Balanced,
+ALL|ALL|Balanced|All|106,C,James Harden,CLE vs IND,Over 3.5 assists,AST,5.5,9 of 10,16 of 20,Mid (10th),1.38,,Defense 16 of 30,0.85,0.28,James Harden,4,Balanced,
+ALL|ALL|Balanced|All|107,C,Kyshawn George,WSH at CHI,Over 11.5 points,PTS,16.9,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 28 of 30,0.85,0.29,Kyshawn George,12,Balanced,
+ALL|ALL|Balanced|All|108,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Balanced,
+ALL|ALL|Balanced|All|109,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|ALL|Balanced|All|11
+ALL|ALL|Balanced|All|110,C,Michael Porter Jr.,BKN vs ORL,Over 1.5 threes,THREES,3.1,9 of 10,16 of 20,Mid (21st),1.38,,Defense 9 of 30,0.85,0.37,Michael Porter Jr.,2,Balanced,
+ALL|ALL|Balanced|All|111,C,Sam Merrill,CLE vs IND,Over 4.5 points,PTS,7.9,9 of 10,16 of 20,Mid (9th),1.38,,Defense 16 of 30,0.85,0.37,Sam Merrill,5,Balanced,
+ALL|ALL|Balanced|All|112,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Balanced,SAC at LAL|ALL|Balanced|All|7
+ALL|ALL|Balanced|All|113,C,Walker Kessler,LAL vs SAC,Over 9.5 points,PTS,14.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.3,Walker Kessler,10,Balanced,SAC at LAL|ALL|Balanced|All|8
+ALL|ALL|Balanced|All|114,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Balanced,
+ALL|ALL|Balanced|All|115,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|ALL|Balanced|All|11
+ALL|ALL|Balanced|All|116,C,Jaxson Hayes,UTAH vs PHX,Over 3.5 rebounds,REB,5.1,9 of 10,15 of 20,Soft (26th),1.43,3in4,Defense 11 of 30,0.835,0.22,Jaxson Hayes,4,Balanced,PHX at UTAH|ALL|Balanced|All|12
+ALL|ALL|Balanced|All|117,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
+ALL|ALL|Balanced|All|118,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,
+ALL|ALL|Balanced|All|119,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Balanced,
+ALL|ALL|Balanced|All|120,C,Mo Bamba,UTAH vs PHX,Over 4.5 points,PTS,7.8,9 of 10,12 of 16,Soft (29th),1.43,3in4; + role up,Defense 11 of 30,0.835,0.35,Mo Bamba,5,Balanced,
 ,C,Immanuel Quickley,TOR at DET,Over 10.5 points,PTS,14.6,10 of 10,16 of 20,Tough (7th),1.31,tough matchup; 3in4,Defense 8 of 30,0.82,0.24,Immanuel Quickley,11,Balanced,TOR at DET|ALL|Balanced|All|12
 ,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Balanced,NO at OKC|ALL|Balanced|All|7
 ,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Balanced,SAC at LAL|ALL|Balanced|All|9
@@ -1690,11 +1690,11 @@ ALL|PR|Balanced|All|33,C,Nickeil Alexander-Walker,ATL vs CHA,Over 14.5 pts+reb,P
 ALL|PR|Balanced|All|34,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Balanced,SAC at LAL|PR|Balanced|All|3
 ALL|PR|Balanced|All|35,C,Cade Cunningham,DET vs TOR,Over 19.5 pts+reb,PR,30.1,9 of 10,17 of 20,Soft (24th),1.34,3in4; questionable; + role up,Defense 17 of 30,0.845,0.34,Cade Cunningham,20,Balanced,TOR at DET|PR|Balanced|All|1
 ALL|PR|Balanced|All|36,C,Jamal Murray,DEN vs HOU,Over 19.5 pts+reb,PR,30.5,9 of 10,17 of 20,Tough (1st),1.34,tough matchup,Defense 5 of 30,0.835,0.34,Jamal Murray,20,Balanced,
-ALL|PR|Balanced|All|37,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb,PR,19.0,8 of 10,15 of 20,Soft (28th),1.52,,Defense 29 of 30,0.825,0.21,Jalen Smith,15,Balanced,WSH at CHI|PR|Balanced|All|5
-ALL|PR|Balanced|All|38,C,Anthony Davis,WSH at CHI,Over 24.5 pts+reb,PR,32.9,8 of 10,15 of 20,Soft (24th),1.52,,Defense 28 of 30,0.825,0.24,Anthony Davis,25,Balanced,WSH at CHI|PR|Balanced|All|6
-ALL|PR|Balanced|All|39,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Balanced,ORL at BKN|PR|Balanced|All|6
-ALL|PR|Balanced|All|40,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Balanced,
-,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Balanced,PHX at UTAH|PR|Balanced|All|2
+ALL|PR|Balanced|All|37,C,Anthony Davis,WSH at CHI,Over 24.5 pts+reb,PR,32.9,8 of 10,15 of 20,Soft (24th),1.52,,Defense 28 of 30,0.825,0.24,Anthony Davis,25,Balanced,WSH at CHI|PR|Balanced|All|5
+ALL|PR|Balanced|All|38,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Balanced,ORL at BKN|PR|Balanced|All|6
+ALL|PR|Balanced|All|39,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Balanced,
+ALL|PR|Balanced|All|40,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Balanced,PHX at UTAH|PR|Balanced|All|2
+,C,Tre Jones,CHI vs WSH,Over 9.5 pts+reb,PR,16.2,8 of 10,16 of 20,Mid (17th),1.47,,Defense 29 of 30,0.8,0.38,Tre Jones,10,Balanced,WSH at CHI|PR|Balanced|All|6
 ,C,Luka Doncic,LAL vs SAC,Over 34.5 pts+reb,PR,43.4,9 of 10,17 of 20,Mid (12th),1.34,"3in4; big spread, game script risk",Defense 26 of 30,0.795,0.19,Luka Doncic,35,Balanced,SAC at LAL|PR|Balanced|All|4
 ,C,Saddiq Bey,NO at OKC,Over 14.5 pts+reb,PR,22.0,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; + role up; big spread, game script risk",Defense 6 of 30,0.795,0.32,Saddiq Bey,15,Balanced,NO at OKC|PR|Balanced|All|3
 ,C,Scottie Barnes,TOR at DET,Over 19.5 pts+reb,PR,29.5,9 of 10,17 of 20,Tough (6th),1.34,tough matchup; 3in4,Defense 8 of 30,0.795,0.32,Scottie Barnes,20,Balanced,TOR at DET|PR|Balanced|All|2
@@ -1738,13 +1738,12 @@ ALL|PRA|Balanced|All|31,C,Jaxson Hayes,UTAH vs PHX,Over 9.5 pts+reb+ast,PRA,13.8
 ALL|PRA|Balanced|All|32,C,Darius Acuff Jr.,SAC at LAL,Over 29.5 pts+reb+ast,PRA,36.8,9 of 10,11 of 14,Soft (30th),1.4,"big spread, game script risk",Defense 18 of 30,0.853,0.18,Darius Acuff Jr.,30,Balanced,SAC at LAL|PRA|Balanced|All|3
 ALL|PRA|Balanced|All|33,C,Norman Powell,CHI vs WSH,Over 19.5 pts+reb+ast,PRA,24.1,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 29 of 30,0.85,0.17,Norman Powell,20,Balanced,WSH at CHI|PRA|Balanced|All|6
 ALL|PRA|Balanced|All|34,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Balanced,CHA at ATL|PRA|Balanced|All|6
-ALL|PRA|Balanced|All|35,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Balanced,
-ALL|PRA|Balanced|All|36,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|PRA|Balanced|All|6
-ALL|PRA|Balanced|All|37,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb+ast,PRA,27.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.27,Walker Kessler,20,Balanced,SAC at LAL|PRA|Balanced|All|4
-ALL|PRA|Balanced|All|38,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|PRA|Balanced|All|3
-ALL|PRA|Balanced|All|39,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Balanced,TOR at DET|PRA|Balanced|All|4
-ALL|PRA|Balanced|All|40,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
-,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,HOU at DEN|PRA|Balanced|All|4
+ALL|PRA|Balanced|All|35,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Balanced,PHX at UTAH|PRA|Balanced|All|6
+ALL|PRA|Balanced|All|36,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb+ast,PRA,27.2,10 of 10,17 of 20,Mid (15th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.27,Walker Kessler,20,Balanced,SAC at LAL|PRA|Balanced|All|4
+ALL|PRA|Balanced|All|37,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+reb+ast,PRA,23.3,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.36,Immanuel Quickley,15,Balanced,TOR at DET|PRA|Balanced|All|3
+ALL|PRA|Balanced|All|38,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Balanced,TOR at DET|PRA|Balanced|All|4
+ALL|PRA|Balanced|All|39,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Balanced,
+ALL|PRA|Balanced|All|40,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Balanced,HOU at DEN|PRA|Balanced|All|4
 ,C,Jakob Poeltl,TOR at DET,Over 9.5 pts+reb+ast,PRA,15.7,9 of 10,15 of 20,Soft (27th),1.43,3in4,Defense 8 of 30,0.835,0.36,Jakob Poeltl,10,Balanced,TOR at DET|PRA|Balanced|All|5
 ,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Balanced,IND at CLE|PRA|Balanced|All|3
 ,C,Meleek Thomas,CLE vs IND,Over 14.5 pts+reb+ast,PRA,17.8,8 of 10,11 of 13,Mid (11th),1.43,+ role up,Defense 16 of 30,0.823,0.16,Meleek Thomas,15,Balanced,IND at CLE|PRA|Balanced|All|4
@@ -1900,9 +1899,10 @@ ALL|REB|Balanced|All|40,C,Steven Adams,HOU at DEN,Over 5.5 rebounds,REB,7.5,8 of
 ,C,Jarrett Allen,CLE vs IND,Over 6.5 rebounds,REB,7.9,8 of 10,15 of 20,Mid (22nd),1.52,+ role up,Defense 16 of 30,0.775,0.11,Jarrett Allen,7,Balanced,IND at CLE|REB|Balanced|All|5
 ,C,Walker Kessler,LAL vs SAC,Over 8.5 rebounds,REB,10.9,9 of 10,16 of 20,Mid (18th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.77,0.17,Walker Kessler,9,Balanced,SAC at LAL|REB|Balanced|All|4
 ,C,T.J. McConnell,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (12th),1.47,questionable; + role up,Defense 22 of 30,0.76,0.15,T.J. McConnell,2,Balanced,IND at CLE|REB|Balanced|All|6
+,C,Ronald Holland II,DET vs TOR,Over 1.5 rebounds,REB,2.9,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4; questionable,Defense 17 of 30,0.755,0.31,Ronald Holland II,2,Balanced,TOR at DET|REB|Balanced|All|5
 ,C,Sandro Mamukelashvili,LAL vs SAC,Over 2.5 rebounds,REB,4.0,8 of 10,17 of 20,Mid (14th),1.43,"3in4; big spread, game script risk",Defense 26 of 30,0.745,0.26,Sandro Mamukelashvili,3,Balanced,SAC at LAL|REB|Balanced|All|5
 ,C,Ziaire Williams,LAL vs SAC,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (14th),1.47,"3in4; big spread, game script risk",Defense 26 of 30,0.72,0.15,Ziaire Williams,2,Balanced,SAC at LAL|REB|Balanced|All|6
-,C,Immanuel Quickley,TOR at DET,Over 1.5 rebounds,REB,3.2,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup; 3in4,Defense 8 of 30,0.72,0.38,Immanuel Quickley,2,Balanced,TOR at DET|REB|Balanced|All|5
+,C,Immanuel Quickley,TOR at DET,Over 1.5 rebounds,REB,3.2,8 of 10,16 of 20,Tough (3rd),1.47,tough matchup; 3in4,Defense 8 of 30,0.72,0.38,Immanuel Quickley,2,Balanced,TOR at DET|REB|Balanced|All|6
 ALL|STL|Balanced|All|1,C,Cameron Johnson,DEN vs HOU,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Soft (27th),1.34,,Defense 5 of 30,0.925,0.13,Cameron Johnson,1,Balanced,HOU at DEN|STL|Balanced|All|1
 ALL|STL|Balanced|All|2,C,Anthony Davis,WSH at CHI,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Mid (17th),1.34,,Defense 28 of 30,0.875,0.13,Anthony Davis,1,Balanced,WSH at CHI|STL|Balanced|All|1
 ALL|STL|Balanced|All|3,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Balanced,ORL at BKN|STL|Balanced|All|1
@@ -2077,42 +2077,42 @@ ALL|ALL|Reach|A to C|68,C,Darius Acuff Jr.,SAC at LAL,Over 24.5 pts+reb,PR,29.8,
 ALL|ALL|Reach|A to C|69,C,Devin Booker,PHX at UTAH,Over 24.5 pts+ast,PA,29.1,8 of 10,16 of 20,Soft (24th),1.47,,Defense 15 of 30,0.85,0.14,Devin Booker,25,Reach,PHX at UTAH|ALL|Reach|A to C|7
 ALL|ALL|Reach|A to C|70,C,Norman Powell,CHI vs WSH,Over 19.5 pts+reb+ast,PRA,24.1,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 29 of 30,0.85,0.17,Norman Powell,20,Reach,WSH at CHI|ALL|Reach|A to C|11
 ALL|ALL|Reach|A to C|71,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Reach,CHA at ATL|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|72,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Reach,WSH at CHI|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|73,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Reach,IND at CLE|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|74,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Reach,ORL at BKN|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|75,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|ALL|Reach|A to C|8
-ALL|ALL|Reach|A to C|76,C,Sam Merrill,CLE vs IND,Over 0.5 threes,THREES,1.6,9 of 10,16 of 20,Mid (15th),1.38,,Defense 16 of 30,0.85,0.38,Sam Merrill,1,Reach,IND at CLE|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|77,C,Darryn Peterson,UTAH vs PHX,Over 4.5 reb+ast,RA,7.8,9 of 10,14 of 16,Mid (18th),1.33,3in4,Defense 11 of 30,0.847,0.36,Darryn Peterson,5,Reach,PHX at UTAH|ALL|Reach|A to C|9
-ALL|ALL|Reach|A to C|78,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Reach,SAC at LAL|ALL|Reach|A to C|6
-ALL|ALL|Reach|A to C|79,C,Cade Cunningham,DET vs TOR,Over 9.5 reb+ast,RA,12.6,9 of 10,17 of 20,Soft (25th),1.34,3in4; questionable; + role up,Defense 17 of 30,0.845,0.21,Cade Cunningham,10,Reach,TOR at DET|ALL|Reach|A to C|6
-ALL|ALL|Reach|A to C|80,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Reach,HOU at DEN|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|81,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,
-ALL|ALL|Reach|A to C|82,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|83,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Reach,
-ALL|ALL|Reach|A to C|84,C,AJ Dybantsa,WSH at CHI,Over 1.5 assists,AST,2.2,8 of 10,9 of 12,Soft (26th),1.52,,Defense 28 of 30,0.825,0.11,AJ Dybantsa,2,Reach,
-ALL|ALL|Reach|A to C|85,C,James Harden,CLE vs IND,Over 1.5 threes,THREES,2.3,9 of 10,15 of 20,Mid (15th),1.43,,Defense 16 of 30,0.825,0.13,James Harden,2,Reach,
-ALL|ALL|Reach|A to C|86,C,Donovan Mitchell,CLE vs IND,Over 3.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,4,Reach,
-ALL|ALL|Reach|A to C|87,C,Donovan Mitchell,CLE vs IND,Over 24.5 pts+ast,PA,29.9,8 of 10,17 of 20,Mid (9th),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,25,Reach,
-ALL|ALL|Reach|A to C|88,C,Ivica Zubac,IND at CLE,Over 9.5 pts+ast,PA,12.4,7 of 10,17 of 20,Soft (24th),1.52,,Defense 22 of 30,0.825,0.19,Ivica Zubac,10,Reach,
-ALL|ALL|Reach|A to C|89,C,Dyson Daniels,ATL vs CHA,Over 3.5 assists,AST,5.0,9 of 10,15 of 20,Mid (10th),1.43,,Defense 10 of 30,0.825,0.2,Dyson Daniels,4,Reach,CHA at ATL|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|90,C,Isaac Okoro,CHI vs WSH,Over 5.5 points,PTS,7.8,8 of 10,15 of 20,Soft (28th),1.52,+ role up,Defense 29 of 30,0.825,0.23,Isaac Okoro,6,Reach,
-ALL|ALL|Reach|A to C|91,C,Ivica Zubac,IND at CLE,Over 7.5 points,PTS,10.6,7 of 10,17 of 20,Soft (25th),1.52,,Defense 22 of 30,0.825,0.24,Ivica Zubac,8,Reach,
-ALL|ALL|Reach|A to C|92,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,
-ALL|ALL|Reach|A to C|93,C,Day'Ron Sharpe,BKN vs ORL,Over 4.5 rebounds,REB,6.9,8 of 10,17 of 20,Mid (14th),1.43,,Defense 9 of 30,0.825,0.28,Day'Ron Sharpe,5,Reach,ORL at BKN|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|94,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|95,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|ALL|Reach|A to C|10
-ALL|ALL|Reach|A to C|96,C,Anthony Black,ORL at BKN,Over 4.5 reb+ast,RA,8.2,9 of 10,15 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.39,Anthony Black,5,Reach,
-ALL|ALL|Reach|A to C|97,C,Jordan Goodwin,PHX at UTAH,Over 0.5 steals,STL,1.6,8 of 10,15 of 20,Soft (29th),1.52,,Defense 15 of 30,0.825,0.39,Jordan Goodwin,1,Reach,PHX at UTAH|ALL|Reach|A to C|11
-ALL|ALL|Reach|A to C|98,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+ast,PA,20.1,10 of 10,16 of 20,Tough (6th),1.31,tough matchup; 3in4,Defense 8 of 30,0.82,0.25,Immanuel Quickley,15,Reach,TOR at DET|ALL|Reach|A to C|7
-ALL|ALL|Reach|A to C|99,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|ALL|Reach|A to C|5
-ALL|ALL|Reach|A to C|100,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|ALL|Reach|A to C|7
-ALL|ALL|Reach|A to C|101,C,Mo Bamba,UTAH vs PHX,Over 0.5 blocks,BLK,1.5,9 of 10,13 of 16,Mid (22nd),1.37,3in4; + role up,Defense 11 of 30,0.816,0.33,Mo Bamba,1,Reach,PHX at UTAH|ALL|Reach|A to C|12
-ALL|ALL|Reach|A to C|102,C,Nikola Jokic,DEN vs HOU,Over 7.5 assists,AST,8.7,9 of 10,16 of 20,Tough (4th),1.38,tough matchup,Defense 5 of 30,0.81,0.08,Nikola Jokic,8,Reach,
-ALL|ALL|Reach|A to C|103,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,
-ALL|ALL|Reach|A to C|104,C,Karlo Matkovic,NO at OKC,Over 2.5 rebounds,REB,3.6,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.18,Karlo Matkovic,3,Reach,NO at OKC|ALL|Reach|A to C|6
-ALL|ALL|Reach|A to C|105,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,
-ALL|ALL|Reach|A to C|106,C,Steven Adams,HOU at DEN,Over 3.5 points,PTS,5.2,9 of 10,16 of 20,Mid (14th),1.38,questionable,Defense 7 of 30,0.81,0.23,Steven Adams,4,Reach,
-ALL|ALL|Reach|A to C|107,C,Herbert Jones,NO at OKC,Over 1.5 rebounds,REB,2.7,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.26,Herbert Jones,2,Reach,NO at OKC|ALL|Reach|A to C|7
+ALL|ALL|Reach|A to C|72,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Reach,IND at CLE|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|73,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Reach,ORL at BKN|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|74,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|ALL|Reach|A to C|8
+ALL|ALL|Reach|A to C|75,C,Sam Merrill,CLE vs IND,Over 0.5 threes,THREES,1.6,9 of 10,16 of 20,Mid (15th),1.38,,Defense 16 of 30,0.85,0.38,Sam Merrill,1,Reach,IND at CLE|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|76,C,Darryn Peterson,UTAH vs PHX,Over 4.5 reb+ast,RA,7.8,9 of 10,14 of 16,Mid (18th),1.33,3in4,Defense 11 of 30,0.847,0.36,Darryn Peterson,5,Reach,PHX at UTAH|ALL|Reach|A to C|9
+ALL|ALL|Reach|A to C|77,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Reach,SAC at LAL|ALL|Reach|A to C|6
+ALL|ALL|Reach|A to C|78,C,Cade Cunningham,DET vs TOR,Over 9.5 reb+ast,RA,12.6,9 of 10,17 of 20,Soft (25th),1.34,3in4; questionable; + role up,Defense 17 of 30,0.845,0.21,Cade Cunningham,10,Reach,TOR at DET|ALL|Reach|A to C|6
+ALL|ALL|Reach|A to C|79,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Reach,HOU at DEN|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|80,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,WSH at CHI|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|81,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|82,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Reach,
+ALL|ALL|Reach|A to C|83,C,AJ Dybantsa,WSH at CHI,Over 1.5 assists,AST,2.2,8 of 10,9 of 12,Soft (26th),1.52,,Defense 28 of 30,0.825,0.11,AJ Dybantsa,2,Reach,
+ALL|ALL|Reach|A to C|84,C,James Harden,CLE vs IND,Over 1.5 threes,THREES,2.3,9 of 10,15 of 20,Mid (15th),1.43,,Defense 16 of 30,0.825,0.13,James Harden,2,Reach,
+ALL|ALL|Reach|A to C|85,C,Donovan Mitchell,CLE vs IND,Over 3.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,4,Reach,
+ALL|ALL|Reach|A to C|86,C,Donovan Mitchell,CLE vs IND,Over 24.5 pts+ast,PA,29.9,8 of 10,17 of 20,Mid (9th),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,25,Reach,
+ALL|ALL|Reach|A to C|87,C,Ivica Zubac,IND at CLE,Over 9.5 pts+ast,PA,12.4,7 of 10,17 of 20,Soft (24th),1.52,,Defense 22 of 30,0.825,0.19,Ivica Zubac,10,Reach,
+ALL|ALL|Reach|A to C|88,C,Dyson Daniels,ATL vs CHA,Over 3.5 assists,AST,5.0,9 of 10,15 of 20,Mid (10th),1.43,,Defense 10 of 30,0.825,0.2,Dyson Daniels,4,Reach,CHA at ATL|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|89,C,Isaac Okoro,CHI vs WSH,Over 5.5 points,PTS,7.8,8 of 10,15 of 20,Soft (28th),1.52,+ role up,Defense 29 of 30,0.825,0.23,Isaac Okoro,6,Reach,
+ALL|ALL|Reach|A to C|90,C,Ivica Zubac,IND at CLE,Over 7.5 points,PTS,10.6,7 of 10,17 of 20,Soft (25th),1.52,,Defense 22 of 30,0.825,0.24,Ivica Zubac,8,Reach,
+ALL|ALL|Reach|A to C|91,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,
+ALL|ALL|Reach|A to C|92,C,Day'Ron Sharpe,BKN vs ORL,Over 4.5 rebounds,REB,6.9,8 of 10,17 of 20,Mid (14th),1.43,,Defense 9 of 30,0.825,0.28,Day'Ron Sharpe,5,Reach,ORL at BKN|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|93,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|94,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|ALL|Reach|A to C|10
+ALL|ALL|Reach|A to C|95,C,Anthony Black,ORL at BKN,Over 4.5 reb+ast,RA,8.2,9 of 10,15 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.39,Anthony Black,5,Reach,
+ALL|ALL|Reach|A to C|96,C,Jordan Goodwin,PHX at UTAH,Over 0.5 steals,STL,1.6,8 of 10,15 of 20,Soft (29th),1.52,,Defense 15 of 30,0.825,0.39,Jordan Goodwin,1,Reach,PHX at UTAH|ALL|Reach|A to C|11
+ALL|ALL|Reach|A to C|97,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+ast,PA,20.1,10 of 10,16 of 20,Tough (6th),1.31,tough matchup; 3in4,Defense 8 of 30,0.82,0.25,Immanuel Quickley,15,Reach,TOR at DET|ALL|Reach|A to C|7
+ALL|ALL|Reach|A to C|98,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|ALL|Reach|A to C|5
+ALL|ALL|Reach|A to C|99,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|ALL|Reach|A to C|7
+ALL|ALL|Reach|A to C|100,C,Mo Bamba,UTAH vs PHX,Over 0.5 blocks,BLK,1.5,9 of 10,13 of 16,Mid (22nd),1.37,3in4; + role up,Defense 11 of 30,0.816,0.33,Mo Bamba,1,Reach,PHX at UTAH|ALL|Reach|A to C|12
+ALL|ALL|Reach|A to C|101,C,Nikola Jokic,DEN vs HOU,Over 7.5 assists,AST,8.7,9 of 10,16 of 20,Tough (4th),1.38,tough matchup,Defense 5 of 30,0.81,0.08,Nikola Jokic,8,Reach,
+ALL|ALL|Reach|A to C|102,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,
+ALL|ALL|Reach|A to C|103,C,Karlo Matkovic,NO at OKC,Over 2.5 rebounds,REB,3.6,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.18,Karlo Matkovic,3,Reach,NO at OKC|ALL|Reach|A to C|6
+ALL|ALL|Reach|A to C|104,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,
+ALL|ALL|Reach|A to C|105,C,Steven Adams,HOU at DEN,Over 3.5 points,PTS,5.2,9 of 10,16 of 20,Mid (14th),1.38,questionable,Defense 7 of 30,0.81,0.23,Steven Adams,4,Reach,
+ALL|ALL|Reach|A to C|106,C,Herbert Jones,NO at OKC,Over 1.5 rebounds,REB,2.7,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.26,Herbert Jones,2,Reach,NO at OKC|ALL|Reach|A to C|7
+ALL|ALL|Reach|A to C|107,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,questionable,Defense 29 of 30,0.81,0.28,Jalen Smith,15,Reach,
 ALL|ALL|Reach|A to C|108,C,Christian Braun,DEN vs HOU,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.29,Christian Braun,3,Reach,
 ALL|ALL|Reach|A to C|109,C,Jaylin Williams,OKC vs NO,Over 2.5 points,PTS,4.2,8 of 10,16 of 20,Soft (27th),1.47,"big spread, game script risk",Defense 30 of 30,0.81,0.29,Jaylin Williams,3,Reach,NO at OKC|ALL|Reach|A to C|8
 ALL|ALL|Reach|A to C|110,C,Matas Buzelis,CHI vs WSH,Over 4.5 rebounds,REB,5.7,7 of 10,16 of 20,Soft (28th),1.57,,Defense 29 of 30,0.8,0.12,Matas Buzelis,5,Reach,
@@ -2135,9 +2135,9 @@ ALL|ALL|Reach|A to C|120,C,Ajay Mitchell,OKC vs NO,Over 4.5 reb+ast,RA,7.5,9 of 
 ,C,Ziaire Williams,LAL vs SAC,Over 0.5 threes,THREES,1.5,8 of 10,18 of 20,Mid (19th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.77,0.33,Ziaire Williams,1,Reach,SAC at LAL|ALL|Reach|A to C|10
 ,C,Kevin Huerter,DET vs TOR,Over 0.5 threes,THREES,1.3,8 of 10,16 of 20,Mid (21st),1.47,3in4; + role up,Defense 17 of 30,0.76,0.23,Kevin Huerter,1,Reach,TOR at DET|ALL|Reach|A to C|10
 ,C,Leaky Black,SAC at LAL,Over 0.5 steals,STL,1.6,8 of 10,16 of 20,Mid (10th),1.47,"big spread, game script risk",Defense 18 of 30,0.76,0.35,Leaky Black,1,Reach,SAC at LAL|ALL|Reach|A to C|11
+,C,Ronald Holland II,DET vs TOR,Over 1.5 rebounds,REB,2.9,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4; questionable,Defense 17 of 30,0.755,0.31,Ronald Holland II,2,Reach,TOR at DET|ALL|Reach|A to C|11
 ,C,Emanuel Sharp,SAC at LAL,Over 2.5 points,PTS,5.0,7 of 10,11 of 14,Soft (30th),1.58,"big spread, game script risk",Defense 18 of 30,0.753,0.4,Emanuel Sharp,3,Reach,SAC at LAL|ALL|Reach|A to C|12
-,C,Scottie Barnes,TOR at DET,Over 3.5 assists,AST,6.3,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; 3in4,Defense 8 of 30,0.745,0.37,Scottie Barnes,4,Reach,TOR at DET|ALL|Reach|A to C|11
-,C,Ausar Thompson,DET vs TOR,Over 3.5 assists,AST,4.8,8 of 10,15 of 20,Mid (20th),1.52,3in4,Defense 17 of 30,0.735,0.17,Ausar Thompson,4,Reach,TOR at DET|ALL|Reach|A to C|12
+,C,Scottie Barnes,TOR at DET,Over 3.5 assists,AST,6.3,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; 3in4,Defense 8 of 30,0.745,0.37,Scottie Barnes,4,Reach,TOR at DET|ALL|Reach|A to C|12
 ALL|AST|Reach|A to C|1,B,Zion Williamson,NO at OKC,Over 1.5 assists,AST,2.6,9 of 10,19 of 20,Mid (17th),1.27,"big spread, game script risk",Defense 6 of 30,0.885,0.25,Zion Williamson,2,Reach,NO at OKC|AST|Reach|A to C|1
 ALL|AST|Reach|A to C|2,C,Tre Jones,CHI vs WSH,Over 2.5 assists,AST,4.0,9 of 10,16 of 20,Soft (30th),1.38,,Defense 29 of 30,0.9,0.25,Tre Jones,3,Reach,WSH at CHI|AST|Reach|A to C|1
 ALL|AST|Reach|A to C|3,C,Nolan Traore,BKN vs ORL,Over 1.5 assists,AST,3.3,10 of 10,17 of 20,Tough (7th),1.27,tough matchup,Defense 9 of 30,0.885,0.39,Nolan Traore,2,Reach,ORL at BKN|AST|Reach|A to C|1
@@ -2236,15 +2236,15 @@ ALL|PR|Reach|A to C|16,C,Aaron Nesmith,IND at CLE,Over 9.5 pts+reb,PR,16.6,8 of 
 ALL|PR|Reach|A to C|17,C,Zach LaVine,SAC at LAL,Over 14.5 pts+reb,PR,22.4,9 of 10,16 of 20,Soft (30th),1.38,"big spread, game script risk",Defense 18 of 30,0.86,0.33,Zach LaVine,15,Reach,SAC at LAL|PR|Reach|A to C|1
 ALL|PR|Reach|A to C|18,C,Darius Acuff Jr.,SAC at LAL,Over 24.5 pts+reb,PR,29.8,9 of 10,11 of 14,Soft (30th),1.4,"big spread, game script risk",Defense 18 of 30,0.853,0.16,Darius Acuff Jr.,25,Reach,SAC at LAL|PR|Reach|A to C|2
 ALL|PR|Reach|A to C|19,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Reach,SAC at LAL|PR|Reach|A to C|3
-ALL|PR|Reach|A to C|20,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb,PR,19.0,8 of 10,15 of 20,Soft (28th),1.52,,Defense 29 of 30,0.825,0.21,Jalen Smith,15,Reach,WSH at CHI|PR|Reach|A to C|3
-ALL|PR|Reach|A to C|21,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Reach,ORL at BKN|PR|Reach|A to C|3
-ALL|PR|Reach|A to C|22,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|PR|Reach|A to C|4
-ALL|PR|Reach|A to C|23,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Reach,PHX at UTAH|PR|Reach|A to C|1
-ALL|PR|Reach|A to C|24,C,Cameron Johnson,DEN vs HOU,Over 9.5 pts+reb,PR,16.1,8 of 10,16 of 20,Mid (21st),1.47,,Defense 5 of 30,0.8,0.38,Cameron Johnson,10,Reach,HOU at DEN|PR|Reach|A to C|6
-ALL|PR|Reach|A to C|25,C,Tre Jones,CHI vs WSH,Over 9.5 pts+reb,PR,16.2,8 of 10,16 of 20,Mid (17th),1.47,,Defense 29 of 30,0.8,0.38,Tre Jones,10,Reach,WSH at CHI|PR|Reach|A to C|4
-ALL|PR|Reach|A to C|26,C,Alperen Sengun,HOU at DEN,Over 24.5 pts+reb,PR,30.8,8 of 10,17 of 20,Soft (23rd),1.43,questionable; role down,Defense 7 of 30,0.795,0.19,Alperen Sengun,25,Reach,
-ALL|PR|Reach|A to C|27,C,Saddiq Bey,NO at OKC,Over 14.5 pts+reb,PR,22.0,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; + role up; big spread, game script risk",Defense 6 of 30,0.795,0.32,Saddiq Bey,15,Reach,NO at OKC|PR|Reach|A to C|1
-ALL|PR|Reach|A to C|28,C,Jeremiah Fears,NO at OKC,Over 14.5 pts+reb,PR,23.9,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; big spread, game script risk",Defense 6 of 30,0.795,0.37,Jeremiah Fears,15,Reach,NO at OKC|PR|Reach|A to C|2
+ALL|PR|Reach|A to C|20,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Reach,ORL at BKN|PR|Reach|A to C|3
+ALL|PR|Reach|A to C|21,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|PR|Reach|A to C|4
+ALL|PR|Reach|A to C|22,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Reach,PHX at UTAH|PR|Reach|A to C|1
+ALL|PR|Reach|A to C|23,C,Cameron Johnson,DEN vs HOU,Over 9.5 pts+reb,PR,16.1,8 of 10,16 of 20,Mid (21st),1.47,,Defense 5 of 30,0.8,0.38,Cameron Johnson,10,Reach,HOU at DEN|PR|Reach|A to C|6
+ALL|PR|Reach|A to C|24,C,Tre Jones,CHI vs WSH,Over 9.5 pts+reb,PR,16.2,8 of 10,16 of 20,Mid (17th),1.47,,Defense 29 of 30,0.8,0.38,Tre Jones,10,Reach,WSH at CHI|PR|Reach|A to C|3
+ALL|PR|Reach|A to C|25,C,Alperen Sengun,HOU at DEN,Over 24.5 pts+reb,PR,30.8,8 of 10,17 of 20,Soft (23rd),1.43,questionable; role down,Defense 7 of 30,0.795,0.19,Alperen Sengun,25,Reach,
+ALL|PR|Reach|A to C|26,C,Saddiq Bey,NO at OKC,Over 14.5 pts+reb,PR,22.0,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; + role up; big spread, game script risk",Defense 6 of 30,0.795,0.32,Saddiq Bey,15,Reach,NO at OKC|PR|Reach|A to C|1
+ALL|PR|Reach|A to C|27,C,Jeremiah Fears,NO at OKC,Over 14.5 pts+reb,PR,23.9,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; big spread, game script risk",Defense 6 of 30,0.795,0.37,Jeremiah Fears,15,Reach,NO at OKC|PR|Reach|A to C|2
+ALL|PR|Reach|A to C|28,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb,PR,19.0,8 of 10,15 of 20,Soft (28th),1.52,questionable,Defense 29 of 30,0.785,0.21,Jalen Smith,15,Reach,WSH at CHI|PR|Reach|A to C|4
 ALL|PR|Reach|A to C|29,C,Dylan Cardwell,SAC at LAL,Over 9.5 pts+reb,PR,12.8,9 of 10,15 of 20,Mid (15th),1.43,"big spread, game script risk",Defense 18 of 30,0.785,0.22,Dylan Cardwell,10,Reach,SAC at LAL|PR|Reach|A to C|4
 ALL|PR|Reach|A to C|30,C,Trae Young,WSH at CHI,Over 14.5 pts+reb,PR,20.1,7 of 10,17 of 20,Soft (28th),1.52,role down,Defense 28 of 30,0.785,0.25,Trae Young,15,Reach,WSH at CHI|PR|Reach|A to C|5
 ALL|PR|Reach|A to C|31,C,Darryn Peterson,UTAH vs PHX,Over 14.5 pts+reb,PR,20.6,8 of 10,12 of 16,Soft (29th),1.52,3in4,Defense 11 of 30,0.785,0.27,Darryn Peterson,15,Reach,PHX at UTAH|PR|Reach|A to C|2
@@ -2282,22 +2282,22 @@ ALL|PRA|Reach|A to C|16,C,Jaxson Hayes,UTAH vs PHX,Over 9.5 pts+reb+ast,PRA,13.8
 ALL|PRA|Reach|A to C|17,C,Darius Acuff Jr.,SAC at LAL,Over 29.5 pts+reb+ast,PRA,36.8,9 of 10,11 of 14,Soft (30th),1.4,"big spread, game script risk",Defense 18 of 30,0.853,0.18,Darius Acuff Jr.,30,Reach,SAC at LAL|PRA|Reach|A to C|3
 ALL|PRA|Reach|A to C|18,C,Norman Powell,CHI vs WSH,Over 19.5 pts+reb+ast,PRA,24.1,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 29 of 30,0.85,0.17,Norman Powell,20,Reach,WSH at CHI|PRA|Reach|A to C|3
 ALL|PRA|Reach|A to C|19,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Reach,CHA at ATL|PRA|Reach|A to C|3
-ALL|PRA|Reach|A to C|20,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Reach,WSH at CHI|PRA|Reach|A to C|4
-ALL|PRA|Reach|A to C|21,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|PRA|Reach|A to C|4
-ALL|PRA|Reach|A to C|22,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Reach,TOR at DET|PRA|Reach|A to C|1
-ALL|PRA|Reach|A to C|23,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,WSH at CHI|PRA|Reach|A to C|5
-ALL|PRA|Reach|A to C|24,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|PRA|Reach|A to C|3
-ALL|PRA|Reach|A to C|25,C,Nickeil Alexander-Walker,ATL vs CHA,Over 19.5 pts+reb+ast,PRA,25.4,9 of 10,15 of 20,Mid (16th),1.43,,Defense 10 of 30,0.825,0.21,Nickeil Alexander-Walker,20,Reach,CHA at ATL|PRA|Reach|A to C|4
-ALL|PRA|Reach|A to C|26,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,IND at CLE|PRA|Reach|A to C|3
-ALL|PRA|Reach|A to C|27,C,Ivica Zubac,IND at CLE,Over 14.5 pts+reb+ast,PRA,20.8,7 of 10,17 of 20,Soft (26th),1.52,,Defense 22 of 30,0.825,0.28,Ivica Zubac,15,Reach,IND at CLE|PRA|Reach|A to C|4
-ALL|PRA|Reach|A to C|28,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|PRA|Reach|A to C|5
-ALL|PRA|Reach|A to C|29,C,Meleek Thomas,CLE vs IND,Over 14.5 pts+reb+ast,PRA,17.8,8 of 10,11 of 13,Mid (11th),1.43,+ role up,Defense 16 of 30,0.823,0.16,Meleek Thomas,15,Reach,IND at CLE|PRA|Reach|A to C|5
-ALL|PRA|Reach|A to C|30,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|PRA|Reach|A to C|2
-ALL|PRA|Reach|A to C|31,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|PRA|Reach|A to C|4
-ALL|PRA|Reach|A to C|32,C,Nikola Jokic,DEN vs HOU,Over 39.5 pts+reb+ast,PRA,44.2,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 5 of 30,0.81,0.1,Nikola Jokic,40,Reach,HOU at DEN|PRA|Reach|A to C|4
-ALL|PRA|Reach|A to C|33,C,Zion Williamson,NO at OKC,Over 24.5 pts+reb+ast,PRA,28.4,9 of 10,16 of 20,Mid (22nd),1.38,"big spread, game script risk",Defense 6 of 30,0.81,0.12,Zion Williamson,25,Reach,NO at OKC|PRA|Reach|A to C|3
-ALL|PRA|Reach|A to C|34,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,HOU at DEN|PRA|Reach|A to C|5
-ALL|PRA|Reach|A to C|35,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,PHX at UTAH|PRA|Reach|A to C|6
+ALL|PRA|Reach|A to C|20,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|PRA|Reach|A to C|4
+ALL|PRA|Reach|A to C|21,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Reach,TOR at DET|PRA|Reach|A to C|1
+ALL|PRA|Reach|A to C|22,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,WSH at CHI|PRA|Reach|A to C|4
+ALL|PRA|Reach|A to C|23,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|PRA|Reach|A to C|3
+ALL|PRA|Reach|A to C|24,C,Nickeil Alexander-Walker,ATL vs CHA,Over 19.5 pts+reb+ast,PRA,25.4,9 of 10,15 of 20,Mid (16th),1.43,,Defense 10 of 30,0.825,0.21,Nickeil Alexander-Walker,20,Reach,CHA at ATL|PRA|Reach|A to C|4
+ALL|PRA|Reach|A to C|25,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,IND at CLE|PRA|Reach|A to C|3
+ALL|PRA|Reach|A to C|26,C,Ivica Zubac,IND at CLE,Over 14.5 pts+reb+ast,PRA,20.8,7 of 10,17 of 20,Soft (26th),1.52,,Defense 22 of 30,0.825,0.28,Ivica Zubac,15,Reach,IND at CLE|PRA|Reach|A to C|4
+ALL|PRA|Reach|A to C|27,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|PRA|Reach|A to C|5
+ALL|PRA|Reach|A to C|28,C,Meleek Thomas,CLE vs IND,Over 14.5 pts+reb+ast,PRA,17.8,8 of 10,11 of 13,Mid (11th),1.43,+ role up,Defense 16 of 30,0.823,0.16,Meleek Thomas,15,Reach,IND at CLE|PRA|Reach|A to C|5
+ALL|PRA|Reach|A to C|29,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|PRA|Reach|A to C|2
+ALL|PRA|Reach|A to C|30,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|PRA|Reach|A to C|4
+ALL|PRA|Reach|A to C|31,C,Nikola Jokic,DEN vs HOU,Over 39.5 pts+reb+ast,PRA,44.2,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 5 of 30,0.81,0.1,Nikola Jokic,40,Reach,HOU at DEN|PRA|Reach|A to C|4
+ALL|PRA|Reach|A to C|32,C,Zion Williamson,NO at OKC,Over 24.5 pts+reb+ast,PRA,28.4,9 of 10,16 of 20,Mid (22nd),1.38,"big spread, game script risk",Defense 6 of 30,0.81,0.12,Zion Williamson,25,Reach,NO at OKC|PRA|Reach|A to C|3
+ALL|PRA|Reach|A to C|33,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,HOU at DEN|PRA|Reach|A to C|5
+ALL|PRA|Reach|A to C|34,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,PHX at UTAH|PRA|Reach|A to C|6
+ALL|PRA|Reach|A to C|35,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,questionable,Defense 29 of 30,0.81,0.28,Jalen Smith,15,Reach,WSH at CHI|PRA|Reach|A to C|5
 ALL|PRA|Reach|A to C|36,C,Jarrett Allen,CLE vs IND,Over 19.5 pts+reb+ast,PRA,22.5,8 of 10,16 of 20,Mid (18th),1.47,+ role up,Defense 16 of 30,0.8,0.11,Jarrett Allen,20,Reach,IND at CLE|PRA|Reach|A to C|6
 ALL|PRA|Reach|A to C|37,C,Paul Reed,DET vs TOR,Over 14.5 pts+reb+ast,PRA,19.1,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4,Defense 17 of 30,0.795,0.21,Paul Reed,15,Reach,TOR at DET|PRA|Reach|A to C|2
 ALL|PRA|Reach|A to C|38,C,Sion James,CHA at ATL,Over 9.5 pts+reb+ast,PRA,11.9,9 of 10,15 of 20,Tough (5th),1.43,tough matchup; + role up,Defense 21 of 30,0.785,0.16,Sion James,10,Reach,CHA at ATL|PRA|Reach|A to C|5
@@ -2421,18 +2421,19 @@ ALL|REB|Reach|A to C|32,C,Dillon Brooks,PHX at UTAH,Over 2.5 rebounds,REB,4.2,8 
 ALL|REB|Reach|A to C|33,C,Moritz Wagner,BKN vs ORL,Over 1.5 rebounds,REB,3.0,8 of 10,15 of 20,Mid (14th),1.52,,Defense 9 of 30,0.775,0.34,Moritz Wagner,2,Reach,ORL at BKN|REB|Reach|A to C|5
 ALL|REB|Reach|A to C|34,C,T.J. McConnell,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (12th),1.47,questionable; + role up,Defense 22 of 30,0.76,0.15,T.J. McConnell,2,Reach,IND at CLE|REB|Reach|A to C|5
 ALL|REB|Reach|A to C|35,C,Isaiah Collier,UTAH vs PHX,Over 1.5 rebounds,REB,3.0,7 of 10,16 of 20,Soft (27th),1.57,3in4,Defense 11 of 30,0.76,0.34,Isaiah Collier,2,Reach,PHX at UTAH|REB|Reach|A to C|4
-ALL|REB|Reach|A to C|36,C,Sandro Mamukelashvili,LAL vs SAC,Over 2.5 rebounds,REB,4.0,8 of 10,17 of 20,Mid (14th),1.43,"3in4; big spread, game script risk",Defense 26 of 30,0.745,0.26,Sandro Mamukelashvili,3,Reach,SAC at LAL|REB|Reach|A to C|3
-ALL|REB|Reach|A to C|37,C,Saddiq Bey,NO at OKC,Over 3.5 rebounds,REB,4.5,8 of 10,15 of 20,Mid (16th),1.52,"+ role up; big spread, game script risk",Defense 6 of 30,0.735,0.12,Saddiq Bey,4,Reach,NO at OKC|REB|Reach|A to C|5
-ALL|REB|Reach|A to C|38,C,Andrew Nembhard,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,15 of 20,Mid (12th),1.52,questionable,Defense 22 of 30,0.735,0.17,Andrew Nembhard,2,Reach,IND at CLE|REB|Reach|A to C|6
-ALL|REB|Reach|A to C|39,C,Ace Bailey,UTAH vs PHX,Over 4.5 rebounds,REB,6.2,7 of 10,15 of 20,Soft (27th),1.62,3in4,Defense 11 of 30,0.735,0.19,Ace Bailey,5,Reach,PHX at UTAH|REB|Reach|A to C|5
-ALL|REB|Reach|A to C|40,C,Jamal Murray,DEN vs HOU,Over 3.5 rebounds,REB,5.0,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 5 of 30,0.735,0.2,Jamal Murray,4,Reach,HOU at DEN|REB|Reach|A to C|6
+ALL|REB|Reach|A to C|36,C,Ronald Holland II,DET vs TOR,Over 1.5 rebounds,REB,2.9,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4; questionable,Defense 17 of 30,0.755,0.31,Ronald Holland II,2,Reach,TOR at DET|REB|Reach|A to C|2
+ALL|REB|Reach|A to C|37,C,Sandro Mamukelashvili,LAL vs SAC,Over 2.5 rebounds,REB,4.0,8 of 10,17 of 20,Mid (14th),1.43,"3in4; big spread, game script risk",Defense 26 of 30,0.745,0.26,Sandro Mamukelashvili,3,Reach,SAC at LAL|REB|Reach|A to C|3
+ALL|REB|Reach|A to C|38,C,Saddiq Bey,NO at OKC,Over 3.5 rebounds,REB,4.5,8 of 10,15 of 20,Mid (16th),1.52,"+ role up; big spread, game script risk",Defense 6 of 30,0.735,0.12,Saddiq Bey,4,Reach,NO at OKC|REB|Reach|A to C|5
+ALL|REB|Reach|A to C|39,C,Andrew Nembhard,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,15 of 20,Mid (12th),1.52,questionable,Defense 22 of 30,0.735,0.17,Andrew Nembhard,2,Reach,IND at CLE|REB|Reach|A to C|6
+ALL|REB|Reach|A to C|40,C,Ace Bailey,UTAH vs PHX,Over 4.5 rebounds,REB,6.2,7 of 10,15 of 20,Soft (27th),1.62,3in4,Defense 11 of 30,0.735,0.19,Ace Bailey,5,Reach,PHX at UTAH|REB|Reach|A to C|5
+,C,Jamal Murray,DEN vs HOU,Over 3.5 rebounds,REB,5.0,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 5 of 30,0.735,0.2,Jamal Murray,4,Reach,HOU at DEN|REB|Reach|A to C|6
 ,C,DeAndre Jordan,NO at OKC,Over 3.5 rebounds,REB,6.0,8 of 10,14 of 17,Tough (3rd),1.45,"tough matchup; big spread, game script risk",Defense 6 of 30,0.732,0.33,DeAndre Jordan,4,Reach,NO at OKC|REB|Reach|A to C|6
 ,C,Devin Booker,PHX at UTAH,Over 1.5 rebounds,REB,3.1,7 of 10,15 of 20,Mid (14th),1.62,,Defense 15 of 30,0.725,0.35,Devin Booker,2,Reach,PHX at UTAH|REB|Reach|A to C|6
 ,C,Ziaire Williams,LAL vs SAC,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (14th),1.47,"3in4; big spread, game script risk",Defense 26 of 30,0.72,0.15,Ziaire Williams,2,Reach,SAC at LAL|REB|Reach|A to C|4
 ,C,Danny Wolf,BKN vs ORL,Over 3.5 rebounds,REB,5.8,7 of 10,15 of 20,Tough (8th),1.62,tough matchup,Defense 9 of 30,0.685,0.3,Danny Wolf,4,Reach,ORL at BKN|REB|Reach|A to C|6
 ,C,Trae Young,WSH at CHI,Over 1.5 rebounds,REB,2.9,7 of 10,15 of 20,Mid (21st),1.62,role down,Defense 28 of 30,0.685,0.31,Trae Young,2,Reach,WSH at CHI|REB|Reach|A to C|5
 ,C,De'Andre Hunter,SAC at LAL,Over 2.5 rebounds,REB,3.9,8 of 10,15 of 20,Tough (5th),1.52,"tough matchup; questionable; + role up; big spread, game script risk",Defense 18 of 30,0.655,0.22,De'Andre Hunter,3,Reach,SAC at LAL|REB|Reach|A to C|5
-,C,Ja'Kobe Walter,TOR at DET,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Tough (3rd),1.62,tough matchup; 3in4; + role up,Defense 8 of 30,0.645,0.24,Ja'Kobe Walter,3,Reach,TOR at DET|REB|Reach|A to C|2
+,C,Ja'Kobe Walter,TOR at DET,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Tough (3rd),1.62,tough matchup; 3in4; + role up,Defense 8 of 30,0.645,0.24,Ja'Kobe Walter,3,Reach,TOR at DET|REB|Reach|A to C|3
 ALL|STL|Reach|A to C|1,C,Cameron Johnson,DEN vs HOU,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Soft (27th),1.34,,Defense 5 of 30,0.925,0.13,Cameron Johnson,1,Reach,HOU at DEN|STL|Reach|A to C|1
 ALL|STL|Reach|A to C|2,C,Anthony Davis,WSH at CHI,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Mid (17th),1.34,,Defense 28 of 30,0.875,0.13,Anthony Davis,1,Reach,WSH at CHI|STL|Reach|A to C|1
 ALL|STL|Reach|A to C|3,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Reach,ORL at BKN|STL|Reach|A to C|1
@@ -2549,42 +2550,42 @@ ALL|ALL|Reach|All|68,C,Darius Acuff Jr.,SAC at LAL,Over 24.5 pts+reb,PR,29.8,9 o
 ALL|ALL|Reach|All|69,C,Devin Booker,PHX at UTAH,Over 24.5 pts+ast,PA,29.1,8 of 10,16 of 20,Soft (24th),1.47,,Defense 15 of 30,0.85,0.14,Devin Booker,25,Reach,PHX at UTAH|ALL|Reach|All|7
 ALL|ALL|Reach|All|70,C,Norman Powell,CHI vs WSH,Over 19.5 pts+reb+ast,PRA,24.1,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 29 of 30,0.85,0.17,Norman Powell,20,Reach,WSH at CHI|ALL|Reach|All|11
 ALL|ALL|Reach|All|71,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Reach,CHA at ATL|ALL|Reach|All|10
-ALL|ALL|Reach|All|72,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Reach,WSH at CHI|ALL|Reach|All|12
-ALL|ALL|Reach|All|73,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Reach,IND at CLE|ALL|Reach|All|11
-ALL|ALL|Reach|All|74,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Reach,ORL at BKN|ALL|Reach|All|10
-ALL|ALL|Reach|All|75,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|ALL|Reach|All|8
-ALL|ALL|Reach|All|76,C,Sam Merrill,CLE vs IND,Over 0.5 threes,THREES,1.6,9 of 10,16 of 20,Mid (15th),1.38,,Defense 16 of 30,0.85,0.38,Sam Merrill,1,Reach,IND at CLE|ALL|Reach|All|12
-ALL|ALL|Reach|All|77,C,Darryn Peterson,UTAH vs PHX,Over 4.5 reb+ast,RA,7.8,9 of 10,14 of 16,Mid (18th),1.33,3in4,Defense 11 of 30,0.847,0.36,Darryn Peterson,5,Reach,PHX at UTAH|ALL|Reach|All|9
-ALL|ALL|Reach|All|78,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Reach,SAC at LAL|ALL|Reach|All|6
-ALL|ALL|Reach|All|79,C,Cade Cunningham,DET vs TOR,Over 9.5 reb+ast,RA,12.6,9 of 10,17 of 20,Soft (25th),1.34,3in4; questionable; + role up,Defense 17 of 30,0.845,0.21,Cade Cunningham,10,Reach,TOR at DET|ALL|Reach|All|6
-ALL|ALL|Reach|All|80,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Reach,HOU at DEN|ALL|Reach|All|11
-ALL|ALL|Reach|All|81,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,
-ALL|ALL|Reach|All|82,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|ALL|Reach|All|12
-ALL|ALL|Reach|All|83,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Reach,
-ALL|ALL|Reach|All|84,C,AJ Dybantsa,WSH at CHI,Over 1.5 assists,AST,2.2,8 of 10,9 of 12,Soft (26th),1.52,,Defense 28 of 30,0.825,0.11,AJ Dybantsa,2,Reach,
-ALL|ALL|Reach|All|85,C,James Harden,CLE vs IND,Over 1.5 threes,THREES,2.3,9 of 10,15 of 20,Mid (15th),1.43,,Defense 16 of 30,0.825,0.13,James Harden,2,Reach,
-ALL|ALL|Reach|All|86,C,Donovan Mitchell,CLE vs IND,Over 3.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,4,Reach,
-ALL|ALL|Reach|All|87,C,Donovan Mitchell,CLE vs IND,Over 24.5 pts+ast,PA,29.9,8 of 10,17 of 20,Mid (9th),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,25,Reach,
-ALL|ALL|Reach|All|88,C,Ivica Zubac,IND at CLE,Over 9.5 pts+ast,PA,12.4,7 of 10,17 of 20,Soft (24th),1.52,,Defense 22 of 30,0.825,0.19,Ivica Zubac,10,Reach,
-ALL|ALL|Reach|All|89,C,Dyson Daniels,ATL vs CHA,Over 3.5 assists,AST,5.0,9 of 10,15 of 20,Mid (10th),1.43,,Defense 10 of 30,0.825,0.2,Dyson Daniels,4,Reach,CHA at ATL|ALL|Reach|All|11
-ALL|ALL|Reach|All|90,C,Isaac Okoro,CHI vs WSH,Over 5.5 points,PTS,7.8,8 of 10,15 of 20,Soft (28th),1.52,+ role up,Defense 29 of 30,0.825,0.23,Isaac Okoro,6,Reach,
-ALL|ALL|Reach|All|91,C,Ivica Zubac,IND at CLE,Over 7.5 points,PTS,10.6,7 of 10,17 of 20,Soft (25th),1.52,,Defense 22 of 30,0.825,0.24,Ivica Zubac,8,Reach,
-ALL|ALL|Reach|All|92,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,
-ALL|ALL|Reach|All|93,C,Day'Ron Sharpe,BKN vs ORL,Over 4.5 rebounds,REB,6.9,8 of 10,17 of 20,Mid (14th),1.43,,Defense 9 of 30,0.825,0.28,Day'Ron Sharpe,5,Reach,ORL at BKN|ALL|Reach|All|11
-ALL|ALL|Reach|All|94,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|ALL|Reach|All|12
-ALL|ALL|Reach|All|95,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|ALL|Reach|All|10
-ALL|ALL|Reach|All|96,C,Anthony Black,ORL at BKN,Over 4.5 reb+ast,RA,8.2,9 of 10,15 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.39,Anthony Black,5,Reach,
-ALL|ALL|Reach|All|97,C,Jordan Goodwin,PHX at UTAH,Over 0.5 steals,STL,1.6,8 of 10,15 of 20,Soft (29th),1.52,,Defense 15 of 30,0.825,0.39,Jordan Goodwin,1,Reach,PHX at UTAH|ALL|Reach|All|11
-ALL|ALL|Reach|All|98,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+ast,PA,20.1,10 of 10,16 of 20,Tough (6th),1.31,tough matchup; 3in4,Defense 8 of 30,0.82,0.25,Immanuel Quickley,15,Reach,TOR at DET|ALL|Reach|All|7
-ALL|ALL|Reach|All|99,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|ALL|Reach|All|5
-ALL|ALL|Reach|All|100,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|ALL|Reach|All|7
-ALL|ALL|Reach|All|101,C,Mo Bamba,UTAH vs PHX,Over 0.5 blocks,BLK,1.5,9 of 10,13 of 16,Mid (22nd),1.37,3in4; + role up,Defense 11 of 30,0.816,0.33,Mo Bamba,1,Reach,PHX at UTAH|ALL|Reach|All|12
-ALL|ALL|Reach|All|102,C,Nikola Jokic,DEN vs HOU,Over 7.5 assists,AST,8.7,9 of 10,16 of 20,Tough (4th),1.38,tough matchup,Defense 5 of 30,0.81,0.08,Nikola Jokic,8,Reach,
-ALL|ALL|Reach|All|103,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,
-ALL|ALL|Reach|All|104,C,Karlo Matkovic,NO at OKC,Over 2.5 rebounds,REB,3.6,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.18,Karlo Matkovic,3,Reach,NO at OKC|ALL|Reach|All|6
-ALL|ALL|Reach|All|105,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,
-ALL|ALL|Reach|All|106,C,Steven Adams,HOU at DEN,Over 3.5 points,PTS,5.2,9 of 10,16 of 20,Mid (14th),1.38,questionable,Defense 7 of 30,0.81,0.23,Steven Adams,4,Reach,
-ALL|ALL|Reach|All|107,C,Herbert Jones,NO at OKC,Over 1.5 rebounds,REB,2.7,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.26,Herbert Jones,2,Reach,NO at OKC|ALL|Reach|All|7
+ALL|ALL|Reach|All|72,C,Aaron Nesmith,IND at CLE,Over 1.5 rebounds,REB,2.9,9 of 10,16 of 20,Mid (12th),1.38,+ role up,Defense 22 of 30,0.85,0.3,Aaron Nesmith,2,Reach,IND at CLE|ALL|Reach|All|11
+ALL|ALL|Reach|All|73,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Reach,ORL at BKN|ALL|Reach|All|10
+ALL|ALL|Reach|All|74,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|ALL|Reach|All|8
+ALL|ALL|Reach|All|75,C,Sam Merrill,CLE vs IND,Over 0.5 threes,THREES,1.6,9 of 10,16 of 20,Mid (15th),1.38,,Defense 16 of 30,0.85,0.38,Sam Merrill,1,Reach,IND at CLE|ALL|Reach|All|12
+ALL|ALL|Reach|All|76,C,Darryn Peterson,UTAH vs PHX,Over 4.5 reb+ast,RA,7.8,9 of 10,14 of 16,Mid (18th),1.33,3in4,Defense 11 of 30,0.847,0.36,Darryn Peterson,5,Reach,PHX at UTAH|ALL|Reach|All|9
+ALL|ALL|Reach|All|77,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Reach,SAC at LAL|ALL|Reach|All|6
+ALL|ALL|Reach|All|78,C,Cade Cunningham,DET vs TOR,Over 9.5 reb+ast,RA,12.6,9 of 10,17 of 20,Soft (25th),1.34,3in4; questionable; + role up,Defense 17 of 30,0.845,0.21,Cade Cunningham,10,Reach,TOR at DET|ALL|Reach|All|6
+ALL|ALL|Reach|All|79,C,Marcus Smart,HOU at DEN,Over 1.5 rebounds,REB,3.0,9 of 10,19 of 20,Tough (7th),1.27,tough matchup; role down,Defense 7 of 30,0.845,0.33,Marcus Smart,2,Reach,HOU at DEN|ALL|Reach|All|11
+ALL|ALL|Reach|All|80,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,WSH at CHI|ALL|Reach|All|12
+ALL|ALL|Reach|All|81,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|ALL|Reach|All|12
+ALL|ALL|Reach|All|82,C,T.J. McConnell,IND at CLE,Over 5.5 points,PTS,8.7,8 of 10,17 of 20,Soft (25th),1.43,questionable; + role up,Defense 22 of 30,0.835,0.31,T.J. McConnell,6,Reach,
+ALL|ALL|Reach|All|83,C,AJ Dybantsa,WSH at CHI,Over 1.5 assists,AST,2.2,8 of 10,9 of 12,Soft (26th),1.52,,Defense 28 of 30,0.825,0.11,AJ Dybantsa,2,Reach,
+ALL|ALL|Reach|All|84,C,James Harden,CLE vs IND,Over 1.5 threes,THREES,2.3,9 of 10,15 of 20,Mid (15th),1.43,,Defense 16 of 30,0.825,0.13,James Harden,2,Reach,
+ALL|ALL|Reach|All|85,C,Donovan Mitchell,CLE vs IND,Over 3.5 rebounds,REB,4.8,8 of 10,17 of 20,Mid (22nd),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,4,Reach,
+ALL|ALL|Reach|All|86,C,Donovan Mitchell,CLE vs IND,Over 24.5 pts+ast,PA,29.9,8 of 10,17 of 20,Mid (9th),1.43,,Defense 16 of 30,0.825,0.16,Donovan Mitchell,25,Reach,
+ALL|ALL|Reach|All|87,C,Ivica Zubac,IND at CLE,Over 9.5 pts+ast,PA,12.4,7 of 10,17 of 20,Soft (24th),1.52,,Defense 22 of 30,0.825,0.19,Ivica Zubac,10,Reach,
+ALL|ALL|Reach|All|88,C,Dyson Daniels,ATL vs CHA,Over 3.5 assists,AST,5.0,9 of 10,15 of 20,Mid (10th),1.43,,Defense 10 of 30,0.825,0.2,Dyson Daniels,4,Reach,CHA at ATL|ALL|Reach|All|11
+ALL|ALL|Reach|All|89,C,Isaac Okoro,CHI vs WSH,Over 5.5 points,PTS,7.8,8 of 10,15 of 20,Soft (28th),1.52,+ role up,Defense 29 of 30,0.825,0.23,Isaac Okoro,6,Reach,
+ALL|ALL|Reach|All|90,C,Ivica Zubac,IND at CLE,Over 7.5 points,PTS,10.6,7 of 10,17 of 20,Soft (25th),1.52,,Defense 22 of 30,0.825,0.24,Ivica Zubac,8,Reach,
+ALL|ALL|Reach|All|91,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,
+ALL|ALL|Reach|All|92,C,Day'Ron Sharpe,BKN vs ORL,Over 4.5 rebounds,REB,6.9,8 of 10,17 of 20,Mid (14th),1.43,,Defense 9 of 30,0.825,0.28,Day'Ron Sharpe,5,Reach,ORL at BKN|ALL|Reach|All|11
+ALL|ALL|Reach|All|93,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|ALL|Reach|All|12
+ALL|ALL|Reach|All|94,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|ALL|Reach|All|10
+ALL|ALL|Reach|All|95,C,Anthony Black,ORL at BKN,Over 4.5 reb+ast,RA,8.2,9 of 10,15 of 20,Mid (9th),1.43,,Defense 23 of 30,0.825,0.39,Anthony Black,5,Reach,
+ALL|ALL|Reach|All|96,C,Jordan Goodwin,PHX at UTAH,Over 0.5 steals,STL,1.6,8 of 10,15 of 20,Soft (29th),1.52,,Defense 15 of 30,0.825,0.39,Jordan Goodwin,1,Reach,PHX at UTAH|ALL|Reach|All|11
+ALL|ALL|Reach|All|97,C,Immanuel Quickley,TOR at DET,Over 14.5 pts+ast,PA,20.1,10 of 10,16 of 20,Tough (6th),1.31,tough matchup; 3in4,Defense 8 of 30,0.82,0.25,Immanuel Quickley,15,Reach,TOR at DET|ALL|Reach|All|7
+ALL|ALL|Reach|All|98,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|ALL|Reach|All|5
+ALL|ALL|Reach|All|99,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|ALL|Reach|All|7
+ALL|ALL|Reach|All|100,C,Mo Bamba,UTAH vs PHX,Over 0.5 blocks,BLK,1.5,9 of 10,13 of 16,Mid (22nd),1.37,3in4; + role up,Defense 11 of 30,0.816,0.33,Mo Bamba,1,Reach,PHX at UTAH|ALL|Reach|All|12
+ALL|ALL|Reach|All|101,C,Nikola Jokic,DEN vs HOU,Over 7.5 assists,AST,8.7,9 of 10,16 of 20,Tough (4th),1.38,tough matchup,Defense 5 of 30,0.81,0.08,Nikola Jokic,8,Reach,
+ALL|ALL|Reach|All|102,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,
+ALL|ALL|Reach|All|103,C,Karlo Matkovic,NO at OKC,Over 2.5 rebounds,REB,3.6,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.18,Karlo Matkovic,3,Reach,NO at OKC|ALL|Reach|All|6
+ALL|ALL|Reach|All|104,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,
+ALL|ALL|Reach|All|105,C,Steven Adams,HOU at DEN,Over 3.5 points,PTS,5.2,9 of 10,16 of 20,Mid (14th),1.38,questionable,Defense 7 of 30,0.81,0.23,Steven Adams,4,Reach,
+ALL|ALL|Reach|All|106,C,Herbert Jones,NO at OKC,Over 1.5 rebounds,REB,2.7,8 of 10,16 of 20,Soft (25th),1.47,"big spread, game script risk",Defense 6 of 30,0.81,0.26,Herbert Jones,2,Reach,NO at OKC|ALL|Reach|All|7
+ALL|ALL|Reach|All|107,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,questionable,Defense 29 of 30,0.81,0.28,Jalen Smith,15,Reach,
 ALL|ALL|Reach|All|108,C,Christian Braun,DEN vs HOU,Over 2.5 rebounds,REB,4.2,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.29,Christian Braun,3,Reach,
 ALL|ALL|Reach|All|109,C,Jaylin Williams,OKC vs NO,Over 2.5 points,PTS,4.2,8 of 10,16 of 20,Soft (27th),1.47,"big spread, game script risk",Defense 30 of 30,0.81,0.29,Jaylin Williams,3,Reach,NO at OKC|ALL|Reach|All|8
 ALL|ALL|Reach|All|110,C,Matas Buzelis,CHI vs WSH,Over 4.5 rebounds,REB,5.7,7 of 10,16 of 20,Soft (28th),1.57,,Defense 29 of 30,0.8,0.12,Matas Buzelis,5,Reach,
@@ -2607,9 +2608,9 @@ ALL|ALL|Reach|All|120,C,Ajay Mitchell,OKC vs NO,Over 4.5 reb+ast,RA,7.5,9 of 10,
 ,C,Ziaire Williams,LAL vs SAC,Over 0.5 threes,THREES,1.5,8 of 10,18 of 20,Mid (19th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.77,0.33,Ziaire Williams,1,Reach,SAC at LAL|ALL|Reach|All|10
 ,C,Kevin Huerter,DET vs TOR,Over 0.5 threes,THREES,1.3,8 of 10,16 of 20,Mid (21st),1.47,3in4; + role up,Defense 17 of 30,0.76,0.23,Kevin Huerter,1,Reach,TOR at DET|ALL|Reach|All|10
 ,C,Leaky Black,SAC at LAL,Over 0.5 steals,STL,1.6,8 of 10,16 of 20,Mid (10th),1.47,"big spread, game script risk",Defense 18 of 30,0.76,0.35,Leaky Black,1,Reach,SAC at LAL|ALL|Reach|All|11
+,C,Ronald Holland II,DET vs TOR,Over 1.5 rebounds,REB,2.9,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4; questionable,Defense 17 of 30,0.755,0.31,Ronald Holland II,2,Reach,TOR at DET|ALL|Reach|All|11
 ,C,Emanuel Sharp,SAC at LAL,Over 2.5 points,PTS,5.0,7 of 10,11 of 14,Soft (30th),1.58,"big spread, game script risk",Defense 18 of 30,0.753,0.4,Emanuel Sharp,3,Reach,SAC at LAL|ALL|Reach|All|12
-,C,Scottie Barnes,TOR at DET,Over 3.5 assists,AST,6.3,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; 3in4,Defense 8 of 30,0.745,0.37,Scottie Barnes,4,Reach,TOR at DET|ALL|Reach|All|11
-,C,Ausar Thompson,DET vs TOR,Over 3.5 assists,AST,4.8,8 of 10,15 of 20,Mid (20th),1.52,3in4,Defense 17 of 30,0.735,0.17,Ausar Thompson,4,Reach,TOR at DET|ALL|Reach|All|12
+,C,Scottie Barnes,TOR at DET,Over 3.5 assists,AST,6.3,8 of 10,17 of 20,Tough (3rd),1.43,tough matchup; 3in4,Defense 8 of 30,0.745,0.37,Scottie Barnes,4,Reach,TOR at DET|ALL|Reach|All|12
 ALL|AST|Reach|All|1,B,Zion Williamson,NO at OKC,Over 1.5 assists,AST,2.6,9 of 10,19 of 20,Mid (17th),1.27,"big spread, game script risk",Defense 6 of 30,0.885,0.25,Zion Williamson,2,Reach,NO at OKC|AST|Reach|All|1
 ALL|AST|Reach|All|2,C,Tre Jones,CHI vs WSH,Over 2.5 assists,AST,4.0,9 of 10,16 of 20,Soft (30th),1.38,,Defense 29 of 30,0.9,0.25,Tre Jones,3,Reach,WSH at CHI|AST|Reach|All|1
 ALL|AST|Reach|All|3,C,Nolan Traore,BKN vs ORL,Over 1.5 assists,AST,3.3,10 of 10,17 of 20,Tough (7th),1.27,tough matchup,Defense 9 of 30,0.885,0.39,Nolan Traore,2,Reach,ORL at BKN|AST|Reach|All|1
@@ -2738,11 +2739,11 @@ ALL|PA|Reach|All|40,C,Keegan Murray,SAC at LAL,Over 9.5 pts+ast,PA,13.4,7 of 10,
 ,D,Shai Gilgeous-Alexander,OKC vs NO,Over 29.5 pts+ast,PA,35.0,8 of 10,13 of 20,Soft (23rd),1.62,"big spread, game script risk",Defense 30 of 30,0.735,0.14,Shai Gilgeous-Alexander,30,Reach,NO at OKC|PA|Reach|All|5
 ,D,Malik Monk,SAC at LAL,Over 9.5 pts+ast,PA,12.9,8 of 10,13 of 20,Soft (30th),1.62,"+ role up; big spread, game script risk",Defense 18 of 30,0.735,0.23,Malik Monk,10,Reach,SAC at LAL|PA|Reach|All|6
 ,D,Ajay Mitchell,OKC vs NO,Over 14.5 pts+ast,PA,20.8,8 of 10,13 of 20,Soft (23rd),1.62,"big spread, game script risk",Defense 30 of 30,0.735,0.28,Ajay Mitchell,15,Reach,NO at OKC|PA|Reach|All|6
-,D,Jalen Smith,CHI vs WSH,Over 14.5 pts+ast,PA,13.8,7 of 10,12 of 20,Soft (27th),1.81,,Defense 29 of 30,0.7,-0.09,Jalen Smith,15,Reach,WSH at CHI|PA|Reach|All|6
 ,D,Julius Randle,BKN vs ORL,Over 19.5 pts+ast,PA,22.0,8 of 10,12 of 20,Mid (18th),1.68,,Defense 9 of 30,0.7,0.09,Julius Randle,20,Reach,ORL at BKN|PA|Reach|All|6
 ,D,Miles Bridges,PHX at UTAH,Over 14.5 pts+ast,PA,18.2,7 of 10,14 of 20,Mid (16th),1.68,,Defense 15 of 30,0.7,0.18,Miles Bridges,15,Reach,PHX at UTAH|PA|Reach|All|5
 ,D,Paul Reed,DET vs TOR,Over 9.5 pts+ast,PA,12.6,8 of 10,14 of 20,Tough (1st),1.57,tough matchup; 3in4,Defense 17 of 30,0.67,0.21,Paul Reed,10,Reach,TOR at DET|PA|Reach|All|5
 ,D,Jamal Shead,TOR at DET,Over 9.5 pts+ast,PA,14.6,8 of 10,14 of 20,Tough (6th),1.57,tough matchup; 3in4,Defense 8 of 30,0.67,0.32,Jamal Shead,10,Reach,TOR at DET|PA|Reach|All|6
+,D,Jalen Smith,CHI vs WSH,Over 14.5 pts+ast,PA,13.8,7 of 10,12 of 20,Soft (27th),1.81,questionable,Defense 29 of 30,0.66,-0.09,Jalen Smith,15,Reach,WSH at CHI|PA|Reach|All|6
 ALL|PR|Reach|All|1,A,Meleek Thomas,CLE vs IND,Over 9.5 pts+reb,PR,16.2,10 of 10,13 of 13,Mid (11th),1.22,+ role up,Defense 16 of 30,1.0,0.38,Meleek Thomas,10,Reach,IND at CLE|PR|Reach|All|1
 ALL|PR|Reach|All|2,A,Day'Ron Sharpe,BKN vs ORL,Over 9.5 pts+reb,PR,15.8,10 of 10,19 of 20,Mid (13th),1.22,,Defense 9 of 30,0.975,0.37,Day'Ron Sharpe,10,Reach,ORL at BKN|PR|Reach|All|1
 ALL|PR|Reach|All|3,B,Amen Thompson,HOU at DEN,Over 14.5 pts+reb,PR,23.8,9 of 10,19 of 20,Tough (4th),1.27,tough matchup,Defense 7 of 30,0.885,0.37,Amen Thompson,15,Reach,HOU at DEN|PR|Reach|All|1
@@ -2762,15 +2763,15 @@ ALL|PR|Reach|All|16,C,Aaron Nesmith,IND at CLE,Over 9.5 pts+reb,PR,16.6,8 of 10,
 ALL|PR|Reach|All|17,C,Zach LaVine,SAC at LAL,Over 14.5 pts+reb,PR,22.4,9 of 10,16 of 20,Soft (30th),1.38,"big spread, game script risk",Defense 18 of 30,0.86,0.33,Zach LaVine,15,Reach,SAC at LAL|PR|Reach|All|1
 ALL|PR|Reach|All|18,C,Darius Acuff Jr.,SAC at LAL,Over 24.5 pts+reb,PR,29.8,9 of 10,11 of 14,Soft (30th),1.4,"big spread, game script risk",Defense 18 of 30,0.853,0.16,Darius Acuff Jr.,25,Reach,SAC at LAL|PR|Reach|All|2
 ALL|PR|Reach|All|19,C,Walker Kessler,LAL vs SAC,Over 19.5 pts+reb,PR,25.1,10 of 10,17 of 20,Mid (16th),1.27,"3in4; big spread, game script risk",Defense 26 of 30,0.845,0.2,Walker Kessler,20,Reach,SAC at LAL|PR|Reach|All|3
-ALL|PR|Reach|All|20,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb,PR,19.0,8 of 10,15 of 20,Soft (28th),1.52,,Defense 29 of 30,0.825,0.21,Jalen Smith,15,Reach,WSH at CHI|PR|Reach|All|3
-ALL|PR|Reach|All|21,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Reach,ORL at BKN|PR|Reach|All|3
-ALL|PR|Reach|All|22,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|PR|Reach|All|4
-ALL|PR|Reach|All|23,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Reach,PHX at UTAH|PR|Reach|All|1
-ALL|PR|Reach|All|24,C,Cameron Johnson,DEN vs HOU,Over 9.5 pts+reb,PR,16.1,8 of 10,16 of 20,Mid (21st),1.47,,Defense 5 of 30,0.8,0.38,Cameron Johnson,10,Reach,HOU at DEN|PR|Reach|All|6
-ALL|PR|Reach|All|25,C,Tre Jones,CHI vs WSH,Over 9.5 pts+reb,PR,16.2,8 of 10,16 of 20,Mid (17th),1.47,,Defense 29 of 30,0.8,0.38,Tre Jones,10,Reach,WSH at CHI|PR|Reach|All|4
-ALL|PR|Reach|All|26,C,Alperen Sengun,HOU at DEN,Over 24.5 pts+reb,PR,30.8,8 of 10,17 of 20,Soft (23rd),1.43,questionable; role down,Defense 7 of 30,0.795,0.19,Alperen Sengun,25,Reach,
-ALL|PR|Reach|All|27,C,Saddiq Bey,NO at OKC,Over 14.5 pts+reb,PR,22.0,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; + role up; big spread, game script risk",Defense 6 of 30,0.795,0.32,Saddiq Bey,15,Reach,NO at OKC|PR|Reach|All|1
-ALL|PR|Reach|All|28,C,Jeremiah Fears,NO at OKC,Over 14.5 pts+reb,PR,23.9,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; big spread, game script risk",Defense 6 of 30,0.795,0.37,Jeremiah Fears,15,Reach,NO at OKC|PR|Reach|All|2
+ALL|PR|Reach|All|20,C,Wendell Carter Jr.,ORL at BKN,Over 14.5 pts+reb,PR,20.6,9 of 10,15 of 20,Mid (10th),1.43,,Defense 23 of 30,0.825,0.27,Wendell Carter Jr.,15,Reach,ORL at BKN|PR|Reach|All|3
+ALL|PR|Reach|All|21,C,Danny Wolf,BKN vs ORL,Over 9.5 pts+reb,PR,14.8,8 of 10,17 of 20,Mid (16th),1.43,,Defense 9 of 30,0.825,0.32,Danny Wolf,10,Reach,ORL at BKN|PR|Reach|All|4
+ALL|PR|Reach|All|22,C,Miles Bridges,PHX at UTAH,Over 14.5 pts+reb,PR,21.9,8 of 10,16 of 20,Mid (19th),1.47,,Defense 15 of 30,0.8,0.32,Miles Bridges,15,Reach,PHX at UTAH|PR|Reach|All|1
+ALL|PR|Reach|All|23,C,Cameron Johnson,DEN vs HOU,Over 9.5 pts+reb,PR,16.1,8 of 10,16 of 20,Mid (21st),1.47,,Defense 5 of 30,0.8,0.38,Cameron Johnson,10,Reach,HOU at DEN|PR|Reach|All|6
+ALL|PR|Reach|All|24,C,Tre Jones,CHI vs WSH,Over 9.5 pts+reb,PR,16.2,8 of 10,16 of 20,Mid (17th),1.47,,Defense 29 of 30,0.8,0.38,Tre Jones,10,Reach,WSH at CHI|PR|Reach|All|3
+ALL|PR|Reach|All|25,C,Alperen Sengun,HOU at DEN,Over 24.5 pts+reb,PR,30.8,8 of 10,17 of 20,Soft (23rd),1.43,questionable; role down,Defense 7 of 30,0.795,0.19,Alperen Sengun,25,Reach,
+ALL|PR|Reach|All|26,C,Saddiq Bey,NO at OKC,Over 14.5 pts+reb,PR,22.0,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; + role up; big spread, game script risk",Defense 6 of 30,0.795,0.32,Saddiq Bey,15,Reach,NO at OKC|PR|Reach|All|1
+ALL|PR|Reach|All|27,C,Jeremiah Fears,NO at OKC,Over 14.5 pts+reb,PR,23.9,9 of 10,17 of 20,Tough (5th),1.34,"tough matchup; big spread, game script risk",Defense 6 of 30,0.795,0.37,Jeremiah Fears,15,Reach,NO at OKC|PR|Reach|All|2
+ALL|PR|Reach|All|28,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb,PR,19.0,8 of 10,15 of 20,Soft (28th),1.52,questionable,Defense 29 of 30,0.785,0.21,Jalen Smith,15,Reach,WSH at CHI|PR|Reach|All|4
 ALL|PR|Reach|All|29,C,Dylan Cardwell,SAC at LAL,Over 9.5 pts+reb,PR,12.8,9 of 10,15 of 20,Mid (15th),1.43,"big spread, game script risk",Defense 18 of 30,0.785,0.22,Dylan Cardwell,10,Reach,SAC at LAL|PR|Reach|All|4
 ALL|PR|Reach|All|30,C,Trae Young,WSH at CHI,Over 14.5 pts+reb,PR,20.1,7 of 10,17 of 20,Soft (28th),1.52,role down,Defense 28 of 30,0.785,0.25,Trae Young,15,Reach,WSH at CHI|PR|Reach|All|5
 ALL|PR|Reach|All|31,C,Darryn Peterson,UTAH vs PHX,Over 14.5 pts+reb,PR,20.6,8 of 10,12 of 16,Soft (29th),1.52,3in4,Defense 11 of 30,0.785,0.27,Darryn Peterson,15,Reach,PHX at UTAH|PR|Reach|All|2
@@ -2818,22 +2819,22 @@ ALL|PRA|Reach|All|16,C,Jaxson Hayes,UTAH vs PHX,Over 9.5 pts+reb+ast,PRA,13.8,9 
 ALL|PRA|Reach|All|17,C,Darius Acuff Jr.,SAC at LAL,Over 29.5 pts+reb+ast,PRA,36.8,9 of 10,11 of 14,Soft (30th),1.4,"big spread, game script risk",Defense 18 of 30,0.853,0.18,Darius Acuff Jr.,30,Reach,SAC at LAL|PRA|Reach|All|3
 ALL|PRA|Reach|All|18,C,Norman Powell,CHI vs WSH,Over 19.5 pts+reb+ast,PRA,24.1,9 of 10,16 of 20,Mid (22nd),1.38,,Defense 29 of 30,0.85,0.17,Norman Powell,20,Reach,WSH at CHI|PRA|Reach|All|3
 ALL|PRA|Reach|All|19,C,Moussa Diabate,CHA at ATL,Over 14.5 pts+reb+ast,PRA,19.5,9 of 10,16 of 20,Mid (12th),1.38,,Defense 21 of 30,0.85,0.23,Moussa Diabate,15,Reach,CHA at ATL|PRA|Reach|All|3
-ALL|PRA|Reach|All|20,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,,Defense 29 of 30,0.85,0.28,Jalen Smith,15,Reach,WSH at CHI|PRA|Reach|All|4
-ALL|PRA|Reach|All|21,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|PRA|Reach|All|4
-ALL|PRA|Reach|All|22,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Reach,TOR at DET|PRA|Reach|All|1
-ALL|PRA|Reach|All|23,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,WSH at CHI|PRA|Reach|All|5
-ALL|PRA|Reach|All|24,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|PRA|Reach|All|3
-ALL|PRA|Reach|All|25,C,Nickeil Alexander-Walker,ATL vs CHA,Over 19.5 pts+reb+ast,PRA,25.4,9 of 10,15 of 20,Mid (16th),1.43,,Defense 10 of 30,0.825,0.21,Nickeil Alexander-Walker,20,Reach,CHA at ATL|PRA|Reach|All|4
-ALL|PRA|Reach|All|26,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,IND at CLE|PRA|Reach|All|3
-ALL|PRA|Reach|All|27,C,Ivica Zubac,IND at CLE,Over 14.5 pts+reb+ast,PRA,20.8,7 of 10,17 of 20,Soft (26th),1.52,,Defense 22 of 30,0.825,0.28,Ivica Zubac,15,Reach,IND at CLE|PRA|Reach|All|4
-ALL|PRA|Reach|All|28,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|PRA|Reach|All|5
-ALL|PRA|Reach|All|29,C,Meleek Thomas,CLE vs IND,Over 14.5 pts+reb+ast,PRA,17.8,8 of 10,11 of 13,Mid (11th),1.43,+ role up,Defense 16 of 30,0.823,0.16,Meleek Thomas,15,Reach,IND at CLE|PRA|Reach|All|5
-ALL|PRA|Reach|All|30,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|PRA|Reach|All|2
-ALL|PRA|Reach|All|31,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|PRA|Reach|All|4
-ALL|PRA|Reach|All|32,C,Nikola Jokic,DEN vs HOU,Over 39.5 pts+reb+ast,PRA,44.2,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 5 of 30,0.81,0.1,Nikola Jokic,40,Reach,HOU at DEN|PRA|Reach|All|4
-ALL|PRA|Reach|All|33,C,Zion Williamson,NO at OKC,Over 24.5 pts+reb+ast,PRA,28.4,9 of 10,16 of 20,Mid (22nd),1.38,"big spread, game script risk",Defense 6 of 30,0.81,0.12,Zion Williamson,25,Reach,NO at OKC|PRA|Reach|All|3
-ALL|PRA|Reach|All|34,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,HOU at DEN|PRA|Reach|All|5
-ALL|PRA|Reach|All|35,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,PHX at UTAH|PRA|Reach|All|6
+ALL|PRA|Reach|All|20,C,Jordan Goodwin,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.8,8 of 10,16 of 20,Soft (23rd),1.47,,Defense 15 of 30,0.85,0.37,Jordan Goodwin,10,Reach,PHX at UTAH|PRA|Reach|All|4
+ALL|PRA|Reach|All|21,C,Jamal Shead,TOR at DET,Over 9.5 pts+reb+ast,PRA,16.5,10 of 10,17 of 20,Tough (3rd),1.27,tough matchup; 3in4,Defense 8 of 30,0.845,0.39,Jamal Shead,10,Reach,TOR at DET|PRA|Reach|All|1
+ALL|PRA|Reach|All|22,C,Bilal Coulibaly,WSH at CHI,Over 9.5 pts+reb+ast,PRA,14.0,8 of 10,17 of 20,Soft (28th),1.43,role down,Defense 28 of 30,0.835,0.29,Bilal Coulibaly,10,Reach,WSH at CHI|PRA|Reach|All|4
+ALL|PRA|Reach|All|23,C,Steven Adams,HOU at DEN,Over 9.5 pts+reb+ast,PRA,14.1,9 of 10,17 of 20,Mid (22nd),1.34,questionable,Defense 7 of 30,0.835,0.29,Steven Adams,10,Reach,HOU at DEN|PRA|Reach|All|3
+ALL|PRA|Reach|All|24,C,Nickeil Alexander-Walker,ATL vs CHA,Over 19.5 pts+reb+ast,PRA,25.4,9 of 10,15 of 20,Mid (16th),1.43,,Defense 10 of 30,0.825,0.21,Nickeil Alexander-Walker,20,Reach,CHA at ATL|PRA|Reach|All|4
+ALL|PRA|Reach|All|25,C,James Harden,CLE vs IND,Over 19.5 pts+reb+ast,PRA,26.4,8 of 10,17 of 20,Mid (11th),1.43,,Defense 16 of 30,0.825,0.24,James Harden,20,Reach,IND at CLE|PRA|Reach|All|3
+ALL|PRA|Reach|All|26,C,Ivica Zubac,IND at CLE,Over 14.5 pts+reb+ast,PRA,20.8,7 of 10,17 of 20,Soft (26th),1.52,,Defense 22 of 30,0.825,0.28,Ivica Zubac,15,Reach,IND at CLE|PRA|Reach|All|4
+ALL|PRA|Reach|All|27,C,Collin Gillespie,PHX at UTAH,Over 9.5 pts+reb+ast,PRA,15.4,8 of 10,15 of 20,Soft (23rd),1.52,,Defense 15 of 30,0.825,0.35,Collin Gillespie,10,Reach,PHX at UTAH|PRA|Reach|All|5
+ALL|PRA|Reach|All|28,C,Meleek Thomas,CLE vs IND,Over 14.5 pts+reb+ast,PRA,17.8,8 of 10,11 of 13,Mid (11th),1.43,+ role up,Defense 16 of 30,0.823,0.16,Meleek Thomas,15,Reach,IND at CLE|PRA|Reach|All|5
+ALL|PRA|Reach|All|29,C,Jeremiah Fears,NO at OKC,Over 19.5 pts+reb+ast,PRA,29.5,10 of 10,16 of 20,Tough (7th),1.31,"tough matchup; big spread, game script risk",Defense 6 of 30,0.82,0.32,Jeremiah Fears,20,Reach,NO at OKC|PRA|Reach|All|2
+ALL|PRA|Reach|All|30,C,Ziaire Williams,LAL vs SAC,Over 9.5 pts+reb+ast,PRA,15.5,8 of 10,18 of 20,Soft (25th),1.38,"3in4; big spread, game script risk",Defense 26 of 30,0.82,0.35,Ziaire Williams,10,Reach,SAC at LAL|PRA|Reach|All|4
+ALL|PRA|Reach|All|31,C,Nikola Jokic,DEN vs HOU,Over 39.5 pts+reb+ast,PRA,44.2,9 of 10,16 of 20,Tough (8th),1.38,tough matchup,Defense 5 of 30,0.81,0.1,Nikola Jokic,40,Reach,HOU at DEN|PRA|Reach|All|4
+ALL|PRA|Reach|All|32,C,Zion Williamson,NO at OKC,Over 24.5 pts+reb+ast,PRA,28.4,9 of 10,16 of 20,Mid (22nd),1.38,"big spread, game script risk",Defense 6 of 30,0.81,0.12,Zion Williamson,25,Reach,NO at OKC|PRA|Reach|All|3
+ALL|PRA|Reach|All|33,C,Jamal Murray,DEN vs HOU,Over 29.5 pts+reb+ast,PRA,36.3,9 of 10,16 of 20,Tough (1st),1.38,tough matchup,Defense 5 of 30,0.81,0.17,Jamal Murray,30,Reach,HOU at DEN|PRA|Reach|All|5
+ALL|PRA|Reach|All|34,C,Keyonte George,UTAH vs PHX,Over 24.5 pts+reb+ast,PRA,31.7,8 of 10,16 of 20,Soft (27th),1.47,3in4,Defense 11 of 30,0.81,0.21,Keyonte George,25,Reach,PHX at UTAH|PRA|Reach|All|6
+ALL|PRA|Reach|All|35,C,Jalen Smith,CHI vs WSH,Over 14.5 pts+reb+ast,PRA,20.7,8 of 10,16 of 20,Soft (27th),1.47,questionable,Defense 29 of 30,0.81,0.28,Jalen Smith,15,Reach,WSH at CHI|PRA|Reach|All|5
 ALL|PRA|Reach|All|36,C,Jarrett Allen,CLE vs IND,Over 19.5 pts+reb+ast,PRA,22.5,8 of 10,16 of 20,Mid (18th),1.47,+ role up,Defense 16 of 30,0.8,0.11,Jarrett Allen,20,Reach,IND at CLE|PRA|Reach|All|6
 ALL|PRA|Reach|All|37,C,Paul Reed,DET vs TOR,Over 14.5 pts+reb+ast,PRA,19.1,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4,Defense 17 of 30,0.795,0.21,Paul Reed,15,Reach,TOR at DET|PRA|Reach|All|2
 ALL|PRA|Reach|All|38,C,Sion James,CHA at ATL,Over 9.5 pts+reb+ast,PRA,11.9,9 of 10,15 of 20,Tough (5th),1.43,tough matchup; + role up,Defense 21 of 30,0.785,0.16,Sion James,10,Reach,CHA at ATL|PRA|Reach|All|5
@@ -2902,8 +2903,8 @@ ALL|PTS|Reach|All|40,D,Nickeil Alexander-Walker,ATL vs CHA,Over 15.5 points,PTS,
 ,D,Josh Giddey,CHI vs WSH,Over 8.5 points,PTS,11.2,8 of 10,14 of 20,Mid (15th),1.57,,Defense 29 of 30,0.75,0.19,Josh Giddey,9,Reach,WSH at CHI|PTS|Reach|All|5
 ,D,Aday Mara,OKC vs NO,Over 8.5 points,PTS,9.2,9 of 10,10 of 15,Mid (18th),1.5,"big spread, game script risk",Defense 30 of 30,0.743,0.02,Aday Mara,9,Reach,NO at OKC|PTS|Reach|All|5
 ,D,Jakob Poeltl,TOR at DET,Over 5.5 points,PTS,7.7,8 of 10,13 of 20,Soft (28th),1.62,3in4,Defense 8 of 30,0.735,0.22,Jakob Poeltl,6,Reach,TOR at DET|PTS|Reach|All|1
-,D,Jalen Smith,CHI vs WSH,Over 12.5 points,PTS,12.1,7 of 10,13 of 20,Soft (28th),1.74,,Defense 29 of 30,0.725,-0.07,Jalen Smith,13,Reach,WSH at CHI|PTS|Reach|All|6
 ,D,Moussa Diabate,CHA at ATL,Over 6.5 points,PTS,7.5,8 of 10,13 of 20,Mid (12th),1.62,,Defense 21 of 30,0.725,0.07,Moussa Diabate,7,Reach,CHA at ATL|PTS|Reach|All|6
+,D,Anthony Davis,WSH at CHI,Over 20.5 points,PTS,22.9,8 of 10,13 of 20,Mid (22nd),1.62,,Defense 28 of 30,0.725,0.08,Anthony Davis,21,Reach,WSH at CHI|PTS|Reach|All|6
 ,D,Mario Hezonja,CLE vs IND,Over 8.5 points,PTS,9.1,7 of 10,10 of 16,Soft (24th),1.78,+ role up,Defense 16 of 30,0.713,0.01,Mario Hezonja,9,Reach,IND at CLE|PTS|Reach|All|6
 ,D,Javonte Green,DET vs TOR,Over 4.5 points,PTS,5.5,9 of 10,12 of 20,Mid (20th),1.57,3in4; + role up,Defense 17 of 30,0.71,0.09,Javonte Green,5,Reach,TOR at DET|PTS|Reach|All|2
 ,D,Kevin Huerter,DET vs TOR,Over 6.5 points,PTS,8.2,9 of 10,12 of 20,Mid (20th),1.57,3in4; + role up,Defense 17 of 30,0.71,0.15,Kevin Huerter,7,Reach,TOR at DET|PTS|Reach|All|3
@@ -2998,25 +2999,25 @@ ALL|REB|Reach|All|32,C,Dillon Brooks,PHX at UTAH,Over 2.5 rebounds,REB,4.2,8 of 
 ALL|REB|Reach|All|33,C,Moritz Wagner,BKN vs ORL,Over 1.5 rebounds,REB,3.0,8 of 10,15 of 20,Mid (14th),1.52,,Defense 9 of 30,0.775,0.34,Moritz Wagner,2,Reach,ORL at BKN|REB|Reach|All|5
 ALL|REB|Reach|All|34,C,T.J. McConnell,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (12th),1.47,questionable; + role up,Defense 22 of 30,0.76,0.15,T.J. McConnell,2,Reach,IND at CLE|REB|Reach|All|5
 ALL|REB|Reach|All|35,C,Isaiah Collier,UTAH vs PHX,Over 1.5 rebounds,REB,3.0,7 of 10,16 of 20,Soft (27th),1.57,3in4,Defense 11 of 30,0.76,0.34,Isaiah Collier,2,Reach,PHX at UTAH|REB|Reach|All|4
-ALL|REB|Reach|All|36,C,Sandro Mamukelashvili,LAL vs SAC,Over 2.5 rebounds,REB,4.0,8 of 10,17 of 20,Mid (14th),1.43,"3in4; big spread, game script risk",Defense 26 of 30,0.745,0.26,Sandro Mamukelashvili,3,Reach,SAC at LAL|REB|Reach|All|3
-ALL|REB|Reach|All|37,C,Saddiq Bey,NO at OKC,Over 3.5 rebounds,REB,4.5,8 of 10,15 of 20,Mid (16th),1.52,"+ role up; big spread, game script risk",Defense 6 of 30,0.735,0.12,Saddiq Bey,4,Reach,NO at OKC|REB|Reach|All|5
-ALL|REB|Reach|All|38,C,Andrew Nembhard,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,15 of 20,Mid (12th),1.52,questionable,Defense 22 of 30,0.735,0.17,Andrew Nembhard,2,Reach,IND at CLE|REB|Reach|All|6
-ALL|REB|Reach|All|39,C,Ace Bailey,UTAH vs PHX,Over 4.5 rebounds,REB,6.2,7 of 10,15 of 20,Soft (27th),1.62,3in4,Defense 11 of 30,0.735,0.19,Ace Bailey,5,Reach,PHX at UTAH|REB|Reach|All|5
-ALL|REB|Reach|All|40,C,Jamal Murray,DEN vs HOU,Over 3.5 rebounds,REB,5.0,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 5 of 30,0.735,0.2,Jamal Murray,4,Reach,HOU at DEN|REB|Reach|All|6
+ALL|REB|Reach|All|36,C,Ronald Holland II,DET vs TOR,Over 1.5 rebounds,REB,2.9,10 of 10,15 of 20,Tough (1st),1.34,tough matchup; 3in4; questionable,Defense 17 of 30,0.755,0.31,Ronald Holland II,2,Reach,TOR at DET|REB|Reach|All|2
+ALL|REB|Reach|All|37,C,Sandro Mamukelashvili,LAL vs SAC,Over 2.5 rebounds,REB,4.0,8 of 10,17 of 20,Mid (14th),1.43,"3in4; big spread, game script risk",Defense 26 of 30,0.745,0.26,Sandro Mamukelashvili,3,Reach,SAC at LAL|REB|Reach|All|3
+ALL|REB|Reach|All|38,C,Saddiq Bey,NO at OKC,Over 3.5 rebounds,REB,4.5,8 of 10,15 of 20,Mid (16th),1.52,"+ role up; big spread, game script risk",Defense 6 of 30,0.735,0.12,Saddiq Bey,4,Reach,NO at OKC|REB|Reach|All|5
+ALL|REB|Reach|All|39,C,Andrew Nembhard,IND at CLE,Over 1.5 rebounds,REB,2.4,8 of 10,15 of 20,Mid (12th),1.52,questionable,Defense 22 of 30,0.735,0.17,Andrew Nembhard,2,Reach,IND at CLE|REB|Reach|All|6
+ALL|REB|Reach|All|40,C,Ace Bailey,UTAH vs PHX,Over 4.5 rebounds,REB,6.2,7 of 10,15 of 20,Soft (27th),1.62,3in4,Defense 11 of 30,0.735,0.19,Ace Bailey,5,Reach,PHX at UTAH|REB|Reach|All|5
+,C,Jamal Murray,DEN vs HOU,Over 3.5 rebounds,REB,5.0,8 of 10,15 of 20,Tough (1st),1.52,tough matchup,Defense 5 of 30,0.735,0.2,Jamal Murray,4,Reach,HOU at DEN|REB|Reach|All|6
 ,C,DeAndre Jordan,NO at OKC,Over 3.5 rebounds,REB,6.0,8 of 10,14 of 17,Tough (3rd),1.45,"tough matchup; big spread, game script risk",Defense 6 of 30,0.732,0.33,DeAndre Jordan,4,Reach,NO at OKC|REB|Reach|All|6
 ,C,Devin Booker,PHX at UTAH,Over 1.5 rebounds,REB,3.1,7 of 10,15 of 20,Mid (14th),1.62,,Defense 15 of 30,0.725,0.35,Devin Booker,2,Reach,PHX at UTAH|REB|Reach|All|6
 ,C,Ziaire Williams,LAL vs SAC,Over 1.5 rebounds,REB,2.4,8 of 10,16 of 20,Mid (14th),1.47,"3in4; big spread, game script risk",Defense 26 of 30,0.72,0.15,Ziaire Williams,2,Reach,SAC at LAL|REB|Reach|All|4
 ,C,Danny Wolf,BKN vs ORL,Over 3.5 rebounds,REB,5.8,7 of 10,15 of 20,Tough (8th),1.62,tough matchup,Defense 9 of 30,0.685,0.3,Danny Wolf,4,Reach,ORL at BKN|REB|Reach|All|6
 ,C,Trae Young,WSH at CHI,Over 1.5 rebounds,REB,2.9,7 of 10,15 of 20,Mid (21st),1.62,role down,Defense 28 of 30,0.685,0.31,Trae Young,2,Reach,WSH at CHI|REB|Reach|All|5
 ,C,De'Andre Hunter,SAC at LAL,Over 2.5 rebounds,REB,3.9,8 of 10,15 of 20,Tough (5th),1.52,"tough matchup; questionable; + role up; big spread, game script risk",Defense 18 of 30,0.655,0.22,De'Andre Hunter,3,Reach,SAC at LAL|REB|Reach|All|5
-,C,Ja'Kobe Walter,TOR at DET,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Tough (3rd),1.62,tough matchup; 3in4; + role up,Defense 8 of 30,0.645,0.24,Ja'Kobe Walter,3,Reach,TOR at DET|REB|Reach|All|2
+,C,Ja'Kobe Walter,TOR at DET,Over 2.5 rebounds,REB,4.0,7 of 10,15 of 20,Tough (3rd),1.62,tough matchup; 3in4; + role up,Defense 8 of 30,0.645,0.24,Ja'Kobe Walter,3,Reach,TOR at DET|REB|Reach|All|3
 ,D,Aaron Wiggins,ATL vs CHA,Over 2.5 rebounds,REB,2.8,9 of 10,13 of 20,Mid (16th),1.52,,Defense 10 of 30,0.775,-0.07,Aaron Wiggins,3,Reach,CHA at ATL|REB|Reach|All|6
 ,D,Alex Sarr,WSH at CHI,Over 4.5 rebounds,REB,6.5,8 of 10,13 of 20,Soft (23rd),1.62,,Defense 28 of 30,0.775,0.23,Alex Sarr,5,Reach,WSH at CHI|REB|Reach|All|6
-,D,Cade Cunningham,DET vs TOR,Over 3.5 rebounds,REB,5.0,9 of 10,14 of 20,Soft (28th),1.47,3in4; questionable; + role up,Defense 17 of 30,0.77,0.2,Cade Cunningham,4,Reach,TOR at DET|REB|Reach|All|3
-,D,Ausar Thompson,DET vs TOR,Over 6.5 rebounds,REB,8.0,8 of 10,14 of 20,Soft (28th),1.57,3in4,Defense 17 of 30,0.76,0.12,Ausar Thompson,7,Reach,TOR at DET|REB|Reach|All|4
+,D,Cade Cunningham,DET vs TOR,Over 3.5 rebounds,REB,5.0,9 of 10,14 of 20,Soft (28th),1.47,3in4; questionable; + role up,Defense 17 of 30,0.77,0.2,Cade Cunningham,4,Reach,TOR at DET|REB|Reach|All|4
+,D,Ausar Thompson,DET vs TOR,Over 6.5 rebounds,REB,8.0,8 of 10,14 of 20,Soft (28th),1.57,3in4,Defense 17 of 30,0.76,0.12,Ausar Thompson,7,Reach,TOR at DET|REB|Reach|All|5
 ,D,Zach LaVine,SAC at LAL,Over 2.5 rebounds,REB,3.0,9 of 10,13 of 20,Mid (15th),1.52,"big spread, game script risk",Defense 18 of 30,0.735,-0.02,Zach LaVine,3,Reach,SAC at LAL|REB|Reach|All|6
-,D,Elijah Harkless,DET vs TOR,Over 1.5 rebounds,REB,2.2,7 of 10,13 of 20,Soft (28th),1.74,3in4,Defense 17 of 30,0.685,0.11,Elijah Harkless,2,Reach,TOR at DET|REB|Reach|All|5
-,D,Javonte Green,DET vs TOR,Over 1.5 rebounds,REB,2.4,7 of 10,13 of 20,Soft (28th),1.74,3in4; + role up,Defense 17 of 30,0.685,0.15,Javonte Green,2,Reach,TOR at DET|REB|Reach|All|6
+,D,Elijah Harkless,DET vs TOR,Over 1.5 rebounds,REB,2.2,7 of 10,13 of 20,Soft (28th),1.74,3in4,Defense 17 of 30,0.685,0.11,Elijah Harkless,2,Reach,TOR at DET|REB|Reach|All|6
 ALL|STL|Reach|All|1,C,Cameron Johnson,DEN vs HOU,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Soft (27th),1.34,,Defense 5 of 30,0.925,0.13,Cameron Johnson,1,Reach,HOU at DEN|STL|Reach|All|1
 ALL|STL|Reach|All|2,C,Anthony Davis,WSH at CHI,Over 0.5 steals,STL,1.1,9 of 10,17 of 20,Mid (17th),1.34,,Defense 28 of 30,0.875,0.13,Anthony Davis,1,Reach,WSH at CHI|STL|Reach|All|1
 ALL|STL|Reach|All|3,C,Franz Wagner,ORL at BKN,Over 0.5 steals,STL,1.5,8 of 10,16 of 20,Soft (29th),1.47,,Defense 23 of 30,0.85,0.33,Franz Wagner,1,Reach,ORL at BKN|STL|Reach|All|1

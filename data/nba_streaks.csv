@@ -120,7 +120,7 @@ De'Aaron Fox,G,SA,NO,,REB,2+,15,0.95,4.1
 Jaylen Brown,G,PHI,MIL,Out,REB,2+,15,0.95,6.8
 Jeremiah Fears,G,NO,SA,,PTS,10+,15,0.9,17.1
 Jeremiah Fears,G,NO,SA,,RA,5+,15,0.9,11.5
-Karl-Anthony Towns,C,NY,POR,,DBL_DBL,1+,15,0.9,1.0
+Karl-Anthony Towns,C,NY,POR,Questionable,DBL_DBL,1+,15,0.9,1.0
 Kris Dunn,G,LAC,DAL,,REB,2+,15,0.9,3.7
 Rudy Gobert,C,MIN,MEM,,REB,4+,15,0.95,10.9
 Rudy Gobert,C,MIN,MEM,,RA,5+,15,0.95,12.5
@@ -149,7 +149,7 @@ Jayson Tatum,F,BOS,SAC,Questionable,PRA,30+,13,0.95,40.7
 Jayson Tatum,F,BOS,SAC,Questionable,PR,25+,13,0.95,34.2
 Jayson Tatum,F,BOS,SAC,Questionable,PA,25+,13,0.9,33.8
 Jeremiah Fears,G,NO,SA,,PRA,20+,13,0.8,30.2
-Karl-Anthony Towns,C,NY,POR,,REB,11+,13,0.8,14.4
+Karl-Anthony Towns,C,NY,POR,Questionable,REB,11+,13,0.8,14.4
 Paul George,F,BOS,SAC,,REB,3+,13,0.95,5.5
 Paul George,F,BOS,SAC,,PR,10+,13,0.95,25.4
 Victor Wembanyama,F,SA,NO,,RA,10+,13,0.95,15.7
@@ -158,7 +158,7 @@ Zion Williamson,F,NO,SA,,RA,5+,13,0.9,8.9
 Ayo Dosunmu,G,MIN,MEM,,PA,10+,12,0.95,23.1
 Brayden Burries,G,MIL,PHI,,REB,3+,12,0.88,5.9
 Jaime Jaquez Jr.,F,MIL,PHI,,AST,2+,12,0.95,3.1
-Karl-Anthony Towns,C,NY,POR,,THREES,1+,12,0.8,2.1
+Karl-Anthony Towns,C,NY,POR,Questionable,THREES,1+,12,0.8,2.1
 Kyrie Irving,G,DAL,LAC,,PTS,10+,12,1.0,22.2
 Kyrie Irving,G,DAL,LAC,,PRA,15+,12,1.0,30.3
 Kyrie Irving,G,DAL,LAC,,PR,10+,12,1.0,25.9
@@ -208,7 +208,7 @@ Jaylen Wells,F,MEM,MIN,,PTS,5+,8,0.85,11.8
 Jaylen Wells,F,MEM,MIN,,THREES,1+,8,0.8,2.5
 Julian Champagnie,F,SA,NO,,THREES,1+,8,0.95,2.8
 Julian Champagnie,F,SA,NO,,PRA,10+,8,0.9,17.2
-Karl-Anthony Towns,C,NY,POR,,PTS,15+,8,0.8,22.1
+Karl-Anthony Towns,C,NY,POR,Questionable,PTS,15+,8,0.8,22.1
 Kyle Kuzma,F,MIL,PHI,,PTS,5+,8,0.85,14.2
 Kyle Kuzma,F,MIL,PHI,,THREES,1+,8,0.75,2.0
 Kyle Kuzma,F,MIL,PHI,,PRA,10+,8,0.95,20.5
@@ -242,11 +242,11 @@ Jayson Tatum,F,BOS,SAC,Questionable,PTS,20+,7,0.8,25.7
 Jayson Tatum,F,BOS,SAC,Questionable,THREES,2+,7,0.8,3.7
 Jordan Poole,G,NO,SA,,PTS,5+,7,0.75,12.4
 Jordan Poole,G,NO,SA,,THREES,1+,7,0.8,1.6
-Karl-Anthony Towns,C,NY,POR,,AST,3+,7,0.75,4.9
-Karl-Anthony Towns,C,NY,POR,,PRA,35+,7,0.65,42.0
-Karl-Anthony Towns,C,NY,POR,,PR,30+,7,0.75,37.1
-Karl-Anthony Towns,C,NY,POR,,PA,20+,7,0.75,27.7
-Karl-Anthony Towns,C,NY,POR,,RA,15+,7,0.7,19.1
+Karl-Anthony Towns,C,NY,POR,Questionable,AST,3+,7,0.75,4.9
+Karl-Anthony Towns,C,NY,POR,Questionable,PRA,35+,7,0.65,42.0
+Karl-Anthony Towns,C,NY,POR,Questionable,PR,30+,7,0.75,37.1
+Karl-Anthony Towns,C,NY,POR,Questionable,PA,20+,7,0.75,27.7
+Karl-Anthony Towns,C,NY,POR,Questionable,RA,15+,7,0.7,19.1
 Keaton Wagler,G,LAC,DAL,,THREES,1+,7,0.86,1.9
 Keegan Murray,F,SAC,BOS,,PTS,5+,7,0.85,11.4
 Naji Marshall,F,DAL,LAC,,STL,1+,7,0.9,1.3

@@ -53,7 +53,7 @@ Josh Hart,G,NY,POR,,RA,5+,31,1.0,11.7
 OG Anunoby,F,NY,POR,Questionable,THREES,1+,31,1.0,2.3
 OG Anunoby,F,NY,POR,Questionable,PR,10+,31,1.0,24.1
 OG Anunoby,F,NY,POR,Questionable,PA,10+,31,1.0,20.0
-Trey Murphy III,F,NO,SA,,THREES,1+,30,1.0,3.3
+Trey Murphy III,F,NO,SA,Out,THREES,1+,30,1.0,3.3
 Victor Wembanyama,F,SA,NO,,PTS,10+,30,1.0,27.5
 Victor Wembanyama,F,SA,NO,,PR,20+,30,1.0,39.0
 Victor Wembanyama,F,SA,NO,,PA,15+,30,1.0,30.7
@@ -62,17 +62,17 @@ Jayson Tatum,F,BOS,SAC,Questionable,AST,3+,28,1.0,7.0
 P.J. Washington,F,DAL,LAC,Questionable,REB,3+,28,1.0,7.0
 Paul George,F,BOS,SAC,,THREES,1+,27,1.0,3.1
 Rui Hachimura,F,LAC,DAL,,REB,2+,27,1.0,5.1
-Tyrese Maxey,G,PHI,MIL,Questionable,RA,5+,27,1.0,9.4
+Tyrese Maxey,G,PHI,MIL,,RA,5+,27,1.0,9.4
 Jalen Brunson,G,NY,POR,,RA,5+,26,1.0,9.3
 LeBron James,F,PHI,MIL,,AST,3+,26,1.0,7.7
-Ty Jerome,G,MEM,MIN,Out,THREES,1+,26,1.0,2.7
+Ty Jerome,G,MEM,MIN,,THREES,1+,26,1.0,2.7
 Dylan Harper,G,SA,NO,Out,PR,10+,24,1.0,22.7
 Dejounte Murray,G,NO,SA,Out,PTS,5+,23,1.0,15.4
 Dejounte Murray,G,NO,SA,Out,REB,2+,23,1.0,5.0
 Dejounte Murray,G,NO,SA,Out,PRA,10+,23,1.0,26.1
 Dylan Harper,G,SA,NO,Out,PRA,15+,22,1.0,27.8
 Dylan Harper,G,SA,NO,Out,PA,10+,22,1.0,22.0
-Ty Jerome,G,MEM,MIN,Out,AST,2+,22,1.0,5.5
+Ty Jerome,G,MEM,MIN,,AST,2+,22,1.0,5.5
 VJ Edgecombe,G,PHI,MIL,,PA,10+,22,1.0,17.4
 Jayson Tatum,F,BOS,SAC,Questionable,RA,10+,21,1.0,15.0
 Ayo Dosunmu,G,MIN,MEM,,PTS,5+,20,1.0,16.6
@@ -91,8 +91,8 @@ Isaiah Jackson,F,LAC,DAL,,REB,2+,19,0.95,5.2
 Naji Marshall,F,DAL,LAC,,PTS,5+,19,0.95,13.3
 Jaden McDaniels,F,MIN,MEM,,PA,15+,18,0.95,20.3
 LeBron James,F,PHI,MIL,,PR,15+,18,0.95,25.0
-Tyrese Maxey,G,PHI,MIL,Questionable,AST,4+,18,0.95,5.8
-Tyrese Maxey,G,PHI,MIL,Questionable,THREES,1+,18,0.95,2.4
+Tyrese Maxey,G,PHI,MIL,,AST,4+,18,0.95,5.8
+Tyrese Maxey,G,PHI,MIL,,THREES,1+,18,0.95,2.4
 VJ Edgecombe,G,PHI,MIL,,RA,5+,18,0.95,10.4
 Zach Edey,C,MEM,MIN,,REB,2+,18,0.95,9.6
 Zion Williamson,F,NO,SA,,PRA,20+,18,0.95,29.3
@@ -138,7 +138,7 @@ Karlo Matkovic,F,NO,SA,,REB,2+,14,0.95,3.9
 Keaton Wagler,G,LAC,DAL,,PTS,5+,14,1.0,12.1
 Keaton Wagler,G,LAC,DAL,,PRA,10+,14,1.0,18.6
 Keaton Wagler,G,LAC,DAL,,PR,10+,14,1.0,15.6
-Ty Jerome,G,MEM,MIN,Out,RA,5+,14,0.95,8.9
+Ty Jerome,G,MEM,MIN,,RA,5+,14,0.95,8.9
 VJ Edgecombe,G,PHI,MIL,,PRA,15+,14,0.95,24.7
 Zach LaVine,G,SAC,BOS,,PTS,10+,14,0.95,21.0
 Cooper Flagg,F,DAL,LAC,,AST,3+,13,0.85,6.8
@@ -254,7 +254,7 @@ Nate Ament,F,MIL,PHI,,REB,2+,7,0.79,4.1
 Payton Pritchard,G,BOS,SAC,,THREES,2+,7,0.65,3.3
 Ryan Rollins,G,MIL,PHI,,STL,1+,7,0.8,1.6
 Scoot Henderson,G,POR,NY,,PTS,5+,7,0.8,12.3
-Ty Jerome,G,MEM,MIN,Out,REB,2+,7,0.8,3.3
+Ty Jerome,G,MEM,MIN,,REB,2+,7,0.8,3.3
 Zaccharie Risacher,F,DAL,LAC,,REB,2+,7,0.95,4.0
 Zion Williamson,F,NO,SA,,PTS,15+,7,0.9,23.1
 Bones Hyland,G,MIN,MEM,,PTS,5+,6,0.55,12.3
@@ -297,16 +297,16 @@ Saddiq Bey,G,NO,SA,,PA,15+,6,0.8,22.2
 Sidy Cissoko,G,POR,NY,,THREES,1+,6,0.6,2.0
 Terrence Shannon Jr.,G,MIN,MEM,,PTS,5+,6,0.9,13.5
 Terrence Shannon Jr.,G,MIN,MEM,,PRA,10+,6,0.85,20.0
-Trey Murphy III,F,NO,SA,,PTS,10+,6,0.9,17.5
-Trey Murphy III,F,NO,SA,,REB,4+,6,0.95,5.0
-Trey Murphy III,F,NO,SA,,PRA,15+,6,0.95,26.2
-Trey Murphy III,F,NO,SA,,PR,10+,6,0.95,22.5
-Trey Murphy III,F,NO,SA,,PA,15+,6,0.8,21.2
-Trey Murphy III,F,NO,SA,,RA,5+,6,0.95,8.7
-Ty Jerome,G,MEM,MIN,Out,PTS,15+,6,0.9,25.0
-Ty Jerome,G,MEM,MIN,Out,PRA,25+,6,0.75,33.3
-Ty Jerome,G,MEM,MIN,Out,PR,15+,6,0.95,28.5
-Ty Jerome,G,MEM,MIN,Out,PA,25+,6,0.65,29.8
+Trey Murphy III,F,NO,SA,Out,PTS,10+,6,0.9,17.5
+Trey Murphy III,F,NO,SA,Out,REB,4+,6,0.95,5.0
+Trey Murphy III,F,NO,SA,Out,PRA,15+,6,0.95,26.2
+Trey Murphy III,F,NO,SA,Out,PR,10+,6,0.95,22.5
+Trey Murphy III,F,NO,SA,Out,PA,15+,6,0.8,21.2
+Trey Murphy III,F,NO,SA,Out,RA,5+,6,0.95,8.7
+Ty Jerome,G,MEM,MIN,,PTS,15+,6,0.9,25.0
+Ty Jerome,G,MEM,MIN,,PRA,25+,6,0.75,33.3
+Ty Jerome,G,MEM,MIN,,PR,15+,6,0.95,28.5
+Ty Jerome,G,MEM,MIN,,PA,25+,6,0.65,29.8
 VJ Edgecombe,G,PHI,MIL,,REB,4+,6,0.85,6.5
 Victor Wembanyama,F,SA,NO,,REB,9+,6,0.8,11.8
 Zach LaVine,G,SAC,BOS,,AST,2+,6,0.65,3.2
@@ -373,10 +373,10 @@ Sam Hauser,F,BOS,SAC,,THREES,2+,5,0.8,3.0
 Stephon Castle,G,SA,NO,,PTS,10+,5,0.85,18.8
 Terrence Shannon Jr.,G,MIN,MEM,,PA,10+,5,0.8,18.6
 Toumani Camara,F,POR,NY,,STL,1+,5,0.65,1.4
-Tyrese Maxey,G,PHI,MIL,Questionable,PTS,20+,5,0.75,25.8
-Tyrese Maxey,G,PHI,MIL,Questionable,PRA,25+,5,0.85,35.0
-Tyrese Maxey,G,PHI,MIL,Questionable,PR,25+,5,0.75,28.2
-Tyrese Maxey,G,PHI,MIL,Questionable,PA,25+,5,0.8,32.6
+Tyrese Maxey,G,PHI,MIL,,PTS,20+,5,0.75,25.8
+Tyrese Maxey,G,PHI,MIL,,PRA,25+,5,0.85,35.0
+Tyrese Maxey,G,PHI,MIL,,PR,25+,5,0.75,28.2
+Tyrese Maxey,G,PHI,MIL,,PA,25+,5,0.8,32.6
 VJ Edgecombe,G,PHI,MIL,,AST,4+,5,0.5,5.8
 Victor Wembanyama,F,SA,NO,,STL,1+,5,0.75,1.2
 Zion Williamson,F,NO,SA,,REB,5+,5,0.65,6.0

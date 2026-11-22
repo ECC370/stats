@@ -135,16 +135,24 @@ SF,LB,Luke Gifford,Questionable,Chest,Limited Participation in Practice
 SF,QB,Mac Jones,Questionable,Illness,Limited Participation in Practice
 SF,RB,Jordan James,Questionable,Calf,Limited Participation in Practice
 SF,WR,Mike Evans,Questionable,Achilles,Limited Participation in Practice
-CIN,CB,Daxton Hill,DNP,,Did Not Participate In Practice
+CIN,G,Dalton Risner,Out,Knee,Did Not Participate In Practice
+CIN,LB,Oren Burks,Out,Groin,Did Not Participate In Practice
+CIN,CB,Jalen Davis,Doubtful,Hamstring,Full Participation in Practice
+CIN,WR,Andrei Iosivas,Doubtful,Thumb,Full Participation in Practice
+CIN,CB,Daxton Hill,Questionable,Illness,Did Not Participate In Practice
+CIN,G,Brian Parker II,Questionable,Knee,Full Participation in Practice
+CIN,G,Dylan Fairchild,Questionable,Oblique,Full Participation in Practice
+CIN,LB,Swayze Bozeman,Questionable,Forearm,Full Participation in Practice
+CIN,S,Kyle Dugger,Questionable,Quadricep,Full Participation in Practice
 CIN,DT,B.J. Hill,DNP,,Did Not Participate In Practice
-CIN,DT,Jonathan Allen,DNP,,Did Not Participate In Practice
-CIN,G,Dalton Risner,DNP,,Did Not Participate In Practice
-CIN,LB,Oren Burks,DNP,,Did Not Participate In Practice
-CIN,G,Dylan Fairchild,Limited,,Limited Participation in Practice
+CIN,DT,Dexter Lawrence,DNP,,Did Not Participate In Practice
+CIN,DT,Jonathan Allen,Limited,,Limited Participation in Practice
+WAS,C,Lucas Patrick,Questionable,Concussion,Full Participation in Practice
+WAS,CB,Amik Robertson,Questionable,Ankle,Did Not Participate In Practice
+WAS,RB,Jacory Croskey-Merritt,Questionable,Groin,Full Participation in Practice
+WAS,RB,Rachaad White,Questionable,Heel,Did Not Participate In Practice
 WAS,WR,Stefon Diggs,DNP,,Did Not Participate In Practice
-WAS,WR,Treylon Burks,DNP,,Did Not Participate In Practice
-WAS,RB,Rachaad White,Limited,,Limited Participation in Practice
-WAS,S,Quan Martin,Limited,,Limited Participation in Practice
+WAS,DE,Deatrich Wise,Limited,,Limited Participation in Practice
 HOU,DE,Danielle Hunter,Out,Hamstring,Did Not Participate In Practice
 HOU,RB,Woody Marks,Out,Concussion,Did Not Participate In Practice
 HOU,TE,Brevin Jordan,Out,Foot,Did Not Participate In Practice

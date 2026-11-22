@@ -16,7 +16,7 @@ Chris Olave,WR,NO,CHI,,TGT,4+,25,1.0,9.7
 DK Metcalf,WR,PIT,PHI,,REC,1+,25,1.0,3.8
 Elic Ayomanor,WR,TEN,DAL,,REC,1+,25,1.0,2.4
 Khalil Shakir,WR,BUF,MIA,,TGT,3+,25,1.0,6.0
-Rachaad White,RB,WAS,CIN,Limited,REC,1+,25,1.0,2.4
+Rachaad White,RB,WAS,CIN,Questionable,REC,1+,25,1.0,2.4
 Wan'Dale Robinson,WR,TEN,DAL,,REC_YDS,5+,25,1.0,51.4
 Saquon Barkley,RB,PHI,PIT,,RUSH_YDS,5+,24,1.0,64.2
 Saquon Barkley,RB,PHI,PIT,,RR_YDS,10+,24,1.0,78.4
@@ -165,8 +165,8 @@ Michael Carter,RB,TEN,DAL,,RR_YDS,10+,9,0.86,48.4
 Omarion Hampton,RB,LAC,NYJ,,RUSH_YDS,15+,9,0.95,52.7
 Omarion Hampton,RB,LAC,NYJ,,RR_YDS,25+,9,0.95,59.7
 Pat Freiermuth,TE,PIT,PHI,,REC,2+,9,0.9,3.0
-Rachaad White,RB,WAS,CIN,Limited,RUSH_YDS,15+,9,0.9,33.1
-Rachaad White,RB,WAS,CIN,Limited,RR_YDS,20+,9,0.95,50.0
+Rachaad White,RB,WAS,CIN,Questionable,RUSH_YDS,15+,9,0.9,33.1
+Rachaad White,RB,WAS,CIN,Questionable,RR_YDS,20+,9,0.95,50.0
 Stefon Diggs,WR,WAS,CIN,DNP,REC_YDS,30+,9,0.75,47.0
 Stefon Diggs,WR,WAS,CIN,DNP,RR_YDS,30+,9,0.75,47.0
 Breece Hall,RB,NYJ,LAC,,REC,2+,8,0.85,2.9
@@ -294,7 +294,7 @@ Tetairoa McMillan,WR,CAR,BAL,,TGT,6+,6,0.8,9.2
 Tetairoa McMillan,WR,CAR,BAL,,RR_YDS,30+,6,0.85,77.8
 Tre Harris,WR,LAC,NYJ,,REC,2+,6,0.8,3.7
 Trevor Lawrence,QB,JAX,NYG,,PASS_YDS,200+,6,0.8,278.0
-Treylon Burks,WR,WAS,CIN,DNP,REC,1+,6,0.8,2.3
+Treylon Burks,WR,WAS,CIN,,REC,1+,6,0.8,2.3
 Xavier Worthy,WR,KC,ARI,,TGT,3+,6,0.95,5.8
 Antonio Williams,WR,WAS,CIN,,REC_YDS,25+,5,0.67,40.4
 Antonio Williams,WR,WAS,CIN,,RR_YDS,25+,5,0.67,40.4
@@ -366,7 +366,7 @@ Sione Vaki,RB,DET,TB,Questionable,RUSH_YDS,5+,5,0.47,24.6
 Travis Etienne,RB,NO,CHI,,REC,2+,5,0.65,3.8
 Travis Kelce,TE,KC,ARI,,REC_YDS,30+,5,0.8,53.2
 Travis Kelce,TE,KC,ARI,,RR_YDS,30+,5,0.8,53.4
-Treylon Burks,WR,WAS,CIN,DNP,REC_YDS,25+,5,0.47,49.4
-Treylon Burks,WR,WAS,CIN,DNP,TGT,3+,5,0.6,4.4
-Treylon Burks,WR,WAS,CIN,DNP,RR_YDS,25+,5,0.47,49.4
+Treylon Burks,WR,WAS,CIN,,REC_YDS,25+,5,0.47,49.4
+Treylon Burks,WR,WAS,CIN,,TGT,3+,5,0.6,4.4
+Treylon Burks,WR,WAS,CIN,,RR_YDS,25+,5,0.47,49.4
 Tyler Allgeier,RB,ARI,KC,,RUSH_YDS,10+,5,0.85,52.8

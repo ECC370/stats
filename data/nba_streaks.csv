@@ -238,7 +238,7 @@ Caleb Wilson,F,CHI,CLE,Out,THREES,1+,10,1.0,2.3
 Caleb Wilson,F,CHI,CLE,Out,PRA,10+,10,1.0,27.0
 Caleb Wilson,F,CHI,CLE,Out,PR,10+,10,1.0,25.1
 Caleb Wilson,F,CHI,CLE,Out,STL,1+,10,1.0,1.8
-Collin Gillespie,G,PHX,NO,,REB,2+,10,0.85,2.8
+Collin Gillespie,G,PHX,NO,Questionable,REB,2+,10,0.85,2.8
 Darius Acuff Jr.,G,SAC,SA,,AST,6+,10,0.75,8.0
 Dennis Schroder,G,CHA,MEM,Out,REB,2+,10,0.7,3.6
 Jakob Poeltl,C,TOR,MIL,,REB,5+,10,0.8,7.8
@@ -284,8 +284,8 @@ Brook Lopez,C,LAC,HOU,,RA,5+,9,0.85,8.2
 Buddy Hield,G,CHI,CLE,,PTS,5+,9,0.7,12.3
 Caleb Wilson,F,CHI,CLE,Out,REB,5+,9,0.9,6.4
 Caleb Wilson,F,CHI,CLE,Out,RA,5+,9,0.9,8.6
-Collin Gillespie,G,PHX,NO,,PTS,5+,9,0.8,11.7
-Collin Gillespie,G,PHX,NO,,PRA,10+,9,0.8,17.9
+Collin Gillespie,G,PHX,NO,Questionable,PTS,5+,9,0.8,11.7
+Collin Gillespie,G,PHX,NO,Questionable,PRA,10+,9,0.8,17.9
 Devin Booker,G,PHX,NO,,AST,3+,9,0.85,5.7
 Devin Booker,G,PHX,NO,,RA,5+,9,0.95,8.0
 Ivica Zubac,C,IND,OKC,,REB,3+,9,0.95,8.4
@@ -377,7 +377,7 @@ Cameron Boozer,F,MEM,CHA,Out,PRA,25+,7,0.75,31.4
 Cameron Boozer,F,MEM,CHA,Out,PA,15+,7,0.81,23.3
 Cedric Coward,F,MEM,CHA,,PRA,25+,7,0.6,30.7
 Cedric Coward,F,MEM,CHA,,PR,20+,7,0.6,26.3
-Collin Gillespie,G,PHX,NO,,THREES,2+,7,0.65,3.0
+Collin Gillespie,G,PHX,NO,Questionable,THREES,2+,7,0.65,3.0
 Collin Sexton,G,LAL,UTAH,,PTS,10+,7,0.75,13.3
 Collin Sexton,G,LAL,UTAH,,PRA,10+,7,0.85,17.9
 Collin Sexton,G,LAL,UTAH,,PR,10+,7,0.8,14.7

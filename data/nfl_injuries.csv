@@ -1,17 +1,4 @@
 Team,Pos,Player,Status,Injury,Practice
-GB,C,Sean Rhyan,Questionable,Ankle,Limited Participation in Practice
-GB,G,Kevin Zeitler,Questionable,Triceps,Limited Participation in Practice
-GB,G,Travis Glover,Questionable,Shoulder,Limited Participation in Practice
-GB,LB,Micah Parsons,Questionable,Knee,Limited Participation in Practice
-GB,LB,Zaire Franklin,Questionable,Shin,Limited Participation in Practice
-GB,RB,Josh Jacobs,Questionable,Finger,Limited Participation in Practice
-GB,WR,Bo Melton,Questionable,Thigh,Limited Participation in Practice
-GB,WR,Skyy Moore,Questionable,Ankle,Limited Participation in Practice
-LA,C,Coleman Shelton,Out,Hamstring,Did Not Participate In Practice
-LA,G,Steve Avila,Out,Hamstring,Did Not Participate In Practice
-LA,TE,Terrance Ferguson,Out,Ankle,Did Not Participate In Practice
-LA,LB,Myles Garrett,Limited,,Limited Participation in Practice
-LA,S,Kam Curl,Limited,,Limited Participation in Practice
 CHI,CB,Kyler Gordon,DNP,,Did Not Participate In Practice
 CHI,RB,Roschon Johnson,DNP,,Did Not Participate In Practice
 CHI,S,Elijah Hicks,DNP,,Did Not Participate In Practice
@@ -45,3 +32,16 @@ DEN,S,Taylor Rapp,Limited,,Limited Participation in Practice
 PIT,LB,Alex Highsmith,DNP,,Did Not Participate In Practice
 PIT,WR,Ben Skowronek,DNP,,Did Not Participate In Practice
 PIT,LB,Nick Herbig,Limited,,Limited Participation in Practice
+GB,C,Sean Rhyan,Questionable,Ankle,Limited Participation in Practice
+GB,G,Kevin Zeitler,Questionable,Triceps,Limited Participation in Practice
+GB,G,Travis Glover,Questionable,Shoulder,Limited Participation in Practice
+GB,LB,Micah Parsons,Questionable,Knee,Limited Participation in Practice
+GB,LB,Zaire Franklin,Questionable,Shin,Limited Participation in Practice
+GB,RB,Josh Jacobs,Questionable,Finger,Limited Participation in Practice
+GB,WR,Bo Melton,Questionable,Thigh,Limited Participation in Practice
+GB,WR,Skyy Moore,Questionable,Ankle,Limited Participation in Practice
+LA,C,Coleman Shelton,Out,Hamstring,Did Not Participate In Practice
+LA,G,Steve Avila,Out,Hamstring,Did Not Participate In Practice
+LA,TE,Terrance Ferguson,Out,Ankle,Did Not Participate In Practice
+LA,LB,Myles Garrett,Limited,,Limited Participation in Practice
+LA,S,Kam Curl,Limited,,Limited Participation in Practice

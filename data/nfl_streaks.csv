@@ -1,15 +1,15 @@
 Player,Pos,Team,Opp,Status,Stat,Line,Streak,L20 hit,Avg in streak
-Christian McCaffrey,RB,SF,SEA,DNP,REC_YDS,10+,29,1.0,50.8
+Christian McCaffrey,RB,SF,SEA,,REC_YDS,10+,29,1.0,50.8
 Cooper Kupp,WR,SEA,SF,,REC,1+,29,1.0,2.9
 Cooper Kupp,WR,SEA,SF,,REC_YDS,5+,29,1.0,35.2
 Ashton Jeanty,RB,LV,CLE,,RUSH_YDS,5+,28,1.0,51.2
 Ashton Jeanty,RB,LV,CLE,,RR_YDS,20+,28,1.0,81.7
-Derrick Henry,RB,BAL,HOU,Limited,RUSH_YDS,10+,28,1.0,85.3
-Derrick Henry,RB,BAL,HOU,Limited,RR_YDS,20+,28,1.0,94.3
+Derrick Henry,RB,BAL,HOU,,RUSH_YDS,10+,28,1.0,85.3
+Derrick Henry,RB,BAL,HOU,,RR_YDS,20+,28,1.0,94.3
 Jonathan Taylor,RB,IND,NYG,,RUSH_YDS,20+,28,1.0,83.8
 Jonathan Taylor,RB,IND,NYG,,RUSH_ATT,8+,28,1.0,18.2
 Jonathan Taylor,RB,IND,NYG,,RR_YDS,25+,28,1.0,106.0
-Keenan Allen,WR,SF,SEA,Limited,TGT,3+,28,1.0,7.1
+Keenan Allen,WR,SF,SEA,,TGT,3+,28,1.0,7.1
 Trey McBride,TE,ARI,WAS,,TGT,5+,28,1.0,10.1
 Bijan Robinson,RB,ATL,MIN,,RUSH_ATT,8+,27,1.0,17.5
 Jaylen Warren,RB,PIT,DEN,,RR_YDS,25+,27,1.0,89.1
@@ -17,21 +17,21 @@ Chris Olave,WR,NO,CIN,,REC,3+,26,1.0,6.5
 Chris Olave,WR,NO,CIN,,TGT,4+,26,1.0,9.9
 DK Metcalf,WR,PIT,DEN,,REC,1+,26,1.0,3.7
 Elic Ayomanor,WR,TEN,JAX,,REC,1+,26,1.0,2.4
-Harold Fannin Jr.,TE,CLE,LV,Limited,REC,1+,26,1.0,4.5
+Harold Fannin Jr.,TE,CLE,LV,,REC,1+,26,1.0,4.5
 Tyler Warren,TE,IND,NYG,,REC,1+,26,1.0,4.5
 Tyler Warren,TE,IND,NYG,,TGT,3+,26,1.0,6.7
 Wan'Dale Robinson,WR,TEN,JAX,,REC_YDS,5+,25,1.0,51.4
 Chase Brown,RB,CIN,NO,,RUSH_YDS,5+,24,1.0,57.2
 Chase Brown,RB,CIN,NO,,RR_YDS,30+,24,1.0,85.1
-Derrick Henry,RB,BAL,HOU,Limited,RUSH_ATT,10+,24,1.0,19.0
+Derrick Henry,RB,BAL,HOU,,RUSH_ATT,10+,24,1.0,19.0
 Nico Collins,WR,HOU,BAL,,REC,2+,24,1.0,4.8
 Nico Collins,WR,HOU,BAL,,REC_YDS,5+,24,1.0,69.8
 T.J. Hockenson,TE,MIN,ATL,,REC,1+,24,1.0,3.8
-Zay Flowers,WR,BAL,HOU,Limited,TGT,5+,24,1.0,7.4
-David Montgomery,RB,HOU,BAL,,RUSH_YDS,10+,23,1.0,41.8
-David Montgomery,RB,HOU,BAL,,RR_YDS,10+,23,1.0,53.8
+Zay Flowers,WR,BAL,HOU,,TGT,5+,24,1.0,7.4
+David Montgomery,RB,HOU,BAL,Limited,RUSH_YDS,10+,23,1.0,41.8
+David Montgomery,RB,HOU,BAL,Limited,RR_YDS,10+,23,1.0,53.8
 Jacory Croskey-Merritt,RB,WAS,ARI,,RUSH_YDS,15+,23,1.0,47.7
-Parker Washington,WR,JAX,TEN,,REC,1+,23,1.0,4.3
+Parker Washington,WR,JAX,TEN,Limited,REC,1+,23,1.0,4.3
 Travis Etienne,RB,NO,CIN,,RUSH_YDS,10+,23,1.0,60.5
 Travis Etienne,RB,NO,CIN,,RUSH_ATT,8+,23,1.0,14.0
 Travis Etienne,RB,NO,CIN,,RR_YDS,30+,23,1.0,78.4
@@ -61,10 +61,10 @@ Aaron Rodgers,QB,PIT,DEN,DNP,PASS_YDS,125+,16,0.9,226.4
 Aaron Rodgers,QB,PIT,DEN,DNP,ATT,25+,16,0.9,36.4
 Deebo Samuel Sr.,WR,SF,SEA,,REC_YDS,20+,16,0.9,41.1
 Joe Burrow,QB,CIN,NO,,ATT,28+,16,0.89,37.7
-Tony Pollard,RB,TEN,JAX,,RUSH_YDS,30+,16,0.9,81.1
+Tony Pollard,RB,TEN,JAX,DNP,RUSH_YDS,30+,16,0.9,81.1
 Adonai Mitchell,WR,NYJ,MIA,,TGT,3+,15,0.8,6.9
-Christian McCaffrey,RB,SF,SEA,DNP,REC,2+,15,0.95,4.6
-Christian McCaffrey,RB,SF,SEA,DNP,TGT,3+,15,0.95,5.8
+Christian McCaffrey,RB,SF,SEA,,REC,2+,15,0.95,4.6
+Christian McCaffrey,RB,SF,SEA,,TGT,3+,15,0.95,5.8
 Jayden Daniels,QB,WAS,ARI,,RUSH_YDS,10+,15,1.0,40.9
 Jayden Daniels,QB,WAS,ARI,,RR_YDS,10+,15,1.0,40.9
 Jaylen Warren,RB,PIT,DEN,,RUSH_YDS,15+,15,0.95,73.1
@@ -90,7 +90,7 @@ Ashton Jeanty,RB,LV,CLE,,REC,3+,12,0.85,4.5
 Bryce Young,QB,CAR,TB,,PASS_YDS,150+,12,0.85,265.1
 Bryce Young,QB,CAR,TB,,ATT,25+,12,0.8,36.9
 C.J. Stroud,QB,HOU,BAL,,ATT,25+,12,0.9,35.5
-Christian McCaffrey,RB,SF,SEA,DNP,RR_YDS,60+,12,0.95,100.0
+Christian McCaffrey,RB,SF,SEA,,RR_YDS,60+,12,0.95,100.0
 DK Metcalf,WR,PIT,DEN,,TGT,4+,12,0.95,7.3
 Isaiah Likely,TE,NYG,IND,Limited,REC,1+,12,0.95,5.1
 Isaiah Likely,TE,NYG,IND,Limited,REC_YDS,10+,12,0.9,55.8
@@ -115,8 +115,8 @@ Jonathan Taylor,RB,IND,NYG,,TGT,3+,11,0.85,4.1
 Malik Washington,WR,MIA,NYJ,,REC,2+,11,0.85,3.8
 Malik Washington,WR,MIA,NYJ,,RR_YDS,20+,11,0.8,46.1
 Michael Wilson,WR,ARI,WAS,,TGT,7+,11,0.85,9.6
-Mike Evans,WR,SF,SEA,DNP,REC_YDS,30+,11,0.93,68.8
-Mike Evans,WR,SF,SEA,DNP,RR_YDS,30+,11,0.93,68.8
+Mike Evans,WR,SF,SEA,Limited,REC_YDS,30+,11,0.93,68.8
+Mike Evans,WR,SF,SEA,Limited,RR_YDS,30+,11,0.93,68.8
 Antonio Williams,WR,WAS,ARI,,REC,2+,10,1.0,3.7
 Bhayshul Tuten,RB,JAX,TEN,DNP,RUSH_ATT,10+,10,0.55,15.8
 Bijan Robinson,RB,ATL,MIN,,RUSH_YDS,60+,10,0.9,95.1
@@ -155,7 +155,7 @@ Quinshon Judkins,RB,CLE,LV,,RR_YDS,40+,10,0.85,64.3
 Rashid Shaheed,WR,SEA,SF,,REC,1+,10,0.85,2.0
 Stefon Diggs,WR,WAS,ARI,DNP,REC_YDS,30+,10,0.75,46.8
 Stefon Diggs,WR,WAS,ARI,DNP,RR_YDS,30+,10,0.75,46.8
-Christian McCaffrey,RB,SF,SEA,DNP,TDS,1+,9,0.8,1.6
+Christian McCaffrey,RB,SF,SEA,,TDS,1+,9,0.8,1.6
 Drake London,WR,ATL,MIN,,TGT,5+,9,0.9,8.3
 George Kittle,TE,SF,SEA,,REC,3+,9,0.9,5.0
 Germie Bernard,WR,PIT,DEN,,RR_YDS,10+,9,1.0,37.6
@@ -165,7 +165,7 @@ Quinshon Judkins,RB,CLE,LV,,RUSH_ATT,10+,9,0.9,14.0
 Seth McGowan,RB,IND,NYG,DNP,RUSH_YDS,5+,9,0.82,32.4
 Stefon Diggs,WR,WAS,ARI,DNP,TGT,5+,9,0.75,7.2
 T.J. Hockenson,TE,MIN,ATL,,REC_YDS,5+,9,0.95,42.6
-Tony Pollard,RB,TEN,JAX,,RUSH_ATT,8+,9,0.95,17.3
+Tony Pollard,RB,TEN,JAX,DNP,RUSH_ATT,8+,9,0.95,17.3
 AJ Barner,TE,SEA,SF,,TGT,3+,8,0.85,4.8
 AJ Barner,TE,SEA,SF,,RR_YDS,10+,8,0.9,26.9
 Aaron Jones,RB,MIN,ATL,,REC,1+,8,0.85,2.2
@@ -184,7 +184,7 @@ Cam Skattebo,RB,NYG,IND,,RR_YDS,40+,8,0.88,83.0
 Carnell Tate,WR,TEN,JAX,,REC,1+,8,1.0,4.5
 Carnell Tate,WR,TEN,JAX,,REC_YDS,5+,8,1.0,58.9
 Carnell Tate,WR,TEN,JAX,,TGT,5+,8,1.0,7.0
-Christian McCaffrey,RB,SF,SEA,DNP,RUSH_YDS,30+,8,0.9,59.6
+Christian McCaffrey,RB,SF,SEA,,RUSH_YDS,30+,8,0.9,59.6
 DeMario Douglas,WR,NE,LAC,,TGT,3+,8,0.6,5.0
 Deshaun Watson,QB,CLE,LV,,ATT,25+,8,0.89,33.4
 Emari Demercado,RB,HOU,BAL,,RUSH_YDS,5+,8,0.76,18.8
@@ -198,9 +198,9 @@ Joe Burrow,QB,CIN,NO,,COMP,22+,8,0.83,29.6
 Justice Hill,RB,BAL,HOU,,REC_YDS,5+,8,0.85,18.8
 Justice Hill,RB,BAL,HOU,,TGT,3+,8,0.6,4.6
 Justin Herbert,QB,LAC,NE,DNP,RUSH_YDS,5+,8,0.9,30.2
-Keenan Allen,WR,SF,SEA,Limited,REC,3+,8,0.8,5.1
-Keenan Allen,WR,SF,SEA,Limited,REC_YDS,25+,8,0.8,51.6
-Keenan Allen,WR,SF,SEA,Limited,RR_YDS,25+,8,0.8,51.6
+Keenan Allen,WR,SF,SEA,,REC,3+,8,0.8,5.1
+Keenan Allen,WR,SF,SEA,,REC_YDS,25+,8,0.8,51.6
+Keenan Allen,WR,SF,SEA,,RR_YDS,25+,8,0.8,51.6
 Kimani Vidal,RB,LAC,NE,,REC,1+,8,0.85,1.8
 Kimani Vidal,RB,LAC,NE,,RR_YDS,10+,8,0.95,35.8
 Malik Nabers,WR,NYG,IND,,REC,5+,8,0.79,7.2
@@ -236,15 +236,15 @@ Malik Nabers,WR,NYG,IND,,RR_YDS,40+,7,0.71,93.0
 Michael Wilson,WR,ARI,WAS,,REC,4+,7,0.75,6.3
 Michael Wilson,WR,ARI,WAS,,REC_YDS,30+,7,0.95,67.4
 Michael Wilson,WR,ARI,WAS,,RR_YDS,30+,7,0.95,71.4
-Mike Evans,WR,SF,SEA,DNP,REC,3+,7,0.87,4.7
+Mike Evans,WR,SF,SEA,Limited,REC,3+,7,0.87,4.7
 Ollie Gordon II,RB,MIA,NYJ,,RUSH_YDS,50+,7,0.35,80.0
 Ollie Gordon II,RB,MIA,NYJ,,RR_YDS,60+,7,0.4,86.6
 Quinshon Judkins,RB,CLE,LV,,RUSH_YDS,25+,7,0.8,52.7
 Rico Dowdle,RB,PIT,DEN,,RUSH_YDS,15+,7,0.9,30.7
-Tetairoa McMillan,WR,CAR,TB,,REC,3+,7,0.75,6.1
-Tetairoa McMillan,WR,CAR,TB,,REC_YDS,30+,7,0.85,76.9
-Tetairoa McMillan,WR,CAR,TB,,TGT,6+,7,0.8,9.1
-Tetairoa McMillan,WR,CAR,TB,,RR_YDS,30+,7,0.85,76.9
+Tetairoa McMillan,WR,CAR,TB,DNP,REC,3+,7,0.75,6.1
+Tetairoa McMillan,WR,CAR,TB,DNP,REC_YDS,30+,7,0.85,76.9
+Tetairoa McMillan,WR,CAR,TB,DNP,TGT,6+,7,0.8,9.1
+Tetairoa McMillan,WR,CAR,TB,DNP,RR_YDS,30+,7,0.85,76.9
 Tre Harris,WR,LAC,NE,,REC,2+,7,0.8,3.4
 Trevor Lawrence,QB,JAX,TEN,,PASS_YDS,200+,7,0.8,281.3
 Wan'Dale Robinson,WR,TEN,JAX,,REC,3+,7,0.95,4.6
@@ -287,8 +287,8 @@ Kenny Gainwell,RB,TB,CAR,,RUSH_YDS,15+,6,0.75,49.2
 Kyle Pitts,TE,ATL,MIN,,TGT,5+,6,0.7,5.5
 Michael Mayer,TE,LV,CLE,,TGT,3+,6,0.8,4.7
 Ollie Gordon II,RB,MIA,NYJ,,RUSH_ATT,10+,6,0.4,18.2
-Parker Washington,WR,JAX,TEN,,REC_YDS,15+,6,0.95,86.7
-Parker Washington,WR,JAX,TEN,,RR_YDS,25+,6,0.9,88.3
+Parker Washington,WR,JAX,TEN,Limited,REC_YDS,15+,6,0.95,86.7
+Parker Washington,WR,JAX,TEN,Limited,RR_YDS,25+,6,0.9,88.3
 Rico Dowdle,RB,PIT,DEN,,RR_YDS,30+,6,0.9,50.5
 Sam Darnold,QB,SEA,SF,,PASS_YDS,150+,6,0.8,244.2
 Sam Darnold,QB,SEA,SF,,RUSH_YDS,5+,6,0.65,12.0
@@ -306,12 +306,12 @@ C.J. Stroud,QB,HOU,BAL,,PASS_TD,2+,5,0.5,3.2
 CJ Donaldson,RB,NO,CIN,,RUSH_YDS,5+,5,0.71,16.0
 Caleb Douglas,WR,MIA,NYJ,,REC_YDS,30+,5,0.86,56.8
 Caleb Douglas,WR,MIA,NYJ,,RR_YDS,30+,5,0.86,56.8
-Darren Waller,TE,CAR,TB,,REC,1+,5,0.89,3.0
-Darren Waller,TE,CAR,TB,,REC_YDS,10+,5,0.84,43.4
-Darren Waller,TE,CAR,TB,,RR_YDS,10+,5,0.84,43.4
+Darren Waller,TE,CAR,TB,Limited,REC,1+,5,0.89,3.0
+Darren Waller,TE,CAR,TB,Limited,REC_YDS,10+,5,0.84,43.4
+Darren Waller,TE,CAR,TB,Limited,RR_YDS,10+,5,0.84,43.4
 George Kittle,TE,SF,SEA,,REC_YDS,30+,5,0.8,64.6
 George Kittle,TE,SF,SEA,,RR_YDS,30+,5,0.75,64.6
-Harold Fannin Jr.,TE,CLE,LV,Limited,REC_YDS,5+,5,0.95,77.4
+Harold Fannin Jr.,TE,CLE,LV,,REC_YDS,5+,5,0.95,77.4
 J.J. McCarthy,QB,NYG,IND,,PASS_YDS,125+,5,0.81,217.6
 Jack Bech,WR,LV,CLE,,REC,1+,5,0.74,3.2
 Jack Bech,WR,LV,CLE,,REC_YDS,5+,5,0.74,31.0
@@ -341,15 +341,15 @@ Malachi Fields,WR,NYG,IND,,TGT,4+,5,0.7,5.4
 Mark Andrews,TE,BAL,HOU,,REC,2+,5,0.85,3.6
 Mark Andrews,TE,BAL,HOU,,REC_YDS,10+,5,0.85,30.4
 Mark Andrews,TE,BAL,HOU,,RR_YDS,10+,5,0.9,30.4
-Marvin Harrison Jr.,WR,HOU,BAL,Limited,REC,1+,5,0.89,2.0
-Marvin Harrison Jr.,WR,HOU,BAL,Limited,REC_YDS,5+,5,0.89,22.4
-Marvin Harrison Jr.,WR,HOU,BAL,Limited,TGT,3+,5,0.84,4.0
-Mike Evans,WR,SF,SEA,DNP,TGT,5+,5,0.8,7.2
-Rashod Bateman,WR,BAL,HOU,Limited,REC,1+,5,0.75,1.8
-Rashod Bateman,WR,BAL,HOU,Limited,REC_YDS,5+,5,0.75,34.0
+Marvin Harrison Jr.,WR,HOU,BAL,,REC,1+,5,0.89,2.0
+Marvin Harrison Jr.,WR,HOU,BAL,,REC_YDS,5+,5,0.89,22.4
+Marvin Harrison Jr.,WR,HOU,BAL,,TGT,3+,5,0.84,4.0
+Mike Evans,WR,SF,SEA,Limited,TGT,5+,5,0.8,7.2
+Rashod Bateman,WR,BAL,HOU,,REC,1+,5,0.75,1.8
+Rashod Bateman,WR,BAL,HOU,,REC_YDS,5+,5,0.75,34.0
 Tee Higgins,WR,CIN,NO,,REC_YDS,30+,5,0.95,88.8
 Tee Higgins,WR,CIN,NO,,RR_YDS,30+,5,0.95,88.8
-Tony Pollard,RB,TEN,JAX,,RR_YDS,70+,5,0.5,115.4
+Tony Pollard,RB,TEN,JAX,DNP,RR_YDS,70+,5,0.5,115.4
 Treylon Burks,WR,WAS,ARI,Limited,REC,2+,5,0.56,2.6
 Tyler Shough,QB,NO,CIN,,PASS_YDS,125+,5,0.95,219.2
 Tyler Shough,QB,NO,CIN,,PASS_TD,1+,5,0.8,1.4

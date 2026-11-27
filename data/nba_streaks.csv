@@ -9,7 +9,7 @@ LeBron James,F,PHI,IND,,RA,5+,80,1.0,13.6
 Pascal Siakam,F,IND,PHI,,REB,2+,79,1.0,6.5
 Trey Murphy III,F,NO,LAC,,PTS,5+,77,1.0,20.6
 Michael Porter Jr.,F,BKN,TOR,,PTS,5+,68,1.0,23.0
-LaMelo Ball,G,MIN,MEM,Questionable,RA,5+,67,1.0,11.0
+LaMelo Ball,G,MIN,MEM,Out,RA,5+,67,1.0,11.0
 Miles Bridges,F,PHX,DAL,,PRA,10+,64,1.0,23.9
 Paul George,F,BOS,ATL,,PTS,5+,64,1.0,17.9
 Scottie Barnes,F,TOR,BKN,,RA,5+,61,1.0,13.1
@@ -44,7 +44,7 @@ Jalen Johnson,F,ATL,BOS,,PA,10+,38,1.0,27.1
 Ausar Thompson,G,DET,MIL,,RA,5+,37,1.0,12.1
 Jalen Johnson,F,ATL,BOS,,PTS,10+,37,1.0,20.4
 OG Anunoby,F,NY,MIA,Out,REB,2+,37,1.0,6.0
-Austin Reaves,G,LAL,SA,Out,RA,5+,36,1.0,9.3
+Austin Reaves,G,LAL,SA,,RA,5+,36,1.0,9.3
 Luka Doncic,G,LAL,SA,,RA,10+,36,1.0,15.0
 Cameron Johnson,F,DEN,UTAH,,PTS,5+,35,1.0,13.4
 Dylan Harper,G,SA,LAL,Out,PTS,5+,34,1.0,16.3
@@ -118,7 +118,7 @@ Darryn Peterson,G,UTAH,DEN,,PA,10+,19,1.0,20.0
 Jaden McDaniels,F,MIN,MEM,,REB,3+,19,0.95,6.4
 Jaden McDaniels,F,MIN,MEM,,PRA,20+,19,0.95,29.4
 Joan Beringer,F,MIN,MEM,,REB,3+,19,0.95,6.0
-Karl-Anthony Towns,C,NY,MIA,Questionable,REB,10+,19,0.95,13.3
+Karl-Anthony Towns,C,NY,MIA,,REB,10+,19,0.95,13.3
 Keyonte George,G,UTAH,DEN,,RA,5+,19,0.95,10.6
 Miles Bridges,F,PHX,DAL,,PR,10+,19,0.95,21.9
 Sidy Cissoko,G,POR,GS,,REB,2+,19,0.95,3.7
@@ -127,7 +127,7 @@ Aaron Wiggins,G,ATL,BOS,,PTS,5+,18,0.9,13.4
 Aaron Wiggins,G,ATL,BOS,,THREES,1+,18,0.9,2.7
 Cam Spencer,G,MEM,MIN,,PTS,5+,18,0.95,12.6
 Christian Braun,G,DEN,UTAH,,STL,1+,18,0.95,2.1
-Damian Lillard,G,POR,GS,,THREES,1+,18,1.0,3.1
+Damian Lillard,G,POR,GS,Out,THREES,1+,18,1.0,3.1
 Davion Mitchell,G,MIA,NY,,PRA,20+,18,0.95,29.0
 Davion Mitchell,G,MIA,NY,,PA,15+,18,0.95,26.3
 Derrick White,G,BOS,ATL,,AST,2+,18,0.95,4.9
@@ -147,11 +147,11 @@ Jeremiah Fears,G,NO,LAC,,PR,10+,17,0.95,22.7
 Jeremiah Fears,G,NO,LAC,,RA,5+,17,0.9,11.7
 Julius Randle,F,BKN,TOR,,PRA,20+,17,0.95,32.6
 Julius Randle,F,BKN,TOR,,PR,15+,17,0.95,28.1
-Karl-Anthony Towns,C,NY,MIA,Questionable,PTS,10+,17,0.95,21.2
-Karl-Anthony Towns,C,NY,MIA,Questionable,PRA,25+,17,0.9,39.1
-Karl-Anthony Towns,C,NY,MIA,Questionable,PR,20+,17,0.9,34.9
-Karl-Anthony Towns,C,NY,MIA,Questionable,PA,15+,17,0.9,25.4
-Karl-Anthony Towns,C,NY,MIA,Questionable,DBL_DBL,1+,17,0.9,1.0
+Karl-Anthony Towns,C,NY,MIA,,PTS,10+,17,0.95,21.2
+Karl-Anthony Towns,C,NY,MIA,,PRA,25+,17,0.9,39.1
+Karl-Anthony Towns,C,NY,MIA,,PR,20+,17,0.9,34.9
+Karl-Anthony Towns,C,NY,MIA,,PA,15+,17,0.9,25.4
+Karl-Anthony Towns,C,NY,MIA,,DBL_DBL,1+,17,0.9,1.0
 Nickeil Alexander-Walker,G,ATL,BOS,,REB,2+,17,0.9,3.5
 Onyeka Okongwu,F,ATL,BOS,,PTS,5+,17,0.95,14.5
 RJ Barrett,F,TOR,BKN,Out,AST,2+,17,0.95,4.4
@@ -171,13 +171,13 @@ Luka Doncic,G,LAL,SA,,PA,30+,16,0.95,44.3
 Paul Reed,F,DET,MIL,,PRA,15+,16,0.9,21.6
 Payton Pritchard,G,BOS,ATL,,PRA,10+,16,0.95,20.7
 Aaron Wiggins,G,ATL,BOS,,REB,2+,15,0.85,3.9
-Austin Reaves,G,LAL,SA,Out,PTS,15+,15,0.95,24.7
-Austin Reaves,G,LAL,SA,Out,THREES,1+,15,0.9,2.3
-Austin Reaves,G,LAL,SA,Out,PR,20+,15,0.85,28.2
+Austin Reaves,G,LAL,SA,,PTS,15+,15,0.95,24.7
+Austin Reaves,G,LAL,SA,,THREES,1+,15,0.9,2.3
+Austin Reaves,G,LAL,SA,,PR,20+,15,0.85,28.2
 Ayo Dosunmu,G,MIN,MEM,,PA,10+,15,0.95,23.1
 Brayden Burries,G,MIL,DET,,REB,3+,15,0.89,6.1
 Cade Cunningham,G,DET,MIL,Out,PA,20+,15,0.95,32.5
-Giannis Antetokounmpo,F,MIA,NY,Questionable,AST,2+,15,0.95,5.7
+Giannis Antetokounmpo,F,MIA,NY,,AST,2+,15,0.95,5.7
 Immanuel Quickley,G,TOR,BKN,,PTS,10+,15,0.9,17.5
 Immanuel Quickley,G,TOR,BKN,,PA,15+,15,0.85,23.5
 Jamal Murray,G,DEN,UTAH,,PTS,10+,15,0.95,27.1
@@ -185,8 +185,8 @@ Jamal Murray,G,DEN,UTAH,,PRA,20+,15,0.95,37.5
 Jamal Murray,G,DEN,UTAH,,PA,20+,15,0.95,33.0
 Jayson Tatum,F,BOS,ATL,,PA,25+,15,0.9,34.8
 Jeremiah Fears,G,NO,LAC,,PA,15+,15,0.8,24.7
-Kyrie Irving,G,DAL,PHX,,PTS,10+,15,1.0,21.3
-LaMelo Ball,G,MIN,MEM,Questionable,REB,2+,15,0.9,5.1
+Kyrie Irving,G,DAL,PHX,Questionable,PTS,10+,15,1.0,21.3
+LaMelo Ball,G,MIN,MEM,Out,REB,2+,15,0.9,5.1
 Nikola Jokic,C,DEN,UTAH,,PTS,15+,15,0.95,25.4
 Nikola Jokic,C,DEN,UTAH,,PRA,30+,15,0.95,45.8
 Nikola Jokic,C,DEN,UTAH,,PR,25+,15,0.95,36.6
@@ -208,7 +208,7 @@ Duncan Robinson,F,DET,MIL,Out,PA,10+,14,0.95,18.9
 Jalen Brunson,G,NY,MIA,,THREES,1+,14,0.95,3.5
 Jamal Shead,G,TOR,BKN,,AST,4+,14,0.95,6.9
 Jamal Shead,G,TOR,BKN,,RA,5+,14,0.95,8.8
-Karl-Anthony Towns,C,NY,MIA,Questionable,THREES,1+,14,0.85,2.1
+Karl-Anthony Towns,C,NY,MIA,,THREES,1+,14,0.85,2.1
 Luka Doncic,G,LAL,SA,,PTS,25+,14,0.9,38.2
 Onyeka Okongwu,F,ATL,BOS,,PR,15+,14,0.8,24.6
 Walker Kessler,C,LAL,SA,,PTS,10+,14,0.9,13.4
@@ -225,11 +225,11 @@ Davion Mitchell,G,MIA,NY,,AST,3+,13,0.9,9.2
 Davion Mitchell,G,MIA,NY,,RA,5+,13,0.9,12.4
 Donovan Clingan,C,POR,GS,,PTS,5+,13,0.95,12.3
 Dyson Daniels,G,ATL,BOS,,PRA,15+,13,0.9,23.5
-Giannis Antetokounmpo,F,MIA,NY,Questionable,PTS,20+,13,0.95,28.5
-Giannis Antetokounmpo,F,MIA,NY,Questionable,REB,9+,13,0.8,13.8
-Giannis Antetokounmpo,F,MIA,NY,Questionable,PRA,35+,13,0.9,48.2
-Giannis Antetokounmpo,F,MIA,NY,Questionable,PR,30+,13,0.9,42.2
-Giannis Antetokounmpo,F,MIA,NY,Questionable,RA,10+,13,0.8,19.7
+Giannis Antetokounmpo,F,MIA,NY,,PTS,20+,13,0.95,28.5
+Giannis Antetokounmpo,F,MIA,NY,,REB,9+,13,0.8,13.8
+Giannis Antetokounmpo,F,MIA,NY,,PRA,35+,13,0.9,48.2
+Giannis Antetokounmpo,F,MIA,NY,,PR,30+,13,0.9,42.2
+Giannis Antetokounmpo,F,MIA,NY,,RA,10+,13,0.8,19.7
 Jordan Goodwin,G,PHX,DAL,,REB,2+,13,0.9,4.5
 Michael Porter Jr.,F,BKN,TOR,,REB,3+,13,0.9,7.5
 Stephon Castle,G,SA,LAL,,PRA,15+,13,0.95,29.8
@@ -237,7 +237,7 @@ Stephon Castle,G,SA,LAL,,PR,10+,13,0.95,23.0
 Cameron Johnson,F,DEN,UTAH,,PRA,10+,12,0.9,19.7
 Christian Braun,G,DEN,UTAH,,REB,2+,12,0.95,4.4
 Jamal Murray,G,DEN,UTAH,,REB,2+,12,0.95,4.8
-LaMelo Ball,G,MIN,MEM,Questionable,THREES,1+,12,0.95,3.6
+LaMelo Ball,G,MIN,MEM,Out,THREES,1+,12,0.95,3.6
 LeBron James,F,PHI,IND,,REB,3+,12,0.9,6.9
 Luka Doncic,G,LAL,SA,,STL,1+,12,0.9,2.0
 Mo Bamba,C,UTAH,DEN,Questionable,BLK,1+,12,0.84,1.7
@@ -278,7 +278,7 @@ Ausar Thompson,G,DET,MIL,,STL,1+,10,0.8,2.0
 Ayo Dosunmu,G,MIN,MEM,,REB,2+,10,0.85,3.4
 Brice Sensabaugh,F,UTAH,DEN,,REB,3+,10,0.7,4.4
 Cam Spencer,G,MEM,MIN,,PA,10+,10,0.9,21.0
-Damian Lillard,G,POR,GS,,RA,5+,10,0.89,7.1
+Damian Lillard,G,POR,GS,Out,RA,5+,10,0.89,7.1
 Daniss Jenkins,G,DET,MIL,,THREES,1+,10,0.9,2.5
 Davion Mitchell,G,MIA,NY,,REB,2+,10,0.75,3.4
 Day'Ron Sharpe,C,BKN,TOR,,PTS,5+,10,0.85,10.1
@@ -302,7 +302,7 @@ P.J. Washington,F,DAL,PHX,,PTS,5+,10,0.95,14.1
 Ty Jerome,G,MEM,MIN,,REB,2+,10,0.8,3.6
 Aaron Wiggins,G,ATL,BOS,,PA,10+,9,0.8,16.9
 Allen Graves,F,TOR,BKN,,REB,2+,9,0.76,3.8
-Austin Reaves,G,LAL,SA,Out,REB,2+,9,0.95,3.7
+Austin Reaves,G,LAL,SA,,REB,2+,9,0.95,3.7
 Bones Hyland,G,MIN,MEM,,PTS,5+,9,0.7,11.6
 Brice Sensabaugh,F,UTAH,DEN,,PTS,5+,9,0.85,14.1
 Brice Sensabaugh,F,UTAH,DEN,,PRA,10+,9,0.8,20.8
@@ -330,8 +330,8 @@ Javonte Green,G,DET,MIL,,PTS,5+,9,0.7,8.0
 Jayson Tatum,F,BOS,ATL,,PTS,20+,9,0.85,27.6
 Jordan Poole,G,NO,LAC,,PTS,5+,9,0.8,15.6
 Jordan Poole,G,NO,LAC,,THREES,1+,9,0.8,2.2
-Karl-Anthony Towns,C,NY,MIA,Questionable,AST,3+,9,0.75,5.1
-Karl-Anthony Towns,C,NY,MIA,Questionable,RA,15+,9,0.7,18.8
+Karl-Anthony Towns,C,NY,MIA,,AST,3+,9,0.75,5.1
+Karl-Anthony Towns,C,NY,MIA,,RA,15+,9,0.7,18.8
 Kel'el Ware,C,MIL,DET,,PTS,5+,9,0.8,9.3
 Kel'el Ware,C,MIL,DET,,REB,3+,9,0.95,6.6
 Kel'el Ware,C,MIL,DET,,PRA,10+,9,0.85,17.1
@@ -378,9 +378,9 @@ Jaxson Hayes,C,UTAH,DEN,Questionable,PTS,5+,8,0.8,10.9
 Jordan Goodwin,G,PHX,DAL,,PRA,10+,8,0.8,16.9
 Jrue Holiday,G,POR,GS,,REB,2+,8,0.85,4.5
 Jrue Holiday,G,POR,GS,,RA,5+,8,0.85,10.1
-Kelly Oubre Jr.,G,IND,PHI,Questionable,PA,15+,8,0.6,17.0
-Kyrie Irving,G,DAL,PHX,,AST,4+,8,0.8,5.0
-Kyrie Irving,G,DAL,PHX,,THREES,1+,8,0.93,3.4
+Kelly Oubre Jr.,G,IND,PHI,,PA,15+,8,0.6,17.0
+Kyrie Irving,G,DAL,PHX,Questionable,AST,4+,8,0.8,5.0
+Kyrie Irving,G,DAL,PHX,Questionable,THREES,1+,8,0.93,3.4
 Miles Bridges,F,PHX,DAL,,AST,2+,8,0.85,3.5
 Neemias Queta,C,BOS,ATL,,REB,5+,8,0.85,8.2
 Neemias Queta,C,BOS,ATL,,PR,10+,8,0.9,20.1
@@ -395,7 +395,7 @@ Andrew Nembhard,G,IND,PHI,,AST,6+,7,0.8,8.3
 Ausar Thompson,G,DET,MIL,,REB,6+,7,0.85,8.9
 Ausar Thompson,G,DET,MIL,,PRA,20+,7,0.75,28.1
 Ausar Thompson,G,DET,MIL,,PR,15+,7,0.8,21.4
-Austin Reaves,G,LAL,SA,Out,AST,2+,7,0.9,4.1
-Austin Reaves,G,LAL,SA,Out,PRA,25+,7,0.8,32.3
-Austin Reaves,G,LAL,SA,Out,PA,20+,7,0.8,29.0
+Austin Reaves,G,LAL,SA,,AST,2+,7,0.9,4.1
+Austin Reaves,G,LAL,SA,,PRA,25+,7,0.8,32.3
+Austin Reaves,G,LAL,SA,,PA,20+,7,0.8,29.0
 Bobby Portis,F,MIA,NY,,PTS,5+,7,0.8,8.1
